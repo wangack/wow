@@ -1,0 +1,401 @@
+[0:00:10] StreamElements: notmes is now live! Streaming World of Warcraft: Mes <Liquid> - happy friday! actually short stream
+[0:00:48] americanmoses18: mes late gamer pog
+[0:06:28] krome2dadome: yo
+[0:06:33] krome2dadome: how was practice
+[0:10:50] zulu_ww: Yoo mes-mond was there no main 3s with the boys tonight
+[0:18:48] Anhak: is that the not mes Pog
+[0:19:06] dawsonator171: who is mes really though?
+[0:21:20] sunileif: really who is mes?
+[0:22:16] sunileif: sunileif gifted a Tier 1 sub to vulpera4life! They have given 489 Gift Subs in the channel! 
+[0:22:16] StreamElements: vulpera4life just subscribed mesDad mesDad mesWeckso
+[0:22:20] krome2dadome: wut broke
+[0:22:37] krome2dadome: rip
+[0:22:39] sunileif: what yu didnt say it
+[0:22:47] sunileif: i need this sound clip
+[0:22:47] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[0:22:53] sunileif: !factor
+[0:22:53] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[0:23:03] ImHomegr0wn: someone just said that happened to him in twitch chat earlier too PepeHands
+[0:23:37] sunileif: blame krOwOme
+[0:24:13] krome2dadome: if u need to test it in some 3s solushunlfg is online 👀
+[0:24:21] Anhak: @krome2dadome did we not get a ring tonight? thats a first
+[0:24:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[0:24:33] ImHomegr0wn: do you ever consciously check your mastery buff on your characters that run double mastery in the starting room? especially in tournaments. I made a WA today because I was curious. Mine is broken sooooooo often
+[0:24:56] krome2dadome: @Anhak we did not, but the axe made up for it
+[0:25:12] ImHomegr0wn: yeah first round of shuffle but even if I don't relog or anything, it can break next game too. that's so annoying
+[0:25:14] Anhak: axe? u mean fist that we didnt get KEKW
+[0:25:37] krome2dadome: shitty fist anyways
+[0:25:46] Anhak: na that fisty is crazy
+[0:25:48] ImHomegr0wn: so I just wrote a tooltip checker WA that loads in the starting room to say "mastery buff bugged" and then I can switch
+[0:25:58] krome2dadome: beta fist weilders
+[0:26:15] ImHomegr0wn: hmm yeah I might do that but for now the WA making me aware that it's bugged is really nice
+[0:26:39] ImHomegr0wn: I've probably queued so many games with just 1 mastery buff active when I forget to check haha
+[0:27:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[0:27:21] ImHomegr0wn: frenzy sodah monkaW
+[0:27:39] krome2dadome: purge them all
+[0:27:47] iamonemanonamission: So I've been trying the pet dungeons to try some older less played content. Holy crap, if your not following a guide those places on challenge mode are no joke. Really brutal.
+[0:27:47] ImHomegr0wn: in advancedinterfaceoptions cvar browser, type in sync and see what they're at
+[0:28:18] ImHomegr0wn: I run sync config 1
+[0:29:16] ImHomegr0wn: hmm then yeah 0 should work but I manually back up my wtf folder and still keep sync config 1. just works for me I guess
+[0:29:36] ImHomegr0wn: so weird that it's syncing SO FAR back
+[0:30:08] ImHomegr0wn: ahh ok
+[0:30:23] ImHomegr0wn: yeah ever since I lost my UI I think back in legion too, I always back up my wtf folder lol
+[0:30:45] ImHomegr0wn: was in arena when servers went down and came back to no UI on reset
+[0:32:58] krome2dadome: is it a myslot problem or like an actual game problem? i dont understand
+[0:33:30] ImHomegr0wn: definitely a game problem if I heard someone else say it in twitch happened to them today too
+[0:33:37] ImHomegr0wn: and I know he doesn't run myslot
+[0:34:00] krome2dadome: that's so weird
+[0:34:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[0:37:08] dawsonator171: was that a troll dk?
+[0:37:19] ImHomegr0wn: https://us.forums.blizzard.com/en/wow/t/had-my-whole-ui-wipe/1794643 been posted about on the forums now too
+[0:37:33] dawsonator171: dammit mes that's my gimmick. Kappa
+[0:38:15] dawsonator171: listen, if mes gets 30 subs tonight. I will totally level the fake orc warrior. No Cap.
+[0:39:29] ImHomegr0wn: "So this is a weird one, all my layouts just went away and have been replaced with random nonsense including a profile named “Rob”. What gives?"
+[0:40:39] krome2dadome: "Having same problem! All my profiles are gone. Been replaced by someone named Rob and even got their macros? Super weird stuff"
+[0:41:05] ImHomegr0wn: on reddit, someone had all their macros reset to MOP era
+[0:41:07] dawsonator171: Pretty sure this is the Diabolical work of Rose. And I admire the pure genius.
+[0:41:50] ImHomegr0wn: this person said he was able to go into his wtf folder and check the macro.old cfiles and get his current macros back
+[0:41:53] pisspuke: hello lord mes
+[0:42:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[0:42:15] ImHomegr0wn: maybe make it read only once you change it just for now?!
+[0:42:35] ImHomegr0wn: damn'
+[0:44:17] ImHomegr0wn: hungering cold monkaW
+[0:44:17] Moobot: Join my Discord community! https://discord.gg/mes
+[0:44:29] krome2dadome: alt+f4
+[0:44:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[0:44:46] ImHomegr0wn: yeah the person on reddit said his went back to MOP
+[0:45:23] classic_ash: hey Mes, whats your opinion on Bursting Sore vs Ebon Fever?
+[0:46:24] krome2dadome: wish i had an answer but sounds like ur boned
+[0:47:01] dawsonator171: I was gonna say something about the possibility of Scooby-Doo, especially into FW..
+[0:47:09] dawsonator171: but I haven't been around.
+[0:48:36] chzsandvich: gg
+[0:49:17] Szain3: DinoDance
+[0:49:21] ImHomegr0wn: even though AIO wasn't showing it as a cvar, this person said they typed in synchronizemacros 0 and it worked for them to have the game stop syncing macros. that was the other issue right? https://www.reddit.com/r/wow/comments/1aydk9b/comment/krum079/?utm_source=reddit&utm_medium=web2x&context=3
+[0:49:27] ImHomegr0wn: cvar in the post
+[0:51:46] ImHomegr0wn: damn
+[0:53:25] TheBackstabi: This is fucking cursed
+[0:53:27] ImHomegr0wn: you're copying the file over with the game closed too right?
+[0:53:46] ImHomegr0wn: monkaHmm
+[0:53:51] dawsonator171: have you tried restarting?
+[0:53:55] dawsonator171: the whole pc
+[0:54:08] krome2dadome: have u tried turning it off and on again mam?
+[0:54:29] dawsonator171: gotta give the default IT advice
+[0:54:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[0:54:38] ImHomegr0wn: maybe putting the cvar to stop syncing in the config file before you open
+[0:54:49] ImHomegr0wn: damn haha
+[0:55:35] ImHomegr0wn: it happening on a weekend sucks though with how they are D:
+[0:55:56] atoker: so you lost all your macros? why didn't this happen to me?
+[0:56:11] krome2dadome: gotta stop watching stream so the curse doesn't spread to me
+[0:56:20] krome2dadome: pce
+[0:56:23] dawsonator171: have you tried drinking water upside down|?
+[0:56:44] krome2dadome: shoey
+[0:56:48] krome2dadome: do it
+[0:57:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[1:02:07] pisspuke: @krome2dadome ur really in all the wow streams all the time, fkn legend <3
+[1:02:36] elchico702: if ur main account was banned would u reroll? curious  ques
+[1:03:17] atoker: lambent is for hybrids
+[1:03:28] atoker: lambent works for healing and dps
+[1:03:37] atoker: so you don't need 2 leggings
+[1:03:51] atoker: it's stam agi/str
+[1:03:57] atoker: or armor agi/str
+[1:04:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[1:14:49] Anhak: Kermit: Missed you in raid some hunter walked away with fisty
+[1:15:03] Szain3: DinoDance
+[1:15:38] ghostgalx: people are saying enhance are the shit now
+[1:15:41] Anhak: enhance is probably ideal
+[1:15:45] Anhak: and enhance does fuck now
+[1:15:47] TheBackstabi: Every class that can use the fist doesn't want it on Alli KEKW
+[1:15:56] Anhak: ^
+[1:16:08] Anhak: i unironicly kinda wanna give it to our healing shammy
+[1:16:13] Anhak: he melee weaves a lot
+[1:18:08] atoker: you're missing bracers
+[1:18:24] Anhak: ALSO the uh 30% nerf isnt a 30% nerf its they removed your requirment for using 2 of the same wep which should inc your non raptor strike damage but you will lose somewhere neer 30% raptor strike damage. its gonna be like a 10% nerfish its big but its not 30% gutting like some people thingk
+[1:18:49] rocif40: whens the tournament
+[1:19:18] rocif40: sick
+[1:19:20] Anhak: o i 100% agree thats why i was asking you the other night cause u said that before and then u were like eh maybe the other night.
+[1:20:34] Anhak: if u dont want to play it dont. I think im gonna ask Raggle if we will weave if we get it again. that was kinda the plan all along. I kinda want one for later on if they buff.change rogue but its not my prio at all
+[1:21:13] Anhak: I also think with the boomkin changes and stuff were really close to be able to 1 heal most of the fights
+[1:22:05] Anhak: warlock is so much tankier and doing 60 70 95 hps so really its just kinda topping the raid for a big part
+[1:22:24] Anhak: we 1 shot everything
+[1:23:05] Anhak: had an accidental pull on 6000 and then they fucking made reseting last boss after MM harder which kinda sucks cause its the same room..
+[1:23:33] Anhak: 1 trash wipe cause the hallway before last is uh.. bad lmao
+[1:23:47] Anhak: but really smooth otherwise i think like 1 hour 10? 15 mins?
+[1:24:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[1:24:49] Anhak: if we had a solid 10 and tried we 100% could get under 1 hour clears already
+[1:27:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[1:27:11] beef_00: need to use non-crafted rings to get more vers right
+[1:28:29] beef_00: is that leech enchanting worth it over speed? does leech healing get dampened or no
+[1:28:34] dawsonator171: how do I get back to arathi highlands from the illari rune stuff?
+[1:29:00] Anhak: click the boat
+[1:29:08] dawsonator171: boat is where?
+[1:29:18] Anhak: where it dropped u off at
+[1:29:24] dawsonator171: oh
+[1:31:30] dawsonator171: I might.
+[1:32:01] krome2dadome: warrior so fun haha
+[1:32:08] dawsonator171: for the kind of stuff I like to do, which is non-meta and quite quirky, it might be.
+[1:32:27] Solushun: im addicted to my warrior
+[1:32:43] krome2dadome: no thanks
+[1:32:45] Solushun: no thx i wanna be allowed
+[1:32:47] Solushun: nvm
+[1:32:53] Solushun: was about to be toxic but im reformed
+[1:32:54] Solushun: fuk few
+[1:32:55] Solushun: fw
+[1:33:09] Anhak: yea exactly shammys are the fist weavers on sod EZ
+[1:33:38] dawsonator171: I actually have my full danny rdruid ready to go.
+[1:33:42] dawsonator171: 9% buffed vers
+[1:34:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[1:35:13] Anhak: @dawsonator171 0.0
+[1:35:26] Anhak: 9% versa how did u manage that daws
+[1:37:43] dawsonator171: mes, can you highlight that on use for me and give me the stats rq?
+[1:37:43] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:37:54] dawsonator171: seeing if its worth farming for in PVE for ret.
+[1:39:35] pentagast1: mes, what are some comps warriors can play rn? warrior/dh?
+[1:39:50] dawsonator171: probably warrior outlaw too
+[1:40:07] pentagast1: thunder probably best with a rdruid i suppose
+[1:42:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[1:42:36] dawsonator171: mes, do you think charred warblades might have any value vs the 20 fury from purging?
+[1:43:32] dawsonator171: 4% for the price of free
+[1:44:22] dawsonator171: that 10% crit talent is so good in PVE, especially if you're really good at managing vengeful.
+[1:44:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[1:45:54] yourKnightmaare: mes, question. I'm playing that build for dh. but I am always cc chained. like root beamed, into a fear, into a stun, into a cyclone. what is the answer to that?
+[1:47:39] Interzention: can’t you just keybind ping instead of making a macro?
+[1:48:47] Interzention: think there’s 2 options when you keybind it. either quick ping like what the macro does or it’ll open up ping wheel for more options
+[1:49:02] Interzention: kinda like the league ping wheel
+[1:52:08] pentagast1: is lock/dh probably the premier dh comp
+[1:55:29] TheBackstabi: monkaW
+[1:55:35] shugguls: U MAIN A DK?
+[1:56:05] shugguls: :)
+[1:57:02] Szain3: DinoDance
+[2:10:35] yesayax: where the fuck is chuck dewTrig
+[2:10:50] yesayax: kekw
+[2:10:58] foshiXD: Mess is the lego a good stat stick in pvp or is the pvp wep just better overall?
+[2:11:45] yesayax: that lan of yours sounds fun as hell, please stream some stuff from there
+[2:11:48] yesayax: dewTrophy
+[2:12:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[2:12:10] avenueone: tate: Sup brick lord Mez! I hear your getting on a plane soon! Come to my compound in Romania and lets have an in real life PVP session
+[2:12:56] avenueone: eh no1 will use lol
+[2:13:04] foshiXD: hopefully leggos are upgradeable during next patch since its all fated
+[2:13:28] sunileif: nope
+[2:13:43] sunileif: there was an update to the drop rate of the evoker leggo
+[2:13:55] sunileif: you gonna have to get teh axe all over again
+[2:14:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[2:15:07] avenueone: i got my 1st piece of raid loot
+[2:15:11] avenueone: a 4 dps upgrade ring!
+[2:15:24] avenueone: no
+[2:15:50] avenueone: ill prolly replace it with stv ring when i cbf doing it
+[2:16:56] sunileif: what about your vulpera dk?
+[2:16:58] avenueone: when u flying out?
+[2:17:05] sunileif: oh its a secret
+[2:17:29] dawsonator171: Wait, mes is disappearing on me?
+[2:17:32] dawsonator171: Sadge
+[2:19:31] dawsonator171: idc
+[2:19:35] dawsonator171: either way, im glass
+[2:21:16] Solushun: daws on the druid!?
+[2:21:31] Szain3: DinoDance
+[2:23:03] Solushun: mes vs petkick what a heavyweight championship bout
+[2:24:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[2:28:16] xeloquenz: !ui
+[2:28:17] StreamElements: WoTLK: https://drive.google.com/file/d/158Ouac-SQwGwakN3EaiRKhkeocuO0Z2I/view
+[2:31:57] ItsYaBoyOOH: Druid mobility is wild
+[2:31:57] Moobot: Join my Discord community! https://discord.gg/mes
+[2:32:17] Darkpain876: GET OVER HERE
+[2:32:30] Darkpain876: Mes bringing DK meta back
+[2:32:34] Darkpain876: JUSTICE FOR MES
+[2:33:34] dawsonator171: @Solushun I may be running single digit vers.
+[2:34:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[2:38:51] avenueone: i just seen the 1
+[2:39:06] avenueone: in pve 2 bosses getting their armor adjusted by -10%
+[2:41:23] wowsuomi: I seen some wpvp clips on hunter in sod from payo
+[2:41:56] wowsuomi: Could tell it was gonna get nerfed
+[2:44:05] ImHomegr0wn: monkaW
+[2:44:14] Solushun: monkaW
+[2:47:09] pavic: hello guys, is there any list of which pvp talents i should be playing vs certain classes? im new to pvp and would love to learn it
+[2:47:44] wowsuomi: What do u play?
+[2:47:44] ballisticwhiskey: Yo Primez is a freak
+[2:48:06] pavic: @wowsuomi dh
+[2:49:04] pavic: for example do i take the cleanse vs affli lock/sp, sp/ele etc
+[2:49:07] dawsonator171: Glimpse and chaotic imprint always.
+[2:49:25] dawsonator171: third one is flexible but commonly detainment.
+[2:49:33] pavic: @dawsonator171 yeah i figured that
+[2:49:48] dawsonator171: never use the immo cleanse into aff
+[2:49:50] pavic: ive been playing blood moon mostly as 3rd
+[2:49:52] dawsonator171: or sp
+[2:50:24] pavic: what about ele?
+[2:50:37] dawsonator171: if ele without the others yes.
+[2:50:51] dawsonator171: it's really annoying for them.
+[2:51:31] dawsonator171: detainment is huge deny so it's really good to play in 90% of situations.
+[2:51:33] pavic: so i basically have 2 talents that i swap? detainment and blood moon
+[2:51:49] pavic: do you ever take big darkness?
+[2:51:56] dawsonator171: never.
+[2:52:04] dawsonator171: dark is a 5 min cd.
+[2:52:04] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[2:52:11] dawsonator171: you never give up talents to get it.
+[2:52:18] dawsonator171: under 5 that is.
+[2:52:38] pavic: i heard blood moon is op vs destro warlock, but havent seen people using the purge on infernal
+[2:53:31] dawsonator171: wait, it's crazywoodowl
+[2:53:35] dawsonator171: everything makes sense now.
+[2:54:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[2:56:26] mightybeast1005: !wa
+[2:56:26] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[2:56:48] pavic: @dawsonator171 one more question my guy, do i ever use rain from above?
+[2:57:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[2:57:22] dawsonator171: I've seen people use it offensively, but I don't think it has quite the value as it used ot.
+[2:58:18] pavic: what is mes uring rn, havent seen him swapping talents
+[2:58:28] pavic: using*
+[2:59:18] dawsonator171: chaotic/detain/glimpse
+[2:59:19] ballisticwhiskey: Primez Unstoppable
+[2:59:31] Solushun: crazywoodowl with the 4 piece no biscuit
+[3:00:07] ImHomegr0wn: NODDERS
+[3:00:09] dawsonator171: Couple of times you're blurring the skyreach with sweep on CD. I think that is what is desyncing you, but I don't remember if you had other buttons available.
+[3:00:44] dawsonator171: I was just curious.
+[3:01:57] dawsonator171: @Solushun he's a god.
+[3:03:59] dawsonator171: I wonder how many sweeps MVQ has glimpsed. Anyways. Bedge
+[3:04:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[3:08:17] Solushun: dam u giga high
+[3:08:54] Solushun: that toon yea
+[3:14:21] Solushun: there was no sign ups i think thats too high its gunna be 29 min ques lmao
+[3:14:21] Moobot: Join my Discord community! https://discord.gg/mes
+[3:15:19] Solushun: LOL ppl getting cold feet
+[3:15:21] Solushun: hahah
+[3:15:30] ultiexilate: Impressed by what
+[3:19:15] Solushun: LOL watching this event in australia and they just did a shoey
+[3:20:44] Solushun: so they wont get athletes foot on their tongue at the end of it
+[3:20:48] happyheals: I have a glass one called das boot
+[3:20:50] Solushun: i wouldnt mind doing a shoey if it was a galss build in
+[3:26:12] nameyourform: nameyourform subscribed at Tier 1. They've subscribed for 21 months, currently on a 16 month streak! GL next week bro
+[3:26:12] StreamElements: nameyourform just subscribed for 21 months in a row mesDad mesDad mesWeckso
+[3:43:16] weso_dh: no no, you can't say anything is hard on DH. it's against the trend!
+[3:44:02] honsou2: @weso_dh thats because DH is the most statistically OP spec to an absurd degree
+[3:47:06] sunileif: its so easy to pvp parse as dh
+[3:49:38] weso_dh: that warrior did mad dmg last game
+[3:49:41] weso_dh: that's how
+[3:49:42] sunileif: dh parsing in arena NODDERS
+[3:49:55] weso_dh: it flipped at the end!
+[3:52:52] weso_dh: how are you so good on so many classes
+[3:53:44] weso_dh: do you have trulygcd or the equivalent?
+[3:54:05] Szain3: DinoDance
+[3:54:06] weso_dh: trufi? the thing that shows the button presses
+[3:54:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[3:55:21] weso_dh: oh i'm blind! thanks! But for the record, we can't see your mouse or I'm big DH blind :D
+[3:57:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[3:59:22] Nergaloth: I heard no spider in new zealand, crazy world
+[4:01:22] Nergaloth: No snakes, mb
+[4:02:05] Nergaloth: Tons of spiders here in aus
+[4:02:11] Solushun: fuk that
+[4:03:28] artsskeit: was attacked by a large cockroach at work
+[4:04:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[4:05:51] artsskeit: everything is out to get you here
+[4:05:51] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[4:10:20] Szain3: DinoDance
+[4:10:58] Yermal710: what do you think is best healer for war/dh?
+[4:11:51] Yermal710: do you think prevoker could work?
+[4:12:02] ChainSawRyu: is pet management mandatory to climb ? i find it very difficult
+[4:13:05] Swoophy: yo wdup fellas KonCha
+[4:14:13] Spawrro: @ChainSawRyu depends what you mean, climbin to 1.8k? no its not, climbing to 2.1k? still no. climbing to rank 1, probably
+[4:14:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[4:17:37] Talason: notmes how come you never play wrath?
+[4:17:52] Talason: ahh true
+[4:18:07] Talason: are you gunna play cata?
+[4:18:25] Talason: seems like it doesnt have as much hype
+[4:22:46] hvzewrldxo: legendary axes active ability useless in pvp?
+[4:23:35] colombiano15713: talents pls
+[4:24:13] hvzewrldxo: @notmes
+[4:27:29] Nergaloth: medellin papa
+[4:27:29] Moobot: Join my Discord community! https://discord.gg/mes
+[4:27:36] Nergaloth: ome mijo parce
+[4:31:00] Mazerrise: @hvzewrldxo Yeah, severely nerfed in pvp. Not worth the gcd
+[4:37:01] nedstamd: !ui
+[4:37:01] StreamElements: WoTLK: https://drive.google.com/file/d/158Ouac-SQwGwakN3EaiRKhkeocuO0Z2I/view
+[4:39:37] Szain3: DinoDance
+[4:40:43] toxicplays_tv: I'm just trying to not look stupid on your stream
+[4:44:01] nonters5495: no rbgs today just arena?
+[4:44:33] Solushun: oh god I just faced that team
+[4:44:41] Solushun: im not ready to face u
+[4:48:58] frazzoqt: do you run 4 set on ret?
+[4:49:35] Croizlol: @mazerrise if it was only a gcd, its the whole channeling
+[4:50:58] steveholt_: do you use legendary on dk ?
+[4:50:58] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[4:51:10] Axtin: idk if im convinced that stacking omega vers is worth on ret
+[4:51:48] Axtin: yeah im not stacking mastery but im not going above the 20% dr for vers
+[4:53:32] Axtin: well you cant really stack a whole lot after that
+[4:53:41] frazzoqt: i seen one guy on eu ladder stacking crit
+[4:53:49] Axtin: whatever you pick after 20% vers dr is gonna be minor
+[4:53:53] frazzoqt: yea
+[4:54:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[4:55:02] Axtin: if ret did more healing i could see the benefit of going full on vers
+[4:55:04] waitimdesyncd: mesHi
+[4:55:57] UltraKaos: stacking full versa mastery atm on ret, playing vanguard... it is slow but fun, smacking people around pretty good where im at(2kish solo mmr)
+[4:57:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[4:57:01] Axtin: ya its minor for sure
+[5:00:35] Tiebot87: the "retpocolpse" isent even close to the DH meta we have this expansion.. last night around 2200mmr 3s, 8of10 games had a DH
+[5:01:43] Axtin: ret was def more insane than dh now, 3-4 rets every shuffle
+[5:02:53] Axtin: dh right now is prob about the same as aug last season
+[5:03:06] Devcomz: its debatable I hear what Axtin and Tiebot say frequently people have different opinions on it but both are bad for sure
+[5:04:00] IAmBlue1337: Its actually crazy how many have switched to dh, as for most of season 1 and 2 (besides start of S1) Havoc was one of the lower represented specs in pvp close to dks
+[5:04:18] Devcomz: One my characters had 2 double DH lobbies and then a triple DH lobby and I just rage quit the triple Dh lobby. I couldnt handle it anymore
+[5:04:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[5:12:03] IAmBlue1337: If you looked at representation it has not been "popular" all expansion no
+[5:12:04] Moobot: Join my Discord community! https://discord.gg/mes
+[5:12:18] waitimdesyncd: Prayge we get a season with lock, rogue and dh not meta at the same time LUL  one can dream
+[5:12:21] IAmBlue1337: Yea, I mostly just compare classes
+[5:13:19] IAmBlue1337: I mean if DH had more dps specs it would be more spread as well, so you cant really just compare havoc to lets say bm
+[5:13:27] Megdk: !addons
+[5:13:27] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[5:13:32] Megdk: !wa
+[5:13:32] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[5:14:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[5:14:57] bigmancamx: @notmes haven’t people always been playing what’s fotm? aside from like bfa when you could literally never catch up
+[5:15:16] IAmBlue1337: It also makes it worse if the playstyles for specs that are FOTM are easy to learn, like for DH for example
+[5:16:01] waitimdesyncd: But if they made the rankings about being a certain % of your spec. Like it shows if youre a top 1% Unholy DK etc, instead of a arbitrary number that says much different depending on the opness of your spec
+[5:16:08] waitimdesyncd: or added a way to see both*
+[5:20:39] wyldeshock: TEAM IMMUNITY
+[5:22:21] Shaelwotlk: s13 bm hunter
+[5:22:30] Solushun: Hpriest S3 SL
+[5:22:36] Solushun: Rsham S1 DF
+[5:22:57] saintone__: Hey mes u prefer mastery over haste?
+[5:24:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[5:27:06] TimmyShoes: this ui makes me dizzy xD
+[5:36:08] bat8man: boys, how do you gear up an alt fast nowadays, without a guild helping you?
+[5:36:08] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[5:41:39] ripbossqt: grind
+[5:41:48] nikthevoker: \
+[5:41:57] nikthevoker: whoops,  sup @notmes
+[5:42:13] nikthevoker: is the AM arena better then the AM WSG?
+[5:43:15] BuCh3RCSGO: !wa
+[5:43:16] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[5:44:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[5:44:36] BuCh3RCSGO: hey mes do u have a weakaura for destru locks havoc? i cant seem to find it in ur df package?
+[5:47:25] notmes: https://wago.io/2yX3i-U6C
+[5:47:26] BuCh3RCSGO: yes that exactly
+[5:47:52] Alessaoo: mes its the dmg from the leggo good?
+[5:48:35] yarth85: Mes how does one get that leggo..
+[5:50:09] BuCh3RCSGO: ty so much for the weakaura <3
+[5:50:19] yarth85: Online resources were not very clear for me
+[5:51:25] yarth85: And that starts a quest chain or something?
+[5:51:29] Megdk: !commands
+[5:51:29] Nightbot: @Megdk -> The bot commands for this channel are available at https://nightbot.tv/t/notmes/commands
+[5:51:30] StreamElements: @Megdk You can find a list of all Commands here https://StreamElements.com/notmes/commands
+[5:54:15] Noxalis20: @notmes, mind me asking what add on you are using for the enemy bars, like the spell timer cooldowns showing
+[5:54:30] StreamElements: Download Sea of Conquest for free now! Complete Chapters 4 and 7, and recruit Cordelia to support the stream! https://strms.net/sea_of_conquest_notmes
+[5:54:35] Noxalis20: can
+[5:54:42] weso_dh: wait, why does the stream title say happy friday?! am i missing work?
+[5:54:45] weso_dh: I can also hear you
+[5:55:09] Megdk: peepoSad peepoSad
+[5:55:19] weso_dh: memory usage!
+[5:57:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[5:58:22] Noxalis20: can anyone in chat tell me what addon Mes is using for his Enemy bars that shows the cooldown timers
+[5:58:23] Moobot: Join my Discord community! https://discord.gg/mes
+[5:58:42] Megdk: !addons
+[5:58:42] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[5:58:58] Megdk: !castbars
+[5:58:59] StreamElements: https://drive.google.com/file/d/1DialhK3fWsLOPgijtOP_7mCtV0rmixNJ/view?usp=sharing
+[5:59:14] relaywow: I need PHDK dream against all odds one one of these days since me and chadsmanship are on degen times i need bruce
+[5:59:39] relaywow: LOL
+[5:59:57] relaywow: He lives on forever
+[6:07:07] relaywow: Only 10 mil dam diff
+[6:07:13] relaywow: :O
+[6:07:55] saintone__: does mastery affect mark of fyralath?
+[6:08:17] saintone__: im soft cap versa and haste im thinking of swapping to mastery
+[6:08:38] Szain3: DinoDance
+[6:12:00] StreamElements: Get 50% off your first Factor75 box + Free Wellness Shots for Life using my link! Two free wellness shots per order with an active subscription https://strms.net/factor75_notmes #ad
+[6:22:16] toxicplays_tv: all g! I appreciate the games!

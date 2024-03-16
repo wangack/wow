@@ -1,0 +1,850 @@
+[0:00:07] StreamElements: Hydramist is now live! Streaming World of Warcraft: Evening Chill | !BIS !Talents !Runes !Guide !VPN !RestedXP
+[0:00:53] Extramediums: awwww yiss
+[0:01:06] snuzetv: yooo
+[0:04:04] Bjergby_: Do you ever use Devouring Plague?
+[0:04:19] ferrynice: !talents
+[0:04:19] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:05:15] snayrofficial: we are gonna have to pug half the group probably
+[0:05:34] Filouswife: why do you dislike retail?
+[0:05:45] snayrofficial: yeah but getting items we want is gonna be ass now
+[0:06:26] snayrofficial: 2
+[0:06:34] snayrofficial: and then ziqo kicked a bunch
+[0:06:40] snayrofficial: that said they were waiting for us
+[0:06:42] snayrofficial: lol
+[0:07:59] ephixa_fan: hydraFiesta /
+[0:08:39] snayrofficial: yea
+[0:08:59] Vladix100: just came in, what we talking about?
+[0:09:12] ephixa_fan: ephixa_fan watched 25 consecutive streams this month and sparked a watch streak! 
+[0:09:21] olsixfingers: doing any bgs today? ☺️
+[0:09:31] bluegorillas: hey, you using OBS or Streamelement?
+[0:09:51] ephixa_fan: must be bugged
+[0:10:06] roXingtoN: hey ryan, what is the weakaura you have for runes? can you also quick rune swap with it?
+[0:10:16] NovacloudxD: Its on the disc
+[0:10:29] NovacloudxD: Under the sub UI tab
+[0:10:30] roXingtoN: ty nova
+[0:10:38] skarlsen: !tier
+[0:10:43] daLuhz: its impossible to get actual good xp/hr in sm with pugs
+[0:10:59] prodigy_wow: o/ Hola
+[0:11:03] Straofc: Not a great addon, but RuneReminder makes swapping runes abit faster
+[0:11:05] NovacloudxD: There is a WA for runeswapping, but not updated for P2
+[0:11:44] niightstarr: engraver is good
+[0:12:29] fermafc24: Hey legend, what's the addons for enemy buff and HP ?
+[0:12:32] Vleesmeester: hey cant get ur iscor link to work
+[0:13:20] Vleesmeester: and keyboard f....
+[0:13:37] cptnkuroky: tthats what engraver is doing for me
+[0:13:41] abrlol_: you can set engraver up like you want
+[0:13:44] daLuhz: thats what the fojji rune swapper does but it has a pw
+[0:13:54] Kaacia: You're on Horde living flame right? For EU?
+[0:14:18] prodigy_wow: Someone in my guild says the p2 boxes are giving 1k rep and 12g
+[0:14:18] Vleesmeester: i try the link on ur macro vid on youtube
+[0:14:19] abrlol_: if you right click on engraver you can make a filter to what you'd like it to show and the drop downs as well
+[0:14:29] Kaacia: I just came back to SoD and thought I'd just play on a pvp server, because I'm not a pussy like my old guild.
+[0:14:43] idiotferaltko: should get a raid grp and farm furbog medicine pouch!
+[0:15:23] Vleesmeester: !discord
+[0:15:23] Nightbot: As a 'Thank You' to my subscribers for all their support, my Classc, WOTLK and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[0:16:01] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[0:16:28] Dreameaterz: yoooo GL lad in raid
+[0:16:33] Dreameaterz: hope you win some goodgood
+[0:16:35] prodigy_wow: Saved sorry
+[0:17:00] prodigy_wow: gonna sit here and watch you get epic dagger for the 3rd week in a row
+[0:17:13] Dreameaterz: gotta yoink that mount
+[0:17:40] bassiemon123: Heyoo hydraGoose
+[0:17:52] Brlskull: is dismantle shit for shadowpriest? feelsl like it barely does anything
+[0:18:00] saaywhat92: !talents
+[0:18:00] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:18:06] bassiemon123: Doing great man, got a cheeky little week off. So time to do some fun stuff ;)
+[0:18:34] prodigy_wow: @Brlskull go with the 7 frost spell damage
+[0:18:46] Dreameaterz: Dreameaterz watched 10 consecutive streams this month and sparked a watch streak! free points
+[0:19:07] prodigy_wow: oh thats interesting
+[0:19:34] Brlskull: it seems like dismantle doesnt proc of rune spells like mind spike
+[0:21:07] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:21:21] akizzu: !talents
+[0:21:21] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:21:29] prodigy_wow: I wonder if thats a bug
+[0:21:37] prodigy_wow: probably
+[0:21:48] Revansoon: yeah it proc'd 3 times in my thermaplug last night LUL
+[0:22:04] prodigy_wow: 16 slot bag on the Durator supply vendor
+[0:22:12] bassiemon123: Ooohh shit its out now
+[0:22:15] bassiemon123: Hugeee
+[0:22:20] Revansoon: like 100 dmg or less
+[0:22:25] prodigy_wow: Revered
+[0:22:31] prodigy_wow: u get Blue BOA items and a 16 slot
+[0:22:43] elsuich_hs: what is better in 1vs1 shadow priest or druid balance ?
+[0:23:14] bassiemon123: Its 1k rep for the new boxes. Old ones still fine tho, 500/650 rep perr
+[0:23:19] Valandril__: !Talents
+[0:23:19] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:23:24] rottguts94: anyone got a link for new rewards?
+[0:23:55] rottguts94: So P2 Material boxes give 5.50 g and the crafter P2 boxes (white bandit mask etc.) give 12g
+[0:23:59] rottguts94: free gold for most of them toh rn
+[0:24:07] cptnkuroky: 2-5g each box but you get you get 1.5-2.5g back for each
+[0:24:38] idiotferaltko: is it really 12g a box?
+[0:24:51] bassiemon123: Some do be giga expensive
+[0:25:10] prodigy_wow: Good on you for saving them
+[0:25:19] prodigy_wow: i deleted maybe 8
+[0:25:33] Myzkets: simonizeshow just spent 180g worth and lost 30g
+[0:27:42] QuickfireDouble: are the box rewards live on EU as well?
+[0:27:57] akizzu: !bis
+[0:27:58] Nightbot: Disco: https://www.youtube.com/watch?v=es4BU1N8Swc Shadow: https://www.youtube.com/watch?v=jG_86N-QtnU
+[0:30:00] Landon_MDL: 7man gnom?
+[0:30:02] Landon_MDL: nice
+[0:30:31] oornli1992: should be duable
+[0:30:50] Landon_MDL: there was a reddit post from a guild 1st week that cleared gnomeragan blind as 6man group
+[0:31:04] Landon_MDL: full min max on gear consums etc..
+[0:31:12] Possitiviti: What server are you playing on?
+[0:31:15] Landon_MDL: pretty big though
+[0:31:23] gohaur: isnt it super cheap to respecc anyway ?
+[0:31:33] kult1010: hey baby bryan
+[0:31:53] Landon_MDL: 1g respec
+[0:34:51] gratzitko: @Hydramist is void plague not best for pvp anymore
+[0:34:56] gratzitko: i see u using shared pain now
+[0:35:22] illuminareEU: illuminareEU subscribed at Tier 1. They've subscribed for 53 months, currently on a 47 month streak! Ayoo
+[0:35:25] demotiiviert: finally supp g how was ur day
+[0:36:07] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:37:53] Mystiggo: lil gnomer hype
+[0:39:04] Alori_: Alori_ watched 3 consecutive streams this month and sparked a watch streak! HUH What is this
+[0:39:58] Mystiggo: had a solid gnomer today, secured a few more 99s Okayge
+[0:40:08] wileyecoyoted: Happy Monday brother almost 40 on my toon in guild lookin forward to raiding with you
+[0:40:32] Mystiggo: DMF definitely helps
+[0:40:37] Creampuff1112: aah felt good looting me an Umbral last night:)
+[0:40:47] Shatteredlol: @Hydramist VP is stil best for pve yes?
+[0:41:03] atlaspm: what do you think is better epic staff from BFD or dagger from last boss of BFD and the bis offhand shadow damage
+[0:41:56] Creampuff1112: dragonkin,swamp of sorrows
+[0:42:11] JavaSkrpt: o/
+[0:42:35] Lylitzz: Big night work session for me, stream timing is great
+[0:42:41] todster13: !talents
+[0:42:41] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:42:48] atlaspm: either or pvp and pve before the epic dagger of course
+[0:42:49] NovacloudxD: @creampuff1112 thats where i got mine!
+[0:43:01] Gearhar: Gearhar subscribed at Tier 1. They've subscribed for 91 months! 90 flippin' 1
+[0:43:02] JavaSkrpt: @Lylitzz Same, I work while watching most of the time.
+[0:43:14] Gearhar: D:
+[0:43:18] Lylitzz: @JavaSkrpt Smash that session mate
+[0:43:21] Gearhar: Very true
+[0:43:38] Creampuff1112: @NovacloudxD Nice!
+[0:43:39] Gearhar: LUL
+[0:43:45] cremefraich: !Talents
+[0:43:45] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:44:23] rourfoses: rourfoses subscribed with Prime. 
+[0:44:25] Gearhar: Haircut/beard lookin extra good today!
+[0:44:28] gratzitko: !talents
+[0:44:28] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:44:53] Shatteredlol: @Hydramist do you have underworld band?
+[0:45:16] prodigy_wow: im trying to buy one for like 250-280
+[0:45:20] Gearhar: nah mate, looks fine
+[0:45:37] prodigy_wow: but its alot of gold for like 4 stamina lol
+[0:45:39] monkeylol75: hi lord hydra on p2 u prefer play shadow or disc ?
+[0:45:51] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[0:45:59] Gearhar: Had a bit of rough time, but doing way better now
+[0:46:30] Gearhar: Lmao, setup a donation goal for it, name it something funkey and I'm sure people donate.
+[0:46:38] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[0:46:46] Gearhar: rip
+[0:47:26] Hazmat_Hamster: Sigil of Innovation too if you have enchanting
+[0:47:32] demotiiviert: 120 hp ?
+[0:47:53] Mystiggo: I did all VP today. They're still about equal. The only one you 100% run VP is Menagerie
+[0:48:10] Mystiggo: Apparently the mech bosses take 20% less VP damage
+[0:48:23] Mystiggo: so running TF for bosses 3, 4 and 6 might be a play
+[0:48:37] Mystiggo: disease damage*
+[0:48:52] Gearhar: We're getting Data science & AI  interns. New course here in The Hague. I'm creating an assignment for them and I'll be their supervisor, which is cool
+[0:48:53] Mystiggo: I checked some logs, seemed like VP was ticking less on mech bosses
+[0:48:58] demotiiviert: is the epic priest trinket from stv a thing as disc ?
+[0:49:01] Mystiggo: but hard to tell if ppl had the same buffs etc
+[0:49:10] Gearhar: IT's heavy on the maths apparently
+[0:49:24] Gearhar: Yeah with python right?
+[0:49:27] JavaSkrpt: That's some of what I do.
+[0:49:50] JavaSkrpt: You should do a little bit now and then, lots of interesting APIs available.
+[0:49:54] Gearhar: They do exactly that yeah, they're going into their 3rd year now so I'm excited to see what they're capable of
+[0:49:58] Gearhar: Yeah I remember, PUBG
+[0:50:03] Shatteredlol: @Hydramist i remmeber watching a vid of you 1v1 ABN in wrath is think
+[0:50:13] Gearhar: Yup FeelsGoodMan
+[0:50:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:51:21] monkeylol75: hi lord hydra on p2 u prefer play shadow or disc ?
+[0:51:32] prodigy_wow: I sold pain sup rune a bunch this weekend for 5g each
+[0:51:35] Gearhar: I have only seen a couple SoD things, how are you enjoying it?
+[0:51:36] prodigy_wow: Think i made like 100-200g
+[0:52:19] Gearhar: Sounds good
+[0:53:48] prodigy_wow: probably does literally nothing ahaha
+[0:54:34] Hefebier: !talents
+[0:54:34] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[0:54:38] Shatteredlol: @Hydramist Ask in trade if anyone is poping might be on dif layer
+[0:54:44] Bjergby_: When are you using drain life over mind spike?
+[0:55:08] Bjergby_: as a filler no?
+[0:55:16] prodigy_wow: do you mean mind flay?
+[0:55:17] Mystiggo: HUH drain life
+[0:55:25] Bjergby_: yeah sorry LUL
+[0:55:30] prodigy_wow: Beam spell haha
+[0:55:36] uncannysword: filthy warlock
+[0:55:44] Shatteredlol: @Hydramist fuck it its scuffed
+[0:55:50] bassiemon123: Just send it
+[0:55:58] uncannysword: no buffs, send it
+[0:56:04] Mystiggo: no double buffs, no point
+[0:56:08] Mystiggo: go for depression run this reset
+[0:56:12] prodigy_wow: its a green parse
+[0:56:34] prodigy_wow: save the consumes for next reset
+[0:56:35] demotiiviert: naah u dont
+[0:57:06] MxKV__: MxKV__ watched 30 consecutive streams this month and sparked a watch streak! Gz on the new helm.  Did I miss that yesterday?
+[0:57:42] delazlo: The music is lit tonight
+[0:57:51] vanessalareusta: !bis
+[0:57:52] Nightbot: Disco: https://www.youtube.com/watch?v=es4BU1N8Swc Shadow: https://www.youtube.com/watch?v=jG_86N-QtnU
+[0:57:59] amexpog: I just hit lvl 25 on my shadow - soon I have 2 lvl 40 dotters besides my aff lock Pog
+[0:58:08] Gearhar: This is really chill yeah
+[0:58:17] MxKV__: I knew you were waiting maybe two lockouts ago.  They all blur together on 3-day lockouts now.  No idea what day it is
+[0:58:50] Alori_: This sounds like you're exploring some giant cave or something
+[0:58:57] bassiemon123: Damn ur actually so geared already
+[0:59:09] NovacloudxD: I like how all new world buffs will just be called boon now lol
+[0:59:25] wutfacesz: 3 set is lit, procs only from non-rune spells tho
+[0:59:51] prodigy_wow: the non rune spell bugs are everywhere
+[0:59:54] bassiemon123: Thats surtainly not intended, hope they fix that
+[1:00:46] skooovs: Hydra do you have an addon/WA for dispel as priest in pvp?
+[1:00:57] monkeylol75: u are the second healer
+[1:01:30] bassiemon123: Huge
+[1:01:32] wutfacesz: with world buffs, ez #1
+[1:01:38] Gearhar: Prayge
+[1:01:55] bassiemon123: Nooooo reeeee
+[1:01:57] Gearhar: LUL
+[1:02:08] Gearhar: typical Randies
+[1:02:21] jacquefosche: how do u get this loot roles window?
+[1:02:31] jacquefosche: *rolls
+[1:02:34] Shatteredlol: @Hydramist Do you think Eng belt is no good?
+[1:02:36] prodigy_wow: /loot
+[1:02:57] jacquefosche: cheers, looking for it soo long :D
+[1:03:09] Skry667: its standard ui, not an addon right?
+[1:03:23] bassiemon123: Thats how i got my Gizmo, joined a 9/10 guild. And i won it, fair to them they didnt scam me out of it. LUL
+[1:03:25] prodigy_wow: Yeah, you can type /sw as well to create a stopwatch on screen
+[1:03:26] Skry667: also good evening man
+[1:03:29] monkeylol75: lootrollmover ?
+[1:03:55] Skry667: its good for a Monday
+[1:04:01] Shatteredlol: @Hydramist Do you think eng belt is bad?
+[1:04:58] Skry667: Gamble simulator
+[1:05:00] prodigy_wow: Unboxing stream
+[1:05:17] bassiemon123: Not bad
+[1:05:36] Shatteredlol: @Hydramist what do you think of Eng belt for Spriest?
+[1:05:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:06:17] UnoTV_: !addons
+[1:06:17] Nightbot: https://www.youtube.com/watch?v=d8vm4aSwoKQ
+[1:07:16] Yesnig: yo hydra can you maybe make a video about rotation for spriest
+[1:07:51] Yesnig: yeah short would be fine
+[1:08:33] Gearhar: Well I'm peacing it, gl with the raid & stream! o/
+[1:10:58] wutfacesz: Been having a blast with Twisted Faith in BG's & STV after watching your short on YT, mind blast crits into death makes it feel like pre-nerf spriest
+[1:11:05] misstherese: hydraSub hydraSub hydraSub hydraSub
+[1:11:10] misstherese: oj hello
+[1:11:27] wutfacesz: the 2.5k blast one
+[1:11:33] h1bears: any tips on maintaining mana for the last 2 bosses
+[1:11:43] h1bears: I’m a resto Druid
+[1:12:09] prodigy_wow: I wish my tanks could help aggro while i mind sear T_T
+[1:12:40] igorescuee: new to sp here, any tips vs rogues in pvp?
+[1:12:51] h1bears: I got through 2 pots, my innervate, and I’m pressing buttons every 30 seconds. I’m always Oom. we’ve cleared twice now but it’s always a close one
+[1:13:09] Shatteredlol: @Hydramist What are your profs?
+[1:13:13] Mystylerocks: @h1bears does the second healer... do stuff? ^^
+[1:13:59] h1bears: @mystylerocks ya our other healer is a priest and we’re about even with heals
+[1:14:09] Mystylerocks: just dont "spam" Wild growth it burns through your mana
+[1:14:39] Mystylerocks: assuming not everyone taking dmg at the same time
+[1:14:43] Blaastrix: hello hydra <3
+[1:15:12] h1bears: wild growth helps a lot but I’m using lifebloom and reguv with nourishes whenever needed for the most part
+[1:15:24] Mystylerocks: slow monday is good, no need to pump
+[1:15:59] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[1:16:16] Mystiggo: @h1bears my best tip is check patch notes for next week. you're about to have a much easier time
+[1:16:30] Mystylerocks: lifebloom is insane mana cost right now, wait till update. i wouldnt use it
+[1:16:34] h1bears: @mystiggo oh ya I can’t wait haha
+[1:17:11] h1bears: lifebloom give me back half of the mana so it’s not as bad. when I’m not using using it I physically cannot keep everyone up
+[1:17:35] Mystylerocks: I would be like WG/occasional rejuvs/and downranks of HT
+[1:17:43] ruptip: 8 ads lol f that
+[1:17:45] desmoli: @hydramist love your priest content, got a rogue and priest similar levels around 30. any advice on what’s ‘easier’ to get to grips with in PvP? not got much time to play and enjoy them both but with limited time want to carry on with the one that’s easier to learn.
+[1:18:02] h1bears: another noob question. what’s the mechanic for the charge in this fight? how do you stay alive
+[1:18:10] braci91: !song
+[1:18:17] DoctaShaund: Is the priest healing w/ penance or CoH?
+[1:19:45] toneezzy: how much damage does a single apply devouring plague do compared to a SWP or VP?
+[1:20:18] nAleCC: !talents
+[1:20:18] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[1:20:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:20:46] wutfacesz: get the triple stun shared pain blackout
+[1:20:48] wutfacesz: KreyGasm
+[1:21:08] wutfacesz: no, whats the mafs
+[1:21:15] desmoli: super helpful thank you!
+[1:21:17] toneezzy: double feels so nice
+[1:21:52] wutfacesz: once in a blue moon
+[1:22:40] prodigy_wow: 0.1%
+[1:22:50] h1bears: everyone wants dual spec haha
+[1:23:18] Bjergby_: They want gold sink LUL
+[1:23:27] Kaacia: @Prodigy________________ +1
+[1:23:30] wutfacesz: 100g dual spec inc
+[1:23:53] Alori_: 100g isnt much
+[1:23:59] Alori_: didnt mount cost 1k
+[1:24:06] Allstarplayabro: dual spec is gonna be 500g next phase
+[1:24:07] Alori_: oh did they nerf respec cost
+[1:24:19] Alori_: ohnPog
+[1:24:37] toneezzy: I was disc and got a taste of shadow and can’t go back but am locked into my gnomer as disc think I’ll be able to heal it fine in full heal gear as shadow spec?
+[1:24:56] cosminm06: @Alori_ It was from the begining
+[1:25:01] cosminm06: 1gcap
+[1:25:12] Kaacia: @toneezzy Respec is so cheap I don't see the issue with respeccing when you need.
+[1:25:30] desmoli: rogue just feels expensive for PvP with blind powder and tea  even not min-maxing just as ‘standard’
+[1:26:00] Kaacia: I was just commenting on someone saying they are locked to healing gnomer :)
+[1:26:30] h1bears: especially if you don’t have a trainer to respec in iron forge
+[1:26:36] ruptip: @desmoli you dont need tea for standard rogue PvP play
+[1:26:42] ruptip: Powder cheap
+[1:27:10] wutfacesz: I think I lost gold crafting the blue one LUL
+[1:27:12] h1bears: I just don’t even respec at all. I keep it at mostly heals
+[1:27:16] UnoTV_: !addons
+[1:27:17] Nightbot: https://www.youtube.com/watch?v=d8vm4aSwoKQ
+[1:28:18] haileyxzx: mage or boomie what should i go for😂
+[1:28:20] kottessontv: hi man
+[1:28:31] toneezzy: damn bruh repair soon
+[1:28:51] darnellenrad: !Talents
+[1:28:51] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[1:30:10] UnoTV_: Heyy, I tried to find the addon that you use for enemy frame buffs but its not on your addon video, would u care to share? :D
+[1:30:19] Mystiggo: monkaGIGA
+[1:30:32] h1bears: we’ve been doing a strat for this boss where only 2 people have to move. makes it a lot simpler
+[1:31:11] arcane0mage: Hi Hydra hydraBee hydraLove , hi chat , hi mods
+[1:31:29] Mystiggo: I hate that people have just accepted the 2 groups moving strat for this instead of doing 2 parallel groups
+[1:31:37] Mystiggo: Like the first week scuff strat is just the meta for this now
+[1:31:49] h1bears: 2 parallel groups is sooooo easy
+[1:32:27] h1bears: then 1 person from each group moves out and in. everyone else stays still unless they get the charge
+[1:32:27] Lylitzz: If i'm running blue staff from here, shoulders from BFD and stamina trinket and I have 2 soft res per raid, which of the three items between dagger, trinket and shoulders shall I give up?
+[1:32:32] Landon_MDL: hydraa
+[1:32:32] Lylitzz: Sorry if it's a bit confusing
+[1:32:35] gustav178: I hope they make the raids harder, i wiped 4 times tot first run. Since then no wipes at all
+[1:32:36] Landon_MDL: show current gear pls?
+[1:32:41] Mystiggo: and you try to convince pugs to do it the easy way and they're like "nah let's not get fancy here"
+[1:32:41] Lylitzz: Just want to try and prioritise biggest upgrades
+[1:32:53] r0nin_xd: @UnoTV_ its an option in the add on classic aura durations, however hydra has a gate kept version of it that highlights the buffs like the spellstealable aura in tbc and wrath
+[1:33:23] Landon_MDL: you can take 2 before it resets if you click again quickly
+[1:33:23] h1bears: @mystiggo the one I pugged was the same. they refused to listen to anything lol
+[1:33:36] r0nin_xd: @UnoTV_ took me awhile to figure it out, the best you can get is just to turn the setting on, and calll it a day, unless you know how to custom script the aura highlights.
+[1:34:13] Lylitzz: Sorry hahaha
+[1:34:24] UnoTV_: Heyy, I tried to find the addon that you use for enemy frame buffs but its not on your addon video, would u care to share?  :D
+[1:34:26] arcane0mage: lmao
+[1:34:51] r0nin_xd: @UnoTV_ bro i just told you
+[1:34:54] h1bears: what Addon do you use to have your buffs on your player frame)
+[1:35:33] arcane0mage: can we have this song
+[1:35:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:35:43] Hydramist: https://youtu.be/4Ad-f9fUnto?t=5752
+[1:35:54] arcane0mage: thank you
+[1:35:59] deerobx: Sounds like inception theme but slowed down and mega chill
+[1:36:57] UnoTV_: @r0nin_xd ok so there's no way to get it because it's an old version?
+[1:37:17] UnoTV_: pretty fucking op ngl
+[1:37:49] UnoTV_: being able to see enemy player buffs is huge for pvp
+[1:38:05] UnoTV_: but in classic you normally can't
+[1:38:46] UnoTV_: and no @Hydramist I'm not talking about engraver
+[1:39:04] prodigy_wow: They are pvp gloves
+[1:39:11] prodigy_wow: nobody should roll
+[1:39:15] demotiiviert: roll n
+[1:39:19] prodigy_wow: unless they are pvpers ofc
+[1:39:31] prodigy_wow: or tank gloves i guess
+[1:40:28] DamDamPew: there is some satisfying about seeing all the off heals
+[1:40:59] DamDamPew: something
+[1:41:32] moosywow: would you wear the 16 stam ring in pvp over the wsg ring?
+[1:43:33] bcalicore: !tierlist
+[1:43:34] Nightbot: https://www.youtube.com/watch?v=G8BSTmC3BH0
+[1:43:59] UnoTV_: umbral crystal dropped for me from a lockbox dude
+[1:44:01] UnoTV_: clutch afr
+[1:44:56] UnoTV_: bro no luck on the fucking dagger, seen it 3 times already no luck with rolls :(
+[1:45:47] blissx96: Does SP do top dmg?
+[1:45:53] blissx96: pve
+[1:46:13] rxr407: i got ninjaed the dagger once and lost roll once
+[1:46:24] rxr407: gm deleted item though
+[1:46:41] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[1:46:46] HeyImArty: bro you're too poor to be buying gloves
+[1:46:46] rxr407: yeah, wrote a ticket
+[1:49:18] maxidaze: !talents
+[1:49:19] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[1:49:39] Extramediums: I feel like inception music would be a nice uptempo change from the ultra chill
+[1:50:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:51:12] prodigy_wow: Aww
+[1:51:16] UnoTV_: is it a pug or is it your guild? they suck lmao
+[1:51:17] realquaked: Ugh
+[1:51:19] bassiemon123: That was close damn
+[1:51:32] prodigy_wow: the classic 1% wipe
+[1:51:46] lucasthebestx: when p3
+[1:51:55] prodigy_wow: Shared pain on this fight?
+[1:51:55] HeyImArty: what is this trainwreck of a run brother
+[1:52:17] HeyImArty: HeyImArty subscribed at Tier 1. They've subscribed for 5 months! oh ive been throwing money at you for 5 months apparently
+[1:52:28] UnoTV_: gl keeping VP up on 4 targets
+[1:52:40] HeyImArty: its alot longer but i unsubbed at some point at the end of last year
+[1:52:48] HeyImArty: due to student life
+[1:52:55] bassiemon123: Its a ban angle LUL
+[1:53:12] Onko22: VP does the most dmg here?
+[1:53:20] HeyImArty: it's nice, though free time is lacking
+[1:53:25] UnoTV_: yea VE on cd until its on all targets
+[1:53:28] UnoTV_: supreme heals
+[1:54:09] thoughtsoutloud: Hydraulics
+[1:54:32] HeyImArty: software dev
+[1:54:58] COMMEdesRATS: do i see cat ears?
+[1:55:07] rjhardy90: That loot rolls addon looks much cleaner than Gargul
+[1:55:25] HeyImArty: tinyKitten needs no reason
+[1:55:29] HeyImArty: TinyKitten does as he pleases hydraKit
+[1:55:34] realquaked: Jez hydra is soo God of Warcraft
+[1:55:59] realquaked: SWD to break sheep and blind innovator
+[1:56:20] realquaked: Still in the game
+[1:56:40] Alori_: What song is this btw?
+[1:56:43] realquaked: I rise up on your tbc pvp movies
+[1:58:37] rjhardy90: Chat do you know what loot addon that is and what hes using to track dots? Weakaura?
+[1:58:59] rjhardy90: Ezclaps
+[1:59:21] Juicyloltv: !addons
+[1:59:21] Nightbot: https://www.youtube.com/watch?v=d8vm4aSwoKQ
+[1:59:31] Alaska_87: bro can you share the background track that is going on plz?
+[1:59:35] tdbeach1985: Does the class changes coming out tomorrow mean melee hunter raptor strike is getting nerfed by 30% or am I reading that incorrectly?
+[1:59:40] rjhardy90: Thanks
+[1:59:46] rjhardy90: !commands
+[1:59:46] Nightbot: @rjhardy90 -> The bot commands for this channel are available at https://nightbot.tv/t/hydramist/commands
+[1:59:50] Hydramist: https://youtu.be/4Ad-f9fUnto?t=7199
+[1:59:52] HeyImArty: randies cant go instantly, their brain short circuits for some reason
+[1:59:59] ReykooTv: interstallar?
+[2:00:04] Alaska_87: ty bro!!!! super sound vibes tonight
+[2:00:20] h1bears: well most everyone is out of mana normally? like how can you possibly do that without wiping?
+[2:00:22] HeyImArty: darkmoon is 10% alone
+[2:01:38] zobew: !gear
+[2:01:38] Nightbot: https://clips.twitch.tv/UgliestSneakyDaikonNerfRedBlaster-hJ8iyq6uUebvmaUq
+[2:02:08] HeyImArty: finally
+[2:02:09] HeyImArty: main streamer on cam
+[2:02:11] HeyImArty: hydraKit
+[2:02:30] zobew: !talants
+[2:04:26] COMMEdesRATS: how's that chicken trinket for pvp?
+[2:04:33] tdbeach1985: @Hydramist Does the class changes coming out tomorrow mean melee hunter raptor strike is getting nerfed by 30% or am I reading that incorrectly?
+[2:04:51] COMMEdesRATS: mak'peta
+[2:05:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:06:13] yestrongedickboy: hydra you hulkes up bigtime since i saw ye last lookign like a bull bro
+[2:06:39] 79trdude: happened to me aswell.. wish there was a weakaura warning you about runes :D
+[2:07:48] bodkinz_: @79trdude an addon for a raid rune profile when targetting boss pre-pull would be big idd.
+[2:08:12] Ryett: !talents
+[2:08:12] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[2:10:04] h1bears: just watch the faces in the middle of the room on the ceilings. they will send a lightning blast when a vent opens
+[2:11:13] bgboo: hey man
+[2:11:30] bgboo: im great man, hope ur good too
+[2:12:02] mcbridta: hey mate, do you use homonculi on bosses?
+[2:12:06] prodigy_wow: Cool trinket
+[2:12:12] net_worth: yoink
+[2:12:14] prodigy_wow: hope u get it
+[2:12:30] sacalac104: that accent haha
+[2:12:34] COMMEdesRATS: huge
+[2:12:38] aboveamra: POGGERS
+[2:12:39] prodigy_wow: Yooo
+[2:12:40] deerobx: Grats
+[2:12:42] COMMEdesRATS: grats
+[2:12:44] prodigy_wow: Send the evocate
+[2:12:46] ManaDeIRey: Let’s gooo
+[2:12:48] murxll99: yeh but have melee hunters the right to roll on it?
+[2:12:52] prodigy_wow: Lets see it
+[2:12:58] sprinter100x: gz
+[2:13:14] h1bears: you have to kill something at the end of the boss to get out of combat
+[2:13:14] HeyImArty: it should roll a diff number every tick
+[2:13:16] HeyImArty: unlike Skull
+[2:13:28] mcbridta: mcbridta: hey mate, do you use homonculi on bosses?
+[2:13:46] thundercawp: everyone has to leave boss room to drop combat
+[2:14:21] HeyImArty: make sure u oom urself first
+[2:14:24] HeyImArty: dont use it at full mana
+[2:15:32] prodigy_wow: should have just sold the grime encrusted? they are like 1.3g each on the AH O.o
+[2:15:44] h1bears: leave the instance and it will teleport you back to where your hearth is
+[2:15:56] Mystiggo: the tailoring mats were dirt cheap on my server today. was like 66 silver profit to craft them
+[2:15:59] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[2:16:01] prodigy_wow: I looked at them earlier
+[2:16:11] prodigy_wow: they shot up
+[2:16:45] xcatv: Good Evening folks
+[2:16:52] prodigy_wow: illc heck
+[2:16:54] absent_minded90: 2.45g
+[2:17:06] prodigy_wow: @absent_minded90 for real? O.o
+[2:17:30] KussTV: 98s grey, 2.8g green
+[2:17:50] HeyImArty: ok it works like skull
+[2:17:51] HeyImArty: its useless
+[2:18:01] prodigy_wow: oh you low rolled
+[2:18:03] HeyImArty: 1st tick = same every tick
+[2:18:06] prodigy_wow: but mybe u can get 150 per tick
+[2:18:26] HeyImArty: its just a nice stat stick
+[2:18:32] Mystiggo: can you channel it while in dispersion monkaHmm
+[2:18:39] toneezzy: can u use it while poly? or blind?
+[2:18:48] HeyImArty: what CC break could u use it for? since its channeled
+[2:18:50] prodigy_wow: "Grime-Encrusted Object is 1 to 1.2g atm
+[2:18:53] HeyImArty: any CC would instant stop the channel
+[2:19:02] prodigy_wow: only a handful at 1g
+[2:19:04] rein1715: you can use in dis
+[2:19:34] Niam6: new waylaid rewards are in
+[2:20:36] Niam6: all bind on account stuff, heirloom type stuff
+[2:20:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:20:41] HeyImArty: ye thats what i meant
+[2:20:44] HeyImArty: its dog
+[2:21:00] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[2:22:42] HeyImArty: got the freedom trinket today :)
+[2:22:55] lilty92: you have that much time between last boss phase change
+[2:23:21] SireTV: are you making another tier list  or the one from 2 days ago the one to watch?  Just saw that your YT live stream title is about tier lists
+[2:23:35] prodigy_wow: @lilty92 true
+[2:24:02] I_foxi_l: man this music :D it's making me anchus like writing something to happen :D and it's not happening :D
+[2:24:10] I_foxi_l: w8ting*
+[2:25:29] booddhi: why do you need grimes?
+[2:25:43] I_foxi_l: thats one is better :p
+[2:25:44] EldarQT: hello bro )
+[2:26:13] mcbridta: hey mate, do you use homonculi on gnomer bosses?
+[2:26:59] Mossing: now this is some good monday vibes music
+[2:30:01] Dreameaterz: did you see the layway box news?
+[2:32:35] yestrongedickboy: pure bulltest
+[2:33:18] Dreameaterz: layway boxes now give 12g :)
+[2:33:29] Dreameaterz: prices have gone skyrocketting
+[2:33:59] Dreameaterz: Yurp.. all of em are havin good stonks moment
+[2:34:07] Dreameaterz: might be a mistake on blizz their end tbh
+[2:35:24] miko3x: @Dreameaterz where do you see this?
+[2:35:27] miko3x: I don't see it anywhere
+[2:35:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:35:44] Dreameaterz: yes, you get 12g from handing them in
+[2:35:54] Dreameaterz: @miko3x  they released them an hr ago - revered rewards
+[2:35:58] Grabakh: small waylaids give 2g, mid 5,5 and big 12g I think
+[2:36:44] Dreameaterz: im not sure if this is only from revered on, but i do know ive invested about 100g into frost leather cloaks when they were 50s, and they are now 2g ea
+[2:38:54] I_foxi_l: what was the command for scan unit to add a new targert :D?
+[2:39:24] Dreameaterz: im just afraid of all the bots man...this wont be pretty Sadge such inflation
+[2:40:37] prodigy_wow: Houdini
+[2:42:08] Imadon: !server
+[2:42:08] Nightbot: Living Flame Horde EU / Crusader Strike Horde US
+[2:43:13] bannerwow: Think i have made 100g playing the AH in an hour, these boxes go crazy!
+[2:43:41] brianfwdslash: should I go dwarf or undead priest don’t mind either faction
+[2:43:51] bannerwow: Buy low, sell high xd
+[2:44:00] Dreameaterz: the boxes mate, they going bonkers
+[2:44:23] bannerwow: Gold bars for 10 silver, sold them for 60+, think its to late now though.
+[2:44:27] GameOverz: the waylaid boxes?
+[2:44:33] GameOverz: Kappa
+[2:44:49] Dreameaterz: mithril going rather high ye
+[2:45:22] mordtupu: !bis
+[2:45:22] Nightbot: Disco: https://www.youtube.com/watch?v=es4BU1N8Swc Shadow: https://www.youtube.com/watch?v=jG_86N-QtnU
+[2:45:22] Scorpeh: !weakauras
+[2:45:22] Nightbot: As a 'Thank You' to my subscribers for all their support, my Classc, WOTLK and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[2:45:25] gratzitko: other priest or playin somethin diff
+[2:45:34] Dreameaterz: if you can buy the things cheap yes
+[2:45:43] Hemmis7: Should wait until prices on the stuff drops down abit
+[2:45:47] Hemmis7: They spiked today cus of the gold reward
+[2:45:48] Dreameaterz: you can also get a 16 slotter
+[2:45:52] bannerwow: https://www.wowhead.com/classic/guide/season-of-discovery/durotar-supply-and-logistics-reputation
+[2:45:56] Dreameaterz: from the rewards
+[2:46:04] Dreameaterz: the items are BoA from there btw
+[2:46:22] bannerwow: 850 rep gives 5.5g, 1000k rep gives 12g, do those
+[2:46:30] bannerwow: 1k*
+[2:46:40] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[2:46:55] nastyafanpi: стримим анимешки при Донате включаем все что хотите есть актив присоединяетесь с нами
+[2:47:38] bannerwow: I linked it
+[2:47:55] Hemmis7: Yeah but you can make more profit per box, so if you dont actually need the rep rn
+[2:48:01] Hemmis7: And gold I guess, why turn in
+[2:48:04] Clozernlol: what did they chnaged about waylaid supplies?
+[2:48:28] Hemmis7: Because the items are piss cheap to craft
+[2:48:41] Dreameaterz: i feel like blizzard goofed on this
+[2:48:52] Dreameaterz: the items are super cheap to make, or alot of them
+[2:49:05] DeathToad007: yes
+[2:49:07] bannerwow: 5.5
+[2:49:12] Dreameaterz: but you saving those boxes is already ALOT of money
+[2:49:18] jorreboi: wtf
+[2:49:20] Hemmis7: I sold barbaric shoulders at like 35s few days ago
+[2:49:24] Hemmis7: And crafted at 30s
+[2:49:29] jorreboi: ii just did this shit i got 2g not 12
+[2:49:32] Hemmis7: Until people run out of boxes yes
+[2:49:47] Dreameaterz: @jorreboi check the low-med-high boxes
+[2:49:48] MannySJ: Daily Heyge
+[2:49:57] Hemmis7: Well yeah, but then you farm the 40+ boxes, not those
+[2:50:21] Hemmis7: And those are the greater defence, mithril blunder, white mask, turtle bracer, iron axes
+[2:50:24] Hemmis7: those give 12g ea
+[2:50:32] DeathToad007: purple ones give 12
+[2:50:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:51:06] bannerwow: I mean just turn the ones in that makes u gold
+[2:51:18] bannerwow: Some of them are overpriced
+[2:51:25] MannySJ: https://www.curseforge.com/wow/addons/waylaid-supplies-tooltip Okayge
+[2:51:32] GameOverz: LUL
+[2:51:37] prodigy_wow: people without auction addon lol
+[2:51:56] Dreameaterz: likely gone
+[2:52:24] grillat: very nice of cat helping  hydra with AH
+[2:53:00] MannySJ: Feed tiny cat Weirdge
+[2:53:47] SsGii: you did
+[2:53:55] SainL2: !talents
+[2:53:55] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[2:54:23] Dreameaterz: revered gives bind on Account loot
+[2:54:37] SsGii: you bought it already
+[2:54:57] prodigy_wow: its in the mailbox?
+[2:55:02] Baxxtah: lolz
+[2:55:06] ImSeagullible: lol
+[2:55:07] SsGii: rip was in the mailbox
+[2:56:25] qiip_fabi: bless u king
+[2:58:57] prodigy_wow: Nice investment
+[2:59:00] ImSeagullible: diamond hands :)
+[2:59:18] jorreboi: gotta stop using the dust bro
+[2:59:35] prodigy_wow: Dont think they have a purpose yet
+[2:59:56] KALOVAYA_MACCA_CTACA: I bought 1500 mageweave bolts phase1 for 12-15 silver, got like 1k+ gold profit
+[3:01:31] roorzy: forsen forsen forsen
+[3:03:08] roorzy: this is so intense
+[3:04:34] KALOVAYA_MACCA_CTACA: because of enchanting shuffle
+[3:06:44] Wizzuri: at what lvl does one do quests in stv? 34 ?
+[3:07:20] Reformexd: is plague better than twisted fate?
+[3:07:40] Reformexd: i mean pve wise
+[3:07:46] hmm1113: Lets see ur gear bro
+[3:07:59] hmm1113: sick mh gz
+[3:08:09] hmm1113: good haul so far
+[3:08:20] Felcsutinagyvasut: Is engineering still worth it over alchemy for pvp in you opinion?
+[3:08:28] Hemmis7: NA or EU?
+[3:09:47] Grabakh: Its so sad u cant get the tabard of the defilers at exalted
+[3:10:12] prodigy_wow: the person selling Pendulum for 6000g has lost their mind
+[3:10:51] r0nin_xd: @Hydramist why are gnome women built like mini fridges
+[3:11:04] pumajoe123: How much rep u got with AB?
+[3:11:06] lurkerl0l: 7k on lone wolve NA
+[3:11:21] prodigy_wow: Nobody is going to buy that, they need to get real. Maybe like 2.5
+[3:11:26] Shatteredlol: @Hydramist What is an olier?
+[3:11:37] prodigy_wow: ahahaa true
+[3:11:38] Hemmis7: Imagine buying pendulum when you can just get the epic with 0 competition
+[3:12:01] Shatteredlol: @Hydramist What is an oiler?
+[3:12:15] bassiemon123: 124-187 on pendulum
+[3:12:21] Hemmis7: -5 dps but higher topend
+[3:12:26] prodigy_wow: cant beat that 250-350 damage proc
+[3:12:26] Hemmis7: And you lose out on hella str+stam
+[3:12:27] prodigy_wow: for pvp
+[3:12:30] greatsadge: @Shatteredlol an oil baren or an arabic shiek with a lot of money
+[3:12:42] greatsadge: otherwise just a person with money
+[3:12:52] Barewood: think you'll make it in time for stv?
+[3:13:03] mergonx: heya everyone
+[3:13:04] Hemmis7: 10 I think
+[3:13:24] Hemmis7: It sims lower though
+[3:13:30] th3rap1st: Engi still best profession?
+[3:13:36] Grabakh: The 4.0 speed is big on doom
+[3:14:01] irvinwow: when will the boxes be buffed?
+[3:14:04] prodigy_wow: 117 - 175 Damage on Epic axe, 124-187 on Pendulum
+[3:14:20] prodigy_wow: yeah the 4.0 has a super high windfury proc and paladin seal proc chance
+[3:16:00] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[3:16:33] prodigy_wow: 6k gold is 417$ on this website lol
+[3:16:43] absent_minded90: there is none that im aware of
+[3:16:54] absent_minded90: but i guess with ab weekend you do
+[3:17:03] v_l_ctor: the ab bm in tb is in the cave where u learn priest skills
+[3:17:14] Hemmis7: In the undead cave thingy
+[3:17:20] stilfor: classic horde
+[3:18:27] OhWin: its party only
+[3:18:29] OhWin: T_T
+[3:19:05] OhWin: wtb 6 mins beyond party
+[3:20:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[3:21:13] Shatteredlol: @Hydramist What is best enchant for wep
+[3:21:26] Chazzmichael: You got a timer for tidal charm? Would be sick to have right now!
+[3:22:32] Crawstorm: @Shatteredlol Beastslaying gives a nice red glow
+[3:24:15] excavates: !runes
+[3:24:15] Nightbot: Shadow Runes: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Runes: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[3:24:17] Chazzmichael: All of the afflictions dots combined does less damage than void plague 😅
+[3:25:15] Mystiggo: Damn, just learned that the talent Darkness only increases the spells base damage, not the damage after spellpower etc.
+[3:26:24] Gac_Ttv: !bis
+[3:26:24] Nightbot: Disco: https://www.youtube.com/watch?v=es4BU1N8Swc Shadow: https://www.youtube.com/watch?v=jG_86N-QtnU
+[3:26:53] ekzil: !faq
+[3:28:21] notbsn: Pog
+[3:28:30] gororororoo: KEKW
+[3:33:47] Mystiggo: Imagine using BM there KEKHeim
+[3:33:51] Mystiggo: that guy was thirsty for the kill
+[3:36:47] Mystiggo: they need to add the bottle from dota to the BG vendors
+[3:36:53] Mystiggo: so you can bottle leaf/speed/zerg
+[3:38:12] EruhiniTV: hi @hydramist bro most of rep is from stv wood or?
+[3:38:54] gratzitko: @Hydramist how do shadow priests typically scale at 50 and 60 in regular classic. do they get better or worse
+[3:40:28] Mystiggo: Shadow doesn't scale super well. It will help a little if/when we get a rune that allows our dots to crit
+[3:40:40] sabjdprie: which server u play?
+[3:41:05] Zelise95: what runes do you think they may add at 50/60? think we gonna get VT?
+[3:41:05] broofenix: you think lvl 60 spriest or wl will be better 1v1? with current known runes
+[3:41:22] wooyep: spriest dots needs to be toned down lol
+[3:41:38] gratzitko: 100% voidplague is kinda an outlier no?
+[3:41:52] o0darling0o: how much is one complete void plague and SW:P?
+[3:42:01] bacondip420: !addons
+[3:42:01] Nightbot: https://www.youtube.com/watch?v=d8vm4aSwoKQ
+[3:42:27] wooyep: no r14 in sod
+[3:42:30] wooyep: r9 is cap
+[3:42:37] YazzLivee: ??
+[3:42:39] KALOVAYA_MACCA_CTACA: @wooyep wroong
+[3:42:45] YazzLivee: surely we get rank 14 they said they phasing 60 content
+[3:42:47] wooyep: they said r9 is cap themselves
+[3:42:50] lurkerl0l: 210 damage per tick lmfao
+[3:42:51] Mystiggo: Good question... But so far Blizzard has been quite smart about people stacking shit for future phases
+[3:42:53] vaeleas: you think they will increase the stv mounts to 100% speed later on
+[3:42:55] n1ri_: !talents
+[3:42:55] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[3:43:33] eXTreMe1337: r14 will become available with aq40
+[3:43:34] o0darling0o: so 2 dots kill most non healing classes
+[3:43:40] wooyep: r14 isnt until aq
+[3:43:47] wooyep: r9 is cap at fresh 60
+[3:43:48] eXTreMe1337: somewhere in the sod forums
+[3:43:49] Mystiggo: If I had to guess, Blizzard will nullify the honor things come next phase
+[3:43:52] Mystiggo: but you never know
+[3:44:13] Geesen: STV playable now?
+[3:44:15] wooyep: it's a blue post
+[3:44:16] Mystiggo: They've been pretty smart so far about people stacking stuff for future phases
+[3:44:46] sabjdprie: !server
+[3:44:46] Nightbot: Living Flame Horde EU / Crusader Strike Horde US
+[3:45:00] wooyep: https://cdn.discordapp.com/attachments/1179738933324693504/1209559623997194282/image.png?ex=65e75d2e&is=65d4e82e&hm=3554afa6a93cc767faf32f21ee4f38c4c3b664b9fa0c789d22903ae2070b1e52&
+[3:45:05] wooyep: yw
+[3:45:53] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[3:45:56] KALOVAYA_MACCA_CTACA: @wooyep bro everyone knows that r14 is not until AQ for few months now
+[3:46:05] KALOVAYA_MACCA_CTACA: at first you said no r14 at all
+[3:46:05] gratzitko: na thats one of the blue postson the forums
+[3:46:32] wooyep: @KALOVAYA_MACCA_CTACA i mean i meant no r14 at start, by time aq40 open r14 pointless anyway
+[3:46:37] wooyep: aq40 gear is way better
+[3:46:40] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[3:46:53] KALOVAYA_MACCA_CTACA: @wooyep what is the chance they will buff r14 gear? 100%
+[3:47:00] smorc22: oh
+[3:47:02] KALOVAYA_MACCA_CTACA: because lvl50 gear will be better than r14
+[3:47:03] smorc22: u playing on US?
+[3:47:04] minimusprim3: !Talents
+[3:47:04] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[3:47:11] YazzLivee: almost all the gear after 60 will get buffed so r14 will deffo change
+[3:47:18] smorc22: or how the fk u play event now?
+[3:47:43] smorc22: how are u playing event now?
+[3:48:06] Mystiggo: NA server
+[3:48:08] thuruuuuu: will u upload the tierlist on yt ?
+[3:48:13] causemosmvp: Damn the AH prices
+[3:48:23] drwaldorph: boomy or rogue for phase 3 /4 for pvp u think!
+[3:48:25] drwaldorph: ?*
+[3:50:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[3:54:49] ekzil: Really like ur resource bar on enemy nameplate , what addon is that? if u dont mind.
+[3:55:14] g_1_t: you would be cooking on gate mate KEKW
+[3:55:22] g_1_t: dudno why thats so funny
+[3:56:07] prodigy_wow: worst place to have a skid mark is on your soul
+[3:56:58] tobbaaaa: 1.45 ad, really
+[3:57:08] g_1_t: cooking on gas* i was luaghing to hard HHAHA
+[3:57:35] luzid7: whats the weakaura called to see mana on nameplates?
+[3:57:43] Mystiggo: the brave whirlwind with 3 gurubashi warriors on you
+[3:58:17] zqitv: Heard rumors you might need some Cath boost on EU
+[3:58:17] aesash: and decoy totem
+[3:58:19] Mystiggo: yea enhancers are sleepers
+[3:58:19] g_1_t: shamans are crackkkked
+[3:59:09] g_1_t: decoy totem too
+[4:00:49] eike8989: 255
+[4:01:15] berni2031: u think shared pain > PoM for 5 man content?
+[4:02:17] ReykooTv: what a ballache of a fear tho
+[4:04:11] bigwilly3737: yo its gordan ramsey
+[4:04:21] thundercawp: simonize got ya
+[4:04:26] Niam6: Outplayed by the chef :)
+[4:04:31] bigwilly3737: he raided on frontier
+[4:04:33] Wumkbanok: the spell pushback is not great
+[4:05:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:07:24] Mystiggo: some absolute chad just mind searing the altar KEKW
+[4:09:33] haileyxzx: should i level and main a mage or boomkin?
+[4:09:52] Blgdiesel: what do you think about holy palas?
+[4:10:26] Blgdiesel: sacred shield wasnt as good as we though I think
+[4:10:45] Itrulia: hello everbody
+[4:10:47] Itrulia: hows it going
+[4:10:56] BigH936: how many coind u got
+[4:11:13] Itrulia: Any news from OTK?
+[4:12:39] Itrulia: I really hope they wont wait until lv 50
+[4:12:43] Itrulia: that would be such grief
+[4:12:43] JokiGhostCrew: What are OTK gonna announce?
+[4:15:41] BiggieBoyZ: loool that mage is not even doing the event lmao
+[4:15:48] bassiemon123: 5head honor grind
+[4:16:03] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[4:16:24] bacondip420: !talents
+[4:16:24] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[4:16:24] aesash: Baldbro GIGACHAD
+[4:16:26] Itrulia: enhance tank is bis ngl
+[4:16:29] Slobozan: as hunter I just explosive trap and feign death:)
+[4:16:50] Itrulia: SV hunter
+[4:16:51] Itrulia: for traps
+[4:16:56] wooyep: man our spawn for boss was so bad
+[4:16:59] wooyep: arena spawn is so shit
+[4:17:09] bqpd_: A boomie
+[4:17:17] Itrulia: new boomie changes yeah
+[4:17:33] EruhiniTV: grz on exalted with that coinz
+[4:17:53] calloomi: why warrior? they seem weak
+[4:18:03] wooyep: @calloomi a good warrior is insanely good
+[4:18:10] wooyep: need windfury/heals tho
+[4:18:29] Da_Funkz: for alliance what do you swap the shaman for?
+[4:18:50] Blgdiesel: maybe sub rogue instead of warr? ms + stuns
+[4:19:30] calloomi: hmm interesting
+[4:19:36] Itrulia: put war in full plate gear tbh
+[4:19:47] wooyep: not enough plate gear yet
+[4:20:10] Da_Funkz: what would you take instead of shaman on Alliance?
+[4:20:21] lilty92: ¨destro is also nasty backline
+[4:20:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:20:54] calloomi: !runes
+[4:20:54] Nightbot: Shadow Runes: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Runes: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[4:20:59] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[4:21:02] toxicvolvo: 4 boomies 1 priest before starsurge nerf: 26 silver coins pb
+[4:21:19] arieuh: did they fix stv lagg issues?
+[4:21:37] GrenadeHPC: when stv is a lagfest, mage and spriest aoe dots go hard
+[4:22:02] aspectoflion: are you only playing priest in sod?
+[4:22:33] Nfan: Nfan watched 25 consecutive streams this month and sparked a watch streak! omg i still watching hydra XD
+[4:22:36] Billyonairetv: did 31 coins as 3x sp 1x disc 1x pala 2 days ago - but was all stars aligned on boss spawn and an abusive position
+[4:22:46] Billyonairetv: pala was leeching tho
+[4:23:51] mr_derto: !VPN
+[4:23:51] Nightbot: - Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[4:24:27] Armaxoxo: event would be way better without troll buff
+[4:24:41] snayrofficial: i need 46 more silver coincs then im done with AB
+[4:24:46] snayrofficial: hopefully finish that up tomorrow
+[4:24:47] voodoodrop: whas up G you good?
+[4:24:51] Billyonairetv: best strat i found was to 5man spread 1 to each altar and then insta know where boss spawn, then go there and if u die u run in ghost in super speed form to chained spirit on boss
+[4:25:20] Mozzeyy_: Hows mage in P2?
+[4:25:37] Billyonairetv: then u are there within 2min of start
+[4:25:39] Billyonairetv: it is annoying tho
+[4:26:37] voodoodrop: whats the name of the WPVP event timer addon?
+[4:27:23] voodoodrop: STV and ZORAM i mean
+[4:28:32] gomestheking: Can you get past r3 now?
+[4:29:15] wooyep: @gomestheking r5
+[4:29:24] gomestheking: ty
+[4:29:32] wooyep: new trinket at rank 5 too
+[4:29:36] kevhealz: Am I insane for thinking the holy pvp build has potential at full gear later this phase? Dispersion + holy spirit after death for priest on defense in wsg. Shadow/disc build for offensive priest
+[4:29:38] wooyep: can trinket anything
+[4:30:03] wooyep: @voodoodrop stv at 12-3-6-9 server, zoram 1 hour after
+[4:30:18] Billyonairetv: @voodoodrop Nova World Buffs -> Settings -> Timers Overlay
+[4:30:25] Billyonairetv: If you mean battle timers
+[4:30:47] Willyboysboys: is all content for p2 released? please @me if you Have an answer
+[4:30:48] Billyonairetv: Like this https://gyazo.com/f1cab9e81c91f5b4a13aa5f0260be6a0
+[4:31:04] voodoodrop: aha @Billyonairetv
+[4:31:31] berni2031: u prob wanna grab some feathers if u keep queing
+[4:31:54] BigH936: NoVa World buffs
+[4:31:58] BigH936: is that its called
+[4:32:48] voodoodrop: btw vanish without cloak is a bit trash + HOW CAN THE FUCKIN MEELE HUNTER DO MORE DMG THAN ROGUE
+[4:34:08] Ohni14: above your server time it shows what layer you are on, how can i turn that on?
+[4:34:27] twitchara7: you think warlock drain life gonna get nerfed
+[4:35:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:41:38] ogge1312: is it any pvp gear in this wow? Never played this exp only old school
+[4:41:48] ogge1312: feeling for maybe starting again
+[4:42:26] ogge1312: yeah ok
+[4:42:36] NETRAV3R: what specc has the most DPS 1v1 pvp
+[4:44:00] NETRAV3R: ok, what class/specc can do the highest crits? :D
+[4:44:02] NETRAV3R: fire mage?
+[4:45:46] g_1_t: did they nerf wood?
+[4:45:58] g_1_t: ohh gotcha
+[4:46:03] g_1_t: yea true
+[4:46:33] g_1_t: druids are all ive know i think they are a ton of fun
+[4:46:46] g_1_t: you should try it out
+[4:46:47] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[4:46:48] cunderthuntz_: honestly ele feels kinda bad when you are getting focused
+[4:46:49] Slendertall: Hey hydra im a new priest player any quick tips?
+[4:46:53] seraph_vii: Omg dude - that Fort buff / Zepplin clip had me DYING earlier! So good 😀
+[4:47:04] Hydramist: !guide
+[4:47:05] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:47:14] Slendertall: Nice
+[4:48:14] czqsole: EU OR US?
+[4:48:54] Slendertall: What server are you on?
+[4:50:37] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:51:46] mywukie: !discord
+[4:51:46] Nightbot: As a 'Thank You' to my subscribers for all their support, my Classc, WOTLK and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[4:58:01] Kyfoon: what time is ashenvale again
+[4:58:52] Slendertall: Alliance chair but playing horde? Lol
+[4:59:32] cunderthuntz_: why no dwarf priest?
+[5:00:23] mitochondria31: yeah content has been awesome!
+[5:01:10] czqsole: wht not Void Plague rune
+[5:03:15] nAleCC: !tolls
+[5:03:20] nAleCC: !talents
+[5:03:20] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[5:05:53] OhWin: I can link wago for it if its allowed
+[5:06:06] OhWin: for res timers
+[5:06:20] OhWin: https://wago.io/7RQUp4ISD/1
+[5:06:27] OhWin: has caps too
+[5:08:20] jes994: Going for a mount or wouldn't it just be easier buy last rep?
+[5:08:21] g_1_t: yea i can get behind that for sure
+[5:08:50] Ryett: you still say go UD over Troll for shadow /?
+[5:08:52] Ryett: pvp
+[5:09:40] Ryett: t
+[5:09:41] Ryett: ty
+[5:10:38] OhWin: o7
+[5:11:01] OhWin: cap timer
+[5:11:07] OhWin: oh
+[5:11:23] OhWin: yeah spawn res timer
+[5:13:34] Kyng19: !talents
+[5:13:34] Nightbot: Shadow Talents: https://www.youtube.com/watch?v=e-XptVsA3A0 /// Disc Talents: https://www.youtube.com/watch?v=GmAxwZ8lzYs
+[5:16:02] Nightbot: Secure your privacy with Surfshark! Enter coupon code hydra for an extra 3 months free at https://surfshark.deals/hydra
+[5:19:21] JokiGhostCrew: Did u get Rank 14 in Classic? That is now Era?
+[5:22:59] bisonkron: funny how deep the mine goes
+[5:26:38] Kor977: !BIS
+[5:26:38] Nightbot: Disco: https://www.youtube.com/watch?v=es4BU1N8Swc Shadow: https://www.youtube.com/watch?v=jG_86N-QtnU
+[5:27:55] glyceRhine: did you use cons for event to get arathi reput?
+[5:29:07] Kylol7: does ab rep give you anything good?
+[5:29:19] glyceRhine: thats worth it
+[5:30:21] Racazar: for raiding, void plague or the improved mind blast rune?
+[5:30:45] r0nin_xd: damn that mana bar WA is sexy where can i get that lol
+[5:32:02] Kylol7: i slacked on previous phase and now i'm working my ass to get wg rep to exalted for the bracers xD
+[5:32:10] glyceRhine: do you tag as team? or solo what do prefer for arathi?
+[5:32:34] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[5:34:26] ghowstyuink: should i lvl as disc and when doing quests just dot/wand or is it good just going full shadow?
+[5:34:36] piouspectre: nice win
+[5:34:38] piouspectre: gg's
+[5:34:43] Kylol7: gg!
+[5:35:05] Xoochx: !discord
+[5:35:05] Nightbot: As a 'Thank You' to my subscribers for all their support, my Classc, WOTLK and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[5:35:15] Kylol7: cya man, take care

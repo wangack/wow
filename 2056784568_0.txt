@@ -1,0 +1,751 @@
+[0:01:05] WytherOK: morning
+[0:03:02] brewteafulgaming: hi all
+[0:03:09] homieakaexco: yoo Jd, hows it going my man. I just watched old rigg's weekly interview videos on youtube. Damn mna don't you miss the good old Bloog Legion times? :D
+[0:05:08] WytherOK: brewteafulgaming hello :)
+[0:07:01] ren0m: Good morning
+[0:07:09] ren0m: What's the plan for today
+[0:09:13] homieakaexco: Yah we tried pulling double dragons on 29 last night. Even tho healer was pulling almost 400+ hps still wasn't good enough
+[0:19:15] Perry_TP: did they fix double ticks from that aoe
+[0:20:36] sawako07: double ticks was when u moved with the circle i think
+[0:23:38] KineasRM: kkkkkkkkkkkkk
+[0:24:26] Guffels: that actually looked close enough to be do-able. not sure why you would when the timer is this free though but maybe eventually it will matter
+[0:28:30] MicHawkh: MicHawkh watched 10 consecutive streams this month and sparked a watch streak! PartyHat
+[0:30:43] KineasRM: doable?
+[0:31:04] bartfux: chromie is the most annoying NPC in this game.
+[0:32:19] maarre2000: !talents
+[0:32:21] phnxx87: from what ilvl and key level firemage start to work out?
+[0:32:28] FinkTV: @jdotb hope all is well bro
+[0:33:07] phnxx87: i always see awesome mages but based on pure dmg they are still not that top or so
+[0:39:00] DaVeganPolice: 99.67% LUL oh no
+[0:39:13] kascatm: !giveaway
+[0:39:13] StreamElements: Enter to win a Collector's Edition AMD Ryzen 7800 X3D + AMD Radeon 7900 XTX: https://gleam.io/competitions/CUo05-amd-x-avatar-frontiers-of-pandora-ryzen-7800-x3d-and-radeon-7900-xtx-giveaway
+[0:39:38] Aroty: I see soo many bad resto druids die on that boss
+[0:39:46] GumdropsTSM: +2 letsgo
+[0:39:55] PixiWasTaken: Pog +2
+[0:40:05] sw0ngs: @Aroty key point... bad resto druids
+[0:40:12] Guffels: that was a top 25 world key for Fall grats
+[0:44:14] PixiWasTaken: Madge we do insane damage
+[0:47:23] Guffels: literally dance mr.streamer monkey Thonk
+[0:49:34] blondeads: jb your stream is actually making me want to play healer
+[0:49:38] Guffels: Disney is investing $1.5 billion for an equity stake in Epic Games in its biggest jump yet into the gaming world.
+[0:50:01] Guffels: whos ready to take down tomato town with elsa
+[0:50:15] Aroty: Don't do it!
+[0:51:09] Nonyamuff: You've encouraged me to actually do studying on my priest. After 17 years as holy...guess it's time to actually learn how to play it goodly
+[0:51:52] Nonyamuff: When you don't really try lmao
+[0:52:17] Nonyamuff: Hit button, don't let them die lmao
+[0:52:35] Guffels: lol
+[0:53:29] Aroty: I got my prez to 2900 and just said, nope, screw this class in higher keys.
+[0:53:50] Nonyamuff: I usually just go to KSM then stop
+[0:54:15] Aroty: My destro lock
+[0:54:34] Aroty: I was prez main until this season though
+[0:55:49] Perry_TP: I'm afraid what's gonna happen to the r1 cutoff in EU this week
+[0:55:57] Perry_TP: afraid of*
+[0:56:09] Aroty: Well that was unhealable lol
+[0:56:44] Krlls_: what weakaura is that for talent reminder?
+[0:58:42] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[0:59:56] Aroty: That looks like stressful healing.
+[1:02:31] CyonDru: morning JB
+[1:02:49] ciasiu92: How to set nameplates under feet ?
+[1:11:14] theBroHam: 31 WC POGGERS
+[1:12:01] CyonDru: !nameplates
+[1:12:43] DaVeganPolice: !threatplates
+[1:12:47] DaVeganPolice: something like that idk
+[1:13:19] CyonDru: it’s been so long since someone asked for that under feet nameplate command idr jdotbTrash
+[1:13:36] sybtje: !platere
+[1:13:39] sybtje: !plater
+[1:13:56] Redivna: someone asked yesterday and I already forgot, don't worry LUL
+[1:13:58] CyonDru: perfect execution
+[1:14:09] Perry_TP: !feet
+[1:14:12] CyonDru: lmao
+[1:14:41] CyonDru: !commands
+[1:14:48] NikoG88: :D :D :D
+[1:14:51] NikoG88: fak fak
+[1:14:53] Perry_TP: !help
+[1:14:58] theBroHam: StreamElements on break again
+[1:15:03] CyonDru: !malding
+[1:16:06] crunchygiblets: !base
+[1:16:07] StreamElements: /script SetCVar( "nameplateOtherAtBase", 2 )
+[1:16:14] CyonDru: @crunchygiblets real
+[1:16:35] CyonDru: @ciasiu92 there you go
+[1:16:37] Guffels: i have to check the commands list every time someone asks
+[1:17:37] CyonDru: CyonDru gifted a Tier 1 sub to crunchygiblets! They have given 37 Gift Subs in the channel! 
+[1:18:00] crunchygiblets: @CyonDru Thanks for the gift sub!
+[1:18:42] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[1:18:56] ciasiu92: Thank you so much.
+[1:21:12] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[1:25:40] Whitewolf1441: unlucky :(
+[1:26:10] ancester: SHIT!!
+[1:26:50] Whitewolf1441: bear form!
+[1:27:04] CyonDru: damn nice try
+[1:27:17] Whitewolf1441: chat how long till mdi?
+[1:27:26] Sheepamig: Was looking good until Alma
+[1:27:52] NikaLogy: looking good today jb, unfortunate key really, youll get it next time buddy
+[1:33:01] Sorr08: I guess I should gear my shadow priest again huh?
+[1:39:13] CyonDru: love the no aug keys
+[1:43:50] jan2048: @jdotb Do you mind sharing the route for this run?
+[1:46:16] jdotb: https://controlc.com/da746db9
+[1:48:41] limeoflight: Why stop at 3800? Why not go for 4000?
+[1:55:28] jan2048: @jdotb <3
+[2:03:07] Whitewolf1441: 25 is not ideal
+[2:03:57] sw0ngs: you gonan be cursed with eb forever
+[2:04:11] jan2048: How about giving keys durability? You get 3 tries and then it depletes
+[2:04:23] Cdizzyb: brother anywhere you think is best to grasp the basics of rdruid in keys
+[2:04:36] jan2048: There would be a lot more keys in pug too
+[2:04:53] sw0ngs: yea hopping a lot
+[2:05:09] Celissah: Fyrakk is fun isnt it? :)
+[2:05:09] theBroHam: story of M+ life
+[2:08:54] Sokchoy: is john dot business three thousand eight hundred mythic plus score yet
+[2:09:45] Dogyy666: https://not-even-close.com/ u can check
+[2:10:21] gustavalmer: !wa
+[2:10:25] Sokchoy: did you tell the key that its push week
+[2:11:29] CyonDru: lmao out of context that sounds funny
+[2:11:33] CyonDru: chased by a dog and couldn’t do anything
+[2:11:38] Piaggio: time for a different dungeon KEKL
+[2:12:00] ancester: well that was quick
+[2:12:12] Dogyy666: maybe u can sigil dogs and chain later or?
+[2:12:45] Whitewolf1441: did you get fyrakk yet jb?
+[2:14:01] Sokchoy: oh no wonder youre depleting not running convoke
+[2:15:28] xooniie: :L
+[2:16:01] Sokchoy: jamdotb
+[2:17:25] Whitewolf1441: yo nice trinkets
+[2:17:53] luxumbra69: nice
+[2:17:57] luxumbra69: at least you're quick about it
+[2:18:00] blue321: A key depleted is a future key completed
+[2:18:06] Piaggio: thats effeciency
+[2:18:23] WytherOK: mage portal near teleport
+[2:20:06] fat_european0: !giveaway
+[2:20:07] StreamElements: Enter to win a Collector's Edition AMD Ryzen 7800 X3D + AMD Radeon 7900 XTX: https://gleam.io/competitions/CUo05-amd-x-avatar-frontiers-of-pandora-ryzen-7800-x3d-and-radeon-7900-xtx-giveaway
+[2:27:42] pichuux: tucker interview with putin
+[2:27:46] Sokchoy: ok now turn up the bangers and lets do some puggin
+[2:27:54] pichuux: what effect u think it will have on usa?
+[2:27:56] Whitewolf1441: lmao
+[2:28:07] Whitewolf1441: what happened to deplete all those keys?
+[2:28:10] sw0ngs: strange you guys hopped so much
+[2:28:30] sw0ngs: didnt even get into rhythm
+[2:28:34] REGENAROCKET: rip
+[2:30:00] Whitewolf1441: jb what would you rather happen if you dont time the key?
+[2:30:03] GoodyGodfather: Good Morning sir JB
+[2:30:45] theBroHam: the penalty is wasted time lol yup
+[2:30:46] speels414: yup
+[2:30:54] domz_i: 100%
+[2:31:09] So_0bvious: there should be risk involved. or else timing keys is meaningless.
+[2:31:11] thanertv: 227 raiders from thanertv have joined! 
+[2:31:20] Whitewolf1441: i hate being naive so i realy wanna know what the thought process behind this deplete system
+[2:31:23] Galois_rg: if you deplete a key, you should be able to pay real money in the shop to repair it
+[2:31:23] hacknets: the only thing I didn't enjoy that much about the old way is that you would play hyper aggresive on early parts of the dungeon and hope it played out
+[2:31:26] inspirox: how is it meaningless LOL
+[2:31:28] thanertv: Have a good one Sir
+[2:31:47] nixar1: there were some bosses with limited attempts tho
+[2:31:56] domz_i: Wipe on Mythic boss -> drops to Heroic LUL
+[2:32:06] Rodan_____: holyyyy
+[2:32:17] Sokchoy: funny the took the greater rifts from diablo form M+ but forgot the part about choosing your ke y level
+[2:32:18] vegasza: !giveaway
+[2:32:18] StreamElements: Enter to win a Collector's Edition AMD Ryzen 7800 X3D + AMD Radeon 7900 XTX: https://gleam.io/competitions/CUo05-amd-x-avatar-frontiers-of-pandora-ryzen-7800-x3d-and-radeon-7900-xtx-giveaway
+[2:32:36] So_0bvious: different crowd, different playstyle.
+[2:33:00] NeuroTheGamer: @So_0bvious Yeah you're a bit off base here
+[2:33:01] hacknets: should there be a limit on amount of resets per hour with ur new system?
+[2:33:11] hacknets: I didn't like trying to pull 20 mobs at the start of the dungeon and repeating until it worked
+[2:33:53] Sokchoy: jamdotb where music
+[2:34:02] NeuroTheGamer: @hacknets why would this make sense? players should be able to run it over and over until they figure out what works
+[2:34:14] So_0bvious: everyone should get access to tourny realm for practice and no  score. then you get score on normal servers along with depletes
+[2:34:16] siaulerandom: yeah and cuz of that alot of people being so toxic
+[2:34:25] siaulerandom: because of key derank
+[2:34:36] Wiigglles: @jdotb if next xpan u had the choice of removing affixes or removing buffs or the gated class element of buffs for m+ which would it be?
+[2:34:38] hacknets: @NeuroThaGamer its not about figuring out what works. its about restarting until your hyper aggresive stuff finally works out magicly
+[2:34:43] hacknets: not every key was like that
+[2:34:46] hacknets: but some of them were
+[2:35:00] NeuroTheGamer: @hacknets "works out magically" isn't a thing bud
+[2:35:19] inspirox: sucks when i have to use my paid time off from work on the 1-2 push weeks of a season
+[2:35:19] NeuroTheGamer: no one "magically" times a world first key. it's planned...strategic
+[2:35:27] domz_i: Thoughts on capping key levels and instead turning it into a speed race?
+[2:35:29] Galois_rg: they derive sexual pleasure from it
+[2:35:37] TCancelYO: But would it feel as good timing one then?
+[2:36:08] Wiigglles: if key depletion didnt exist "go agane" would be the saying of the year
+[2:36:25] GoodyGodfather: Good ole homework keys
+[2:36:32] whiskeyhide: Aware tooreal
+[2:36:34] PsYc86: if you put it that way .. yea its bit shit
+[2:36:38] inspirox: you could just learn and queue up with the same group to run the key over too, i dont get blizz
+[2:36:39] hacknets: yeah strategic resetting early on in the key to make sure you've had god rng and everything worked out @NeuroThaGamer
+[2:36:42] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[2:37:00] hacknets: I think I prefer the old system but it might be good to have some guard rails in place
+[2:37:02] Jamba024: @TCancelYO yes because you still have to really good on high keys
+[2:37:11] hacknets: like you can go 4 times per hour
+[2:37:19] theBroHam: what if a different way would be that if the group stayed together you could rerun at same level but if group disbands it depletes?
+[2:37:19] healapotamus: the priests sounded really well thought out yesterday eh?
+[2:37:19] NeuroTheGamer: @hacknets if you really believe that successfully executing a large pull is "rng" then there's little point to this convo
+[2:37:41] hacknets: theres no conversation
+[2:37:47] hacknets: this is how some keys were
+[2:38:08] So_0bvious: there would be less emphasis on skill and executions if you could brute force a key. wouldnt feel as good to time.
+[2:38:30] TCancelYO: But lets say there were no affix, you would just be stuck at a 35key - Agreed when you deplete a key it should not go down a level.
+[2:38:30] PsYc86: when key is failed i really do agree that shouldn't be depleted
+[2:38:38] dithrica: Thought I could pug my 28 BRH cause it was easy mode, theeeeeen healer chain died on first pull and now i'm stuck with a shitty key i don't need and can't get decent people to sign up for. It is indeed agony.
+[2:38:42] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:38:53] jeppsont: what if a key had 3 lives? after 3 depletes its demoted
+[2:39:09] Sokchoy: tgp + mdi not reflecting how keys work remotely in practice is fuckign stupid
+[2:39:14] Whitewolf1441: jb i feel like youre unwashing my brain
+[2:39:15] GoodyGodfather: xDD these chat takes
+[2:39:19] Whitewolf1441: im starting to see the flaws in the system
+[2:39:21] Wiigglles: coz ppl dont want us to be HAPPY
+[2:39:22] NeuroTheGamer: @TCancelYO I think high end pushers want this tho. Because it would be better to be walled by raw throughput rather than annoying affixes taking away from how you play the dungeon
+[2:39:27] Wiigglles: ur not allowed enjoyment in this day and age
+[2:39:33] theBroHam: JB unbrainwashing all of us
+[2:39:36] inspirox: its almost like the difficulty should lie in the key level not the time sink
+[2:39:37] Xenorphz: I require the current tune mr JaydotBowling
+[2:39:46] theBroHam: !song
+[2:39:46] StreamElements: aleos - 1001Tracklists Spotlight Mix
+[2:39:51] Piaggio: you guys would reach the gear-key limit on like week 2 in that case wouldnt you?
+[2:40:01] hacknets: @Sokchoy yeah I agree on this. I would like a MDI mode or TGP mode
+[2:40:12] hacknets: can't relate to MDI at all when its not accessible
+[2:40:16] Suka025: It would be terrible for pugs. Imagine on first wipe/death/hurdle and half you group leaves cos they cant be bothered
+[2:40:18] hacknets: makes it less interesting to watch for me personally
+[2:40:32] Dermonica: are u not afraid that if the key dont deplete,you would cut the lifespan of m+! meaaning u hit the wall of possible keys being able to be executed?
+[2:40:41] Sokchoy: TGP is doing insane opening pulls over and over until it works that you could never try on live
+[2:40:42] CyonDru: i am for keys being capped, and it being a time race eventually
+[2:40:51] litguy97: @Piaggio this would only apply to a handful of people - not the general playerbase
+[2:40:53] Gaemer: I agree with JB. What about running a key till you manage to complete it? I don't like the "deplete, redo- waste time, rotate till you find your key, waste time, unlucky? Deplete again" rinse and repeat, like? stupid af
+[2:41:11] hacknets: running the farm keys is just the  worst
+[2:41:11] Sokchoy: TGP is doing insane opening pulls over and over until it works that you could never try on live 󠀀
+[2:41:13] Harper_n7: How about we stop worrying about people quitting the game faster and worry about getting people to play the game in the first place?
+[2:41:25] CyonDru: @Sokchoy exactly
+[2:41:39] Squirrely88: I've gotten so used to having keepers heal the group for me now while i kitty dps that if they ever take it away my brain is gonna break.
+[2:41:42] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[2:41:46] lfiskerr: yo whats the addon for the dungeons and raids
+[2:42:00] slimshadys_shade: cool
+[2:42:04] hacknets: anyway I definitely think people would get tilted less when you couldn't deplete keys. I think just that would make it be worthwile
+[2:42:10] WytherOK: lfiskerr !wt
+[2:42:14] hacknets: it also allows for greater experimentation
+[2:42:16] WytherOK: !wt
+[2:42:20] nvnto: for some that limit is a 15 Kappa
+[2:42:23] WytherOK: what was that wind tools command?
+[2:42:24] hacknets: I will never bring an offmeta spec to a key that is score right now
+[2:42:30] plbbunny: @hacknets why are poeople afraid of the grind
+[2:42:35] theBroHam: !group
+[2:42:36] So_0bvious: depleting keys keep people playing more and subbing longer. more money for blizz. instead of unsubbing until next season when they reach their key cap
+[2:42:36] WytherOK: !wind
+[2:42:39] theBroHam: !groups
+[2:42:43] lfiskerr: !wt
+[2:42:43] StreamElements: if you use ElvUI use this one https://www.curseforge.com/wow/addons/elvui-windtools | if no ElvUI use this one https://www.curseforge.com/wow/addons/wind-dungeon-helper
+[2:42:48] WytherOK: I typed that!
+[2:42:50] WytherOK: stupid bot
+[2:42:50] Evcon_: would people take it as seriously if there was no penalty to not timing a key?
+[2:43:11] WytherOK: Evcon_ yes they would
+[2:43:12] CyonDru: that is such an odd take
+[2:43:15] nvnto: YEP they log out
+[2:43:22] flipeex: that literally happens yea
+[2:43:22] So_0bvious: but they dont
+[2:43:23] rooneycs: YEP
+[2:43:25] Gaemer: @So_0bvious If people already are pushing, theyll keep subbing because theyll keep pushing.
+[2:43:25] rooneycs: i do that always
+[2:43:35] plbbunny: Fortnite is a young man's ggame, wow is for the old like us
+[2:43:41] Wiigglles: if the key didnt deplete u would fail and just go agane and agane until u time it
+[2:43:42] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[2:43:43] Harper_n7: M+ run log numbers say they don't keep trying..
+[2:43:45] CyonDru: would rather keep trying my key then havnig to brnig it back up
+[2:43:48] anaya909: i said at the start of SL they'd reach a tipping point where instead of being forced to do chores, people would decide it's not worth it and unsub
+[2:43:51] So_0bvious: lol touche
+[2:43:55] hacknets: I think they should make keys as fun as possible. I think the depleting aspect makes it much less fun. You can argue that it's more exciting when a deplete is on the line, but in practice its not
+[2:43:55] rooneycs: every key i depleted i alt f4 and go play cs
+[2:44:09] anaya909: same thing with depleting keys.  people reach a point where they don't care enough to push them up again
+[2:44:25] TCancelYO: But you logon the next day :D
+[2:44:28] sw0ngs: lol bro suddenly just wanted to get food.... literally meant fuck this shit haha
+[2:44:41] fuchai: for the day, not the season, Thats the difference
+[2:45:01] CyonDru: i dont understand how could ppl defend depleting
+[2:45:03] hacknets: m+ in the current form doesn't produce enough buttclenching moments. I don't think its worth the tradeoff
+[2:45:04] So_0bvious: So_0bvious subscribed with Prime. 
+[2:45:15] fuchai: if you finish out the season you are more inclined to unsub until next season
+[2:45:34] dilweed88: @hacknets this statement made me chuckle
+[2:46:01] Squirrely88: yeah because pushing higher does nothing but give you imaginary dragon points so people will always hit a wall in their head where there is no reward why o it.
+[2:46:30] theBroHam: that sounds cool ngl
+[2:46:35] So_0bvious: @fuchai this
+[2:46:43] Jamba024: @hacknets what key levels do you play ?
+[2:46:49] PsYc86: why not both.
+[2:46:49] hacknets: @dilweed88 yeah I mean rarely do you find yourself questioning whether you're gonna time it. that adrenaline only comes in at the very last moment. I think that still exists without  the key depleting. I don't really think about depleting
+[2:46:49] CyonDru: would def prefer key caps, no depletes and going for fastest time
+[2:46:57] Harper_n7: Kind of like how Season of Discovery works with the BFD raid. It's not about how hard it is, it's about how fast can you do it and can you do it faster than others
+[2:46:58] CyonDru: much healthier system
+[2:47:11] Nico_vdM: Hi @jdotb and chat
+[2:47:13] CyonDru: and it would likely encourage some to play diff characters and roles
+[2:47:16] fuchai: they may but its a very very small group of people that actually care about shaving less time.
+[2:47:23] Sokchoy: only man to beat gingi on LAN
+[2:48:09] Mykorrhiza13: Mykorrhiza13 subscribed with Prime. 
+[2:48:24] fuchai: but the MDI is all about saving time though. Like by definition
+[2:48:25] Nico_vdM: What if we had the ability that was available in challenge mode - where the leader could reset the key if it wasnt yet depleted yet.  So if something went wront you could get a do-over
+[2:48:26] TCancelYO: Bro i would love to watch time trails
+[2:48:36] CyonDru: and thats how live should be
+[2:48:41] Nico_vdM: wrong*
+[2:48:44] fuchai: LIve is about gearing up for the most part
+[2:49:15] hacknets: @Jamba024 27/28/29. what I meant is that just because key depletes exist. that doesn't make me more excited
+[2:49:21] kelly_mac06: some of the most talked about MDI stuff is the insane pulls
+[2:49:24] Piaggio: if the carrot goes from level to time surely the aoe cap needs to be looked at then xdd
+[2:49:25] kelly_mac06: and crazy routes
+[2:49:26] Mykorrhiza13: Best and healthiest take I heard in a while, @jdotb
+[2:49:32] Butters364: I am at the point where i need only certain keys to push my io and when i brick those keys now im like well fuck it im done cause i dont need that  key at that lower lvl So speak That Truth I am here for it
+[2:49:34] CyonDru: who is pushing high keys to get gear KEKW
+[2:49:40] fuchai: what if they gave you a key that gave no loot BUT it wouldnt go down
+[2:49:47] fuchai: so like a seperate key
+[2:49:47] inspirox: @hacknets character name?
+[2:49:48] Whitewolf1441: sick of dishounorable stats in mdi
+[2:49:50] laedine: What do you gain from hitting 3800? Hope you get there man - so close.
+[2:50:13] Whitewolf1441: lmao
+[2:50:18] So_0bvious: oof
+[2:50:33] CyonDru: an additional hair on his chest
+[2:50:40] Icecoldeskilzz: do u think 3650 is gonna be enough for title this season?
+[2:50:42] maggotbrn: maggotbrn subscribed at Tier 1. 
+[2:50:45] TrustTheScience: kids be like "are ya winning dad?"
+[2:50:49] hacknets: @inspirox -\
+[2:50:54] Dermonica: So if the big take is that ppl get angry cause they brick keyes needed for their rio,just make it so every key rewards points, bricked or not bricked
+[2:50:57] yipzen: am I crazy to think they should add to the great vault coin vendor an item that instead of giving you a socket, it is an avoidance or leech enchant for pieces of gear?
+[2:51:13] Dermonica: just a smaller amount ofc
+[2:51:21] turabdin: @Icecoldeskilzz now is 3582.3
+[2:51:35] CyonDru: @Dermonica it worked like that before and it was dumb imo
+[2:51:45] inspirox: @hacknets it's pretty straightforward question lol its okay
+[2:51:47] Galois_rg: bricking brings me sexual pleasure
+[2:51:47] Whitewolf1441: we have been conditioned
+[2:51:51] bengreen__: thats how it was in season 1 of df
+[2:51:54] plbbunny: @Galois_rg truth
+[2:51:58] Icecoldeskilzz: turabdin: okey
+[2:52:01] Shkafche: depletion will make sense if u also lost RIO like in pvp
+[2:52:04] hacknets: it is @inspirox
+[2:52:08] Sokchoy: deplete my balls
+[2:52:12] laedine: You mean try the same key over and over again? Makes sense
+[2:52:15] CyonDru: @Sokchoy depleting
+[2:52:18] Shkafche: but then noone will play it XD
+[2:52:18] Veith91: @jdotb do you play other trinkets for TOTT in fort week for the heal absorb?
+[2:52:20] Whitewolf1441: @jdotb what if a person realizes this is above their skill level and wants to go back?
+[2:52:26] bengreen__: I wish you would lose all equipped items if you depleted a key
+[2:52:30] CyonDru: @Whitewolf1441 ?? you talk to the vendor LOL
+[2:52:32] theBroHam: you can already drop
+[2:52:35] CyonDru: jesus christ
+[2:52:36] Dermonica: because depletion or another form of m+  one will always hit a brick wall
+[2:52:44] yipzen: @bengreen__ they talk to the panda and lower it
+[2:52:45] Nico_vdM: @Whitewolf1441 you can use the npc to lower it
+[2:53:04] theBroHam: if you could pick the level, but no higher than what you've already completed
+[2:53:06] sw0ngs: tthats called TR xD
+[2:53:12] Whitewolf1441: oh theres already an npc xD didnt know that
+[2:53:25] devilhawk83: chrysCry I rather see depletion removed as it feels bad when a run goes well and because of a bad pull, the key gets bricked
+[2:53:43] hacknets: Even if theres upsides to depletion, its pretty hard to put your finger on it. I know what the downsides are but its pretty hard to make the case for upside.
+[2:53:53] Luderkarljohn: Is this a kinda ''new'' main team ?
+[2:54:06] Luderkarljohn: Believe I saw Encysia playing with other people before?
+[2:54:25] hacknets: valicera l o l
+[2:54:27] viinlox: picking your key lvl would surely make pugging easier
+[2:54:29] yipzen: Just like Diablo 3, you want to do a 130 key? Good! You fail? Get out and try again or lower it if you want to.
+[2:54:33] So_0bvious: glhf
+[2:54:52] devilhawk83: I remember Towelliee said the best M+ system for keys was in the PTR when you can pick your own affixes
+[2:55:04] hacknets: beta is most fun
+[2:55:05] devilhawk83: chrysSipsTea I would be all for it
+[2:55:09] Piaggio: maybe hes right guys, we can even out raid and m+ so that when you wipe on fyrakk you have to kill tindral again KEKW
+[2:55:28] theBroHam: raiders would revolt XD
+[2:55:37] healapotamus: if people want to be punished for failing a timer they could always just lop off one of their fingers
+[2:55:47] inspirox: yes please add depletes to raid make them reclear every week
+[2:55:51] hacknets: only put fort and thundering the entirety of df beta
+[2:55:51] healapotamus: that’s motivate them
+[2:55:53] hacknets: it was better that way
+[2:55:55] So_0bvious: huge first pull. 1  death
+[2:56:10] inspirox: makes fyrakk more enjoyable when u can't lockout :))
+[2:56:15] Nico_vdM: Just add 50 tries per lockout for mythic and call it a day KEKW
+[2:56:16] hacknets: add thundering to fyrakk
+[2:56:27] sw0ngs: Think there needs to be some sort of penalty for "deplete". Maybe should have to spend crests to not deplete the key or something.
+[2:56:39] healapotamus: make them start the whole raid over if they wipe
+[2:56:48] healapotamus: now were cooking
+[2:56:48] inspirox: @sw0ngs why does their have to be a penalty?
+[2:56:55] theBroHam: But why does there need to be a penalty for depleting? You wasted time and got mad. That's enough for me
+[2:57:08] theBroHam: Then the game isn't as fun
+[2:57:24] inspirox: depletes also cause picky asl groups since people are punished for not bringing 4 ppl that have timded the key
+[2:57:43] sw0ngs: @inspirox incentive to not fail
+[2:58:08] hacknets: succeeding is an incentive to not failing
+[2:58:10] GoodyGodfather: @inspirox There already is an incentive not to fail
+[2:58:13] fuchai: I think people forget what makes the game fun is the difficulty of content. Remove that and you will remove the fun in doing it. If something is easier the enjoyment of completing it is lessened.
+[2:58:18] theBroHam: not wasting my time is my incentive. Doesn't need to be an additional thing
+[2:58:18] Shkafche: mby deplete just doesnt give u items at the end of key , but lvl stays the same -> wasnt it in legion (didnt play) that u deplete a key it stays the same but doesnt give loot or smth ?
+[2:58:26] viinlox: @inspirox blizz probably wants people to grind more
+[2:58:27] Shkafche: but deplete needs to go
+[2:58:42] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:58:43] fuchai: If you think im wrong, explain why hes pusing 3800
+[2:58:50] inspirox: @viinlox people grind more when they're not punished for grinding
+[2:58:58] CyonDru: @fuchai whats so difficult about depleting a key
+[2:58:58] devilhawk83: I like to see them remove Sanguine, Spiteful, Incorporeal, nerf Bursting, bring back encrypted and awakening and come up with new affixes that are fun but also adds a bit of a challenge
+[2:59:07] CyonDru: you literally just watched them all share depletes of their keys
+[2:59:08] CyonDru: and log out
+[2:59:17] CyonDru: if that isnt showing you something then you are not aware
+[2:59:18] theBroHam: @Shkafche like the idea, but doesn't work with the current vault system, since some people just run for completion for the vault spot
+[2:59:25] fuchai: stakes are higher when you know you can deplete
+[2:59:37] CyonDru: lmao
+[2:59:38] hacknets: it doesn't feel that way at all
+[2:59:39] fuchai: reward is higher as well
+[2:59:44] CyonDru: what reward
+[2:59:47] CyonDru: fake points
+[2:59:48] CyonDru: or what
+[2:59:49] Whitewolf1441: vortex is just a suggestion
+[2:59:50] OrganicJKW: @fuchai I would counter with simply saying the vast majority of WOW players aren't doing difficult things and they still log in and enjoy the game. None of my guild members do any M+ or raiding at all and they love the game.
+[2:59:52] fuchai: IO in his case
+[3:00:11] Shkafche: @theBroHam yeaaah tru , but vault is max 18s anyways - i guess ppl r more talking 20+ (thou depleto on any lvl just sux)
+[3:00:19] fuchai: their enjoyment comes from  different aspect
+[3:00:44] CyonDru: they should cap key levels, have no depletes and ppl should go for fastest to max key cap and fastest times etc. healthier system and would promote ppl to play other roles and classes that they may not necesarily be able to enjoy because of the current system
+[3:00:52] hacknets: need to start tweeting now. DAY 421. daily reminder to remove depletes from m+
+[3:01:04] CyonDru: have titles for x amoutn first to the key cap and then more rewards for fastest times in certain level brackets
+[3:01:14] CyonDru: it could be so much better
+[3:01:35] CyonDru: current rewards and the system as a whole is shit and promotes unhealthy play and gives an even more so unhealthy enviorment
+[3:01:43] Nico_vdM: The cap can start low ~24 at start of season and go up as power increases
+[3:02:02] CyonDru: i mean the cap can be whatever they choose. tuning will have to be done
+[3:02:11] CyonDru: ppl focus too much on a level of a key that level literally doesnt matter
+[3:02:35] devilhawk83: Wish Blizzard would listen but as the usual, they will do things when it is out of control instead of being proactive and do it much sooner @cyondru
+[3:02:37] Shkafche: @CyonDru aint it more the score that comes from it thou
+[3:02:39] theBroHam: it would be cool to cap at like 25 then see people try to run it faster and faster
+[3:02:53] CyonDru: @Shkafche score and tuning can be adjusted
+[3:03:09] hunterzx: people that want to do that can go do MDI
+[3:03:12] fuchai: people are more about how high a key was then the seconds shaved off
+[3:03:14] RedxZone13: capping the level of the dungeons you can do would get old extremely quick
+[3:03:14] Shkafche: yep like it was before u got score from only one week etc
+[3:03:18] CyonDru: i think anywhere from 25-30 would be a reasonable cap
+[3:03:26] CyonDru: @fuchai because that is all they know
+[3:03:31] CyonDru: ppl also go crazy when ppl 2 chest 29s
+[3:03:38] fuchai: well it is what it is
+[3:03:39] hunterzx: nothing stops someone from forming a group of like minded individuals and exclusively speedrun keys
+[3:03:44] devilhawk83: Like most of time, Blizzard’s mindset is somewhere out in the 5th Dimension
+[3:04:01] CyonDru: @hunterzx depleting does and that is not the base of the current system
+[3:04:03] CyonDru: so why would they
+[3:04:04] Shkafche: @CyonDru yeeah keep boss HP to go up but not the damage they do to you after lets say 27/28s ?
+[3:04:08] theBroHam: we can only hope the new expac will bring some change...
+[3:04:32] fuchai: if i see echo with a 10 sec time shave, unless i watch their key i have no idea HOW they did it BUT i i see they timed  key 1 higher than everyone else i know just from that that it was harder
+[3:04:35] theBroHam: i know that's copium
+[3:04:38] CyonDru: idk we can agree to disagree on time trial esq type stuff but supportign depletion is stupid
+[3:04:46] ciasiu92: Which Battle potion do you use ?
+[3:04:50] dyntish: @jdotb What should I take Iridal, ring of contemt or coagulated blood? all can be upgraded to 489
+[3:04:59] CyonDru: @dyntish iridal no cap
+[3:05:10] devilhawk83: I got no faith for now till the Beta comes out, and only then we can only hope some changes will come to the M+ scene
+[3:05:21] theBroHam: same
+[3:05:29] GoodyGodfather: I am hoping they cook up some juice shit for fated
+[3:05:36] CyonDru: i personally really enjoy the game atm but there are still stuff to be done better
+[3:05:42] dyntish: Although I got sols staff 489
+[3:06:13] theBroHam: @dyntish i mean, sim it, but iridal is really good
+[3:06:18] Luderkarljohn: Can someone enlighting me why they turn right after the big first pull?
+[3:06:29] Luderkarljohn: I mean to clear the path onward for 2nd boss
+[3:06:41] fuchai: also i think blizz talked about why they have a deplition. I think the reason they gave is because its spammable content
+[3:06:45] fuchai: if im not mistaken
+[3:06:59] 튀매: !wa
+[3:07:00] StreamElements: all my weakauras https://wago.io/p/jdotb
+[3:07:32] CyonDru: @fuchai a poor reason if so. you can also spam the same key
+[3:07:46] fuchai: you can but if you fail your key goes down
+[3:07:52] Shkafche: yeah but their reasons r BS sry, like why feral needs to change form to rez, cuz friction ? o.O huh
+[3:07:52] fuchai: so there is a give and take
+[3:08:11] CyonDru: i dont think anyone wants to go down in a key if a small mistake happens
+[3:08:34] fuchai: if you are pushing super high keys then you have to be perfect
+[3:08:41] fuchai: but thats the game you play with them
+[3:08:53] CyonDru: have to be perfect but ppl are having 20 deaths and timing 29s
+[3:08:58] CyonDru: KEKW
+[3:09:20] fuchai: seems like a forgivable timer then
+[3:09:20] plbbunny: despair
+[3:09:25] fuchai: thats tuning issue
+[3:09:47] odeonx10: What happened to mythic fyrakk prog?
+[3:09:53] lfiskerr: !tw
+[3:09:55] odeonx10: deadge?
+[3:10:15] lfiskerr: !wt
+[3:10:15] StreamElements: if you use ElvUI use this one https://www.curseforge.com/wow/addons/elvui-windtools | if no ElvUI use this one https://www.curseforge.com/wow/addons/wind-dungeon-helper
+[3:10:43] fuchai: but that also comes down to dmg though, so lets say they had alot of deaths BUT the groups damage is insane, the dmg will make up for the deaths
+[3:11:11] viinlox: did toxic bloom go off?
+[3:11:12] smoothlol: no one kicked?
+[3:11:35] Vixizfx: good to know its not just my 26's that can't kick
+[3:11:36] So_0bvious: oof
+[3:11:42] viinlox: big rip
+[3:11:50] RedxZone13: u h8 2 c it
+[3:12:19] So_0bvious: nt
+[3:12:52] odeonx10: jb, fyrakk prog when. Or did I miss it
+[3:13:04] luxumbra69: frost super good on fort spiteful imo
+[3:13:10] odeonx10: yay
+[3:13:17] luxumbra69: keeps your melee from being too dumb
+[3:13:19] ren0m: Where are you at with points now?
+[3:13:23] ren0m: IO points
+[3:13:24] Whitewolf1441: btw jb are you feeling better about fyrakk prog since nerfs?
+[3:13:30] theBroHam: @ren0m 3795 still
+[3:13:31] TanaseDragos: You value more crit over mastery after haste/vers?
+[3:13:45] ren0m: Damn close @theBroHam
+[3:14:34] ren0m: Does Raider.io ever send gifts or something to the top-rated players? Like Riot used to for top players in League?
+[3:14:41] Whitewolf1441: oh yeah i tuned in to a really mad raid leader haha
+[3:14:41] ren0m: Jackets, bags, etc.
+[3:14:46] fuchai: First it was level, then gear, then teir, then GS, then mounts, then IL now its IO
+[3:14:53] Sokchoy: liar mfer is having a great time jamming
+[3:15:05] dragona92: @ren0m U do realize raider.io is not blizzard like riot is fo league of legends, right? KEKW
+[3:15:05] theBroHam: we have evidence
+[3:15:22] ren0m: I do realise that
+[3:15:33] Lara_TV_: I share your feeling, but just as a reference, we made very little progress on our 1st night of the week, and then killed it within 1 hour on our 2nd night
+[3:15:51] Lara_TV_: You see so little of p3 that it really is a joke
+[3:16:21] Lara_TV_: Nope, we had gotten there like twice
+[3:16:59] ballsoutboneyartistic: phase 3 should prog very fast after nerfs so once you get there the light is at the end of the tunnel
+[3:17:02] Whitewolf1441: I feel like you can tell what the issue is from logs no?
+[3:17:05] fuchai: mythic raiding = herding cats
+[3:17:09] Lara_TV_: I see I see, still doable imo cause there were also considerable p2 nerfs
+[3:17:18] Lara_TV_: Unless your issues are around cages/knocks
+[3:17:23] Lara_TV_: Those just need to be done right
+[3:17:34] ballsoutboneyartistic: are you falling over to adds getting casts off?
+[3:18:42] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[3:19:22] ballsoutboneyartistic: oh yeah we did struggle with blaze movers there
+[3:21:10] Tharayel: hey JB, You think the EB +29 is doable this week?
+[3:21:12] Sokchoy: dance party?
+[3:21:13] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[3:22:29] RedxZone13: Saw Andy trying to do like the first 5 packs of EB on a 31. Couldnt quite get it cause of the stingers tho.
+[3:22:38] Tharayel: the +30 is done only by Seraphinexd i think, but hey... hoipe to see You bounce back
+[3:23:23] Lothland: I mean the core is getting pretty "old" by gaming standards
+[3:24:07] Lothland: True, but the time investment to stay at world first is harder as you get older. Unless it's your job (and a lot don't stream)
+[3:24:08] Snaaade: Do you play anything but rdruid and disco?
+[3:24:14] RedxZone13: I mean take Wowgrandma for example, shes like 80 or something and just hit 3k io
+[3:24:14] Lara_TV_: The benefits of "youth" for esports are usually overstated anyway, but for Wow pve in particular, it has even less of an impact imo
+[3:24:47] Lothland: oh it's not an age/skill thing, it's a having time thing
+[3:25:52] Lara_TV_: Yeah I can see that
+[3:25:53] AnnaXOXD: I think it's called neuroplasticicty
+[3:26:04] AnnaXOXD: happythoComfy
+[3:26:20] whiskeyhide: @AnnaXOXD yeah pretty sure youre right
+[3:26:29] Whitewolf1441: i feel like you know too much about fortnite, any confessions? :P
+[3:27:00] totalecl1pse_: booger
+[3:27:01] speels414: buga or something
+[3:27:03] Whitewolf1441: wow his parents must be happy
+[3:27:04] Celissah: What about if you can buy like a  "enchant" with Token of Merits to save a the key from deplete if you enchant the key with it. But it only works for 1 deplete. So you should be able to get 6 depletes on 1 key if you take the 6 token of merits.
+[3:27:21] speels414: *bugha
+[3:27:27] CyonDru: how bout just no depletes
+[3:27:30] CyonDru: what are these bait takes
+[3:27:30] Whitewolf1441: i hope he doesnt squander it
+[3:27:50] caradea_: even if he does, why not
+[3:29:26] Whitewolf1441: i just hope he has wise people around him
+[3:29:30] caradea_: i mean it's similar to olympic champions, isn't it? a lot of them are also quite young
+[3:29:42] theBroHam: yeah, parents who can help him take care of the money
+[3:30:02] caradea_: true yeah
+[3:30:47] toastbam: well its similar to like child stars. they get famous, make a bunch of money. but its like not theirs. and its just kinda over after that
+[3:31:10] Whitewolf1441: @toastbam exactly what came to mind
+[3:31:11] arcturio77: Faker is gonna play LOL till he's 40
+[3:31:29] hunterzx: faker is going to win everything in lol till he's 40, ftfy
+[3:31:38] Whitewolf1441: the other problem with child actors is the abuse they see from greedy parents
+[3:31:57] Whitewolf1441: good point
+[3:32:37] hunterzx: maybe a bunch get lucky like with some harry potter cast. but it must be tough growing up being a world-wide superstar idk
+[3:32:39] toastbam: how many child stars can you think of that dont grow up hella messed up
+[3:32:46] caradea_: you could say the same about kinda every young person that started early... image it's quite hard to find the balance as a parent
+[3:32:57] Whitewolf1441: we should unnormalize that
+[3:33:43] Morningstartt: jedithBongo jedithWave
+[3:33:43] theBroHam: i was a model when I was 3-5 and they wanted me to stop going to school and do only modeling and my mom was like no thanks, being a child is more important
+[3:34:47] caradea_: i actually wish my parents would have pushed my to try out more as a kid
+[3:34:54] caradea_: *me
+[3:35:14] Whitewolf1441: did you see the 2 year old that got admitted to a genius school?
+[3:35:19] Whitewolf1441: fascinating to see
+[3:35:20] allardian_games: there are plenty in history, it's common
+[3:35:33] Sokchoy: is the next activity raid
+[3:35:45] theBroHam: @Sokchoy ye
+[3:35:49] bebincalicious: His good looks will carry him through college xdd
+[3:35:50] Sokchoy: lets gooo
+[3:35:56] realnzall: The sad part is that some parents do agree to that deal, and the kids are worse off for it
+[3:35:58] dragona92: !giveaway
+[3:35:59] Sokchoy: maybe he will remember to turn on the jams before he gets depressed this time
+[3:36:03] ReallyHandsome: ReallyHandsome subscribed at Tier 1. They've subscribed for 46 months! 
+[3:36:29] Snaaade: Can we see your clique tab ?
+[3:37:26] Atherions: If you had not done it you would not have realized how much better healing M+ is
+[3:38:09] Whitewolf1441: aw
+[3:38:10] Morningstartt: when is the next push week
+[3:38:24] Morningstartt: i wanna do some 30s with my dh i have 20% avoidance jb KEKW
+[3:38:42] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[3:38:49] toastbam: i can relate with that. being an overweight kid changed what i thought i could do.
+[3:39:06] topazz12: this and next week last pushweeks before big decline of players i feel
+[3:39:11] Morningstartt: this weekend then pog
+[3:39:14] Perry_TP: aug is mandatory next week right
+[3:39:15] realnzall: What makes a good push week?
+[3:39:31] aveccwow: Hey, what healer other then druid do you like to play in mythics?
+[3:39:43] weedyy22: @jdotb starting my M+ session today soon, im unsure if i should just play standard m+ build or go treeform? playing 29s ...
+[3:39:51] Sokchoy: a push week is defined as a week where you dont need to change talents
+[3:40:15] luxumbra69: incarn feels so good as a safety
+[3:40:23] bebincalicious: Starting to like Tree Form on Fort week
+[3:40:35] caradea_: @weedyy22 i picked up treeform and quite like it tbh
+[3:40:40] weedyy22: can u share your talent build i will try
+[3:40:48] Whitewolf1441: btw jb important question, in raids do you save innervate for tree form or how do you go about it?
+[3:40:51] hunterzx: i think nothing kabooms my mental as much as joining a key and internet dying mid-way, and getting flamed because of it
+[3:40:53] jdotb: BkGAORarfDaLt4uMx8TYOtl8G0IJ0ISSIlkIcgUoplWSAAAAAAAAAAAAABhkIIIhEkEJJHIQaAAAAAAICAASC
+[3:41:12] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[3:41:13] luxumbra69: doesnt tree reduce mana cost?
+[3:41:16] aveccwow: !talents
+[3:41:21] aveccwow: !talent
+[3:41:34] weedyy22: @caradea_ yeah will try it aswell...
+[3:41:43] mWallyOG: Thoughts on Spring Blossoms? Notice you opt for Budding Leaves instead
+[3:41:48] weedyy22: tree reduce mana so i wouldnt press inervate in treeform
+[3:42:14] Sokchoy: cool when raid when raid
+[3:42:43] GrumpyKale: did you see the druid hero talents?
+[3:43:12] cucumbertoessniffa: is this motley crue
+[3:43:13] RedxZone13: speaking of hero tree talents, the priest one is insane
+[3:43:26] cucumbertoessniffa: the intro to kickstart my heart
+[3:43:39] Snaaade: How is mistweaver compared to rdruid? I love my druid, and the "joke" about monks needing 2 keyboards kinda makes me dont wanna try xD
+[3:43:48] cretorstv: did u get 3800?
+[3:44:10] Jrbgarcia14: @w4dafak it's not that bad bro wtf lol
+[3:45:54] ren0m: So like Dragonflying talent tree?
+[3:46:06] Sokchoy: yes it gets fully filled out by max level
+[3:47:37] theBroHam: so an insane dr
+[3:48:48] Phasedr: allegedly its just a buff that doesnt get spent
+[3:48:59] Phasedr: so if you sotf wg you instead rg > sm > wg
+[3:49:02] Phasedr: and the wg will be buffed
+[3:49:04] CyonDru: you rg and smend the rg for the max stack so the WG is juiced
+[3:49:05] holako11: its the grove damage make u get healign ncrease
+[3:49:43] CyonDru: @phasedr jdotbComfy
+[3:50:26] Phasedr: alo
+[3:51:01] dsune_: whats your take on the hero talents for bamkin?? good?
+[3:51:11] Nitruos: it makes it sound like u have to pick up the petals for the healing
+[3:51:12] CyonDru: @dsune_ LUL
+[3:51:16] Nitruos: dps moving to get a heal lul
+[3:51:53] Phasedr: the number on wrath is just too low
+[3:51:56] dsune_: 45s ads nvm ig..
+[3:51:57] Phasedr: that shit needs to be like 500%
+[3:52:18] NikaLogy: real phasedruid?
+[3:52:22] Phasedr: yeah....
+[3:52:22] CyonDru: any primers @dsune_
+[3:52:23] NeuroTheGamer: NeuroThaGamer subscribed at Tier 1. They've subscribed for 2 months! 
+[3:52:43] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[3:53:01] Sokchoy: hmm a few too many druids in here for my taste
+[3:53:08] dsune_: @CyonDru yeah i spent it on tettles
+[3:53:13] Bladetykon: @jdotb what is the WA that tells you where to cast your blessings as paladin?
+[3:53:18] NikaLogy: we might need to start a genocide sokchoy
+[3:53:19] weedyy22: will this be added to the other talent tree or is this the rework for the "old" oibe
+[3:53:22] weedyy22: obe
+[3:53:24] weedyy22: one
+[3:53:28] CyonDru: @nikalogy jdotbHmm
+[3:53:50] ren0m: @Bladetykon https://wago.io/summerHelper
+[3:53:50] CyonDru: @sokchoy need to rename to dokchoy
+[3:53:51] Nitruos: you'll get all of these as well not just one path
+[3:54:01] aveccwow: aveccwow subscribed at Tier 1. They've subscribed for 4 months, currently on a 1 month streak! 
+[3:54:01] sw0ngs: hard to make any comments if you can't compare it to the feral combo
+[3:54:14] Sokchoy: @CyonDru maybe when druid is playable
+[3:54:15] sw0ngs: then you can really compare which would be best
+[3:54:25] Nitruos: likely the feral one has dots/hots as the focus
+[3:54:28] CyonDru: @sokchoy NotLikeThis
+[3:54:43] Sokchoy: where are jams
+[3:55:19] CyonDru: I hope wildstalker focuses on rejuv
+[3:55:25] Phasedr: wildstalker will have circle and draught
+[3:55:36] weedyy22: catform
+[3:55:37] dsune_: treants in common (played once entire expansion on a single boss if you were sweaty)
+[3:55:41] theBroHam: i wonder if that will be more dps focused
+[3:55:57] Sokchoy: i wonder what the similarity between disc and holy is (they both press PI)
+[3:56:05] weedyy22: talents to boost catform stuff id guess
+[3:56:27] NeuroTheGamer: suppose it would be all HoT/bleeds or more of a damage resto angle?
+[3:56:54] verzin_: what if we can cast regrowth in cat form
+[3:56:59] CyonDru: I mean it doesn’t have to be full into key oriented. can be good for both
+[3:57:00] dsune_: why is the streamer talking about druid when on mythic fyrakk as priest??
+[3:57:12] Sokchoy: STREAMER PLEASE TURN UP THE JAMS
+[3:57:14] CyonDru: @verzin_ peepoWave
+[3:57:22] verzin_: hi daddy
+[3:57:30] CyonDru: oWo
+[3:57:36] Sokchoy: jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ
+[3:58:20] nellfin: !giveaway
+[3:58:27] speels414: lol
+[3:58:33] BillGatesPaidForCovid: is spriest any good?
+[3:58:46] Nitruos: does feral like convoke more than balance
+[3:58:46] theBroHam: ahh, the good old toilet epiphany
+[3:58:54] speels414: ^ lol right
+[3:59:20] frazlord: Did y'all lose a lot of progress swapping in the new mistweaver?
+[3:59:37] xand3rith: they could also do like on the pally tree thats been reveild and make up a shit button to add
+[4:00:00] frazlord: Is Moo back to 21st man?
+[4:01:03] Sokchoy: gangsters paradise back to where we ended last night
+[4:01:20] wadexxxwilson: my favorite time of the day
+[4:01:22] wadexxxwilson: fyrakk prog
+[4:01:35] CyonDru: @wadexxxwilson real
+[4:01:41] theBroHam: jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ
+[4:01:43] Phasedr: my thoughts and prayers are with you mr bald
+[4:01:53] RedxZone13: Does that go have 2 leggo axes? lol
+[4:01:55] wadexxxwilson: @CyonDru the best entertainment for work LMAO
+[4:01:56] RedxZone13: guy*
+[4:02:02] maenkins: p3 gamers tonight?
+[4:02:12] theBroHam: just a tmog
+[4:04:03] weedyy22: JB why are u not pushing on disci isnt shielding big this season
+[4:04:07] theBroHam: now we're talking!
+[4:04:07] Sokchoy: jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ jamdotb peepoDJ
+[4:05:55] speels414: tempted to boost a monk or druid. any suggestions? I have a prevoker and wanted to try a diff healer
+[4:06:18] theBroHam: both are good right now
+[4:06:30] Rman666: heeey whatsup jb how u doing?
+[4:07:00] speels414: good to know, ty.
+[4:07:06] flawlesslykun: @speels414 i haven't tried mw since the rework, but i can tell u resto druid is a lot of fun
+[4:07:48] speels414: yeah leaning toward a druid atm, looks fun af
+[4:08:40] pinkpandarawrrr: !song
+[4:08:41] StreamElements: Cloverdale - This Is High Octane Tour
+[4:10:01] Godsban3: hey you found a MW
+[4:11:26] savagedoodle: this mix is lit
+[4:18:56] ChestHairNibbler: what happens if u soak the bubbles coming out of the rift? everybody doging but jb just tanks them and nothing happens
+[4:19:23] Darkelment: you die
+[4:19:35] ChestHairNibbler: but why didnt he?
+[4:19:35] khebul: @ChestHairNibbler 1 mil damage per orbie
+[4:19:39] Darkelment: he has spell bop
+[4:19:47] ChestHairNibbler: ah k ty
+[4:22:12] Ok_Kingston: Ok_Kingston watched 15 consecutive streams this month and sparked a watch streak! 2 weeks of stressin!
+[4:22:33] kelly_mac06: okay im here to see a one shot
+[4:22:35] kelly_mac06: let's get it
+[4:22:38] i_sogeking: that happens when you have the old tiers liquid WA
+[4:22:44] i_sogeking: it renames it to liquidwa 3
+[4:25:03] Samppson: do you like raiding as disc?
+[4:31:28] Sokchoy: gotta turn the beat up my man or you never will
+[4:33:30] Etherios_Prime: Whats the best attempt?
+[4:38:53] theBroHam: like 55% i think
+[4:43:18] Nonyamuff: Oh yay, Fyrakk again
+[4:44:10] theBroHam: i don't know if JB has ever been accussed of being too nice
+[4:47:49] chaigy: chaigy subscribed at Tier 1. They've subscribed for 62 months! jdotbHypers only 1 exam away for this semester to be finished
+[4:49:01] chaigy: KEKW
+[4:49:06] chaigy: Bro i'm in my 5th semester
+[4:49:06] theBroHam: called out lol
+[4:49:23] chaigy: Because i've been in High school before?????
+[4:49:58] chaigy: I started subbing like few months before high school finals
+[4:50:37] chaigy: then 2 years where i worked / studyied something else and now in my 5th semester
+[4:51:59] chaigy: so in conclusion: yea exams have been happening for over 5 years for me KEKW
+[4:53:45] YdenTV: YdenTV subscribed at Tier 1. They've subscribed for 69 months! NICE
+[4:55:43] chaigy: nice @YdenTV
+[4:59:17] whitewolfstarcraft: Is your opinion what class is the best for m+ this season ?
+[5:00:48] joshy_the_dragon: !playlist
+[5:11:03] Fowly: What would you rather do: prog Fyrakk or go for a run?
+[5:19:21] Rypick: speed run music right here
+[5:20:39] pinkpandarawrrr: !song
+[5:26:13] addieux: can someone tell me the genre jb is listening to? im dying to find something similar on spotify, its always good vibes but i cant find anything
+[5:26:38] addieux: and afaik its always some soundcloud mixes or whatever its called
+[5:27:17] GnomeQQ: Wait, Geroikko is in your guild KEKW
+[5:36:26] ovruch109: that DH dies every time :)
+[5:51:51] Emm_Zee: p3 seen, it's over soon Prayge
+[5:52:38] Convection: Eternal Firestorm
+[5:52:42] gharnef_: ^
+[5:57:40] DKSCP_Rogers_x: hey mate
+[5:58:02] DKSCP_Rogers_x: random question but what are you graphic settings? wanna maximise my FPS for m+
+[6:03:41] Bear: Are ya winning, son?
+[6:08:37] Convection: What keystone level expects/requires you to be doing mythic raiding to supplement your gear?  I'm well aware that it always helps, but where is the line where if I don't do mythic raiding, I really can't get beyond unless good vault luck?
+[6:12:35] camshreds: wait is this an interstellar remix lol
+[6:19:50] Spritesgud: damn crazy prog over a couple weeks lets gooo
+[6:53:01] neab: lmao imagine not getting a grip mid radiance there!
+[6:56:18] romeo_so: !giveaway
+[6:56:19] StreamElements: Enter to win a Collector's Edition AMD Ryzen 7800 X3D + AMD Radeon 7900 XTX: https://gleam.io/competitions/CUo05-amd-x-avatar-frontiers-of-pandora-ryzen-7800-x3d-and-radeon-7900-xtx-giveaway
+[7:04:30] RedxZone13: just tuned back in, whats best %?
+[7:10:21] DiggyDigg: sir sir sir!!!! how you  give the healing adds a health bar above their head liek that? i havent figured it out
+[7:13:26] GleamBites: Americans can get extra giveaway entries not available to other countries, so take advantage.
+[7:14:11] GleamBites: "Get an extra entry by entering the promotion via the link below:" --->"Sorry, this promotion is not available in your region"
+[7:15:50] sgtshellshocka: you guys are playing better than you were on tindral
+[7:15:57] sgtshellshocka: like 100X better
+[7:16:38] DiggyDigg: damn, thatys fair man
+[7:16:41] sgtshellshocka: you uncheck friendly nameplates in blizzard settings if you have threatplates
+[7:16:49] sgtshellshocka: and it will get the healthbars there
+[7:17:15] DiggyDigg: @sgtshellshocka i use palter right now
+[7:17:32] DiggyDigg: its not the end of the world, ive been doing it fine, just would of been ncie to have lol
+[7:17:45] sgtshellshocka: @DiggyDigg stil the same fix I believe
+[7:17:58] sgtshellshocka: uncheck friendly nameplates in the default blizz UI settings
+[7:18:03] sgtshellshocka: and it should fix that
+[7:18:07] DiggyDigg: @sgtshellshocka really, ok ty. ill do that then
+[7:18:48] sgtshellshocka: luckily I'm an rsham, and I don't have to worry about them shits
+[7:18:54] sgtshellshocka: or else I'd be doin the same thing
+[7:19:23] sgtshellshocka: @jdotb lust at p2 is the play
+[7:19:25] DiggyDigg: @sgtshellshocka i alt disc priest for heals
+[7:19:28] sgtshellshocka: everyone is doin it now
+[7:20:15] DiggyDigg: disc is the only heals ive ever been willing to play lol. dps in disguise. dot eveyrthing well atone and then zug zug
+[7:20:40] sgtshellshocka: yea it's super timing based too, which if your anal about timings, then disc is absolutely the class for you
+[7:20:56] DiggyDigg: @sgtshellshocka yea im pretty ocd about eveyrthing
+[7:21:13] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[7:21:34] DiggyDigg: anal, autistic, ocd, a asshole. whatever word peoplke would like to use
+[7:21:43] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[7:33:55] Ok_Kingston: I WAS HERE
+[7:34:34] theBroHam: great pull!
+[7:34:37] sgtshellshocka: you literally didnt stand in the circle
+[7:34:37] maneatingpotato1: that was best rihgt?
+[7:34:41] sgtshellshocka: and get the absorb
+[7:35:58] toxictimbo: it makes sense as the main character playing the hardest healer its understandable sometimes theres too much going on
+[7:36:01] toxictimbo: i feel it all too well
+[7:36:08] sgtshellshocka: lmao
+[7:44:36] Reisemeister: hello does anyone in chat know if the Shattered Souls passive from DHs (20% more dmg after consuming demon soul) work in BRH m+ ?
+[7:48:48] minimi12001: if theyre demons and they die then i think so
+[7:49:24] Reisemeister: ok ty
+[7:55:36] theslinny: jay dough tan gel
+[7:56:27] SkepGecko: !giveaway
+[7:56:28] StreamElements: Enter to win a Collector's Edition AMD Ryzen 7800 X3D + AMD Radeon 7900 XTX: https://gleam.io/competitions/CUo05-amd-x-avatar-frontiers-of-pandora-ryzen-7800-x3d-and-radeon-7900-xtx-giveaway
+[7:58:31] theBroHam: you big liar Smadge
+[7:58:36] theBroHam: ty for stream
+[7:58:43] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit

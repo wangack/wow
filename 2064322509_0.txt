@@ -1,0 +1,251 @@
+[0:00:48] Roadskii: scoGold scoCrab
+[0:03:59] Midguard: scoFan
+[0:04:28] Sco: up early :O
+[0:04:31] Sco: GM
+[0:04:47] Roadskii: Good morning to all :)
+[0:04:51] Sco: scoWeird
+[0:04:58] Sco: scoNA
+[0:05:09] Roadskii: 4:16am here lol
+[0:05:10] Zizonyx: kiittwSmile
+[0:05:13] Midguard: Suppose it's afternoon there! Good Afternoon
+[0:05:16] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[0:05:25] Sco: omg
+[0:05:28] shoreliner: extra early here, 4 in the morning but im on night shifts so my 4pm
+[0:05:28] Sco: the new method bot
+[0:06:14] Sco: !guides
+[0:06:14] Nightbot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[0:06:14] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[0:06:19] Sco: ah
+[0:07:24] Sco: disabling a lot of nightbot commands :D
+[0:07:50] Sco: !jersey
+[0:07:50] Nightbot: https://twitter.com/Method/status/1690060767427465217
+[0:07:57] Sco: !merch
+[0:07:57] Nightbot: Method merchandise! Check out the collection --> https://link.method.gg/Sco-shop
+[0:07:57] MethodChatBot: BRAND NEW Method merchandise! Check out the collection --> https://link.method.gg/sco-shop
+[0:08:01] MethodChatBot: Kingston FURY will bubble you from long load times --> https://link.method.gg/sco-kingston-fury-renegadeddr5
+[0:09:04] skFriberg: yo
+[0:09:20] skFriberg: sure is!
+[0:09:20] skaarsgardoce: HeyGuys
+[0:09:55] Roadskii: Hello hello
+[0:09:59] skFriberg: I'm sure you remember my troll Slootbag dono when you got world first LUL
+[0:10:06] Roadskii: 4:21am
+[0:11:13] theorgeist: WHat up what up
+[0:11:38] AdelineFrost: summerbird
+[0:11:52] skaarsgardoce: NotLikeThis
+[0:11:55] AdelineFrost: take one of the three spare ones in the room?! 🤣
+[0:11:56] MethodChatBot: Whether you’re a history buff, a night owl, a thrill-seeker, or simply a rambler wishing to be bowled over by natural splendour, the list of things to do in Malta is endless --> https://link.method.gg/visitmalta #visitmalta #exploremore
+[0:12:00] Roadskii: Good morning @AdelineFrost
+[0:12:06] Sco: https://summerbird.dk/
+[0:13:15] Roadskii: Sadly no
+[0:14:53] hyqu94: yet you play on wow settings 1?
+[0:14:55] Surarn: Just solve that part with having bad eyesight
+[0:16:06] Sco: !LAPTOP
+[0:16:06] Nightbot: Razer Blade 15" (2021) specs https://imgur.com/a/VmgN2bq
+[0:16:22] hyqu94: thats really odd
+[0:17:43] Roadskii: I have got  Alienware - m17 R5 17.3" 360Hz FHD Gaming Laptop - AMD Ryzen 9 - 16GB Memory - NVIDIA GeForce RTX 3070 Ti - 1TB SSD - Dark Side of the Moon but I am in the market of a new laptop at some point too
+[0:18:17] Roadskii: Dec 16, 2022
+[0:18:37] lubricanto: I would up the amount of ram
+[0:18:43] lubricanto: THe card is good enough
+[0:18:55] hyqu94: Yes
+[0:18:56] hyqu94: you can swap ram
+[0:18:59] lubricanto: Open it
+[0:18:59] anakeen777: some laptopps have 1 empty slot
+[0:19:25] Docoda: No
+[0:19:30] lubricanto: just use youtube mate there are vids how to
+[0:19:34] anakeen777: ram and hdd are quite easy access in latptops. rest like gfx cpu ofc not
+[0:19:34] lubricanto: And then do it youreself
+[0:20:00] ryry0695: overclockers
+[0:20:07] Sco: !laptop
+[0:20:07] Nightbot: Razer Blade 15" (2021) specs https://imgur.com/a/VmgN2bq
+[0:20:23] Docoda: it has at least 2
+[0:20:59] lubricanto: It has 2 slots
+[0:21:02] Docoda: 16GB dual-channel DDR4-2933MHz (8GB x 2) Expandable up to 64GB
+[0:21:11] lubricanto: so buy one 16 and you have 32
+[0:21:13] Docoda: Dual channel so two slots yeh
+[0:21:42] ryry0695: with a laptop and cpu the last letter on the intel cpus you get like k, h etc they are all for different stuff
+[0:21:56] Galanax87: Yo sco how are you doing :D
+[0:22:10] Docoda: I suppose your laptop is plugged in atn?
+[0:22:10] Keany16: Anyone the best place i can upgrade my PC in the UK? CBA to research all the parts etc again.
+[0:22:13] lubricanto: Wow still uses alot of ram and cpu instead of the gfx
+[0:22:15] Docoda: atm*
+[0:22:31] Roadskii: IIt looks like I can upgrade mine to 32gb according to Dell's website
+[0:22:55] anakeen777: whats gpu % usage. try msiafterburner osd
+[0:23:34] ryry0695: thats one thing i wish they did with laptops is being able to upgrade more stuff not just a couple things
+[0:23:52] ryry0695: instead of having to buy a new laptop
+[0:23:55] anakeen777: if gpu is below 90% then its just bad w0w code poorly optimized on cpu side. 50 fps oin valdraken is common
+[0:24:10] Cabbageman007: slootSmug slootFistLove
+[0:25:14] hyqu94: Tbh valdrakken is a shit place to be it makes everyone lag
+[0:25:17] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[0:25:28] anakeen777: is it single channel?
+[0:25:37] anakeen777: you can check in CPUz
+[0:25:52] Docoda: 16gb these days isnt rly enough anymore, especially if u have obs running and some chrome tabs open
+[0:26:15] anakeen777: dual channel requires 2 sticks (or maybe double sided ram stick idk)
+[0:26:15] Roadskii: Chome is a HUGE resource hog
+[0:26:26] lubricanto: My pc at work i play wow on a GTX 570
+[0:26:33] lubricanto: Lowest settings but it works
+[0:26:47] cheechpluschong: !addons
+[0:26:47] Nightbot: Sco's WAs and addons can be found at https://discord.gg/sco
+[0:27:10] anakeen777: but other than that its just bad w0w code. and the only situation you would need more ram is when its full and it starts using page file on disk- causing stutters
+[0:27:21] Docoda: Can you show your advanced settings in graphics?
+[0:27:35] cheechpluschong: everything looks nice and clean still
+[0:27:48] cheechpluschong: ty
+[0:28:09] Galanax87: how long are you gonna be in denmark for now :D
+[0:31:00] anakeen777: that cpu ranges from 1.9ghz to 2.3 to 4.6. maybe using hig perf profile would cause it run higher. it could be using low ghz cause w0w usage was just 20%
+[0:32:25] Roadskii: I am just getting things ready for my big move next month
+[0:32:49] Galanax87: nope wife and the baby are going to see there grandmother and ji ust got work to do :D
+[0:32:50] Roadskii: 10 years
+[0:33:03] wTFologie: I just got the Love Rocmet foday, the grind is over! Good luck Sco
+[0:33:41] wTFologie: Will never get the World First like you tho xd
+[0:33:43] Lazmahmutoglu: hi Sco mount farm good luck
+[0:34:01] Roadskii: Mar 14th they pick up my household goods, 19th my truck gets shipped and the 20th I fly out
+[0:34:15] LegoLich: happy friday team
+[0:34:27] Roadskii: Washington State to Tennessee
+[0:34:37] Roadskii: 2-3 days
+[0:34:50] Daemonrek: good afternoon bossman
+[0:34:52] Roadskii: Girlfriend wants me there quicker lol
+[0:38:22] Streeredemption: Are you still in Denmark
+[0:39:39] Daemonrek: WM is getting harder to fill every week
+[0:40:14] Daemonrek: that and rise have been nightmarish to fill the past 2 weeks
+[0:41:03] CARRiED_tv: the legend the myth the man himself wzup @Sco all good?
+[0:41:38] CARRiED_tv: good to hear :D
+[0:42:19] Sco: https://www.youtube.com/watch?v=F1bXeisFiC4
+[0:42:31] Noukky: Good afternoon bossman ✌️
+[0:42:48] x___Nova___x: xnovaxHi hello Sco and Chat
+[0:43:02] LegoLich: hey Nova <£
+[0:43:05] Jacco89: Good day sir!
+[0:43:05] LegoLich: <3*
+[0:43:09] Jacco89: How are you doing?
+[0:43:13] Daemonrek: its good to see you guys rise again
+[0:43:20] x___Nova___x: @legolich xnovaxLove
+[0:43:48] Jacco89: @Sco Are you retired from the Method raid roster?
+[0:44:36] Jacco89: Oh damn! Never thought I'd see Sco retire from the world races!
+[0:44:47] Noukky: He gives the guys nice shoulder massages instead now KEKW
+[0:44:49] Sco: !retired
+[0:44:49] Nightbot: Retiring as a tank from the raid team. I remain just as committed to pushing Method towards our 13th WF, but I will be doing that from outside of the raid! Thanks for the continued support, tweet here: https://twitter.com/Methodsco/status/1596209821879267328 & full video talking about it: https://youtu.be/0pQ5V4hF6LM
+[0:44:53] Jacco89: Must be a heavy thing to accomplish of course
+[0:45:09] Jacco89: Gonna have a look
+[0:45:14] Nightbot: Bedlam, The Link In Bio For Gamers - connect your gaming accounts from platforms such battle.net, and steam, then display your ranks, stats, and achievements (such as your raid progress & M+ score in WoW!) + your social media profiles and more. Claim your tag before someone else does! https://www.bedlamgg.com/join?r=tjpIW&referrer=sco
+[0:45:17] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[0:45:18] Jacco89: Oh yea
+[0:45:19] LegoLich: was re-watching some of WF vids recently - that Argus kill was so good
+[0:45:45] Daemonrek: same. I love the hype evertime a boss drops
+[0:45:53] LegoLich: also KJ - the roasr of "thank christ we are done with this boss"
+[0:46:42] MajorPain_94: Sorry  what the hell is this Bag Addon ? i Need this erkanuNdstefanErkanHide
+[0:47:16] LegoLich: bagnon i assume
+[0:47:53] Roadskii: Crazy to watch that video and see your demeanor from then to now....Such a huge change. You are sooo much happier now .
+[0:48:28] Cyberangel7777: I wish Blizzard would add the allied race Lightforged Undead for the Horde with same kind of skin as Caelia, Nathanos.
+[0:49:00] LegoLich: Cyberangel - it's likely coming in last titan
+[0:49:10] ouaoua_tv: what the addon call u stuff ? @Sco
+[0:49:10] Nightbot: Bedlam, The Link In Bio For Gamers - connect your gaming accounts from platforms such battle.net, and steam, then display your ranks, stats, and achievements (such as your raid progress & M+ score in WoW!) + your social media profiles and more. Claim your tag before someone else does! https://www.bedlamgg.com/join?r=tjpIW&referrer=sco
+[0:49:19] LegoLich: or potentially Midnight as we face the Void Lords
+[0:49:29] Cyberangel7777: @LegoLich OMG!!!
+[0:49:53] anakeen777: this boss used to be single target
+[0:50:23] NovaKosova: Imagine Sco as hunter, and not as any tank Kappa
+[0:50:39] anakeen777: hes just playing whats most fun
+[0:51:11] LegoLich: there's somehting you can turtle immune on this boss but its name escapes me
+[0:51:38] LegoLich: Ele Shammie is looking fun as well
+[0:52:14] anakeen777: is Haste increasing Barbed Shot DoT damage or only ability cooldown?
+[0:52:26] LegoLich: both
+[0:53:09] queenloud1: @sco I want to get into M+ I have only pvp  since like wod. It's going in as a dh tank going to be too much for learning?
+[0:53:29] LegoLich: DH Tank is pretty easy to learn, but hard to master
+[0:53:37] LegoLich: it's hyper mobile which is fun
+[0:54:03] queenloud1: Is tank rule for new to m+ going to be a bad way to learn?
+[0:54:21] anakeen777: its much better after they made spirit bomb passice
+[0:54:25] queenloud1: Role.  Sorry on phone ATM lol
+[0:54:36] LegoLich: no, but i would do a couple of the "follower dungeons" to get used to tanking
+[0:55:16] anakeen777: so right now game has no DoT that doesnt benefit from Haste? what about murder of crows?
+[0:56:37] anakeen777: in bfa i had a feel that stacks of barbed crit 9% are doing nothing. my crit on dummy was same from autoshot testing with buff on/off
+[0:58:02] MethodChatBot: Kingston FURY will bubble you from long load times --> https://link.method.gg/sco-kingston-fury-renegadeddr5
+[0:58:38] CARRiED_tv: Hey Sco have you missed tanking anything now that has been a long time ago for you in wf and such?
+[0:59:30] qtMosu: Do we have a name or link for the chill playlist he's listening to?
+[0:59:53] anakeen777: you can probably make a tune like this easy in FruityLoops xD
+[1:00:17] qtMosu: possiblt, but cba lmao
+[1:00:41] 123Sepi123: does method compete in mdi?
+[1:01:15] Daemonrek: Id love to see that
+[1:02:08] anakeen777: how much augmentation evoker is increasing party dmg?
+[1:02:27] Healofsteel: You can feign right before cast and if he targeting you it cancels last I checked.
+[1:02:35] anakeen777: to make it pay off having one in even with dmg below tank
+[1:05:38] ouaoua_tv: whats the addon calling stuff
+[1:05:42] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[1:08:07] HEIZALL: :)
+[1:09:55] anakeen777: 6y old dungeon
+[1:12:14] ryanbigdaggers: No chance
+[1:12:27] ryanbigdaggers: Sorry
+[1:12:30] ryanbigdaggers: U can do it
+[1:12:32] ryanbigdaggers: :)
+[1:13:30] Andypandy1238: tank has to move them out
+[1:16:22] anakeen777: maybe its possible. BL will be ready too
+[1:16:39] druidish: easy timetable
+[1:16:56] druidish: boss only takes 3min
+[1:17:02] MethodChatBot: Whether you’re a history buff, a night owl, a thrill-seeker, or simply a rambler wishing to be bowled over by natural splendour, the list of things to do in Malta is endless --> https://link.method.gg/visitmalta #visitmalta #exploremore
+[1:17:15] Andypandy1238: last boss is around 3 min 40 so ez timed
+[1:17:37] anakeen777: this dung was fun with 3 pulls during bfa launch leveling with legion-legenrady geared tanks
+[1:19:04] anakeen777: evoker used BL. pog
+[1:19:08] creswick: i dont think ive ever seen a better head of hair
+[1:19:40] druidish: 2min to spare
+[1:19:47] druidish: no sweat
+[1:19:53] druidish: ezpz
+[1:20:03] anakeen777: new added ability wipe soon xD
+[1:25:14] anakeen777: wow sco is not using dbm. i dont feel lonely anymore
+[1:26:41] anakeen777: dragonriding is 850-1100 speed so pretty much same like gryphon
+[1:26:42] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[1:26:47] Madgeneto: down
+[1:35:56] galdrelvolkfire: So are Method not in the tourney today
+[1:36:05] pinchdd: Sco is mewing
+[1:36:12] Meraku76: !plater
+[1:36:23] galdrelvolkfire: Nice
+[1:36:48] pinchdd: is it even real hahaha
+[1:36:52] pinchdd: like does it work
+[1:38:14] pinchdd: I mouth breathe a lot because my nose just doesnt work so i wonder if mewing would help me breathe through my nose lmao
+[1:38:19] AdelineFrost: you can tell them about what I do, I’ve done it for legit a decade lmao
+[1:38:53] AdelineFrost: mouth breathing is really not good for you
+[1:38:55] AdelineFrost: try taping
+[1:38:56] Malicone: I always say to my friend finally friday? xD
+[1:39:19] pinchdd: @AdelineFrost as in taping my mouth shut
+[1:39:28] AdelineFrost: ye called mouth taping
+[1:39:30] pinchdd: kinky
+[1:39:37] AdelineFrost: only for sleeping tho
+[1:39:57] AdelineFrost: but being conscious of breathing through your nose and not your mouth is a good start
+[1:40:06] AdelineFrost: yes you do for my shoots!
+[1:40:44] lassne: dear sco pls be nice to my guildy
+[1:41:14] pinchdd: its awful because when i watch footage of me raiding back through my videos, you can hear me mouth breathing because im so focused on the game
+[1:43:42] AdelineFrost: @pinchdd Scott does that a LOT too, his breathing is super loud. I think maybe it’s more unnatural for men idk
+[1:44:17] crixx123: enjoying the ret bro
+[1:45:03] Nightbot: Bedlam, The Link In Bio For Gamers - connect your gaming accounts from platforms such battle.net, and steam, then display your ranks, stats, and achievements (such as your raid progress & M+ score in WoW!) + your social media profiles and more. Claim your tag before someone else does! https://www.bedlamgg.com/join?r=tjpIW&referrer=sco
+[1:45:34] pinchdd: @AdelineFrost just wow things hahaha
+[1:45:35] pitucaleyando: I miss old sco
+[1:46:42] MethodChatBot: Method Class Guides, Amirdrassil Boss Guides and Mythic+ Dungeon Guides are now available --> https://link.method.gg/sco-guides
+[1:47:24] thelotektv: !ui
+[1:47:24] Nightbot: Sco's UI, WA and Addons for Dragonflight can be found at https://discord.gg/sco
+[1:48:15] lassne: go guildrani go
+[1:49:05] Nightbot: Bedlam, The Link In Bio For Gamers - connect your gaming accounts from platforms such battle.net, and steam, then display your ranks, stats, and achievements (such as your raid progress & M+ score in WoW!) + your social media profiles and more. Claim your tag before someone else does! https://www.bedlamgg.com/join?r=tjpIW&referrer=sco
+[1:51:48] crixx123: no u shud BL 1 of the shield phases b4 that
+[1:51:51] lassne: normly bl the ooz boss
+[1:51:54] Ziraaax: big upgrade nah?
+[1:55:00] Ziraaax: how would u rate dragonflight after all these months playing it ?
+[1:55:55] QTartemis: HeyGuys
+[1:56:42] lassne: yes
+[1:56:47] MethodChatBot: Kingston FURY will bubble you from long load times --> https://link.method.gg/sco-kingston-fury-renegadeddr5
+[1:56:58] Ziraaax: Legion > Dragonflight
+[1:56:59] Ziraaax: yeah
+[1:57:04] Daviiwow: WOTLK
+[1:57:44] Ziraaax: Shadowlands was epic stuff at the beginning then became boring as hell
+[1:58:45] Ziraaax: bro saying wotlk like we are still in 2012 or smth
+[1:59:07] QTartemis: Oh you're leaving? D:
+[1:59:24] QTartemis: Has MethodChatBot been behaving then? :D
+[1:59:32] Repsifu: #casualSco
+[1:59:46] Sco: !merch
+[1:59:46] MethodChatBot: BRAND NEW Method merchandise! Check out the collection --> https://link.method.gg/sco-shop
+[2:00:35] HealsAndThat: Am I a first time chatter? Just checking
+[2:00:38] HealsAndThat: Ah damnit...
+[2:00:55] Repsifu: You hosted me with almost 3k people aproximately 2 years ago, what happened with the viewership man ?
+[2:01:20] HealsAndThat: But I rarely chat man, I am just a put it on my second monitor kind of guy
+[2:01:28] Sco: !retired
+[2:01:28] Nightbot: Retiring as a tank from the raid team. I remain just as committed to pushing Method towards our 13th WF, but I will be doing that from outside of the raid! Thanks for the continued support, tweet here: https://twitter.com/Methodsco/status/1596209821879267328 & full video talking about it: https://youtu.be/0pQ5V4hF6LM
+[2:02:19] HealsAndThat: I think a lower viewership can be a blessing in disguise, being able to interact more with the viewer mayhaps.
+[2:03:43] QTartemis: Lunch??? It's 3pm
+[2:04:10] QTartemis: Breakfast, 2nd breakfast, then lunch, yeh
+[2:05:01] BambChamp: !retired
+[2:05:01] Nightbot: Retiring as a tank from the raid team. I remain just as committed to pushing Method towards our 13th WF, but I will be doing that from outside of the raid! Thanks for the continued support, tweet here: https://twitter.com/Methodsco/status/1596209821879267328 & full video talking about it: https://youtu.be/0pQ5V4hF6LM
+[2:05:02] Repsifu: PEACE OUT
+[2:05:18] Sco: bye team scoDad

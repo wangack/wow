@@ -1,0 +1,1812 @@
+[0:00:12] StreamElements: notmes is now live! Streaming World of Warcraft: Mes <Liquid> - Changes tomorrow!
+[0:00:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[0:01:08] americanmoses18: sup mes
+[0:01:19] americanmoses18: no leggo dis week but couple heroics down
+[0:04:36] krome2dadome: yooo
+[0:06:29] oHodz: Messs
+[0:11:53] omkar3108: PogChamp
+[0:14:30] wEiRdO_dUdE: CurseLit CurseLit CurseLit CurseLit
+[0:15:33] wEiRdO_dUdE: RIP guardian druid, but these additional changes make quite a bit of sense
+[0:15:50] krome2dadome: additional changes indeed
+[0:15:52] wEiRdO_dUdE: Oh yeah, a few more changes
+[0:16:01] krome2dadome: druid in general
+[0:16:05] krome2dadome: https://www.wowhead.com/news/additional-class-tuning-coming-tomorrow-pvp-tuning-337298?webhook
+[0:16:21] wEiRdO_dUdE: Bear form took a hit, it will affect all druid specs
+[0:16:45] americanmoses18: so many classes shat on
+[0:16:52] wEiRdO_dUdE: Warrior is looking a lot better with this additional, too
+[0:17:13] Taevenx: Ret/War inc
+[0:17:22] tooch2: oh no!! there they go shitting on shamans again lmao
+[0:17:35] nikthevoker: sup
+[0:17:47] anmusallam: Did you see the new notes
+[0:17:52] wEiRdO_dUdE: The warlock stuff....some say it is a net nerf, others a net buff... I don't know the math
+[0:19:05] avenueone: hunter?
+[0:19:43] wEiRdO_dUdE: I think a small armor buff for warlocks makes sense, apart from demo
+[0:19:43] dubbfiend: you were right about the Monday changes :)
+[0:19:46] avenueone: sod raids paused til p2 btw mes
+[0:19:47] avenueone: hope its ok
+[0:20:27] avenueone: yea remaining ppl need 1-2 pieces
+[0:20:36] avenueone: but getting less n less every week
+[0:20:39] wowsuomi: Back in the old days the buff for warlocks would of gone lived then been hotfixed a few weeks later
+[0:21:21] nikthevoker: my war got nexted so got to find new raid
+[0:21:21] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[0:21:45] Taevenx: I think it was hoped for but not really expected
+[0:22:13] boltozor: your positivity is outrageous  . reported
+[0:22:53] Vigi9413: so what you're saying is come tomorrow ditch the warrior and bring back the pally lol
+[0:23:20] Vigi9413: the armor reduction seems nerfy i think
+[0:23:52] Blaze150000: Yo mes. Changes activ now on na?
+[0:23:57] wEiRdO_dUdE: D-stance is big, yeah
+[0:24:43] dubbfiend: warrior safely A tier next week?
+[0:24:58] notmes: 1370 -> 1390.55
+[0:25:05] Seariphims: lol
+[0:25:08] Seariphims: ^_^
+[0:25:34] ZealotryTV: do any of these changes affect healing meta
+[0:25:35] sbrees: Big buff to war!!!
+[0:25:40] thrive_jp: is ret still gonna be good tomorrow
+[0:25:46] healmeshammy: so the nerf to locks demon skin is big?
+[0:26:12] Vigi9413: the fact that the ret changes apply to pvp is big
+[0:26:30] Blaze150000: I thinkin about to play my ret again.. but then... noo wanna play dk
+[0:26:40] notmes: 6188 current
+[0:27:58] sbrees: 35% plus for cloth
+[0:28:24] notmes: 4723 base * 1.35 = 6376
+[0:28:37] wEiRdO_dUdE: Cool
+[0:29:40] 인터넷포트: is plate uselesss after armor buffs or is plate still stronger
+[0:30:57] Vigi9413: oh i didn't see they added the armored to the teeth buff
+[0:31:01] Vigi9413: sweet
+[0:31:35] wEiRdO_dUdE: That haste change makes the channel easier to use
+[0:32:01] wEiRdO_dUdE: It should speed it up, so less time animation locked
+[0:32:36] anmusallam: So it’s mage going to be tankier than lock
+[0:32:42] anmusallam: Is mage***
+[0:33:13] ZealotryTV: that legendary doesn’t actually exist
+[0:33:26] Vigi9413: so does that put armored to the teeth at +str to 55% of armor in pvp?
+[0:33:38] sbrees: 3 sec
+[0:34:03] Vigi9413: was gonna lol
+[0:34:28] anmusallam: Me sorry if I spam questions bro
+[0:34:34] anmusallam: Mes
+[0:34:36] disquared: !wa
+[0:34:37] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[0:34:44] DBMezzy: no dh nerf, no devastation nerfs, blizz on cocaine or what
+[0:35:27] wEiRdO_dUdE: I'm not exactly sure how that axe works in terms of that long range charge and attack, I would guess it charges first then goes into a sequence in melee range
+[0:35:49] anmusallam: Is it ok if I still use the claw build next reset or is it in shambles forever
+[0:36:05] Vigi9413: it's kinda weird they're lowering/raising armor adding health and making you sit CC longer. their way of helping with huge burst?
+[0:37:16] wEiRdO_dUdE: The axe attack appears to start as a 3 second channel, once that part begins
+[0:37:23] anmusallam: I think the longer cc makes it easier to burst
+[0:37:37] anmusallam: Could be wrong
+[0:38:30] DBMezzy: its cringe to see spec pressing 1 button doing most dam
+[0:38:36] anmusallam: Dev is a one button spec and you can’t snare
+[0:39:28] Vigi9413: you think the fury change changes whether fury is garbage in pvp
+[0:39:30] anmusallam: It’s annoying when I can’t catch up and they’re immune to chains
+[0:40:47] anmusallam: Idk why they nerfed Bear armor
+[0:40:57] wEiRdO_dUdE: Boomkins could really be feeling it with both an armor nerf to their regular moonkin form and the bear form
+[0:40:57] anmusallam: I didn’t see it coming
+[0:41:31] anmusallam: Resto will be easier to train
+[0:41:31] Moobot: Join my Discord community! https://discord.gg/mes
+[0:42:33] wEiRdO_dUdE: Oh yeah, resto druids and ferals are going to have a harder time tanking out damage, too
+[0:42:49] anmusallam: Speaking of feral
+[0:43:12] anmusallam: How do I survive their opener. I always lose against them in 2s
+[0:43:23] anmusallam: Even when I press my ibf
+[0:43:30] anmusallam: And shell
+[0:43:37] Begasaur: evening
+[0:43:53] Begasaur: not bad just gearing my priest, thursday
+[0:44:15] Begasaur: got pushed back a little, but cant wait to geti t over with
+[0:44:30] anmusallam: Get better soon
+[0:45:26] Begasaur: idk understaffing etc
+[0:45:39] sunileif: nice lock nerfs
+[0:46:03] sunileif: sup pagan lord mes
+[0:46:07] sunileif: how you doing?
+[0:46:19] Begasaur: trying to get a group for the raid on my priest, its hard at 435ilevel lol
+[0:49:25] sunileif: got a destro lock to assist your leggo hunt next week rdy
+[0:50:18] wEiRdO_dUdE: 5 heroic raids is awesome
+[0:52:31] sober_toaster: <--fister
+[0:55:57] americanmoses18: man fucking next week shud be my leggo....5 lesser fragments and one greater gotta be enough
+[0:57:00] Flokko: im at like 8 greaters
+[0:57:01] Flokko: no luck
+[0:57:29] beski: what’s the cleanest opener for UDK look like?
+[0:58:01] americanmoses18: idk 8 weeks of normal kills and 1 heroic kill and like 10 lessers should be a good shot by now
+[0:58:15] kinetiq33: I am wrapping up mine right now, doing the 10 awakened every 5 minute part
+[0:59:18] xkillzone23: !TALENTS
+[0:59:18] StreamElements: BwPA/gf1fDREKLfAcG9Z2HkF/BAiEhIHItIRSkIRIikIJAAAAAAAAAgCJRSikkGAAhUSkkkgE
+[0:59:42] dankNstein_: managed to get the rare fyrakk skin today
+[1:00:21] dankNstein_: first rare drake skin ive gotten from any of the tiers this xpac
+[1:00:27] americanmoses18: yo if u dont use ur fyrakk lockout on mes by the weekend lmk ill come along  XD @danknstein_
+[1:00:52] dankNstein_: ill probably have one on my evoker every week until i get ashes
+[1:00:59] AxiomDK: Greetings chat
+[1:01:02] dankNstein_: im just gonna kill smolderon on that character and stop
+[1:01:18] chubxd: i killed him a total of 15 times. 6 heroic 6 normal 3 LFR and so far nothing :(
+[1:01:22] AxiomDK: doom: lower his health below 0 while keeping yours above 0.
+[1:02:15] americanmoses18: honestly with my luck i expect to never get it lols
+[1:02:15] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:02:24] dankNstein_: @chubxd i did raz and sark on 3 diff toons each difficulty every week for the mount skin and never got it from them
+[1:02:29] chubxd: @americanmoses18 same
+[1:02:51] sober_toaster: sorry had a bad rop on ur grip trying 2 stop a cast D:
+[1:03:11] dankNstein_: i really like the orange fyrakk skin
+[1:03:16] AxiomDK: Its like a 5% damage taken increase on tuesday for us right?
+[1:03:21] AxiomDK: 10% damage reduction for cloth?
+[1:03:31] sober_toaster: im kinda undergeared XD
+[1:03:32] americanmoses18: the orange skin is cooler than the aotc skin for sure
+[1:07:39] skidetko: do u think we go stoneskin tomorrow?
+[1:08:02] skidetko: i heard we're dropping like flies in PTR
+[1:08:14] skidetko: 6.5 with bond..
+[1:08:22] skidetko: also armor
+[1:08:27] Itankarenas: Any warlocks excited to lose 7% armor tomorrow? Sadge
+[1:08:55] skidetko: oh alright ig i was lied to then
+[1:09:05] Itankarenas: time to drop 4 piece and go for 7.5k vers again Sadge
+[1:09:38] skidetko: 18%
+[1:10:33] spoob37: !wa
+[1:10:33] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[1:11:03] McLarge: That guy will be hitting you harder, but you're gonna have more HP
+[1:11:06] ZallKlos: Jungle is 2x phy
+[1:11:15] McLarge: But you'll also be hitting him slightly less hard
+[1:11:54] skidetko: windwalker.. & bm hunter
+[1:11:54] McLarge: Arms is pretty good, but I don't think it's insane
+[1:12:52] McLarge: I don't expect the meta to shift much. Maybe Shadowplay will be more prevalent, but even then it won't be as insane as people were initially thinking with the changes from today
+[1:13:26] Blaze150000: Leggo a must have for arena?
+[1:13:47] americanmoses18: nope @blaze150000
+[1:15:32] sober_toaster: war let me drink full lol
+[1:15:33] americanmoses18: ezgame
+[1:16:16] meliodas_2506: can u show ur talents? pls
+[1:17:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[1:17:38] mercilessop: who did you play with when you got wrathful glad? @notmes
+[1:19:12] 胡賈斯汀: good morning boss, how’s your day
+[1:20:41] sober_toaster: jfc that was making me clench lmao
+[1:21:15] sober_toaster: he would not leave me alone i tihnk he w3as used 2 training rdruids LUL LUL
+[1:21:21] sober_toaster: z
+[1:27:08] sober_toaster: so much dmg  and damp :(
+[1:27:08] Moobot: Join my Discord community! https://discord.gg/mes
+[1:34:02] uninstallspeedrun: parse diff
+[1:34:31] sober_toaster: are my sweeps ok off ur blinds?
+[1:38:09] sober_toaster: so many dk's in 2's
+[1:38:19] sober_toaster: it used 2 be survival hunters and now its dh's
+[1:38:22] sober_toaster: dh's*
+[1:43:48] krome2dadome: dude
+[1:43:55] IamWalnuts: Mes xeek is playing some Frost DK / Moonkin / Pres and ripping people with it would love to see that with main team would be fun to watch atleast
+[1:43:56] krome2dadome: i just played aff for the first time
+[1:43:58] uninstallspeedrun: close game
+[1:44:07] krome2dadome: was doing like 120k dps every game lol
+[1:44:11] IamWalnuts: vortex beam on top of the opres frost dk goes
+[1:44:26] sober_toaster: u think meep would b proud of my mw'er game play?
+[1:47:43] sober_toaster: tod through the immunity lol
+[1:47:43] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:47:55] sober_toaster: it went through
+[1:48:11] sober_toaster: i wanted 2 test lol
+[1:48:18] krome2dadome: had a rlly good sesh today
+[1:48:24] sober_toaster: so apperently its not a full imune XD
+[1:48:41] krome2dadome: went 12-5 on alts and 11-4 on tsg
+[1:49:08] ZallKlos: should i use verdant + infurious boots + 2x verdant as embellishment
+[1:49:22] afriKENx: hey i called it
+[1:49:44] afriKENx: warlock armor talent nerfed
+[1:49:51] traav_p: have you played much frost?
+[1:49:53] krome2dadome: there are little ways to increase it, but nothing worth enough to actually use
+[1:50:10] krome2dadome: it’s like very little strength in the grand scheme of things
+[1:50:45] uninstallspeedrun: is that big focus target cast bar a weakaura?
+[1:50:47] sean_spelled_like_seen: sean_spelled_like_seen subscribed at Tier 1. They've subscribed for 9 months! Rip plate
+[1:50:47] StreamElements: sean_spelled_like_seen just subscribed for 9 months in a row mesDad mesDad mesWeckso
+[1:53:48] sober_toaster: sorry im undergeared lol
+[1:54:52] traav_p: think the Stam buffs can offset the armor nerfs?
+[1:55:24] sean_spelled_like_seen: I'm truthfully just worried playing plate into monks will feel pretty terrible. Not that I've been playing much plate this season, I've been rocking caster 😬
+[1:56:45] krome2dadome: like ww? @sean_spelled_like_seen
+[1:56:57] krome2dadome: cause ww is getting nerfed
+[1:57:43] trollmasta66: yeah it's a good change for ww
+[1:57:54] traav_p: you guys ever mess around with frost dk/ boomy/pres?
+[1:57:55] krome2dadome: are those blackout kicks really less than 1%
+[1:57:58] sean_spelled_like_seen: Yeah I didn't see anything that told me ww was going to realistically get nerfed at all
+[1:58:02] trollmasta66: and karma is going to be stronger too
+[1:58:04] AxiomDK: What do you think is the easiest comp for Unholy Glad this season?
+[1:58:16] krome2dadome: swear blackout kick was like always 10%+ of my damage
+[1:58:25] sean_spelled_like_seen: Most of the deaths my plate teammates have had are from big RSKs and such
+[1:58:28] krome2dadome: but haven’t played it in a bit
+[2:01:31] sober_toaster: i hate dh in 2's
+[2:03:05] AkioneDK: Hey mes what do you think is better dot build or range build with the Patch?
+[2:03:49] AkioneDK: mesS
+[2:04:49] AkioneDK: HypeSanta
+[2:06:53] Szain3: DinoDance
+[2:07:14] sober_toaster: gg's ty!
+[2:07:19] sober_toaster: sorry my gear sucks lol
+[2:07:29] sober_toaster: i hit my gear threshhold i think lol
+[2:08:00] sober_toaster: rusty on mw'er so hope it wasnt terrible lol
+[2:08:00] Moobot: Join my Discord community! https://discord.gg/mes
+[2:09:17] sober_toaster: ty for the games!
+[2:09:25] AkioneDK: Is the Patch already up on American server ?
+[2:10:00] Yanzoh: Man, I can't wait for changes tomorrow, going to be awesome
+[2:10:31] Kendakilla: I’m new to dk.. @notmes what’s best way to use globals to time maximum burst
+[2:11:31] Yanzoh: Sweet dh dk games!
+[2:23:02] wowsuomi: Bitcoin dropped to 39.4k earle today
+[2:23:19] Szain3: DinoDance
+[2:23:47] eMBeaR64oz: They should revert the change to hpal specifically
+[2:23:50] eMBeaR64oz: thats kinda messed up XD
+[2:25:58] Xenpp: !patchnotes
+[2:26:11] Rainbowmes: someone got really high to come up with changes this stupid
+[2:26:16] Rainbowmes: this is impressive
+[2:26:25] Rainbowmes: to be this bad
+[2:30:41] avenueone: why even have armor types tbh
+[2:31:35] Rainbowmes: because they want to act clever like when they added all the pvp power changes but they are really too stupid to make it work dogeKek
+[2:33:23] shugguls: erm did the accidentally buff my arms warrior with more str in pvp , I get a extra 3k str
+[2:33:29] happyheals: I can understand the boost to cloth, but the reduction of plate  has no logic.
+[2:33:58] Rainbowmes: there is no logic boosting cloth - when you can do your damage/healing from range it should come with the drawback of taking more damage if someone gets to you
+[2:34:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[2:34:17] Rainbowmes: especially when cloth classes have so many abilities to kite with
+[2:34:37] Rainbowmes: like a warlock doesnt need to be a tank when they only have to tank for 15 seconds between ports
+[2:35:01] happyheals: only reason I say I understand it is the lower brackets dealing with rogue and dh quick kills
+[2:35:08] shugguls: lock will be the same as now there nurfing demon skin
+[2:35:19] Rainbowmes: well they are now
+[2:35:27] artsskeit: except the war leaps or intercepts, dh flies, dk grips, ww xuens over
+[2:35:29] Rainbowmes: the fact that they are so clueless they initially buffed them
+[2:35:32] Rainbowmes: says all it needs to
+[2:36:05] Rainbowmes: people doing changes are just completely clueless and throwing random things out
+[2:36:06] happyheals: the patch without any armor changes would have been better lol
+[2:36:07] shugguls: I mean arms is getting buffed , I’m happy with these changes 😂
+[2:36:13] artsskeit: its all about mobility and ability creep.  theyre trying to address that but instead of reverting things they just keep adding other shit on top of it
+[2:36:34] Rainbowmes: yea because they dont actually know what they are doing in the first place
+[2:37:10] artsskeit: bring back.. i dunno
+[2:37:13] artsskeit: ghostcrawler!
+[2:37:22] Yukimes: no nerf to chill streak is weird
+[2:37:35] Rainbowmes: they just need to get rid of some buttons tbh
+[2:37:38] Rainbowmes: that would be a good start
+[2:37:50] Rainbowmes: they just keep adding stuff and they havent even balanced the previous stuff
+[2:38:12] happyheals: just need a seasonal arena affix where every 30 seconds there is a pulse that breaks stealth and prevents restealth for 5 seconds
+[2:39:08] shugguls: remove the ability to restealth and drink
+[2:39:09] artsskeit: the biggest surprise the lack of hunter/hunter pet nerfs.  just in case sod hunters wanted to be hunters in retail, gotta keep beating down on them
+[2:40:38] Thorgood2: gday mes
+[2:41:39] happyheals: If a Rogue stealths for more than 20 seconds, it dies painfully
+[2:41:49] happyheals: fair affix
+[2:42:50] artsskeit: ELE LIVE LORD
+[2:43:16] artsskeit: ok not that time
+[2:43:26] wEiRdO_dUdE: Tough fight, nice
+[2:46:45] Thorgood2: big win
+[2:46:45] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[2:46:50] Thorgood2: CoolCat
+[2:47:58] Szain3: DinoDance
+[2:48:03] Thorgood2: how do u think arena will be after the changes? anything u think will change or just make rogue mage stronger
+[2:50:17] wEiRdO_dUdE: Pikaboo seems to think that sub rogue is done, with the changes, but I'm not sure
+[2:52:50] wEiRdO_dUdE: I think there is a chance of RMP coming back, also ret+war, but I have no idea what's going to end up being strongest
+[2:53:19] Devcomz: @wEiRdO_dUdE For the tourny it probably is everyone saying outlaw is the best after changes tomorrow
+[2:53:24] wEiRdO_dUdE: In theory it could be something crazy like cupid cleave with ret and hunter, that rocks out
+[2:53:52] atoker: idk why ret dh isn't a thing, you would think that they synergize with the dh magic debuff
+[2:54:06] wEiRdO_dUdE: I could believe it if outlaw is the play for that, I remember back in Shadowlands I think when everyone was using it
+[3:00:17] happyheals: have you guys tried rdruid or pally with this?
+[3:01:01] mercilessop: is cdew sounding moody?
+[3:02:25] Yukimes: thats a silly comment @mercilessop
+[3:02:29] rev0lutx: !addons
+[3:02:29] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[3:02:51] Thorgood2: @Yukimes my man
+[3:02:59] Yukimes: oooo shit ur back from work @Thorgood2
+[3:03:24] Thorgood2: yeah flew home today just put daughter down for a nap
+[3:03:37] Yukimes: first beer cracked?
+[3:03:52] Thorgood2: nah didnt have any
+[3:03:58] Yukimes: bugger
+[3:04:08] Thorgood2: so ill have to go out and get some vb tallies
+[3:04:10] Yukimes: uncle dan will help out
+[3:04:38] Thorgood2: oath just came off night shift so only takes 2 or 3 beers and i am shitfaced
+[3:04:48] uninstallspeedrun: did cdew go nonverbal
+[3:04:52] Yukimes: hahaha
+[3:05:55] stepkoudny: how is dk feeling?
+[3:05:59] GamerKrown: this matchup is both teams dks going "i might die, i might die" every 10 seconds lol
+[3:06:17] healhut: nice win
+[3:06:17] sean_spelled_like_seen: What the fuck is that damage lmao
+[3:06:48] sean_spelled_like_seen: Shit was sitting at 200k apiece for both dks whole game
+[3:06:48] Moobot: Join my Discord community! https://discord.gg/mes
+[3:06:49] stepkoudny: Is this already reset mes?
+[3:06:52] sean_spelled_like_seen: Actually wild
+[3:06:55] stepkoudny: I’m from eu
+[3:07:24] atoker: @stepkoudny hopefully we get boxes tomorrow
+[3:07:25] wEiRdO_dUdE: In NA we have about 9 hours or so for the weekly reset
+[3:07:46] avenueone: 7.5 p sure?
+[3:10:29] wEiRdO_dUdE: "With next week’s reset, the Conquest cap will be removed. In addition, Spoils of War will become active, providing increases to Conquest and Honor earned."
+[3:11:00] wEiRdO_dUdE: I haven't heard anything specifically about boxes, I would guess they are possible but who knows
+[3:12:05] Szain3: DinoDance
+[3:12:08] wEiRdO_dUdE: I think it was last season that Supatease had to bug them on Twitter before they added the boxes, around this point
+[3:12:21] Yukimes: cdew needs to take a break
+[3:12:42] wowsuomi: I Dare you to say drink some water chuck
+[3:20:23] Ritzie: for someone brand new to dragonflight solo shuffle and dk, would you recommend learning disease build, or going clawing?
+[3:20:40] Bersolgens: just 2 sharp glads next to each other
+[3:24:08] HashTagRNG: How's an eviscerate nerf going to kill a spec? I mean they going to cry cause can't 1v2 and one shot
+[3:24:12] Yoshi_Joshima: What the
+[3:24:28] shugguls: what was that
+[3:25:51] eMBeaR64oz: trill and cdew kinda bored/down or sick?
+[3:25:54] eMBeaR64oz: energy seemed low
+[3:26:19] one_true_goose: Are DK gonna struggle with the armor nerfs ?
+[3:26:22] atoker: cdew has kids so he's tired for sure
+[3:26:42] overrrlord12: Naw. No way
+[3:26:48] rdmr13: Cdew no heal
+[3:26:48] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[3:26:52] Ratkingdomdh: i think trill has time to blur between that first cheap
+[3:27:07] overrrlord12: Trinket nether. Had to be faster. ..
+[3:27:41] happyheals: what rating will I stop seeing dps arguing with each other and afking matches? They keep ruining my 6-0s
+[3:27:44] atoker: @Ratkingdomdh you have to trinket nether the 2nd cheap or you die in the 3rd
+[3:27:48] happyheals: in solo shuffle
+[3:27:55] cdewx: 816 raiders from cdewx have joined! 
+[3:27:55] StreamElements: cdewx just raided the channel with 816 viewers PogChamp
+[3:28:04] overrrlord12: Ya tru
+[3:28:19] uninstallspeedrun: @happyheals unfortunately never, alot of pvp players have mental health issues
+[3:28:29] overrrlord12: Grip they just ztep back
+[3:28:53] eMBeaR64oz: na
+[3:28:58] eMBeaR64oz: they have step, hook and that rush thing
+[3:29:01] eMBeaR64oz: just 1 step
+[3:29:04] TheSingleBest: It has three movement abilities
+[3:29:13] TheSingleBest: shadowstep, hook, blade rush
+[3:29:14] happyheals: It is sad, they start in on the first match. Like I remember you freom 13 games ago, you missed a kick. Im afk this round lol
+[3:29:16] eMBeaR64oz: hook gets cdr like evasion and such
+[3:29:26] overrrlord12: Blade rush is like a charge. Tru
+[3:30:44] TheSingleBest: outlaw rogue damage is a slot machine for 6 seconds out of stealth. They have a 25% chance to repeatedly get 5 combo points on the between the eyes. The rogue probably just got lucky
+[3:31:17] happyheals: Yeah, they should lower plate armor by like 30% to counter that damage
+[3:31:21] TheSingleBest: yeah or dance
+[3:31:28] ImHomegr0wn: ghostly strike windows too
+[3:31:30] healhut: vanish or dance yeah
+[3:31:37] eMBeaR64oz: They can spam between the eyes most the time when vanishing and dance
+[3:31:59] eMBeaR64oz: chance to get 5 combo points and no CD on between the eye which dispatches from stealth
+[3:32:07] eMBeaR64oz: so they basically do double finishers for alil
+[3:32:11] petkicklol: swear if he gets sapped or w/e blind is the play
+[3:32:39] TheSingleBest: Yeah they will do most of their damage out of stealth. To be honest outlaw damage is kind of low outside of procs and stealth
+[3:32:51] TheSingleBest: its the ele shaman of melee
+[3:33:17] TheSingleBest: most of the burst will come from dance or vanish but they can get ambush procs for 3x ambush
+[3:33:24] eMBeaR64oz: here sec mes ill linmkm
+[3:33:24] TheSingleBest: outside of the window
+[3:33:26] eMBeaR64oz: link*
+[3:33:49] eMBeaR64oz: ambush can proc randomly with out stealth
+[3:34:28] TheSingleBest: he probably coulnt get goes off with vanish or dance
+[3:34:38] TheSingleBest: between the eyes has long cd if you dont use from stealth
+[3:35:00] eMBeaR64oz: dispatch is the main finisher
+[3:35:12] eMBeaR64oz: between the eyes adds a dispatch onto it from "stealth"
+[3:35:15] TheSingleBest: between the eyes crits for 4x damage
+[3:35:19] TheSingleBest: its just no cd from stealth
+[3:35:21] Szain3: DinoDance
+[3:35:21] eMBeaR64oz: so a few sec after vanish and dance
+[3:35:28] TheSingleBest: no cd when between the eyes is used from stealth
+[3:35:42] TheSingleBest: and has slot machine to grant 5 combo points so you can just use it again immediately
+[3:35:51] TheSingleBest: so it chains 100k 100k 100k
+[3:36:10] juiceboxxx23: juiceboxxx23 subscribed at Tier 1. They've subscribed for 10 months, currently on a 8 month streak! 
+[3:36:10] StreamElements: juiceboxxx23 just subscribed for 10 months in a row mesDad mesDad mesWeckso
+[3:36:55] TheSingleBest: you can't disarm between the eyes either but if they dont proc slot machine the disarm prevents them from generating combo points effectively
+[3:39:46] eMBeaR64oz: I linked you another one
+[3:39:49] TheSingleBest: There is also a roll the bones buff that basically guarantees the 4x damage on between the eyes (makes it always crit)
+[3:39:50] eMBeaR64oz: for between the eyes
+[3:40:25] TheSingleBest: There are two builds
+[3:40:33] TheSingleBest: there is a dispatch build which is more consistent damage but no burst
+[3:40:42] TheSingleBest: most rogues play the between the eyes
+[3:44:39] hitstar98: payoCc
+[3:46:20] atoker: so I guess you spec into all the roll the bones talents to proc more buffs more often right?
+[3:46:36] eMBeaR64oz: down for whatever you need
+[3:47:01] TheSingleBest: yeah it procs
+[3:47:01] Moobot: Join my Discord community! https://discord.gg/mes
+[3:47:14] TheSingleBest: decently often if lucky
+[3:47:24] TheSingleBest: but doesnt hit for as hard as between the eyes
+[3:47:58] juicerjaw: do u think ret will be strong tomorrow ?
+[3:48:01] DizziestShot: during dance he just spams between the eyes unless he needs to build combo points with ambush
+[3:48:15] DizziestShot: but you can get procs where between the eyes will refund combo points
+[3:48:30] atoker: man doing tarolekk today was fun with the sparks quest and all, best 26k gold I've ever earned
+[3:48:37] RK_NoGripp: monkaStop
+[3:49:10] nooahww: in dot build my top dmg most of time its plague should be this way or coil?
+[3:50:24] Boom0101: Boom0101 subscribed at Tier 1. They've subscribed for 23 months! ^_^
+[3:50:24] StreamElements: Boom0101 just subscribed for 23 months in a row mesDad mesDad mesWeckso
+[3:50:25] MoneySledge: !song
+[3:50:25] StreamElements: @MoneySledge No song is current playing.
+[3:51:07] tesicxx: tesicxx subscribed at Tier 1. They've subscribed for 15 months! 
+[3:51:08] StreamElements: tesicxx just subscribed for 15 months in a row mesDad mesDad mesWeckso
+[3:51:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[3:51:43] Applezbtw: im like at 2.1 but ihavent pushed if you need a dh
+[3:51:46] eMBeaR64oz: i cant really do much im goin to bed in like less than an hour
+[3:51:58] krome2dadome: hi
+[3:52:33] krome2dadome: gimmie 5 to log in n shit
+[3:54:29] eMBeaR64oz: oh i thought you were saying do ret stuff for tomorrow, you want ele dh?
+[3:56:45] Szain3: DinoDance
+[3:57:13] simszszy: PogChamp
+[3:57:58] atoker: dhs can solo shaman
+[3:58:33] atoker: a dh with 2 piece and greens can wreck my shaman as enhance or ele in shuffle
+[3:58:43] atoker: and my sham is 489
+[3:58:49] danielbanks: Does taking the fist weapon over glaive as a dh matter ?
+[3:59:08] icyyyspicyyy: i dont even run 4piece on my dh
+[3:59:41] icyyyspicyyy: @danielbanks currently with 1 glaive , 1 fist wep.. they both have same stat
+[4:00:05] icyyyspicyyy: just diff base dmg, but only slightly
+[4:00:33] danielbanks: Yeah was wondering if that base damage makes any difference lol
+[4:00:36] danielbanks: Thanks
+[4:01:00] atoker: it does, but you'd have to calculate the average
+[4:01:35] icyyyspicyyy: its probably a 300dmg difference, but with dh output its not noticeable
+[4:02:48] al_capow: jello
+[4:08:52] al_capow: just checked out palworld a bit
+[4:08:52] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[4:08:56] al_capow: its actually pretty fun
+[4:09:28] al_capow: the design isnt something I super love, but the gameplay is actually really solid feeling
+[4:09:49] sunileif: ya lets hope its ai based so i cnan be out of work!
+[4:10:38] sunileif: i mena if anything you always need a human eye to go back over
+[4:10:49] al_capow: there's also a lot of really interesting non-ai but still programatic innovation for game design
+[4:11:01] sunileif: if youre a professional you can tell the autogenerated thigns
+[4:11:18] al_capow: like wave function collapse for tileset mapping, and cellular automota for world events/interaction design
+[4:11:43] sunileif: automated world events sounds liek a nightmare
+[4:12:31] al_capow: not necessarily, sometimes it can be intuitive, like if they're based on weather patterns for example
+[4:13:27] sunileif: oh im just thinking if its bugged the ai will think its fine
+[4:14:09] Shxcky: ele just seems like straight lava burst now lol kinda sick
+[4:14:13] Shxcky: seems fun
+[4:14:23] sunileif: i get what youre saying mes about more exspansion but think of it from bobby kotiks point of veiw... now he can spend less on drones and rake in more profit
+[4:14:42] subnev: hey mes excited for the tourney
+[4:15:07] sunileif: i had the job where i fised the autogenerated models
+[4:15:12] sunileif: its soul crushing
+[4:18:52] VakuXGodX: How dk nerf? Any new build /
+[4:18:55] VakuXGodX: ?
+[4:19:38] GLYFEnation: Faster production. More games. More human staff to manage them.
+[4:19:47] sunileif: BG3 was amazing and that was a smaller company
+[4:20:03] sunileif: and other triple A studios immediatly shit on it
+[4:20:25] sunileif: altho i wish i could make a game by myself
+[4:20:33] sunileif: then again motivation <,<
+[4:21:06] Szain3: DinoDance
+[4:22:06] Cantbemilked: are the changes live on NA ?
+[4:22:25] flashvau: not yet
+[4:22:33] icyyyspicyyy: not till reset
+[4:25:08] fr0zendog: What a gucii gameplay
+[4:25:16] fr0zendog: Just kava burst
+[4:25:23] fr0zendog: Lava*
+[4:25:30] fr0zendog: I need shaman to
+[4:25:47] enviscerate: @Cantbemilked 7 hours from now
+[4:26:51] buckkyz: how did you get your ally nameplatesd liket yours mes
+[4:27:09] flashvau: liquid magma totem?
+[4:27:12] flashvau: how much dam is it doing?
+[4:28:03] happyheals: ive been telling ppl to use this but no one has been
+[4:28:10] Cantbemilked: ah o thanks
+[4:28:38] happyheals: If you get targeted a while in bear every time you ironfur you get mana
+[4:29:31] whompastyle: Not Affliction, they never have the damage to begin with
+[4:29:31] Moobot: Join my Discord community! https://discord.gg/mes
+[4:32:55] djrainxx: what is pvp stat priority for ele mes?
+[4:33:14] serratedlove: @whompastyle not saying aff is strong or anything but aff has the highest average dps atm
+[4:33:33] Blaze150000: Is the human racial 2% more secondary stats more dmf then the orc on use racial?
+[4:34:00] Blaze150000: Dmg
+[4:34:13] al_capow: mes you could do that in 2s
+[4:36:02] soulflames39: yo,are he changes going to be live tommorow?
+[4:36:11] al_capow: if UnitGUID("target") == UnitGUID("arena1") then LCG.AutoCastGlow_Start(Arena1)
+[4:38:01] pumpz3: doesnt matter what i have lol
+[4:38:02] Begasaur: finally put pvp gear on my priest and fooling around on it, didnt expect it to be this tanky
+[4:38:19] krome2dadome: @pumpz3 it doesn't... can't press them in a stun lmao
+[4:38:25] al_capow: one of your teammates asked for a WA that shines the arena frame for current target or something
+[4:39:16] pumpz3: @krome2dadome pre blur?
+[4:40:54] happyheals: holy priest healing with greater heal goes up tomorrow
+[4:54:57] Szain3: DinoDance
+[4:55:42] ohsomagical_: Sounds like mes is talking to himself???
+[4:59:40] Arox_wow: hello mes, would you be so kind as to share me the havoc weakauras?
+[4:59:55] blizzardice370: What is that ui
+[5:00:12] darrenchen2000: yo mes are dks gonna play same build on Tuesday
+[5:00:43] al_capow: alright here's a WA that I can't test bc my arena rating is high enough so it might work, might do nothing, or might break everything and cost a game lol  https://wago.io/WRWoVKwDg
+[5:00:54] al_capow: isn't high enough**
+[5:01:58] ggpyroboy: the plate armor nerf coming tomorrow do you happen do you know what percentage of physical damage reduction that ends up comes out to? I’m not at home I would check lol
+[5:02:04] dawsonator171: probably gonna let my sub expire and re-up for war within.
+[5:02:35] flashvau: do u ever play poison cleanse or nah
+[5:02:36] tastyqueef: do you use flyplatebuffs or nameplate auras? @notmes
+[5:03:33] AethrosTempest: !playlist
+[5:03:36] fatuglystupidbald: the mies wants to join your team instead of sam… thoughts?
+[5:03:38] AethrosTempest: damn, it didn't work
+[5:04:05] fatuglystupidbald: can you imagine the stare of delusion you would have to be in to even like think thats a possibility
+[5:07:07] easybola: VoHiYo
+[5:07:31] TiltTeamGG: 2020Snacking
+[5:07:35] dawsonator171: I expect season 4 will be boring the same way as it was in SL, and my skill level makes it not as enjoyable.
+[5:08:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[5:09:20] happyheals: first 2 boomy solo queues I had 1 player not join and get draw. Nice waste of a half hour
+[5:14:14] Szain3: DinoDance
+[5:14:45] al_capow: wait click expand
+[5:14:49] al_capow: let me make sure it's up to date
+[5:14:54] al_capow: ok good
+[5:14:58] tastyqueef: do you use flyplatebuffs or nameplate auras
+[5:14:59] shugguls: @dawsonator171 but we get to pick our fav pve set for pvp :) how can it be bad
+[5:15:05] krome2dadome: @ketamine_sniffa plater
+[5:15:06] al_capow: the WA api in the doc was wrong so I had to fix it
+[5:15:09] al_capow: im nervous lol
+[5:15:23] al_capow: my ilvl is too low to test it rip
+[5:16:45] tastyqueef: @krome2dadome ty brother
+[5:16:45] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[5:17:23] happyheals: I think holy priest would be better if it didn't have 317 different spells you gotta use
+[5:17:55] dawsonator171: I only pbind 3 abilities per character. keep it simple stupid seems to work for me.
+[5:18:00] al_capow: hm looks like no effect, I must have the frame names wrong
+[5:18:31] tastyqueef: @krome2dadome is the profile available? thought it was but cant find it anymore
+[5:18:41] shugguls: buff arms
+[5:18:44] krome2dadome: !plater
+[5:18:44] StreamElements: https://clips.twitch.tv/ConcernedAbstemiousOrangeM4xHeh-MusdJGp01hZiHtwq
+[5:18:47] al_capow: quick whats the fram ename
+[5:18:47] krome2dadome: !nameplates
+[5:18:48] StreamElements: Download Plater + use this profile: https://wago.io/2iWqxZtWW (DF) or https://wago.io/CQ5u1hps1 (WoTLK) || Import into Plater not WeakAuras
+[5:18:50] al_capow: oop
+[5:19:08] tastyqueef: @krome2dadome bless ur soul
+[5:19:17] eMBeaR64oz: before you left
+[5:19:22] eMBeaR64oz: "f warriors armor"
+[5:19:23] al_capow: no I think I have the wrong frame names
+[5:19:31] avenueone: asmrguy: @krome2dadome bless your cotton socks
+[5:19:36] happyheals: nerfing plate armor is the obvious counter to rogue and dh burst
+[5:19:43] krome2dadome: love me some cotton socks
+[5:19:43] al_capow: I swear wow would be so much better if they let brand new players join rated arena
+[5:19:47] al_capow: like have an ilvl bracket
+[5:20:18] al_capow: what are the frames in the bottom right when you play?
+[5:20:21] al_capow: are those the real frames?
+[5:20:30] happyheals: you would just have players farming those brackets for w/e reason
+[5:20:44] al_capow: those should have highlighted tho if the code was right
+[5:20:57] al_capow: nah
+[5:21:22] al_capow: oh interesting
+[5:21:39] al_capow: yeah I guess try to add s in front then in the trigger script
+[5:22:28] happyheals: every day is a fun new experience when you discover unknown additional ui bugs
+[5:23:31] krome2dadome: wanna do some rbgs? :)
+[5:23:32] afriKENx: was it mike or krome that had to dip?
+[5:23:45] krome2dadome: michael
+[5:23:45] eMBeaR64oz: me
+[5:23:51] afriKENx: ah mike im guessing
+[5:23:51] eMBeaR64oz: vet time early tomorrow
+[5:24:04] eMBeaR64oz: or today rather
+[5:25:04] krome2dadome: for the record, i literally was asleep and i swear to god i had his stream on my phone and woke up to mes saying "are there any strong dhs out there, i think krome is gone unfortunately"
+[5:25:09] happyheals: funny that boomy is still 0 in solo shuffle having joined 2 shuffles and played 0 games
+[5:25:21] happyheals: Solo Gladiator
+[5:25:49] Solushun: that happens to me sometimes when i hear 2s
+[5:28:08] krome2dadome: nope
+[5:28:10] krome2dadome: im awake
+[5:28:17] krome2dadome: no sleep for the wicked
+[5:28:33] Yukimes: join the 3rd one :)
+[5:28:49] Briggsy22: nah hes just rounding up
+[5:28:51] krome2dadome: but his name is megadeth
+[5:28:51] happyheals: it is a good way to raise your rating lol
+[5:28:57] krome2dadome: he has to be good
+[5:28:58] fazedoritoss: the mesdew
+[5:29:23] afriKENx: @Solushun oi
+[5:29:28] afriKENx: check groupchat
+[5:29:31] fazedoritoss: afriken
+[5:29:31] krome2dadome: it's funny. i capped everything but my 2 highest warrs lol
+[5:29:32] fazedoritoss: oi
+[5:29:42] afriKENx: yooo
+[5:29:44] afriKENx: whats good bro
+[5:29:45] Briggsy22: yea @Solushun oi checkit
+[5:29:58] fazedoritoss: nm hbu
+[5:30:13] afriKENx: you know me just splaying around
+[5:30:15] happyheals: Don't peer pressure Sol, he has no restraint
+[5:30:18] fazedoritoss: love shadowplay
+[5:30:20] fazedoritoss: thats my shit
+[5:30:26] fazedoritoss: happy bout tomorrow?
+[5:30:32] afriKENx: whens doritosp
+[5:30:40] fazedoritoss: my sp is better then 99% of sp
+[5:30:47] happyheals: yeah
+[5:30:51] fazedoritoss: yea
+[5:30:53] fazedoritoss: shadowyapps
+[5:30:55] fazedoritoss: gonna go crazy
+[5:30:58] afriKENx: yeah sp armor wiil be nice
+[5:31:02] Yukimes: damage isnt the problem of SP no?
+[5:31:02] afriKENx: and dmg
+[5:31:07] Yukimes: they still gotta cast LUL
+[5:31:22] happyheals: I was gonna get one of mine ready but Don't feel like messing with the 40 new abilities
+[5:31:23] krome2dadome: just precog 4Head
+[5:31:30] afriKENx: ^
+[5:31:33] Yukimes: 4Head  true
+[5:31:49] afriKENx: its kinda crazy
+[5:31:50] happyheals: no
+[5:31:58] afriKENx: new bear is gonna be similar to pre nerf boomy
+[5:31:58] happyheals: I didn't see anything about that
+[5:32:00] Solushun: i just wokeup 1 sec @afrikenx @briggsy22
+[5:32:04] afriKENx: unless i am misremembering
+[5:32:06] afriKENx: the numbers
+[5:32:13] Solushun: fuk bear form nerd rdruids amirite
+[5:32:25] krome2dadome: true
+[5:32:52] schmingbopper: cries in feral druid
+[5:33:06] happyheals: just run 2 ursine vigor, master shapeshifter and call of the elser druid
+[5:33:08] dawsonator171: rdruid needs buffed. dumpster tier players like me need something easy to climb with.
+[5:33:12] happyheals: elder
+[5:33:19] krome2dadome: i think u have a talent that buffs bear armor
+[5:33:30] Yoskexz: wots happening :O
+[5:33:34] happyheals: I am just saying for restos
+[5:33:48] krome2dadome: mmm i was thinking matted nvm
+[5:33:58] happyheals: left sideneside the stun
+[5:34:00] dawsonator171: right underneath matted fur.
+[5:34:16] dawsonator171: 4 seconds huge armor increase.
+[5:34:22] happyheals: right of it
+[5:34:24] afriKENx: @Yoskexz they are deleting hunters from the game
+[5:34:48] dawsonator171: fuck all hunters and hunter players.
+[5:34:57] happyheals: that gives you armorwhen you shift
+[5:34:59] Yoskexz: @Yoskexz  PepePls
+[5:36:11] happyheals: When I get targeted and using ironfur it is like mid 20s
+[5:37:15] happyheals: bears cant parry
+[5:37:15] Moobot: Join my Discord community! https://discord.gg/mes
+[5:37:17] itz_killjoy: sucks they buffed war dmg , was hoping they get nerfed
+[5:37:41] Troniiicz: what will be a good comp with ele sham to push glad tomorrow
+[5:37:45] happyheals: warr changes were non pvp
+[5:37:56] atoker: warriors won't be doing much in the awc
+[5:38:21] krome2dadome: nerf warr :nodders:
+[5:38:26] dawsonator171: I think fury will make an appearance in AWC.
+[5:38:40] atoker: could you guys try ret dh or ret ww next week? so we can see
+[5:38:41] happyheals: in a teams last match before being eliminated
+[5:38:51] kitsoupne: outlaw is a better fury
+[5:39:06] krome2dadome: fury is, for lack of a better term, mid af
+[5:39:09] lordgonin: you play pala?
+[5:39:19] Yukimes: Hes a wrathful gladiator paladin
+[5:39:37] Yukimes: beffdaddy is king
+[5:40:09] lordgonin: someone have link to notes?
+[5:40:40] itz_killjoy: https://www.wowhead.com/news/additional-class-tuning-coming-tomorrow-pvp-tuning-337298
+[5:40:51] itz_killjoy: this is the new changes today
+[5:41:04] brazkat: god mes i need your playlist
+[5:41:20] dawsonator171: listen, I just know things Dmachine tells me.
+[5:41:21] dawsonator171: Kappa
+[5:41:24] happyheals: no defensive stance right?
+[5:41:34] krome2dadome: it has d stance
+[5:41:38] krome2dadome: just no bladestorm
+[5:41:43] atoker: yeah they have it
+[5:41:44] tastyqueef: is there a way to edit buffs/debuffs shown on nameplates on your plater profile? i cant seem to find it
+[5:41:53] happyheals: oh I just haven't played it since like s2 slands
+[5:41:55] dawsonator171: I actually think blizo will make an appearance on warrior, almost guaranteed.
+[5:42:10] krome2dadome: why would he ever warrior when he can dh
+[5:42:20] happyheals: dh is too good to play warr
+[5:42:20] marbas001: think theres ever a nutty deathwish fury reverse sweep
+[5:42:34] atoker: against good teams that are communicating will result in the stacks getting dropped
+[5:42:47] Solushun: ret/dh :)
+[5:42:57] Solushun: the new ret war
+[5:43:03] krome2dadome: @Solushun VoteYea
+[5:43:04] atoker: oh man I can't wait to see ret dh
+[5:43:32] dawsonator171: did you finish that heroic last night?
+[5:43:39] happyheals: It would be so cool to actually see warriors play in awc
+[5:44:41] atoker: @happyheals they can't succeed with the skill level of the sub rogue players in the awc in NA
+[5:44:46] stockbridge10: gl
+[5:45:04] NomFries: fake queue
+[5:45:09] serratedlove: just kill fyrakk on mythic for highest chance 4Head
+[5:45:13] NomFries: jebaited
+[5:45:43] atoker: the healers are adamant
+[5:45:48] atoker: that's what you like to see
+[5:45:53] NomFries: rebaited
+[5:46:06] atoker: afk dps
+[5:46:07] NomFries: LUL
+[5:46:15] dawsonator171: only takes 1 heroic fyrakk kill to get leggo mes.
+[5:46:27] atoker: a healer has lost his resolve
+[5:46:51] atoker: lol
+[5:46:58] NomFries: yea, fake queues so u dont step away
+[5:47:06] NomFries: LUL
+[5:47:13] happyheals: my last 2 had 1 not join after accepting, at least you stayed in q
+[5:48:37] 122552096: @happyheals yea
+[5:48:57] lordgonin: 99% crit rate
+[5:48:59] 122552096: arms warr would be cool
+[5:50:19] SoraSkyforge: hi mes
+[5:50:44] krome2dadome: @Yukimes i poked u
+[5:51:47] 122552096: @krome2dadome are playing awc ?
+[5:52:29] kubator4: Hello Mes, i am mostly playing PvE but i want to start doing some PvP too. Especially arenas. Can you give me some advice how to get PvP gear for a start? :-)
+[5:53:31] krome2dadome: nah
+[5:53:55] afriKENx: playing in the last cup was so fun
+[5:53:59] afriKENx: sad my healer quit
+[5:54:09] joketahiti: hello
+[5:54:24] atoker: @kubator4 just heal and do blitz until you can shuffle
+[5:55:29] kubator4: Interesting idea :-)
+[5:58:12] vNexty: hi mes, u already played dk?
+[5:58:13] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[5:58:23] Stippler: Anyone got the current talent tree?
+[5:59:44] atoker: @Stippler you can google "wow search" then click on the blizzard site, and search for mesidan... then look at his talent layouts
+[6:00:54] Lyricise: Unfortunate
+[6:01:00] Stippler: @atoker Ty I'll try that!
+[6:01:01] effzeyx: lock life be rough
+[6:03:26] kitsoupne: double sub lobby oof
+[6:05:32] SoraSkyforge: ocant wait to see u q some dk hahaha
+[6:05:39] SoraSkyforge: im from EU so changes arent her eyet
+[6:05:42] fazedoritoss: hey mes what would u think about remaking sub rogue to be a pressure style dps like any other melee in the game
+[6:06:51] eMBeaR64oz: awc gonna be littered with rogues
+[6:07:41] goatskull123: when was awc?
+[6:07:54] krome2dadome: it's in a week
+[6:08:11] kitsoupne: if cheap shot didnt give a combo point they couldnt cheap shot evis with blades monkaHmm
+[6:08:14] InkdAdam: dk be after tomorrow? I’m happy to play disc but locks seem like they’ll be crazy strong and ret too
+[6:08:26] dawsonator171: true story, you can immune some ccs with legendary on use.
+[6:08:43] dawsonator171: kidney clone
+[6:08:46] dawsonator171: blind
+[6:08:50] dawsonator171: not cheap for some reason.
+[6:09:38] deno65: Changes are big? Feeling way different?
+[6:10:08] dawsonator171: only works when it's doing its charge animation. if you get cc'd while channeling, the cast always goes through and does damage.
+[6:11:15] NomFries: what is that secret technique warning
+[6:11:33] kitsoupne: these rogues pushing before reset nerfs KEKW
+[6:12:05] eMBeaR64oz: Druid oomd monkaS
+[6:13:39] boostgold7: Tried dk yet?
+[6:13:56] Szain3: DinoDance
+[6:15:40] NomFries: DinoDance
+[6:16:02] artsskeit: nerf hunters, delete rogues
+[6:16:03] Yoskexz: DinoDance
+[6:16:36] happyheals: has anyone see non double rogue lobbies in solo shuffle at low rating?
+[6:17:17] happyheals: just such long games
+[6:18:08] enviscerate: jarome lobby
+[6:19:25] NomFries: LUL
+[6:19:26] Moobot: Join my Discord community! https://discord.gg/mes
+[6:19:39] deadlycalm: 😄
+[6:20:12] kitsoupne: why is shadowy duel not on gcd but bomb is
+[6:21:03] deno65: @chat what does show the cc/hots/cds over their healthplate ? the little icons
+[6:21:03] sniperxer: are the stars out i heard its night in the usa
+[6:21:18] happyheals: It eluded the gcd
+[6:21:44] boostgold7: Anyone know the crit sound afdon he uses?
+[6:21:59] Yoskexz: that druid shudv died, armor saved him
+[6:22:35] krome2dadome: rogue def needs duel and cloak bubble
+[6:22:36] wyldeshock: i have work to do when I get back. finishing sparks quests is hard mid ssn
+[6:22:44] krome2dadome: underperforming class
+[6:23:08] kitsoupne: hey.. warrior stuns go through cloak bubble :^)
+[6:23:10] boostgold7: !addons
+[6:23:10] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[6:23:10] bigislandcoconuts: yo
+[6:23:23] wyldeshock: rogue needs cleanse the weak when they stab
+[6:23:55] krome2dadome: @kiripear nerf warr
+[6:24:10] kitsoupne: NODDERS
+[6:24:14] kitsoupne: especially fury
+[6:25:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[6:28:04] krome2dadome: yea warr can hit rogue through 1/3rd of their immunity. should def shorten stormbolt duration
+[6:28:44] kitsoupne: um ackshually it's 2/3 because war stuns go through evasion too 🤓
+[6:28:56] happyheals: man imagine losing part of your immunity while chain ccing someone. oof
+[6:29:05] happyheals: should just vanish
+[6:40:45] lightz14: yo Mes is the lego good for DK?
+[6:43:29] Szain3: DinoDance
+[6:44:36] DerangedPOS: sub rogue has the devs in a shadow duel
+[6:45:14] Mozaiczny: Just joined! How is ret right now? :D
+[6:47:18] atoker: @Mozaiczny buffs aren't in until 9am central standard time
+[6:50:28] fratilarazvan1996: This game is constantly falling into decay
+[6:52:43] uninstallspeedrun: is your ui tournament legal
+[6:53:06] se_ill: can u show ur gear stats plz
+[6:53:14] uninstallspeedrun: oh nice
+[6:53:21] lightz14: are you trying to get the axe on dk mes?
+[6:57:36] lightz14: yeah fair
+[6:57:42] uninstallspeedrun: how can you move focus frame cast bar and the frame itself separately?
+[6:59:51] Landrysdad: how do you think the meta changes tomorrow?
+[7:03:06] SoraSkyforge: did u notice any significant damage reduction from your sioe?
+[7:03:06] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[7:03:08] SoraSkyforge: side*?
+[7:03:11] Szain3: DinoDance
+[7:03:50] thunderstud25: gooood morning
+[7:03:55] Landrysdad: I have a feeling KFC is decent tomorrow
+[7:04:58] man0litos: would you trade DKs insnae control to get more surviavability ?
+[7:06:40] Delxenyo: @Landrysdad with mm?
+[7:06:57] quitoxo: just started gearing my dk, whats more valuable to dump conq into? weapon or the tier peices
+[7:10:58] coldgrayrain: he really wanted his pet
+[7:18:25] happyheals: lol 4 solo queues. 2 no game draws, 1 first game leaver, and a 3rd game leaver
+[7:19:26] happyheals: just funny, it is for dps so the queues are long
+[7:19:59] atoker: @happyheals oh if you're healing it's no biggie... dps go back to waiting
+[7:21:05] happyheals: I was dpsing them
+[7:21:35] happyheals: started at 0 rating. In 2 hours I am 319 rating with only 2 rounds lost haha
+[7:21:46] happyheals: I see why dps get upset
+[7:21:53] happyheals: Im going back to healing haha
+[7:22:17] atoker: @happyheals then that's awful I'm sorry...
+[7:22:41] happyheals: It isn't main spec or anything, so I'm not upset. Just find it amusing
+[7:22:47] atoker: @happyheals hopefully you can meet people to do 3s somehow
+[7:23:33] atoker: @happyheals you could farm 3s rating as a healer, and that could get you into more groups when you want to dps
+[7:23:33] Moobot: Join my Discord community! https://discord.gg/mes
+[7:24:04] happyheals: Im over 2k in 2s as a healer. I am just messing around with boomy
+[7:24:14] atoker: 3s rating in infinitely more valuable than shuffle rating
+[7:24:22] atoker: is*
+[7:24:49] happyheals: I haven't queued a 3s game since season 2 slands
+[7:26:04] atoker: I'm wondering if the talents that give more mastery harmony stacks on lifebloom are better than tree form for healing
+[7:27:29] happyheals: you should always have harmonious blooming in every spec variation for healing
+[7:28:04] happyheals: or do you mean budding leaves?
+[7:32:49] atoker: @happyheals let me check my druid 1 sec
+[7:34:01] atoker: budding AND harmonious, I'm running those now over incarn
+[7:35:01] atoker: I can't drop the 2 in regenesis or people WILL die in my tranq
+[7:37:06] bishopworldtv: @notmes are starting for this awc?
+[7:37:12] happyheals: I've seen some specs that run that. I've only been home and playing again for like 8 days so I am giving up reforestation and unbridled swarm for budding leaves in 2s
+[7:38:27] happyheals: the on demand tree form gives too many benefits since I am not fully geared yet
+[7:42:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[7:42:25] HarshCanadian: gg
+[7:46:05] copyleft76: where is 1,3,4 button?
+[7:46:05] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[7:47:23] happyheals: Demon Skin increases armor by 22.5%/45% in PvP (was 45%/90%).
+[7:47:31] happyheals: I didn't notice that before
+[7:47:46] happyheals: in the patch tomorrow
+[7:48:49] doomcute: any point to stack more versa after armor nerf?
+[7:49:12] thunderstud25: they also counteracted the warrior dps impact from armor loss
+[7:50:40] doomcute: why no armor nerfs for hunters
+[7:50:55] SoraSkyforge: impressive how they didnt feel the need to nerf dh's dmg
+[7:51:31] doomcute: @SoraSkyforge they didnt so u can reroll dh
+[7:51:51] vitalbrahh: @doomcute hunter already dies in a stun
+[7:52:12] ecofriend7: !addon
+[7:52:20] doomcute: @vitalbrahh whats the point in having same armor as mail on plate class?
+[7:52:32] happyheals: The best way to counter dh and rogue damage is by lowering plate armor to ensure less plate dps to deal with
+[7:52:36] doomcute: like how do they explain it
+[7:52:50] vitalbrahh: @doomcute ?
+[7:53:32] TheRealEmvepe: You got r1 in OG season 8 ? Running which comp ?
+[7:53:58] doomcute: cause of shield
+[7:55:30] Szain3: DinoDance
+[7:56:14] happyheals: Time for warrior cloth sets
+[8:00:05] Kagestoes: OhMyDog OhMyDog
+[8:02:24] honsou2: Wonder if the 5% healing nerf on Druid will make other healers able to play 2v2
+[8:03:41] poppess: Can enh shaman win arenas this season?
+[8:04:34] poppess: nice it my favorit spec
+[8:05:46] wyldeshock: you seem pretty good at dk
+[8:06:24] krome2dadome: he's aight
+[8:06:24] Moobot: Join my Discord community! https://discord.gg/mes
+[8:06:49] Shablagoosh: I feel like the dragon flight ui overhaul was such a colossal failure. Just every single patch breaks the game, more reloads needed than ever, everyone already used their own uis anyways etc
+[8:09:44] thunderstud25: I mean I got these UI errors plenty before but that was probably on fault of all the addons, now I have less addons and just as many errors lo
+[8:09:53] Rustyz0r: Ooo frostmourne. Aussie represent. Hi @notmes from Australia!
+[8:10:17] Shablagoosh: Yea I have a friend who uses zero addons and he still gets the ui getting bricked bug and has to reload sometimes like what lol
+[8:10:36] Shablagoosh: Has to have been like an interns graduation project or something that’s just not fixable
+[8:11:25] amniiiiii: where do you think DKs will sit after the patch?
+[8:11:52] thunderstud25: I think that the change is directionally probably better in the long term with the game requiring potentially that much less in regards to addons
+[8:12:08] Shablagoosh: did they confirm that those big ret buffs are for pvp as well?
+[8:12:19] NaraliHS: Stamina buff is good vs casters
+[8:12:52] Shablagoosh: just seems so crazy that they arent pve exclusive to me idk
+[8:12:55] happyheals: I went down to 3 basic weak auras that just have a flashing icon in mythic plus and it still causes all abilities to become unusable and force reload
+[8:12:56] Shablagoosh: im just a shitty duelist tho lol
+[8:13:28] amniiiiii: better against casters in principle sure but will warlocks be killable in practice
+[8:13:43] Yankee_ZuIu: yea DK is good but after 4 expansions but they’re already nerfing him 😅 and look at rogues broken sht since wotlk
+[8:14:06] SebboTheFro: Whenever I see you in those shoulders I QQ that I didnt bother to get the scourgelord gear when it was available @notmes
+[8:14:30] Rustyz0r: They nerfed their armor talent by 50% in pvp for warlock at least
+[8:14:36] honsou2: Atleast DK is designed better than it has been in yeears. I think if we feel the nerfs it will be in shuffle, 2s and 3s should be okay
+[8:15:15] happyheals: the changes just kind of force classes that were in the "unsure if going to be seen in awc" to "sorry you wasted your time gearing this toon"
+[8:15:50] deno65: ill tell u, RMP and Locks will be good :D hahah
+[8:16:07] deno65: mage aswell due armor thingys
+[8:16:31] arediontv: @notmes you think warr/sp is good tomorrow ? (3s)
+[8:16:47] happyheals: It didn't hurt me at all, just wanted to see some classes like warrior have a presence
+[8:17:01] Yankee_ZuIu: My opinion is DK was good not OP it was good 🙂 before the nerfs
+[8:17:07] honsou2: indirect buff to mage is nerf to clawing build LUL
+[8:17:40] arediontv: @notmes is dk dead tomorrow ?
+[8:17:49] happyheals: dk should be fine
+[8:18:05] Rustyz0r: Dk is s tier the nerfs aren't gonna make it f tier lol
+[8:18:06] Shablagoosh: I kinda miss playing my spriest so maybe the armor buff plus other stuff will help
+[8:18:43] Yankee_ZuIu: yea :
+[8:18:49] honsou2: dk is good until they nerf DH too lol
+[8:19:00] happyheals: Gonna be fun if Jan 30th has rogue and dh nerfs
+[8:19:52] honsou2: sub rogue already getting a decently sized nerf, is outlaw that op? i havent seen one in ages
+[8:19:58] krome2dadome: @happyheals Prayge
+[8:20:10] krome2dadome: @honsou2 yes
+[8:20:30] Shablagoosh: outlaw does like 115k sustained dps the entire game lol
+[8:20:34] Shablagoosh: its wild
+[8:21:01] Yankee_ZuIu: Dk will be fine but you can see everytime DKs are good they are always get nerfed 🤣
+[8:21:24] FACEX100: YEP
+[8:22:07] doomcute: when was the last time dk or warrior won awc?
+[8:22:34] honsou2: @Shablagoosh ah okay so theyre just sleeper OP for when sub is nerfed cause they still cant die
+[8:22:36] Yankee_ZuIu: 1975 🤣
+[8:24:36] honsou2: lmfao
+[8:24:36] SammyLettuce: lmfao
+[8:24:38] bornbetter: nice
+[8:24:40] wyldeshock: i am sitting 6m 3s qs
+[8:24:48] eclyftw: does anyone know awc start?
+[8:24:54] 420geysniperdad69: hi Mes pretty much if I can even call u that…
+[8:25:21] happyheals: arena logs
+[8:26:07] happyheals: my bad, they show the numbers for comps and stuff
+[8:27:48] 420geysniperdad69: type 1111 if ur a fan of mes! 1111
+[8:27:49] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[8:28:08] SammyLettuce: you just killed that dude way too hard
+[8:28:24] honsou2: any pointers on when to play 40y grip or defile slow? i like having both things so much lol
+[8:28:59] HarshCanadian: is this a new player oin the rdru?
+[8:29:35] HarshCanadian: we fought twice today
+[8:29:41] HarshCanadian: i was the rogue sneaksmoke
+[8:29:51] addiiiiee: You gonna try DK SP tomorrow?
+[8:30:09] addiiiiee: might be fun
+[8:30:12] krome2dadome: @notmes https://seramate.com/us/ladder?specs=[259,260,261]&type=3v3&page=1&rating=[2400,2800]
+[8:30:23] happyheals: check-pvp shows the percentage breakdown
+[8:30:25] krome2dadome: didnt make the whole thing a link randomly
+[8:30:31] happyheals: by class and spec
+[8:33:59] happyheals: lol solo shuffle 1800+ Havoc at 12.4% of matches. Nearly 2k more matches than 2nd place
+[8:37:47] omkar3108: PogChamp
+[8:39:51] honsou2: can details track precogs granted? i bet im feeding so many
+[8:39:58] arediontv: @notmes you think still toptier After tomorrow?
+[8:40:08] arediontv: @notmes Dk*
+[8:42:32] Applezbtw: mes whats the lotto numbers for this week LUL
+[8:43:17] jugum67: this drrod so bad
+[8:43:49] happyheals: he is learning and playing against much better geared and experienced players
+[8:44:16] jugum67: ok but why stay middle, just root dh far away and come back
+[8:44:38] Solushun: he must live at 2100 in diapers
+[8:44:40] happyheals: explain a better way to him rather than just saying bad
+[8:44:41] MistrJ__: o my god
+[8:44:42] Solushun: its his druid training and destiney
+[8:44:43] MistrJ__: just leme get my 21
+[8:44:44] MistrJ__: a
+[8:44:49] Solushun: its the season of verdancy
+[8:44:51] Solushun: he ascends
+[8:44:52] Solushun: in greens
+[8:45:02] jugum67: dh have no freedom, drood counter him
+[8:46:42] SebboTheFro: Btw, is this just me and some weird addon interaction that happens or is it a new bug for you guys too where in arena sometimes tabtargetting will go on friendly targets? It is legit driving me nuts sometimes @notmes @chat
+[8:47:11] omkar3108: PogChamp
+[8:48:31] MistrJ__: just tryna get my 21
+[8:48:31] Moobot: Join my Discord community! https://discord.gg/mes
+[8:48:32] stockbridge10: gl
+[8:48:34] MistrJ__: a
+[8:48:36] rythemix: rbgs are always fun
+[8:48:48] Rustyz0r: Is that doomcooldown pulse? In mid of ur screen when CD ends?
+[8:48:56] wyldeshock: we can
+[8:49:00] wyldeshock: i need a win
+[8:49:05] MistrJ__: how do I beat an unholy dk rdruid as sv disc
+[8:49:34] redslushy: can i join mw abuse
+[8:49:38] wyldeshock: i can't handle the smoke on this dh
+[8:49:55] honsou2: @MistrJ__ never leave pillar
+[8:50:14] MistrJ__: @honsou2 doesnt healer just die
+[8:50:18] redslushy: just need my revival no needs for heals Kappa
+[8:51:21] malkmaan: raymung
+[8:51:35] honsou2: @MistrJ__ still hard matchup yeah. Get dks cds going on you and then freedom to a pillar and circle it rest of game
+[8:52:59] sind233: did the reset happen on na yet?
+[8:55:37] fwankey: no
+[8:56:31] fwankey: server maintenance is 1 hour and 47 minutes
+[8:56:40] fwankey: is in*
+[8:59:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[9:03:09] ejnirl: wnat is this monk doing LUL
+[9:08:56] Chillinar: nice grip
+[9:08:56] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[9:09:45] wyldeshock: yea like 30 honor
+[9:09:54] wyldeshock: wanna win 1 2s game
+[9:10:07] americanmoses18: mes healsss
+[9:10:10] wyldeshock: idc
+[9:10:15] wyldeshock: fresh cr
+[9:11:02] Seariphims: was good game ha
+[9:11:05] honsou2: does uncapped conquest mean conquest boxes too? or is that later
+[9:11:27] wyldeshock: is anyone else's gladius bugged?
+[9:11:29] Seariphims: ^_^
+[9:11:55] ImHomegr0wn: can link you a diff version of gladius wyldeshock
+[9:12:41] Chillinar: mes throwing?
+[9:14:20] Chillinar: damn druid not allowed to cc at all
+[9:14:21] sunileif: def throwing
+[9:14:38] Chillinar: purgebotx?
+[9:16:34] wyldeshock: ty
+[9:22:37] Blaze150000: hey mes i didnt play frost dk for a longer time. how would i open ? Grip >blind>dnd>remorsless>pillar> frostwyrm ?
+[9:23:02] Szain3: DinoDance
+[9:23:09] DeepxLogic: @notmes Do you think after Spriest buffs we'll see more of them around?
+[9:24:01] DirtyYankee0: apparation more for pve
+[9:24:07] DeepxLogic: Wish they were more present in rbgs, thats for sure
+[9:24:27] DeepxLogic: Boomie seems to have gotten a nerf
+[9:24:33] DeepxLogic: Thats why I might swap
+[9:24:35] DirtyYankee0: decent nerf aswell
+[9:24:50] atoker: it's hard to get into rbgs as sp
+[9:24:50] DirtyYankee0: yeah
+[9:25:31] happyheals: 5% will prob just lower overhealing
+[9:25:37] Solushun: im not trippin
+[9:26:41] DirtyYankee0: Infernion did the math on warlock and it was like .3% more armor for warlock KEKW
+[9:26:48] Solushun: im grateful 10.7 season 1 it made me not worry about nerfs LOL
+[9:27:32] happyheals: the armor reduction will prob cause people to use master shapeshifter if they are being attacked, so you will get your mana regen there
+[9:28:31] Solushun: if its retpocalypse again... Im going to not press anything if I get randomly HoJ'd and enemy teammate across the map. they wont get any buttons
+[9:28:44] nerdyorc_: hey mes how you doing
+[9:28:46] Solushun: if its higher rated one and they swapping on HoJ im going to have to use and will run out in 4-5 goes anyway
+[9:29:13] nerdyorc_: retpocalypse was as much about rets being unkillable as it was about their dmg
+[9:29:13] Moobot: Join my Discord community! https://discord.gg/mes
+[9:29:17] Solushun: was night and day between the good ret/wars during the ret/war/fistweave meta it almost felt like shadowlands rmp
+[9:29:22] americanmoses18: ret was fun when it was broken yall just cried about it
+[9:29:43] devascienos: RET DISC?
+[9:29:46] DirtyYankee0: remove ret changes and instead buff their off healss
+[9:29:46] devascienos: caps
+[9:29:47] DirtyYankee0: pls
+[9:29:50] americanmoses18: rdruid is the REAL problem here
+[9:30:00] devascienos: ya
+[9:30:03] devascienos: next patch
+[9:30:19] devascienos: they have the damage tho
+[9:30:27] yourKnightmaare: do you think the armor changes would be actually good if they only just buffed the cloth armor and kept plate the same?
+[9:30:37] devascienos: 2 set  damage buff
+[9:30:39] Applezbtw: rshams gonan do big burst i bet rsham ret will be nice
+[9:30:42] happyheals: holy ret dh id holy is buffed enough
+[9:30:47] happyheals: if
+[9:31:06] DirtyYankee0: holy ret dh sounds cursed KEKW
+[9:31:19] wowsuomi: Surely at least u get on one of ur toons
+[9:31:45] happyheals: for fast gos the holy has a few things to avoid being attacked lol
+[9:31:47] yourKnightmaare: the questing sucks
+[9:31:50] yourKnightmaare: and it's expensive
+[9:31:52] happyheals: my only idea on it
+[9:32:01] wowsuomi: Can someone trade it if they get it
+[9:32:18] yourKnightmaare: doing the superblooms is lame imo
+[9:33:22] yourKnightmaare: what kb?
+[9:33:33] wowsuomi: It would mean u could do slits to  get it
+[9:33:51] Blaze150000: im very happy with the razer ornata
+[9:34:30] yourKnightmaare: I built mine with linear switches 8008 switches
+[9:35:01] plebcake_: hard to hear with music
+[9:35:01] Loadedmvp: yeah
+[9:35:04] Blaze150000: second is a bit louder
+[9:35:05] devascienos: 1
+[9:35:18] Loadedmvp: i mean i can hear both
+[9:35:26] yourKnightmaare: I have an nk87 with 8008 switches lubed and filmed :)
+[9:35:39] nerdyorc_: hmm I think 1 because in a long game the 2 will get annoying
+[9:35:44] yourKnightmaare: its like 8 lbs
+[9:35:46] yourKnightmaare: lol
+[9:35:48] wowsuomi: My favorite is one thats louder
+[9:36:08] freshdots321: Hey!
+[9:36:11] yourKnightmaare: depends on your switch actually
+[9:36:28] Sphexator: idk optical switches are pretty responsive
+[9:36:43] Msv2: Whats good boiz
+[9:36:46] yourKnightmaare: so you can have very responsive switches. which mine are. the only keyboard that is top tier when it comes to the competitive edge is anything from wooting
+[9:37:06] josephzein: did u try dk after nerf?
+[9:37:20] josephzein: isnt the update live?
+[9:37:32] yourKnightmaare: nk87 can go up to 1000hz
+[9:37:33] Sphexator: hmm, most PCBs I've seen is 1000 pooling
+[9:37:34] atoker: @josephzein no
+[9:38:00] josephzein: @atoker when is it? dont na get it today
+[9:38:09] yourKnightmaare: mes, invest in a wooting keyboard
+[9:38:17] atoker: 10am central standard time
+[9:38:55] yourKnightmaare: I'm gonna save for the wooting 80he
+[9:39:02] Szain3: DinoDance
+[9:39:09] yourKnightmaare: Tenz has the wooting and stated it feels like it's cheating
+[9:39:26] wowsuomi: So ur a better player now
+[9:39:54] yourKnightmaare: you can customize your actuations per switch
+[9:40:00] SammyLettuce: wooting makes really good stuff tbh. i got one for a rhythm game i play lol
+[9:40:06] wowsuomi: Invet in foot peddles
+[9:40:15] yourKnightmaare: no switch can go that low as the wooting
+[9:40:15] wowsuomi: Invest*
+[9:40:36] yourKnightmaare: yes
+[9:41:10] stockbridge10: gl
+[9:41:18] Msv2: Yeah there's got to be a fine line with accuations
+[9:41:24] yourKnightmaare: look at the 80he coming out
+[9:41:31] Moobot: Please be sure to ask permission before posting links in chat! (@Cdenzy)
+[9:41:50] americanmoses18: !permit @cdenzy
+[9:41:51] StreamElements: @cdenzy, you will not get timed out for the next 60 seconds.
+[9:41:51] Moobot: @americanmoses18 @Cdenzy will not get timed out for the next 3m (@americanmoses18)
+[9:42:06] Cdenzy: they just delayed it cause they are moving the arrow keys
+[9:42:19] yourKnightmaare: ^
+[9:43:06] Loadedmvp: i mean we have banner there
+[9:43:10] Loadedmvp: so cant see dif :D
+[9:43:11] Cdenzy: cant see LULW
+[9:43:37] saiyan333: need some extra meat for that pinky
+[9:43:41] yourKnightmaare: wooting bottom row looks like standard and the alienware looks like it's tsangan only on the left
+[9:44:08] Ghostfumes111: What mouse do you have? I use Alt, Shift and CTRL on my mouse
+[9:44:15] Hyponikz: my caps lock is ctrl
+[9:44:24] Demonicsoul4: what spec u think will be good after nerfs?
+[9:44:27] Hyponikz: ive always liked that
+[9:44:39] saiyan333: Shift + numpad 7 imagine using that bind.... i do lol
+[9:46:56] arozay_1: gm mes dew land
+[9:52:04] yourKnightmaare: hey chat. what pvp talents for casters should I use on warr?
+[9:52:04] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[9:54:55] kklinker: Leech.
+[9:55:12] kklinker: lol
+[9:55:19] kklinker: Give me like 5~
+[9:55:21] kklinker: and I'll pop on
+[9:55:29] honsou2: im doing LFR and im sure ill get the legendary :) :)
+[9:55:39] kklinker: Hoppin on
+[9:55:42] honsou2: LUL
+[9:57:00] kklinker: Thats fine
+[9:57:11] kklinker: iLvl + my raid stuff shoudl help
+[9:57:12] Xeliumimar: any diff metas with patch
+[9:57:31] kklinker: inv
+[9:58:24] kklinker: i n v i t e p l z
+[10:02:10] Xeliumimar: finally get to try messing with new stats today with uncapped conq
+[10:02:36] kklinker: Hmm
+[10:03:02] kklinker: whats the lockout on the bottom one?
+[10:04:11] freshdots321: You are trying to do what mode heroic?
+[10:04:16] kklinker: Yes
+[10:04:43] kklinker: timing wise I think we're just fucked.
+[10:05:07] freshdots321: sec
+[10:06:08] garythos: are CP boxes ingame also ?
+[10:06:14] kklinker: SIgn up for "first 2 for vault tank plz"
+[10:06:35] c0jaK: kills before the catch up item don't matter right?
+[10:06:43] freshdots321: im queueing as tank
+[10:06:54] norffnorff_: the 30% nerf on armor already up for plate?
+[10:07:00] stockbridge10: raiding, nice
+[10:07:09] freshdots321: Freshpatty-Thrall
+[10:07:25] c0jaK: mesMath
+[10:07:44] kklinker: 2 bosses vault
+[10:07:48] kklinker: queue for that
+[10:07:56] kklinker: 1 2 3 (tank healer dps)
+[10:08:35] freshdots321: we can starta  grp
+[10:08:38] freshdots321: at least maybe 22-6
+[10:08:40] freshdots321: first 3 boss
+[10:08:45] freshdots321: 2-2-6
+[10:11:07] yourKnightmaare: mes, question. quick. what pvp talents would you suggest for arms against casters right now?
+[10:11:47] Tricepticon: anyone in chat know why my gladius is stuck in middle of my screen even though its unlocked and i cant move it?
+[10:11:57] freshdots321: Mes
+[10:12:04] freshdots321: you need to get the raid quest for the helm enchant
+[10:12:04] Moobot: Join my Discord community! https://discord.gg/mes
+[10:12:07] freshdots321: it does damage in pvp
+[10:12:17] sherbi3junior: @Tricepticon try and redownload it
+[10:12:59] Tricepticon: @sherbi3junior  i did Sadge
+[10:13:06] Tricepticon: guess just stuck in middle now?
+[10:13:13] freshdots321: I see it on details on my lock thats weird
+[10:13:23] sherbi3junior: maybe reload idk
+[10:13:43] freshdots321: Yeah
+[10:14:19] freshdots321: Yeah i double check just to make sure I farmed it on all my toons after that but never checked melee i might be wrong
+[10:14:34] Tricepticon: now its stuck on my screen even when im out of arean -_-
+[10:14:38] freshdots321: [Incandescent Essence]
+[10:14:58] Tricepticon: arena*
+[10:15:14] kklinker: Sup
+[10:15:16] kklinker: :>
+[10:15:22] kklinker: It's the Mes special.
+[10:16:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[10:16:20] Tricepticon: lmao only way for me to move it is to adjust the size
+[10:16:30] Tricepticon: some reason adjusting the size moves it on the screen maybe mines broken
+[10:17:19] freshdots321: Mes My girlfriend correct me she said it doesnt proc in rated i am thinking of regular bgs sorry
+[10:18:16] avenueone: whats going on here
+[10:18:38] freshdots321: doing heroic first couple bosses for better chance at legendary weapon
+[10:19:09] kklinker: yes
+[10:19:15] avenueone: good
+[10:19:16] kklinker: Good
+[10:19:22] freshdots321: good
+[10:19:29] the_audacity_x: its good but i dont like using it
+[10:19:41] the_audacity_x: thats me personally tho
+[10:19:55] kklinker: have it
+[10:19:56] kklinker: using it
+[10:20:01] kklinker: better than signet
+[10:20:06] kklinker: when the bosses dont last long
+[10:20:14] UltraKaos: good for st, just freedom urself, ez
+[10:20:15] kklinker: You just use
+[10:20:16] kklinker: and hit the boss
+[10:20:51] the_audacity_x: you can still move just slowed
+[10:21:47] Szain3: DinoDance
+[10:23:39] avenueone: yea the slow on its pretty insignificant
+[10:23:45] the_audacity_x: it lasts for 4 melee hits im ptetty sure
+[10:24:34] rtcinema: talking about the rooting trinket?
+[10:24:40] avenueone: i dont think u can freedom it
+[10:24:43] rtcinema: It'sreally good for pve
+[10:24:44] avenueone: but i only used the lfg version
+[10:24:47] kklinker: i dont think you can freedom it either
+[10:24:54] kklinker: but the slow is really not that bad with our range.
+[10:24:56] kklinker: so... meh
+[10:25:02] honeyloop: Hope ur doing well Mes
+[10:25:10] rtcinema: My alt pally uses that trinket only cause my main doesn't have it yet
+[10:25:29] rtcinema: My alt pally uses Augury+root
+[10:25:36] rtcinema: main uses augury + vers trinket
+[10:25:39] the_audacity_x: i just hate using it on smol and fyrak haha
+[10:25:47] avenueone: mine uses signet/rezans
+[10:25:47] kklinker: <3
+[10:25:59] kklinker: I typcially use the above
+[10:26:07] kklinker: but on quick boss kills signet is not great.
+[10:26:51] yourKnightmaare: trying to hit 1800 on my warrior before it's impossible
+[10:26:55] rtcinema: I banked signet. I mostly do m+ and the weekly heroic raid for axe. Doesn't feel really worth the effort to swap for the 1 hour clear
+[10:26:58] avenueone: how long are servers down for
+[10:27:06] yourKnightmaare: oh?
+[10:27:20] snanikins: 1 hour
+[10:27:48] freshdots321: my server going down now :(
+[10:28:10] famous1939: yeah servers down in 15 mins
+[10:28:33] famous1939: hopefully just restarts and we're back in 15-20 mins from there
+[10:29:03] avenueone: i might be able to get 1
+[10:29:09] avenueone: if they can extend again
+[10:29:20] rtcinema: I'd dps for it if you have have one
+[10:30:05] americanmoses18: dang always gettin kills while im at work :(
+[10:30:35] the_audacity_x: just been gearing my alt fury and bloodbath hit for over 1 mill i thought i was hallucinating when i saw the numbers pop up lol
+[10:30:35] freshdots321: Gotto clean the crib be back ina bit
+[10:33:56] Lucons1: is ret rly squishy now?
+[10:33:56] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[10:38:19] sunileif: @kklinker  saususge
+[10:38:30] appleseedzxo: @kklinker  <3
+[10:38:37] kklinker: <3 @appleseedzxo
+[10:38:49] rakizz: anyone knows when is AWC
+[10:39:43] sunileif: @kklinker HypeLick
+[10:42:35] happyheals: 31st
+[10:42:53] sunileif: 3thirst
+[10:43:09] twinbladeuk: how's ret looking? or changes not live yet?
+[10:43:17] happyheals: When I look up and make sure it wasn't me
+[10:43:34] happyheals: right now on live all dps are equal
+[10:43:37] happyheals: 0
+[10:44:05] heymomimonttv: @twinbladeuk not live yet
+[10:44:08] happyheals: after reset the changes hit
+[10:44:20] happyheals: should be a good buff for single target
+[10:44:22] twinbladeuk: ok PauseChamp
+[10:44:30] kklinker: @sunileif HypeLick
+[10:44:37] heymomimonttv: should be live in roughly an hour
+[10:45:13] happyheals: the less than 1 hour that feral druid is equal to rogue or dh
+[10:45:29] americanmoses18: @sunileif Saususge
+[10:46:11] chiipoo: !help
+[10:46:26] americanmoses18: yes maintenance shud be an hour @pympchimpin
+[10:46:28] happyheals: fyi, I don't recommend going into solo shuffle on a full greens arms
+[10:47:00] happyheals: unless big updates, prob up after 25 mins or so
+[10:47:55] americanmoses18: its blizzard itll be back up in 3 hours
+[10:48:26] nerdyorc_: where in the game is this login screen
+[10:48:27] GeniusPanda: rayycDab
+[10:48:38] Szain3: DinoDance
+[10:49:51] heymomimonttv: @happyheals i'm 1600 in solo in all greens on arms lol
+[10:49:57] rtcinema: @nerdyorc_ valdrakken
+[10:50:28] indithedog: que up some rocket league Kappa
+[10:51:45] happyheals: The match wasn't bad, just lasted forever
+[10:52:06] happyheals: and I haven't played arms for a few years
+[10:53:41] Vendrek: I have my shovel and wheelbarrow on standby
+[10:53:49] avenueone: me maybe
+[10:54:05] happyheals: I looked at solo shuffle stats and dh has slightly less matches than the bottom 13 dps combined in 1800+ games
+[10:54:05] Moobot: Join my Discord community! https://discord.gg/mes
+[10:54:49] waitimdesyncd: Hi guysss
+[10:55:08] happyheals: it was on there for the post yesterday
+[10:56:45] NightMunchies: hello Wait
+[10:57:07] happyheals: if it does decent dmg then you will have a lot of lvl 1 troll alts complaining in forums
+[10:57:08] DCBen: thats like a total pvp nerf
+[10:57:13] DCBen: and pve nerf
+[10:57:15] waitimdesyncd: @nightmunchies  :D
+[10:57:37] DCBen: not for m+
+[10:57:39] dammitcyrus: can you get the axe from vault?
+[10:57:40] DCBen: for raid slight buff
+[10:57:42] DCBen: for m+ nerf
+[10:57:56] DCBen: i have the weapon on my ret
+[10:58:03] happyheals: weapon dam
+[10:58:09] DCBen: agree
+[10:58:22] DCBen: but still just make it so you can use buttons
+[10:58:24] Vishnog: you have drops running?
+[10:58:26] DCBen: died without bubbling
+[10:58:30] DCBen: because was in the effect
+[10:59:02] rtcinema: Are you sure it wasn't just on GCD?
+[10:59:12] rtcinema: That would be strange if you cant cancel the effect with bubble
+[10:59:15] kklinker: you're a .25 nerf.
+[10:59:31] yourKnightmaare: I almost did some crazy shit with my keyboard. had to compile a firmware bin file to flash my keyboard to run it at 1000hz but turns out I ran a program to see and it's already at 1000hz. thank fuck I didn't flash it
+[10:59:40] happyheals: Every day when I wake up Klink
+[11:00:24] kklinker: thats just your peen size.
+[11:00:26] kklinker: BAZINGA.
+[11:01:09] Carehunt: changes are up on US ?
+[11:01:18] happyheals: He looked at it, now who is bazinga
+[11:01:43] shoonerz: Hey Mes, do you play all the versions of WoW or just retail?
+[11:01:46] kklinker: And?!
+[11:01:57] kklinker: He plays Shitum of Dumbination.
+[11:02:18] kklinker: How has that been going by the way?
+[11:02:41] waitimdesyncd: @kklinker hahahahahhahaha
+[11:02:45] happyheals: only version he doesn't play is tank pvp
+[11:02:46] kklinker: :D
+[11:02:51] kklinker: OH lord
+[11:02:53] kklinker: HAPPY WHY
+[11:02:55] kklinker: WHY... WHYYY
+[11:02:56] LeyIagosa: when are changes live?
+[11:03:10] Vishnog: had add train do you have drops enabled for wow?
+[11:03:24] happyheals: I said what I said
+[11:03:28] kklinker: ;(
+[11:04:06] DCBen: you can pre kick with it
+[11:04:14] DCBen: if you macro the ability with kick
+[11:04:21] DCBen: you can like 25 yards insta kick
+[11:04:26] Vendrek: I just saw the new additions to the class tuning...warrior just got a slight buff to damage.
+[11:04:32] happyheals: I haven't done it since Prot arena in like 2008-2010
+[11:04:38] Szain3: DinoDance
+[11:05:03] heymomimonttv: @Vendrek no they didnt
+[11:05:19] heymomimonttv: warriors armed to the teeth buff counters the plate armor debuff
+[11:05:24] omkar3108: PogChamp
+[11:05:36] Vendrek: I didn't say it was huge
+[11:05:43] Vendrek: ye
+[11:06:19] Vendrek: I was more or less getting at omg were are sorry here is a small compensation...
+[11:06:26] yourKnightmaare: fuck the nerfs I'm still gonna play dk
+[11:06:39] Vishnog: [Updated 1/12] Dragonflight Twitch Drop: Get the Grim Campfire Toy January 23!
+[11:06:47] Vishnog: you have !drops enabled?
+[11:06:51] happyheals: congrats on plate being the new train target
+[11:07:06] Vendrek: So as it stands I believe Resto Sham and Evokers have more armor than us?
+[11:07:09] happyheals: it said after reset
+[11:07:11] heymomimonttv: @Vendrek ahhh i see, my bad
+[11:07:30] happyheals: oh my bad you meant drops
+[11:07:32] DCBen: and if you use the ability and someone Bops Bubble Tranq immune
+[11:07:35] DCBen: it cancels insta
+[11:07:50] Vishnog: my bad
+[11:07:53] healmeshammy: resto shammy got nerfed to armor as well
+[11:07:54] Vishnog: Start Time: January 23, 10:00 a.m. PST (18:00 GMT)
+[11:07:58] Vishnog: I'm dumb
+[11:08:11] nikthevoker: sup
+[11:08:14] rtcinema: Was there any warning about the armor changes in PVP? Why any have 4 armor types if they are just making everything leather/mail eq?
+[11:08:21] heymomimonttv: ele getting armor nerf makes little to no sense to me
+[11:08:42] LichbornHQ: non of the armor change makes sense :D
+[11:09:08] healmeshammy: ^
+[11:09:09] LichbornHQ: will be fun when warrior charge on you and oneshot :D or ww monk
+[11:09:17] LichbornHQ: or mm hunter from stealth
+[11:09:31] healmeshammy: warrior wont one shot anyone
+[11:09:47] Vishnog: caster cleaves meta
+[11:09:54] Vishnog: inc
+[11:09:59] healmeshammy: ^
+[11:10:08] heymomimonttv: warrior def not strong enough to 1 shot anyone but
+[11:10:13] heymomimonttv: caster meta inc for sure
+[11:10:23] heymomimonttv: cloth caster* or evoker
+[11:10:31] healmeshammy: and cupid or ret/dh?
+[11:10:54] happyheals: it already kinda felt like there would be a lot of caster comps
+[11:10:59] sind233: Sensing some melee bias in the chat
+[11:11:13] healmeshammy: melee bias?
+[11:11:18] Vendrek: You are still going to see rogues, dhs, and monks...imo feral may come into the picture for jungle on warlocks but still think they need some love against melee themselves.
+[11:12:18] sind233: Is caster meta casters being on equal footing with melee or superious? Cause they are barely playable before this reset
+[11:12:39] sind233: superior]
+[11:12:59] healmeshammy: real selection up prob servers on soon
+[11:13:03] rtcinema: caster meta = melee don't steamroll them
+[11:13:06] healmeshammy: realm
+[11:13:17] sind233: @rtcinema LUL idd
+[11:13:30] Vishnog: realmlist up but not active yet
+[11:13:31] nikthevoker: i hate mornings
+[11:13:57] Vishnog: how do I get moments badge?
+[11:14:08] happyheals: caster meta round endings look like aoes on both sides of a pillar while the other team dies in a boring way
+[11:14:08] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[11:14:27] rtcinema: @sind233 But in reality... caster meta = dampening usually. Like the old Cloud9 days of melee hiding behind a pillar because you're just dead if you poke out.
+[11:14:39] healmeshammy: you think meta will shift somewhat @mes?
+[11:15:24] happyheals: Blizz got people to level and gear melee dps, it was time to trim the fat
+[11:15:30] healmeshammy: so we can see different comps on top of ladder beside 10 alts of petkick with mvq
+[11:16:15] stockbridge10: oh Tuesday, fun times
+[11:17:53] demololtv: today is the day :(
+[11:17:59] demololtv: as a boomy main I am fucked...
+[11:18:00] happyheals: Ive been back for 8 days. I have no clue how season has been. I just like trolling some
+[11:18:19] happyheals: also buff druid
+[11:18:54] waitimdesyncd: Buff dh^
+[11:18:58] biofreaks: Bear Form nerf going to hurt Feral druids even more...
+[11:18:59] demololtv: thats true
+[11:19:02] swolecolemole: almost time to full send ret shuffles
+[11:19:21] Vendrek: Frenzied Regen is going to be a lot better...if you take the 30% instant talent that is also going to go up.
+[11:19:21] biofreaks: I want to know how many Blizz Devs work on pvp.. i want a numeber!
+[11:19:27] waitimdesyncd: They lost Bear form armor no?
+[11:19:30] demololtv: the changes are today right
+[11:19:37] Solastro: @biofreaks 2
+[11:19:54] demololtv: ok stream title jsutsays tm
+[11:20:23] sind233: POG
+[11:21:06] avenueone: checking
+[11:21:07] demololtv: CAP REMOVED
+[11:21:08] cleominajj: is there any more inflation coming
+[11:21:26] cleominajj: nice
+[11:21:29] DCBen: can you buy accountbound conquest boxes? @notmes
+[11:22:06] demololtv: yes conq boxes are in
+[11:22:14] DCBen: really?
+[11:22:16] DCBen: @demololtv
+[11:22:41] happyheals: the conq chest is there
+[11:22:49] happyheals: 375
+[11:23:21] DCBen: thanks <3
+[11:24:03] Vendrek: Logging onto my warrior to see how it looks
+[11:24:12] demololtv: can u queue SS at all?
+[11:24:14] avenueone: maybe
+[11:24:18] avenueone: have to use cirros druid
+[11:24:21] nikthevoker: spam 3s
+[11:24:28] avenueone: zone in
+[11:24:31] avenueone: so i can pass u leader
+[11:24:32] avenueone: u can fill
+[11:25:20] macdeezyx: what are your thoughts on the changes? i saw there were some last minute ones to armor
+[11:26:20] Vendrek: My warrior is sitting at 9.1k armor and 902k health
+[11:27:19] itz_killjoy: so i went from 19.51 % to 19.98% dmg reduction on my lock
+[11:27:56] rtcinema: I can bring a ret
+[11:28:16] c0jaK: 3 tank strat
+[11:29:01] americanmoses18: gl mes!
+[11:29:12] thefakenickyg: Take Executeya in the other queue
+[11:29:46] Solastro: ofc im from stream lol
+[11:29:47] kklinker: What the fuck is that raid comp on T Swift?
+[11:30:31] americanmoses18: sad im at work and cant get in on this fyrry kill
+[11:30:36] firemarcosrl: i mean i just tried ret new's buff and it kinda feels the same lol
+[11:30:48] Solastro: /wave
+[11:30:54] kklinker: Invite DN
+[11:30:56] nikthevoker: ya i got my nice DK LUL
+[11:31:15] nikthevoker: my DK has shit gear
+[11:31:20] happyheals: I feel like my warrior is too low ilvl
+[11:31:25] appleseedzxo: make kklinker go
+[11:31:26] kklinker: Trolling - dont know about guild running yet.
+[11:31:28] happyheals: Ill wait
+[11:31:47] P_O_B_A: @notmes mes can i come
+[11:31:49] americanmoses18: 2 bows no hunters LOL
+[11:32:06] kklinker: i can help later in the week
+[11:32:12] kklinker: When I know what's goin gon.
+[11:32:26] americanmoses18: i can come with kklinker and help friday on*
+[11:32:30] kklinker: i can just bring my lock for the kill and sit him if needed on Fyrakk
+[11:32:33] MistrJ__: hell yeah conq boxes are out
+[11:32:34] MistrJ__: !
+[11:32:49] kklinker: I'll hop on the lock.
+[11:33:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[11:33:36] nikthevoker: i cant even swap servers atm
+[11:33:36] americanmoses18: i shud be 471-473 this week pog
+[11:33:43] nikthevoker: shits exploding
+[11:33:48] Blaze150000: 11 pala
+[11:34:05] americanmoses18: imagine mes gets it on lfr
+[11:34:14] Moobot: Join my Discord community! https://discord.gg/mes
+[11:34:15] xseba02: kekw
+[11:34:21] avenueone: just 2 healers imo
+[11:34:24] xseba02: PoroSad
+[11:34:27] nikthevoker: i want to LUL
+[11:34:29] happyheals: 7
+[11:34:34] kklinker: What is the name of the raid?
+[11:34:44] shugguls: nope not dropped yet in lfr
+[11:34:53] wowsuomi: Surely someone will get one
+[11:35:00] xiliketurtlex: so its 7 percent armor nerfed to dk
+[11:35:01] nikthevoker: indie game
+[11:35:18] happyheals: somehow a lock gets one
+[11:35:40] wowsuomi: Is the lfr ilvl the same as getting it from heroic
+[11:35:48] itz_killjoy: the retapocalypse begins LUL
+[11:36:19] Vendrek: Sorry not geared enough...think I would be getting carried and don't have any ranged classes that I am decent on for HRaid.
+[11:36:20] nikthevoker: wtf blizzard
+[11:36:24] xseba02: really?
+[11:36:44] xseba02: monk ww also need buffs
+[11:37:04] nikthevoker: 446 DK
+[11:37:08] nikthevoker: YUGE
+[11:37:53] melbu2423: need another dps mes?
+[11:38:24] americanmoses18: no wep for mes sad :(
+[11:38:36] P_O_B_A: @notmes can i join ur group?
+[11:38:37] DCBen: i got it last week
+[11:38:42] wEiRdO_dUdE: I figured they would make the drop rate really low if they added it to LFR
+[11:38:43] DCBen: after doing fyrakk HC since day one
+[11:39:19] nikthevoker: i should just buy socketts on DK now ya?
+[11:40:04] americanmoses18: GL ALL THE PLATEYS IN THERE
+[11:40:35] xFredHx: is the lego a personal drop?
+[11:41:13] shugguls: where is the prediction for our points :)
+[11:41:49] Esotraz: Prayge no legendarys
+[11:41:55] Bombdiggity3315: do they get leggo on tourney realms?
+[11:42:07] shugguls: @Bombdiggity3315 yep
+[11:42:18] Bombdiggity3315: thats Pog
+[11:42:26] americanmoses18: Prayge everyone gets a leggo this kill
+[11:42:48] indithedog: PepeLaugh
+[11:42:50] Solastro: we doin another after this one?
+[11:42:51] Esotraz: Prayge nobody gets leggo this kill Prayge
+[11:43:07] Fliigh7z: 4 rets, 4 dks, 2 warriors
+[11:43:10] Cdenzy: 168k on yes EZ
+[11:43:14] Esotraz: Nope
+[11:43:15] WarTV: Sorry Mes but it only drops for plebs
+[11:43:16] Fliigh7z: honestly  not as crazy ias i thought
+[11:43:26] Boruox: Went all in baby!
+[11:43:37] wEiRdO_dUdE: We wants our precious!
+[11:43:41] waitimdesyncd: lets see it
+[11:44:00] happyheals: can't do 69,000 on my pick since mod. dang. You got this
+[11:44:06] Fliigh7z: ive seen a fyrak fight with nothing but the classes that could use the legendary
+[11:44:17] americanmoses18: i hope mes gets it. i finally saw one drop after like 45 runs for some ret in my raid
+[11:44:28] sunileif: @kklinker Nerdge
+[11:44:28] shugguls: each add should get a lay on hands :)
+[11:45:32] nikthevoker: DK is 15pts off weap
+[11:45:49] wEiRdO_dUdE: I've seen it drop on streams a couple of times, it's definitely in the loot pool
+[11:45:58] nikthevoker: crit weap such ass
+[11:46:11] aant02: only one person's got it in our guild and we've been on farm for a while now :3
+[11:46:22] shugguls: @wEiRdO_dUdE seen a face book pic of 4 dropping in 1 hc run
+[11:46:56] Dristereau: We have three in our Guild now, one Warr got it like 2nd week, one about 3 weeks ago and me this week
+[11:47:01] wEiRdO_dUdE: 4 at once is fantastic, whoa
+[11:47:13] aant02: Prayge mes gets weapon
+[11:47:19] Esotraz: Prayge nobody gets leggo this kill Prayge
+[11:47:19] americanmoses18: tornado oof
+[11:47:36] waitimdesyncd: Prage leggo for all
+[11:47:50] gilliytine: if wipe get my ass
+[11:48:20] Anhak: nope healer died onle 1 healing now i say nay
+[11:48:21] Dristereau: Looks doable
+[11:48:38] wEiRdO_dUdE: Blood DK's have soloed some very tough stuff, but it's a lot of hitpoints to chew through
+[11:49:05] waitimdesyncd: pump pump pump
+[11:49:08] Fliigh7z: this is doable i swear
+[11:49:16] aant02: 2% Prayge
+[11:49:19] krome2dadome: yo
+[11:49:25] Chillinar: ofc the bdks are the only ones alive
+[11:49:27] Fliigh7z: no shot
+[11:49:30] Esotraz: Prayge nobody gets leggo this kill Prayge  󠀀
+[11:49:32] rtcinema: solo for the lego
+[11:49:36] Chillinar: buff bdk
+[11:49:41] krome2dadome: what u think about that lego change?
+[11:49:44] whspe: TAKE IT HOME
+[11:49:53] Esotraz: u have a combat ress
+[11:49:55] Chillinar: PauseChamp
+[11:49:55] bignoooodle: NOOOOOOOOOOO
+[11:49:57] Chillinar: D:
+[11:49:59] heymomimonttv: wowwww f good try
+[11:50:03] mustiparta: if he doesn’t get it from this it’s criminal
+[11:50:03] waitimdesyncd: shiiiiiiiii
+[11:50:03] happyheals: you had one job
+[11:50:04] nerdyorc_: close
+[11:50:05] mustiparta: awww
+[11:50:05] whspe: 😭
+[11:50:07] Fliigh7z: you had brez
+[11:50:10] gilliytine: list once more
+[11:50:10] happyheals: lol
+[11:50:14] Fliigh7z: oh man
+[11:50:16] melbu2423: NotLikeThis
+[11:50:16] WarTV: @notmes is it possible to move your Caster bar WA?
+[11:50:19] Chillinar: now stop dying and focus Madge
+[11:50:41] rtcinema: is the person who gave us the lockout still int he group?
+[11:50:47] rtcinema: They can drop and use them for a econd run
+[11:50:49] nikthevoker: fucking auzzies
+[11:51:10] Esotraz: Prayge nobody gets leggo this kill Prayge
+[11:51:13] shugguls: no one voted agaisnt u
+[11:51:16] wEiRdO_dUdE: We need it!
+[11:51:24] shugguls: nope zero
+[11:51:44] waitimdesyncd: Scuffed = stuffed with loot
+[11:52:58] Esotraz: aussie is not a real server Madge
+[11:53:09] wEiRdO_dUdE: I think Echo did this raid on normal in NA, and they were all in EU, so technically it's doable with ping
+[11:53:22] indithedog: LOL
+[11:53:24] melbu2423: LUL
+[11:53:28] Chillinar: mes why so rude
+[11:53:36] Esotraz: icant vote with points so i will always bet against people
+[11:53:36] Fliigh7z: ban him
+[11:53:38] indithedog: majority did vote yes
+[11:53:41] waitimdesyncd: Blizzard still hasnt given me my lost title back Madge it says "You have lost the title "Fearless Spectator" everytime I login on a char, and blizzard closed my ticket without responding
+[11:53:41] Esotraz: cause my country stinks
+[11:53:44] waitimdesyncd: very madge
+[11:53:47] shugguls: lol ban mes
+[11:53:48] krome2dadome: @notmes thoughts on that lego change?
+[11:53:56] nerdyorc_: after they ended the chinese servers all the Oceanic servers are High pop to Full
+[11:54:02] Fliigh7z: dude thats kinda fried that chat snitches on you
+[11:54:06] P_O_B_A: what change @krome2dadome
+[11:54:21] melbu2423: so angryyyyyyyyyy
+[11:54:21] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[11:54:30] krome2dadome: https://www.wowhead.com/news/fyralath-the-dreamrender-quality-of-life-buffs-on-the-weekly-reset-337304
+[11:54:44] melbu2423: mesBabyrage mesBabyrage mesBabyrage
+[11:54:51] Chillinar: omfg
+[11:54:54] Chillinar: that was close
+[11:54:56] Chillinar: monkaS
+[11:55:41] americanmoses18: woah ur alive? @chillinar
+[11:55:53] Chillinar: I'm dead inside. does that count?
+[11:56:01] Fedds_29: what is your guess with changes?
+[11:56:01] wEiRdO_dUdE: Good old axe toss
+[11:56:08] americanmoses18: dead like birdy /spit @chillinar
+[11:56:14] Chillinar: BRUH
+[11:56:23] krome2dadome: same @chillinar
+[11:56:23] Dristereau: so good seeds this time and no tornados
+[11:57:16] waitimdesyncd: shiiiiiiiiiiiiii
+[11:57:18] melbu2423: NotLikeThis
+[11:57:18] americanmoses18: aw man
+[11:57:20] Chillinar: seeds D:
+[11:57:23] americanmoses18: seeds just aint doin it
+[11:57:24] rtee1__: lol
+[11:57:28] melbu2423: lawlz n bawlz
+[11:57:38] kklinker: People are not picking up the seeds.
+[11:57:53] melbu2423: "aotc"
+[11:58:09] Anhak: Kermit: I see a distinct lack of the best class in this raid  maybe that would fix the problem
+[11:58:36] Chillinar: where are the vokers
+[11:58:41] Chillinar: aug???
+[11:59:00] poppess: one enh shaman whould have this
+[11:59:14] nikthevoker: every skirm when thats the weekly is 1v2
+[11:59:20] Esotraz: Prayge nobody gets leggo this kill Prayge
+[11:59:28] Dristereau: equip, hand quest in near archives
+[11:59:30] wowsuomi: Buy gold
+[11:59:31] krome2dadome: hey chilli, since mes doesn’t read, what are your thoughts on the lego change?
+[11:59:31] P_O_B_A: go to action house
+[11:59:33] shugguls: screen shot and send to cdew
+[11:59:33] indithedog: vendor it
+[11:59:37] wEiRdO_dUdE: You activate the quest item and start the chain
+[11:59:42] Chillinar: strip in goldshire
+[11:59:44] Chillinar: oh wait
+[11:59:45] rtcinema: log out and do it again on another toon
+[11:59:53] Chillinar: @krome2dadome there were changes?
+[12:00:00] waitimdesyncd: notmes more like hotmes
+[12:00:01] Dristereau: then superblooms/rares with tether
+[12:00:03] Chillinar: haven't read patch notey et
+[12:00:23] americanmoses18: i blame birdy for the wipes mes
+[12:00:25] krome2dadome: @chillinar https://www.wowhead.com/news/fyralath-the-dreamrender-quality-of-life-buffs-on-the-weekly-reset-337304
+[12:00:32] Chillinar: thanks babe @krome2dadome
+[12:00:40] P_O_B_A: but u'll have the mog
+[12:00:46] melbu2423: i see peeopl who havee the legendary that dont use it, they just mog it. idk if its a troll thing or what lol
+[12:01:01] wEiRdO_dUdE: Even if you never use the active ability, I would still want that weapon damage and stats
+[12:01:09] americanmoses18: the mog is dope for it
+[12:01:10] Dristereau: @melbu2423 ngl I mogged it on a SV hunter when doing it on LFR
+[12:01:21] americanmoses18: im mogging on my sv for sure
+[12:01:40] Chillinar: @krome2dadome looks like a good change ig just wish we had more legendaries for each class tbh
+[12:01:46] AxiomDK: I hope i get it this week -__-
+[12:01:49] melbu2423: im talking about classes that can use it though
+[12:01:58] shugguls: @americanmoses18 waiting for a lock pet to have it
+[12:02:03] Dristereau: It's cool, but my DK is purple mog so I already mogged away from it for now
+[12:02:13] americanmoses18: tbh sv shudda been one of the classes to use it
+[12:02:23] krome2dadome: true. give hunters legendaries
+[12:02:31] americanmoses18: bro lock pet wud go so hard @shugguls
+[12:02:36] Chillinar: need another legi bow Madge
+[12:02:47] melbu2423: hunters dont need shiiiii
+[12:02:56] krome2dadome: legendary hunter pet when?
+[12:03:06] Dristereau: anyways its work time, shuffle queues ain't happening so GL on the leggos
+[12:03:08] AxiomDK: They had that in SoD @krome2dadome
+[12:03:10] americanmoses18: leggos for all none for chilli
+[12:03:17] ZealotryTV: i got 2 pieces of tier in my fresh dk vault lol
+[12:03:17] melbu2423: ok, lgendary hunter pet would be cool
+[12:03:18] AxiomDK: Wanshe Panshe :(
+[12:03:31] americanmoses18: legendary hunter pet that glows orange
+[12:03:51] ZealotryTV: the legendary is clearly hunter loot
+[12:03:52] melbu2423: i would probably start a hunter for that.
+[12:04:04] americanmoses18: leggo axe and leggo pet on sv hunter dope
+[12:04:12] krome2dadome: I literally came up with that in 30sec. blizz needs to hire me
+[12:04:32] americanmoses18: KEEP SEEDS UP
+[12:04:52] americanmoses18: lol man
+[12:04:52] kklinker: mage ate the flame
+[12:04:53] kklinker: with seed
+[12:04:56] americanmoses18: again hahahaha
+[12:05:00] Chillinar: LOOOOOOOOOOOL
+[12:05:17] melbu2423: we should do a new prediction. how times will people fk up seeds
+[12:05:29] Anhak: @melbu2423 atleast once more miss swan
+[12:05:55] wEiRdO_dUdE: More rogue spots!
+[12:05:56] krome2dadome: mes
+[12:06:17] krome2dadome: @notmes thoughts on lego change?
+[12:06:23] rtcinema: just get a 4th ehaler
+[12:06:26] rtcinema: and it'll be fine
+[12:06:34] dustix75: 2/5/13   2/6/16
+[12:06:43] gilliytine: gilliyp lemme crank
+[12:07:11] dustix75: to many zug zuggers man dropping shit on ppl lmao
+[12:07:14] Vendrek: recommend editing the listing to lf healers
+[12:07:31] MRRowdyRuff: war tryna blame me lmao
+[12:07:53] rtcinema: One of the pulls I had seed on square and ran all the way to the tank because the person with the vertical line ran the entire time he had it
+[12:08:03] rtcinema: Was wild
+[12:08:04] krome2dadome: one day he’ll read my question Sadge
+[12:08:05] shugguls: do we need a new prediction about if u will kill it rather  than if it drops?
+[12:08:12] rtcinema: Just stand still with the line and the seeds can move
+[12:08:16] dustix75: legit ppl just chasing others with lines lol
+[12:08:24] dustix75: like stand fuckin still and hit boss
+[12:08:34] rtcinema: In p1/p2 people are just spazzes with lines
+[12:08:44] Solastro: just move up and down your own line if you need to move
+[12:08:47] dustix75: zug zug man
+[12:08:48] rtcinema: Just stand still... or walk parallel with your line
+[12:09:00] rtcinema: people are walking perpendicular to the line fucking it all up
+[12:09:15] avenueone: so many ppl strafing with seed
+[12:09:18] Chillinar: and mes is evil santa
+[12:09:18] avenueone: pissing me off big time
+[12:09:25] stockbridge10: let's go
+[12:10:20] fruitjuice27sham: How does dk feel after nerfs Mes?
+[12:10:40] rtcinema: this is plenty
+[12:10:56] rtcinema: healers aren't gonna stop people from running lines into seeds
+[12:11:02] rtcinema: or accidently picking the seed up
+[12:11:18] rtcinema: 4
+[12:11:19] kklinker: You inviting more?
+[12:11:26] kklinker: do I need a closet
+[12:11:29] kklinker: that's why i was askng.
+[12:11:30] rtcinema: Just need 4 seeds
+[12:11:39] dustix75: with overhealing the idea is you burn a seed anyways
+[12:11:50] dustix75: and you are accounting for the fuckup
+[12:12:07] dustix75: only 4 seeds
+[12:12:17] americanmoses18: tbh i blame cholli for seed screw ups
+[12:12:34] kklinker: Hi Cholli.
+[12:12:59] Chillinar: sup fucker
+[12:13:09] americanmoses18: spit birdie
+[12:13:10] Rainbowmes: hostile
+[12:13:34] krome2dadome: oh kklonk…
+[12:13:42] americanmoses18: kklonks and cholli
+[12:15:14] zozoqc: !wa
+[12:15:14] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[12:15:18] zozoqc: !weakauras
+[12:15:42] waitimdesyncd: as long as the boss didnt knock you up
+[12:15:43] Moobot: Join my Discord community! https://discord.gg/mes
+[12:15:55] zozoqc: Hey Mes, what is the WA for ur runes? :)
+[12:17:23] zozoqc: can u link the scripts? :)
+[12:18:56] notmes: !runes
+[12:18:56] Nightbot: it’s !points
+[12:18:56] StreamElements: Use addon in !scripts or use: /run RuneFrame:ClearAllPoints() RuneFrame:SetPoint("CENTER",UIParent,"CENTER", 6,-75) RuneFrame.SetPoint = function() end RuneFrame:SetScale(1.5)
+[12:19:37] krome2dadome: !points
+[12:19:38] StreamElements: @krome2dadome, krome2dadome has 2147484892 runes
+[12:19:53] Roundhere_: replace whole raid
+[12:19:53] Ifwuzzy: grief
+[12:20:00] Chillinar: now gamble them all @krome2dadome
+[12:20:02] Mechgyrasaur: KEKW
+[12:20:44] krome2dadome: anything for u
+[12:20:46] wowsuomi: Ez kick
+[12:20:48] krome2dadome: !gamble all
+[12:20:49] StreamElements: krome2dadome went all in and lost every single one of their 2147484892 runes LUL
+[12:21:07] anmusallam: OOOOF
+[12:21:09] anmusallam: rip
+[12:21:23] rtcinema: !gamble 100%
+[12:21:23] StreamElements: PogChamp rtcinema went all in and won 2147485222 runes PogChamp they now have 4294970444 runes FeelsGoodMan
+[12:21:34] nikthevoker: was afk, what happened
+[12:21:35] rtcinema: ez clap
+[12:21:36] wowsuomi: Does aotc mean mythic fyarrk kill?
+[12:21:37] xXTha618GodXx: decap in que if  u need a war @notmes
+[12:21:45] Chillinar: lol get rekt @krome2dadome
+[12:21:53] krome2dadome: happens
+[12:21:57] anmusallam: aotc is heroic, cutting edge is mythic
+[12:22:22] Chillinar: tbf you can buy aotc
+[12:22:30] Chillinar: it's like 100k or something
+[12:22:34] wowsuomi: Anyone can get it by now
+[12:22:35] krome2dadome: at least I have a massive axe
+[12:22:38] Chillinar: that's like half a wow mark
+[12:22:40] rtcinema: you can buy aotc for $8
+[12:22:42] melgibbedson: you can buy everything
+[12:22:50] sunileif: do you require asistance?
+[12:23:09] nikthevoker: did someone int
+[12:23:14] heymomimonttv: @rtcinema thats a good deal ngl
+[12:23:30] sunileif: getting trolled?
+[12:23:32] anmusallam: very good deal
+[12:23:46] ZealotryTV: 2 leggos in my group but not for me :)
+[12:24:27] Chillinar: imagine if the hpalys get it
+[12:24:59] nikthevoker: ok have to go to phys ther, GL on leggo hopefully you and krome get another one in front of ave!
+[12:25:23] fwankey: mes tank PogChamp
+[12:26:05] krome2dadome: true @nikthevoker
+[12:28:38] stockbridge10: is there ever a small dragon?
+[12:28:39] longdongliam_: i think we get it here
+[12:28:49] Chillinar: HOLD
+[12:28:50] MrPadre_: deaths advance keeps you from getting knocked up.
+[12:29:04] krome2dadome: hooooold
+[12:29:06] Chillinar: no legendaries
+[12:29:09] Chillinar: calling it
+[12:29:15] krome2dadome: I GOT IT
+[12:29:28] ZealotryTV: mes group cursed
+[12:29:30] kklinker: Look at that the tank trinket dropped
+[12:29:30] sunileif: chilli psychic
+[12:29:31] kklinker: RIP
+[12:29:31] longdongliam_: fyrakk the whore
+[12:29:32] Chillinar: CALLED IT
+[12:29:36] SuperSunBros64: I call BS on this legendary, we have so many weeks of bad luck protection at this point
+[12:29:40] SuperSunBros64: complete BS
+[12:29:46] krome2dadome: @chillinar ur so smart
+[12:29:46] Solastro: another one
+[12:29:57] Chillinar: @krome2dadome UwU chilli got big brain
+[12:30:14] anmusallam: rigged
+[12:30:14] krome2dadome: @notmes @notmes @notmes @notmes I have question now sir
+[12:30:18] wEiRdO_dUdE: We go agane
+[12:30:34] krome2dadome: @notmes did u see lego change and if so thoughts?
+[12:30:36] SuperSunBros64: Is best way to do it first LFR > Normal > Heroic > Mythic because you get a greater ember from each???
+[12:30:46] rtcinema: Do you have the other person's lockout again?
+[12:30:55] Kriptonikz: that oce ping was rough for me holy
+[12:30:56] rtcinema: Or did they burn their lockout on that kill?
+[12:31:04] ZealotryTV: can i come on another semi geared hpal?
+[12:31:17] SuperSunBros64: 1.2 mil for DK
+[12:31:19] SuperSunBros64: max gear
+[12:31:23] krome2dadome: @notmes
+[12:31:26] Solastro: prayge i get into this group
+[12:31:58] bollskis: @SuperSunBros64 doing highest level will use the rolls from lower levels
+[12:32:01] krome2dadome: it’s gonna be a fast channel for warr
+[12:32:18] bollskis: you can do it that way but u can also just do hardest difficulty
+[12:32:19] krome2dadome: like 1.5 maybe
+[12:32:38] SuperSunBros64: @bollskis Yeah I noticed that but isnt it still better to do LFR > Normal > Heroic > Mythic though because you get a greater ember from the lower difficulties that helps chance in higher ones
+[12:32:51] SuperSunBros64: Cuz each one drops a greater ember
+[12:32:53] krome2dadome: if u hit ur other head it will make ur noggin stop aching
+[12:32:59] krome2dadome: @supersunbros64 no
+[12:33:10] wEiRdO_dUdE: Yeah the ret might be the one
+[12:33:22] SuperSunBros64: How so? cuz u dont pop the greater ember in mythic until after the fight
+[12:33:55] Chillinar: wdym fucked up
+[12:34:00] krome2dadome: the embers don’t affect the current week’s drop chance @supersunbros64
+[12:34:10] Chillinar: going for another try?
+[12:34:15] SuperSunBros64: gotcha, good looks tyvm
+[12:34:17] SuperSunBros64: i didnt know that
+[12:34:50] sunileif: go team!
+[12:34:53] krome2dadome: send it
+[12:34:54] leeka: Did your armor in pvp actually drop? I didnt see anything in the simc data for plate armor
+[12:35:00] krome2dadome: I’m at work or I’d come help
+[12:35:10] krome2dadome: but maybe a future one :)
+[12:35:11] Chillinar: just call in sick kwome
+[12:35:13] bollskis: it only drops in pvp mode
+[12:35:18] bollskis: have to hit the dummy or be in arena or w/e
+[12:35:27] krome2dadome: @chillinar not an option for my job :(
+[12:35:46] kklinker: Chilli
+[12:35:46] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[12:35:47] sunileif: 1 420 and 24
+[12:35:48] kklinker: How were the exams you gnome.
+[12:35:55] Chillinar: D: @krome2dadome
+[12:35:56] leeka: interesting, thanks. Simc data must not track it
+[12:35:58] greatywhite_: how are dks after changes
+[12:36:01] Chillinar: @kklinker horrible
+[12:36:16] krome2dadome: gnome or gnoblin?
+[12:36:24] happyheals: doubt it the whole time so it gets it
+[12:36:50] krome2dadome: hey kklonk @kklinker
+[12:36:51] kklinker: @Chillinar The fuck? why?
+[12:36:56] kklinker: @krome2dadome hi qt pie
+[12:37:05] krome2dadome: y u so much cuter than chilli?
+[12:37:11] Begasaur: oh nice my shaman got a big sea star from vault
+[12:37:19] Chillinar: omg he called me cute
+[12:37:36] krome2dadome: ur alright
+[12:37:46] krome2dadome: kklonk is a dime tho
+[12:37:49] ZealotryTV: big add heal pumper
+[12:37:51] krome2dadome: 11/10 would
+[12:37:57] kklinker: kwommy wommy makin' me blush.
+[12:38:06] UnknownUrza: i DID NOT VOTE NO I PROMISE
+[12:38:07] avenueone: i was 2nd
+[12:38:08] Anhak: av did like -15
+[12:38:12] farlap: i won im da best
+[12:38:21] avenueone: im not the most geared
+[12:38:49] happyheals: first solo shuffle had ret dh dk and devoker. Ret dmg was insane and dh was not too far behind
+[12:38:52] VakFPS: its ok u would have to spend 500k if u got it today
+[12:38:52] krome2dadome: odds my ret gets lego before mes gets on dk?
+[12:38:53] wowsuomi: Ever seen someone with 490 ilvl?
+[12:38:59] keeindordel: its me
+[12:39:02] keeindordel: im Kaigrok
+[12:39:06] keeindordel: <--- kaigrok
+[12:39:08] Gideon2826: !vote
+[12:39:16] krome2dadome: nah
+[12:39:18] keeindordel: i also have aotc im just alliance
+[12:39:33] Chillinar: but did u buy aotc?
+[12:39:35] kklinker: fuck vaults
+[12:39:36] kklinker: fuck this hard.
+[12:39:39] rtcinema: I can bring my main ret?
+[12:39:40] kklinker: KJAWSD;KLFJASLDKJFAS;JLKF
+[12:39:41] rtcinema: lol
+[12:39:42] kklinker: QUITTING WOW
+[12:39:43] kklinker: GG'S
+[12:39:48] kklinker: nothing
+[12:39:49] kklinker: dog shit
+[12:39:52] Chillinar: you gonna quit wow lik me? sweet
+[12:39:54] kklinker: i quit
+[12:39:56] kklinker: nope
+[12:40:04] krome2dadome: can I get ur gold?
+[12:40:08] kklinker: i'll delete it right now
+[12:40:10] wowsuomi: Are conquest boxes out today
+[12:40:13] longdongliam_: why play wow when you can play palworld
+[12:40:15] longdongliam_: the new meta
+[12:40:18] kekijo: inv me mesx baketsu
+[12:40:32] wEiRdO_dUdE: Boxes! Nice
+[12:40:38] krome2dadome: rbgs about to pop off tonight
+[12:40:47] Chillinar: the fuck is that @longdongliam_
+[12:41:00] supatease: is this NA r server up
+[12:41:02] krome2dadome: @chillinar pokemon with guns
+[12:41:10] krome2dadome: yea @supatease
+[12:41:20] Solastro: @wowsuomi yup
+[12:41:23] longdongliam_: @Chillinar legit pokemon+ark+monster hunter. pokemon with guns
+[12:41:25] SweatyDaniels: supaBoom
+[12:41:33] anmusallam: @supatease  been up for like an hour!
+[12:41:47] happyheals: I had 3 mythic 20 vault slots with gloves gloves and offhand. 3 rival II slots with gloves gloves and neck
+[12:41:58] krome2dadome: @supatease tier list when?
+[12:42:01] avenueone: dun wanna fk ppl over
+[12:42:24] ZealotryTV: sunny dont take my healing spot plox
+[12:42:41] wowsuomi: Best  thing  about making group right after reset is normally get really geared people
+[12:42:50] sunileif: @ZealotryTV D;
+[12:42:53] avenueone: loot drops off boss
+[12:42:57] avenueone: ppl get mad
+[12:43:03] rtcinema: 5 people could get it or 0
+[12:43:04] Chillinar: so many meeles geez
+[12:43:06] rtcinema: just random
+[12:43:16] stockbridge10: lfg
+[12:43:17] DCBen: funny thing was when it dropped
+[12:43:21] wEiRdO_dUdE: The legendary can drop as personal loot
+[12:43:29] krome2dadome: chance at less gear, but also who’s really killing this boss for anything but a legendary chance at this point
+[12:43:42] happyheals: my luck with loot the boss takes someones leggo back when he dies
+[12:43:44] DCBen: i got the HC item chance increase item and the legendary both at the same time
+[12:43:57] americanmoses18: must ve nice @dcben
+[12:44:14] Chillinar: mesMath?
+[12:44:15] longdongliam_: big dick ben comin thru with the leggo
+[12:44:22] kklinker: I'll bring shammy for DPS
+[12:44:35] kklinker: Yes
+[12:44:38] DCBen: well i killed fyrakk hc since day 1 so it should have dropped soon @americanmoses18
+[12:44:40] kklinker: Its like an achivement popup
+[12:44:47] honsou2: i need to play rogue instead of plates so i dont get leggo fomo
+[12:45:00] krome2dadome: back to work
+[12:45:05] krome2dadome: bye bye friends
+[12:45:12] Chillinar: bye kwomi
+[12:45:20] ZealotryTV: do i actually have to farm LFR and normal too? lol i thought the greater thing was like the roll with normal and LFR baked into it?
+[12:45:20] krome2dadome: <3
+[12:45:29] avenueone: na
+[12:45:33] supatease: did somebody say big ass titties
+[12:45:41] krome2dadome: yea mes did
+[12:45:42] avenueone: ill help w pally/warr later in week
+[12:46:12] rtcinema: sure
+[12:46:23] kklinker: fine
+[12:47:50] VakFPS: isnt spoils of war buff supposed to be active?
+[12:48:14] longdongliam_: @VakFPS it should show in pvp instances
+[12:48:19] VakFPS: thats so nice
+[12:48:37] VakFPS: time to catch up on pvp since i stopped like 3 weeks ago
+[12:49:04] Jazggz: 169 raiders from Jazggz have joined! 
+[12:49:05] StreamElements: Jazggz just raided the channel with 169 viewers PogChamp
+[12:49:18] Ayuki_Oo: jazggzGODMODE jazggzGODMODE jazggzGODMODE jazggzGODMODE
+[12:49:24] Jazggz: jazggzGODMODE jazggzGODMODE
+[12:49:30] dsonic_: jazggzGODMODE jazggzGODMODE jazggzLOVE
+[12:49:41] ayu41m1: jazggzGODMODE jazggzGODMODE
+[12:49:55] Chillinar: 169 nice
+[12:49:57] Mouse___Christine: softpawBongotap softpawBongotap softpawBongotap
+[12:49:58] rtcinema: Im accidently m+ spec my dmg is ass
+[12:50:11] Mouse___Christine: jazggzGODMODE jazggzEon jazggzGODMODE
+[12:50:17] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[12:51:33] indithedog: surely it will drop this time Prayge
+[12:54:49] americanmoses18: ooof
+[12:57:03] nerdyorc_: any luck with your legos so far?
+[12:57:03] Moobot: Join my Discord community! https://discord.gg/mes
+[12:57:10] Bersolgens: !gamble 5000
+[12:57:11] StreamElements: Bersolgens lost 5000 runes in roulette and now has 530 runes! FeelsBadMan
+[12:57:20] Bersolgens: ouch
+[12:57:54] WarTV: I am no longer interested in doing the raid on EU tomorrow. Lost hope watching this
+[12:58:14] Gideon2826: @teamliquid only if its free
+[12:58:17] freshdots321: Hey!
+[12:58:31] freshdots321: You guys need anything have a 486 holy priest and demo warlock
+[12:59:35] Solastro: nah dont deserve to be there when i die to stupid shit like that
+[13:00:44] calculus111: Is this HC?

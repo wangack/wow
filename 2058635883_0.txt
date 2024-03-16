@@ -1,0 +1,594 @@
+[0:00:19] Echo_Esports: Gear up for raid with a world-class sitting experience. Enjoy the same long-lasting comfort as Echo, only with the Secretlab TITAN Evo gaming chair: echogg.ly/secretlab/Scripe
+[0:01:08] t4m4_: !workatecho
+[0:01:08] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:04:51] RichardPPPan: Waiting
+[0:05:08] logisys89: Not playing sod p2?
+[0:05:33] lillestoltv: imagine playing sod
+[0:05:39] Chimix1: @RichardPPPan Homi catKISS
+[0:05:52] darklydream: I was here!
+[0:06:05] RichardPPPan: @Chimix1 Homi catKISS xddLove
+[0:06:44] lillestoltv: mic muted
+[0:06:48] Patrikhg: not muted Kappa
+[0:06:54] lillestoltv: nvm
+[0:06:59] wkd_blaze: volume is very low
+[0:07:03] darklydream: Good now
+[0:07:05] wkd_blaze: better now
+[0:07:08] tryminell1: !workatecho
+[0:07:08] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:07:16] RichardPPPan: Wokege
+[0:07:29] RichardPPPan: better looking than the bald man
+[0:07:31] RedshirtStream: beard > no beard
+[0:07:35] wkd_blaze: the zaelia cake to the face always cracks me up
+[0:07:38] mohaso21: damn that sickness has gotten into you alot
+[0:07:46] darklydream: Looks good no lie
+[0:07:51] RichardPPPan: kush xdd
+[0:08:00] mohaso21: why you look like a caveman
+[0:08:19] wkd_blaze: he can’t lmao
+[0:08:27] marcofellipe69: xdd
+[0:08:43] RichardPPPan: @marcofellipe69 someone was looking for you yday Hmm
+[0:08:57] marcofellipe69: @RichardPPPan which homies Hmm
+[0:09:01] mohaso21: we can warm up
+[0:09:02] Patrikhg: wait without twitch chat backseating you? sus Kappa
+[0:09:09] Somnieum: @Scripe what is echo searching currently ?
+[0:09:25] mohaso21: but iam down for anything tbh
+[0:09:30] Somnieum: yea
+[0:09:59] marcofellipe69: we chill, w but healer stoinks rising. but analyst skills
+[0:10:00] Echo_Esports: Save up to 35% and level up your stream with Elgato! Get started today : echogg.ly/elgato/Scripe
+[0:10:09] Somnieum: sounds interesting
+[0:10:13] RichardPPPan: @marcofellipe69 idk him Hmm but seems to be not very emergency
+[0:10:38] marcofellipe69: @RichardPPPan I will be there for anyone who needs me Hmm
+[0:10:53] darklydream: Socket
+[0:10:59] mohaso21: Socket
+[0:11:06] RichardPPPan: Waiting i dont know how to design clothes merch but i know how to design anime figurines. guess i dont apply
+[0:11:44] Patrikhg: highscore that sounds like the old nintendo games Oldge
+[0:11:48] marcofellipe69: frontline or 2ndline not backline
+[0:12:04] bbavern: then u want a warrior
+[0:12:16] kurewax9: Big warrior in que :O
+[0:12:50] IamDownfall: !workatecho
+[0:12:50] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:13:00] savke3: ashes
+[0:13:51] oblanda: morning papa scripe
+[0:14:14] YellowDarkMagician: !workatecho
+[0:14:14] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:14:15] Patrikhg: dirty padders boomkins
+[0:14:15] marcofellipe69: best healer or analyst Waiting
+[0:14:33] RichardPPPan: Waiting
+[0:15:15] marcofellipe69: 🦂
+[0:15:25] Patrikhg: monk is pretty sick to a 200k shield on 1min cd
+[0:16:40] marcofellipe69: back up pref w
+[0:18:04] undeadnl: That weakaura is kinda nice
+[0:18:18] Patrikhg: only works when everyone have it but yeah its just a priority list
+[0:18:31] thanertv: Morning Sir
+[0:18:46] thanertv: +30 today ? PogChamp
+[0:18:55] Jordya20: ITs somewhere at the trigger
+[0:18:57] undeadnl: its a prio list
+[0:18:59] Jordya20: Where you can decide the rotation
+[0:19:09] marcofellipe69: you gotta respect a captain willing to learn the battle
+[0:19:32] marcofellipe69: w Scripe
+[0:20:02] explic_cit: its magic just believe
+[0:20:02] Echo_Esports: Grab your fantastic new Displates for up to 33% off! Use echogg.ly/displate/Scripe and enter code: ECHO
+[0:20:10] Patrikhg: honestly not sure where it puts u vs ret and outlaw both are super tanky
+[0:20:30] oblanda: haHAA
+[0:20:41] marcofellipe69: didn't see the full code, only can trust top wagio ppl and raiders
+[0:20:45] marcofellipe69: for weakauras
+[0:20:46] marcofellipe69: or me xdd
+[0:21:57] Patrikhg: just mage things Kappa
+[0:22:03] Eliannoula: we feeling better sir?
+[0:22:08] undeadnl: aura_env.classPriority = {     EVOKER = 1,     PRIEST = 2,     SHAMAN = 3,     WARRIOR = 4,     DEMONHUNTER = 5,     DRUID = 6,     HUNTER = 7,     MONK = 8,     MAGE = 9,     DEATHKNIGHT = 10,     ROGUE = 11,     PALADIN = 12,     WARLOCK = 13
+[0:22:23] undeadnl: Not sure if you exactly the same but this is mine
+[0:22:35] Patrikhg: then scripe is first if its the same
+[0:22:44] Patrikhg: well dudu is
+[0:23:06] marcofellipe69: time to make AI compatible with  WoW
+[0:23:09] undeadnl: You could see it at actions and then custome code
+[0:23:09] marcofellipe69: is the future
+[0:23:42] marcofellipe69: need some smart people to do that
+[0:24:51] Patrikhg: dudu-mage-rogue-pala
+[0:29:31] Somnieum: the german came threw xD
+[0:30:43] marcofellipe69: privacy above everything tho
+[0:31:00] Somnieum: wtb that weak aura pls
+[0:33:26] Scripe: https://wago.io/dJW2bZvJD
+[0:33:27] Echo_Esports: Celebrate Echo's latest win in the RWF with the New World First mousepad and loads of other great merch at echogg.ly/merch/Scripe
+[0:33:55] Somnieum: yea im lazy thats just nice
+[0:35:53] h3xoffender: what happened to your SoD gnomer push?
+[0:36:33] AverageChameleon: peepoHey morning sir
+[0:36:42] Eliannoula: good morning chameleon :D
+[0:36:43] AverageChameleon: damn i have that sometimes
+[0:36:53] i_Like_RocketzZ: i must be ancient
+[0:36:56] thanertv: Scripe you are not old
+[0:36:57] GluRay: I've been having that issue for several years already NotLikeThis
+[0:36:58] Eliannoula: same
+[0:36:58] thanertv: just experienced
+[0:37:18] Gwindy_: @thanertv time to retire
+[0:37:20] marcofellipe69: Age is just a factor. Delay it with reversing it for a bit
+[0:37:24] Patrikhg: i need a circle weakaura around my mousecursor or i lose it
+[0:37:25] Hoanex: !workatecho
+[0:37:25] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:37:29] marcofellipe69: ur the goat
+[0:37:29] Eliannoula: wisdom comes with age, age comes with gray hair, i see none xD
+[0:37:39] Eliannoula: ergo, scripes not old
+[0:37:40] AverageChameleon: @Patrikhg  this is too true
+[0:38:00] Eliannoula: peepoHey thaner
+[0:38:06] Chimix1: Sadge sick again
+[0:38:30] faisalgh92: his doing 0 dps pure hps
+[0:38:40] RichardPPPan: @Chimix1 hugg
+[0:39:07] marcofellipe69: ur 2 smart not to memorize defensives EZ
+[0:39:12] i_Like_RocketzZ: there is a wa that tells you if you survive hits
+[0:39:18] Chimix1: @RichardPPPan hugg but was talking about scripe lol
+[0:39:44] RichardPPPan: @Chimix1 we can still hugg
+[0:39:50] Chimix1: true hugg
+[0:40:37] marcofellipe69: solo then team
+[0:40:54] blue321: 4-5min until Iridikron right?
+[0:42:53] thanertv: Scripe do you want a sick WA for targeted spells?
+[0:42:56] thanertv: Game changer in keys
+[0:43:08] Echo_Esports: Want to learn from the best? Visit echogg.ly/coaching/Scripe and pick the Echo player that suits your needs!
+[0:43:42] nightley98: !workatecho
+[0:43:42] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:43:58] marcofellipe69: @thanertv which ones do you use?
+[0:44:07] marcofellipe69: they're better than mine a couple are off
+[0:44:54] i_Like_RocketzZ: 5ish minutes i believe
+[0:44:56] Patrikhg: 4-5 i guess depending on phases
+[0:45:04] lightwoork: With tripple dps and lust probably 4:30
+[0:45:17] blue321: 4:20 with a PMA?
+[0:45:19] Judgejudyx: At least 5 min last boss was 3
+[0:45:36] marcofellipe69: 4-5 min
+[0:45:38] marcofellipe69: last boss
+[0:45:52] marcofellipe69: depends on the push
+[0:46:33] marcofellipe69: lust don't matter too much with fire, pally and rogue if u guys save CDs for the push
+[0:47:25] Patrikhg: u can lust burn phase i guess
+[0:53:17] Kreshh: monkaS
+[0:53:20] Jeff_dd: good thing u saved lust LUL
+[0:53:24] Fenzlx: @Kreshh monkaS
+[0:53:32] yujik46: scrype too strong didnt even need rogue
+[0:53:35] oxiderr: good morning full beard scrype
+[0:53:50] zerossussy: outlaw has 0 dps that phase if they die
+[0:53:58] yujik46: 30 rise KEKW
+[0:54:00] WillWonkaa: That´s spicy
+[0:54:02] zerossussy: and 0 dps if they dont setup their cds
+[0:54:41] oxiderr: wtf how much beard are u wearing bro!
+[0:54:41] Eliannoula: oh no, what did you do with your left elbow? or is it just a bit red?
+[0:54:56] smileee920901: !books
+[0:54:56] Echo_Esports: Yooo i yoinked a Staforge PC. Best choice of my life . Go yoink yours at: echogg.ly/starforge/Scripe
+[0:54:58] zerossussy: thats wrong
+[0:55:03] Jeff_dd: last phase isnt a shield or?
+[0:55:04] zerossussy: open dps then check phase 2
+[0:55:05] zerossussy: on details
+[0:55:09] Jeff_dd: u get him from 90 to 80%
+[0:55:19] lightwoork: Stop scratching it bro xD
+[0:55:25] zerossussy: its ur chair bro
+[0:55:27] dillanm94: !workatecho
+[0:55:27] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[0:55:31] zerossussy: buy something that protects ur eblow
+[0:55:32] oxiderr: stop throwing elbow to gingi
+[0:55:34] marcofellipe69: Need a vitamin supplement, boss
+[0:55:41] marcofellipe69: vitamin d*
+[0:55:50] zerossussy: its not exactly ur chair, its just something that happens i have the same
+[0:55:50] RichardPPPan: monkaS
+[0:55:55] zerossussy: i protect it with something
+[0:55:59] oxiderr: dont lie ,  u spam throwing elbow to gingi
+[0:56:00] onekeywonder: carpet burn?
+[0:56:02] SparrowONE: Pro tip, if you use beard oil, then after you apply it you can use the rest of the oil on your hands to apply to to your elbows . helps a lot with dry skin.
+[0:56:10] Cryptooman: In turkey  you can do full blood  test
+[0:56:10] Jeff_dd: yeah u can go for a regular check
+[0:56:17] Jeff_dd: where they check every value
+[0:56:26] zerossussy: @Scripe check phase 2 dps on the boss dps on details u just press on the player and check phase 2
+[0:56:31] zerossussy: blood check for vitamins scrype
+[0:56:39] zerossussy: i did it last month
+[0:56:42] zerossussy: no no
+[0:56:43] marcofellipe69: Yes, the standard will bloodtest will tell you in a fasted state will tell what ur low on
+[0:56:45] zerossussy: theres a shield midfight
+[0:56:45] FollowArcane: aynen tam olarak öle yapıcan
+[0:56:49] pimmens: can u show your stats ?
+[0:56:57] explic_cit: old people like us should go for a check every year sir
+[0:56:59] Eliannoula: go to your hausarzt and ask for a großes blutbild to see if you have any deficiency
+[0:57:06] zerossussy: why does it not show for u
+[0:57:12] zerossussy: yea there
+[0:57:17] Cryptooman: Just go to the  private hospital and say that  you wan't to check your blood levels.  @Scripe pretty  standart they take 3 cube of blood
+[0:57:31] zerossussy: but yea blood check for vitamins, that what i did
+[0:57:36] marcofellipe69: just don't change your diet before the test
+[0:57:36] zerossussy: they check ur blood too
+[0:58:22] lightwoork: 28 BRH is easy timed and you´ll get a 29 probably
+[0:59:19] kaverrr: You should make a live push team with Kush
+[0:59:50] kaverrr: I thought Gingi was your enemy... how many do you have?
+[1:00:16] mohaso21: for the rest of the day KEKW
+[1:00:57] zerossussy: with outlaw u always lust p2
+[1:00:58] kaverrr: Good executive decision
+[1:00:59] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[1:02:10] zerossussy: that WA is public
+[1:02:44] thanertv: It has a sounds and everything
+[1:05:07] spankymcpie: people who sign up as groups are always kind of sus unless its  a farm key
+[1:05:49] zerossussy: dont trust me scripe
+[1:05:58] kaverrr: Slower cast time on certain mobs can also be nice
+[1:05:59] zerossussy: so u can trust me 5Head
+[1:06:42] OPdiamante: hey scripe how are you? got a question. i´m simming on my 487 mage on st for raid 10k more on frost then on fire and arcane. got every piece of gear but augury. is this normal? just curious.
+[1:06:46] marcofellipe69: even easier now @healers
+[1:07:42] Cryptooman: double mage rocks
+[1:07:49] elderkain: no double mage :D
+[1:07:50] Cryptooman: asuna was  playing  it pretty  solid haha
+[1:07:55] Cryptooman: or spri
+[1:08:07] marcofellipe69: It's good with defensives
+[1:08:48] spankymcpie: double mage might be good for the affix
+[1:09:09] Sycraim: 2x outlaw bugabuse the keep it rolling and have flurry cleave for battlefield is actually good
+[1:09:13] kaverrr: Mage and double BM hunter is the new God comp tbh
+[1:09:50] kaverrr: Kush is 3.7 k and he depletes A LOT of keys, so I'm not sure
+[1:10:10] mypovtm: ^
+[1:10:28] mohaso21: we needed pala shadow priest with a rresto druid
+[1:10:41] zerossussy: our bug abuse isn't that strong lol
+[1:10:46] zerossussy: its solo bug and its barely 1%
+[1:10:52] zerossussy: people think its op
+[1:11:02] Sycraim: wdym dude everyone says its around 50k
+[1:11:10] zerossussy: its not lol
+[1:11:13] monkeylol__: its not haha
+[1:11:19] monkeylol__: its legit only like 1% at max
+[1:11:23] mypovtm: who the hell says its 50k
+[1:11:33] Sycraim: and since 1st pull rise its even insane
+[1:11:39] Echo_Esports: Gear up for raid with a world-class sitting experience. Enjoy the same long-lasting comfort as Echo, only with the Secretlab TITAN Evo gaming chair: echogg.ly/secretlab/Scripe
+[1:13:16] mypovtm: it'll always charge you unless druid is narnia
+[1:13:19] itsbwooo: heblo caveman Hellowo
+[1:14:11] RichardPPPan: peepowo
+[1:15:02] DanVicious: just dont die
+[1:17:07] itsbwooo: this is easy
+[1:17:15] Fotonio22: dont die and the mobs dont die either Kappa
+[1:17:29] oblanda: KEKW
+[1:17:37] itsbwooo: KEKW
+[1:17:39] Heyez_: KEKW
+[1:17:42] RichardPPPan: dying is easy old man living is harder
+[1:17:42] Heyez_: !
+[1:18:02] 0_____Kappa: xdd
+[1:18:14] RichardPPPan: xff
+[1:18:58] Fotonio22: gone with the wind Kappa
+[1:19:19] yujik46: it got nerfed
+[1:19:28] yujik46: used to cast twice per orb now only once
+[1:22:29] FileChanast: we too :D
+[1:23:23] ShinjiHS: ShinjiHS subscribed with Prime. 
+[1:23:24] StreamElements: ShinjiHS just subscribed PogChamp
+[1:23:37] jojosgotmojo: What build scripe?
+[1:24:05] oblanda: get truppeted
+[1:25:00] Echo_Esports: Save up to 35% and level up your stream with Elgato! Get started today : echogg.ly/elgato/Scripe
+[1:25:04] nesious: !workatecho
+[1:25:04] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[1:25:19] Fotonio22: close Kappa
+[1:25:29] Fotonio22: still timeable Kappa
+[1:27:07] 0_____Kappa: YEP
+[1:27:10] 0_____Kappa: think so
+[1:27:19] Fotonio22: the orb ye
+[1:27:23] mypovtm: orb yes
+[1:27:28] mypovtm: same as serpent charge
+[1:28:04] itsmeamax: Orb is at range target same with snake. Source: I fuck up baits
+[1:28:16] Fotonio22: just go behind the farthest person to kill him too Kappa
+[1:28:28] Fotonio22: just to confirm Kappa
+[1:29:05] oblanda: trumpet or riot
+[1:29:20] oblanda: Sadge
+[1:29:28] Fotonio22: need the trumpets SwiftRage
+[1:29:31] seb1cs: !workatecho
+[1:29:31] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[1:31:45] alishoop: beard lookin clean today mr scripe
+[1:32:16] itsbwooo: smart and gamers has never been said in the same sentence ever Kappas
+[1:32:19] itsbwooo: Kappa *
+[1:33:21] spankymcpie: i always thought that you just focued the small adds and cleaved the mini boss down overtime
+[1:36:30] AverageChameleon: scrype a blaster
+[1:36:33] IAmSolari: !workatecho
+[1:36:33] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[1:37:31] AverageChameleon: Oldge
+[1:37:41] Echo_Esports: Grab your fantastic new Displates for up to 33% off! Use echogg.ly/displate/Scripe and enter code: ECHO
+[1:38:01] IAmSolari: I nearly said something weird, but I stopped myself... personal gropwth
+[1:39:22] itsbwooo: @IAmSolari damn i wanted to time someone out Kappa
+[1:39:30] mmshampanski: bad timer
+[1:41:39] Vaynehelsing_: hello mr scripe, hope u doing well, heard u were sick
+[1:42:20] AverageChameleon: Jebaited
+[1:42:26] seba96: spiteful combat
+[1:42:27] Vaynehelsing_: spiteful
+[1:42:28] mmshampanski: u were in copmbat with shade
+[1:42:29] Unfrgiven: in combat with shade
+[1:43:01] Exorcist_PG: lol imagine that ball hit
+[1:44:01] Exorcist_PG: how big is your monitor scripe?
+[1:44:16] PoroLife: man wow can be rough sometimes
+[1:44:23] kaverrr: 27 inches.. damn
+[1:44:25] Exorcist_PG: hmm
+[1:44:51] spankymcpie: its okay those guys with 34in monitors are trying to compensate for something else
+[1:45:04] Exorcist_PG: i wanna try 27 inch
+[1:45:10] Exorcist_PG: right now its 24
+[1:45:19] PoroLife: 27 is worth
+[1:45:32] Exorcist_PG: more details bar to track? XD
+[1:45:36] PoroLife: its still small enough to play but way more relaxing on the eyes
+[1:46:02] tvilk: holy fuck dude you look sick
+[1:46:08] Exorcist_PG: ^
+[1:46:15] Exorcist_PG: beard looking thicc
+[1:46:26] Charm_pit: beard does miracles, what a chad
+[1:46:44] Exorcist_PG: dont bro
+[1:46:46] Eliannoula: i LOVE the bears
+[1:46:46] Exorcist_PG: trust
+[1:46:47] Eliannoula: so yes
+[1:46:48] Charm_pit: YES
+[1:46:48] Exorcist_PG: keep it
+[1:46:48] alishoop: DON'T SHAVE IT
+[1:47:05] tvilk: i always said beards are awful, but this time i'll make an exception
+[1:47:07] Echo_Esports: Celebrate Echo's latest win in the RWF with the New World First mousepad and loads of other great merch at echogg.ly/merch/Scripe
+[1:47:12] Exorcist_PG: SHAVE AFTER NEXT WORLD FIRST
+[1:47:21] oblanda: as for all things in life Sadge
+[1:47:23] tvilk: Every turkish baba has a beard bro you can't shave it
+[1:47:29] Eliannoula: thaner has a beautiful beard as well!
+[1:47:40] Eliannoula: some people just look so much better with a beard
+[1:47:42] 0_____Kappa: Clueless
+[1:48:20] tvilk: Every turkish baba has a beard, you can't shave it off. Güzel görünüyorsun
+[1:48:51] tvilk: okay thanks TTS for ruining the turkish that i so proudly got from chatgpt
+[1:50:15] tvilk: does the orb always go on the furthest target? monkaHmm
+[1:50:54] Severiins: !workatecho
+[1:50:54] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[1:55:15] dragondik1: That rogue gap HOLY
+[1:57:13] oblanda: smol peepee
+[2:00:08] tvilk: GoodTake Mage talking
+[2:02:48] Echo_Esports: Yooo i yoinked a Staforge PC. Best choice of my life . Go yoink yours at: echogg.ly/starforge/Scripe
+[2:03:35] LuiBMHunter: so are you beating gingi yet?
+[2:03:51] LuiBMHunter: :D
+[2:04:16] DjinDjarinTTV: @mohasso my booooy!!!!
+[2:04:43] TrixXzZlix: that's our boy
+[2:05:23] DjinDjarinTTV: thahah Trix hello
+[2:05:29] TrixXzZlix: hallo
+[2:06:31] sn4qz: Wait did
+[2:06:45] sn4qz: they take fast track from 30 to 28?
+[2:07:29] DjinDjarinTTV: learning is key is keys 👌🏻
+[2:07:47] LuiBMHunter: nearly got im - keep trying guys
+[2:07:52] Al0neWoW: u trolled^^
+[2:08:16] tvilk: if the orbs explodes on a surface that is slightly above the ground surface, the particle effect of the swirly will be hidden
+[2:08:18] sn4qz: there was a swirlie
+[2:08:45] Hregoth: normally they using here on forti week
+[2:09:56] sn4qz: DPS are overrated
+[2:10:23] LuiBMHunter: definately doing less dps now :)
+[2:12:13] 420maori: ive never seen a mage cast 8 fire ball in a row
+[2:17:09] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[2:17:52] tvilk: why is it better for you to do orbs
+[2:18:04] Ren26: i like to do orbs as healer so i can control when the damage happens
+[2:18:04] tvilk: whats the benefit
+[2:18:40] tvilk: yeah healer does orbs because healer knows about their own heal cds
+[2:20:19] sulozor: so focused
+[2:21:31] tvilk: maiden is 100% not prio
+[2:21:32] IAmSolari: fire does mega prio
+[2:22:20] mohaso21: You know what that means scripe
+[2:22:29] mohaso21: iam finally done with my 25 rise
+[2:22:30] mohaso21: KEKW
+[2:22:41] TrixXzZlix: gj moh
+[2:22:45] mohaso21: samee
+[2:22:47] mohaso21: iam not
+[2:22:49] mohaso21: shut up
+[2:22:50] mohaso21: KEKW
+[2:23:01] mohaso21: iam 3.6
+[2:23:30] mohaso21: iam 3601 you are still the same 3 points ahead of me
+[2:24:04] IAmSolari: @Scripe have you thought of going back to playing in the RWF team? with the shortage of mages
+[2:24:16] tvilk: scripe genuine question no troll why do you think its better for you to do orbs on deios rather than the healer?
+[2:24:54] mohaso21: so healer can focus on healing everyone
+[2:25:18] mohaso21: naah shut up now KEKW
+[2:25:36] tvilk: wut
+[2:26:06] tvilk: thats fair
+[2:26:11] mohaso21: ye i agree
+[2:26:20] tvilk: but i will say when healer does orbs he is so much more prepared for the dmg that comes out
+[2:26:48] imwowplayerxd: resto druid has also a treant they can bait with i think
+[2:27:37] azm07: sp
+[2:27:40] tvilk: warlock
+[2:27:40] mohaso21: you do realize that the last lust you did was 1 second off to give it to everyone :)) you troll
+[2:27:41] Echo_Esports: Want to learn from the best? Visit echogg.ly/coaching/Scripe and pick the Echo player that suits your needs!
+[2:27:54] rhojok: warlockl, shadow, enhance
+[2:28:07] mohaso21: tvilk is the !dw only mod ?
+[2:28:07] tvilk: @mohaso21 you think he cares? the guy who wants priest and evoker just so they can buff his damage?
+[2:28:12] tvilk: @mohaso21 jes
+[2:28:17] mohaso21: do it for me
+[2:28:24] tvilk: what do you want him to read
+[2:28:30] mohaso21: my last message
+[2:28:37] tvilk: !dw mohaso21: you do realize that the last lust you did was 1 second off to give it to everyone :)) you troll
+[2:28:56] tvilk: KEKW
+[2:29:15] mohaso21: but we always lust the tank
+[2:29:18] mohaso21: on fort week
+[2:29:43] mohaso21: i will 100% blame you KEKW
+[2:29:49] tvilk: Lack of knowledge is definitely something we can blame on you
+[2:30:06] tvilk: but then again, can we really blame you when you've been carried by mohaso for so long
+[2:30:09] tvilk: Sure
+[2:30:32] mohaso21: and then he says i can't see you up there when he is 3 points ahead of me
+[2:30:34] tvilk: rogue is good for handling stops on that pull on the left
+[2:30:53] tvilk: a good rogue can deal with that pack solo basically
+[2:31:23] lightwoork: xD
+[2:31:35] lightwoork: Hahahahaha
+[2:31:39] tvilk: thats like the 5 second rule
+[2:31:41] tvilk: its true
+[2:31:53] tvilk: im gonna start using that
+[2:32:18] tvilk: im gonna invite people and then hold my breath for 30 seconds and remove them.. then when they whisper me "why?" i will say "no its ok i was holding my breath"
+[2:33:08] tvilk: !dw muted
+[2:33:19] tvilk: youre muted
+[2:33:37] tvilk: yeah but SOMEONE made the emote wrong
+[2:33:50] tvilk: its "muted" no capitalize
+[2:34:30] tvilk: vampire? monkaW
+[2:35:16] starLessFtw: thats the agurs after first boss down there when u are in meele they dont
+[2:35:17] tvilk: because mohaso uses silence sigil
+[2:35:32] tvilk: hmm
+[2:35:42] mohaso21: iam back
+[2:35:43] azm07: yes
+[2:35:46] mohaso21: what are we talking about
+[2:35:54] starLessFtw: yes
+[2:35:56] Echo_Esports: Gear up for raid with a world-class sitting experience. Enjoy the same long-lasting comfort as Echo, only with the Secretlab TITAN Evo gaming chair: echogg.ly/secretlab/Scripe
+[2:37:17] mohaso21: nah iam not going crazy i think
+[2:37:51] Naaay: !workatecho
+[2:37:51] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[2:37:54] zmmey: !workatecho
+[2:40:30] tvilk: 2... 1...
+[2:40:33] tvilk: 2... 1... 󠀀
+[2:40:42] tvilk: 2... 1...
+[2:40:58] tvilk: 2 / / / 1
+[2:44:53] crigget: 2? 1?
+[2:44:55] KiwiGuy17: GG
+[2:44:57] DanVicious: yep
+[2:45:35] Nieber: !workatecho
+[2:45:36] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[2:46:25] Thumbus: why nnoggie leave?
+[2:48:30] mohaso21: KEKW
+[2:48:59] DanVicious: do you plan on playing sod p2?
+[2:49:22] tvilk: im thinking of starting a monk.. but i cant figure out a good name Hmm so far I have "Dreidel" but idk if I want that name
+[2:50:24] DanVicious: take shadow for prio
+[2:50:36] Echo_Esports: Save up to 35% and level up your stream with Elgato! Get started today : echogg.ly/elgato/Scripe
+[2:51:43] zerossussy: double mage highly recommended for 2nd boss
+[2:51:57] zerossussy: hes rly hard on 30 or above, maybe 29 is ok
+[2:52:13] tvilk: what makes him hard?
+[2:52:52] zerossussy: we progressed him on +31 yesterday for 1 hour
+[2:52:53] zerossussy: no mage
+[2:52:56] zerossussy: it was rly hard
+[2:53:01] zerossussy: we had to all go pvp trinket
+[2:53:15] zerossussy: yeah stun is overtuned on +30 and 31
+[2:53:18] zerossussy: need a mage or 2
+[2:53:18] tvilk: ohhh
+[2:53:24] tvilk: omg you're going into WM i thought it was AD
+[2:53:28] tvilk: i was so confused
+[2:53:43] tvilk: yeah tree boss is a bitch
+[2:54:04] zerossussy: dragonriding is the best thing that happened this expansion
+[2:54:07] tvilk: I did a 26 where the lightning struck 3 times in a row right on top of boss and he just did infinite aoe dmg to the group
+[2:54:07] zerossussy: it made dragonflight rly good
+[2:54:17] Aristiet: I have a friend that literally cant fly long distance without running out of vigor with maxed perks
+[2:54:28] zerossussy: @Aristiet wtf
+[2:54:28] manalul: a friend Kappa
+[2:54:34] Aristiet: Kappa
+[2:54:34] zerossussy: a friend Kappa
+[2:54:41] tvilk: Sure "friend"
+[2:55:01] Aristiet: guys I can get bronze on races Im a great dragon rider
+[2:55:11] KiwiGuy17: You need them 3.9k IO healers
+[2:56:06] tvilk: !dw There's 9 total witches that can spawn. But they are RNG for each run you do and not decided on a weekly basis. There's 4 Witches that can spawn on your normal route, rest is upstairs and not impacting your % at all
+[2:56:25] tvilk: https://imgur.com/a/cCh670d
+[2:56:25] tvilk: Here
+[2:56:39] manalul: Healer guild name KEKW
+[2:56:56] tvilk: The ones you need to worry about is #1, #2 and #3
+[2:57:02] tvilk: The rest don't matter for routing and %
+[2:57:17] tvilk: 5 and 6 are always there
+[2:57:26] tvilk: not all are
+[2:57:54] tvilk: There's like a Seed that can spawn.. 1 2 and 3 have the RNG and 2 witches upstairs outside of your route
+[2:58:01] tvilk: 4 5 and 6 will always be there
+[2:58:30] tvilk: the reason the others don't matter is because you don't go upstairs in normal routing, but the other RNG ones are up there
+[2:58:57] Echo_Esports: Grab your fantastic new Displates for up to 33% off! Use echogg.ly/displate/Scripe and enter code: ECHO
+[2:59:10] tvilk: There's like 6-7 different seeded spawns, but only 3 seeds are important for this Season of M+
+[2:59:33] tvilk: I have done excessive research on this because I was very confused many times
+[3:01:04] bubleguum: !workatecho
+[3:01:04] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[3:02:38] tvilk: Look at the vod of the WM+29 to see where the kicks went (pinning this)
+[3:02:53] stillsuitstk: all the good players are in SoD rn scripeHeh
+[3:03:04] tvilk: Look at the vod of the WM+29 to see where the kicks went (pinning this) 󠀀
+[3:03:13] stillsuitstk: 38 i am slacking
+[3:05:43] kaverrr: Where is Hopeful in chat when you need him
+[3:08:18] DanVicious: what is rogue and pala interrupting even if they let volley go through
+[3:08:43] kaverrr: Winnable
+[3:08:57] tussmack: holy shit you look amazing with a beard dude
+[3:11:31] Mr_Stion: !addons
+[3:11:31] Nightbot: BigWigs, Details, ElvUI, Exorsus Raid Tools, Grid 2, Masque, Plater (Nameplates), Quartz (Castbar), Shadowed Unit Frames, Sunn Viewport (Black Bar), WeakAuras 2
+[3:11:45] pricebanana: Scripe looking handsome today
+[3:14:18] Echo_Esports: Celebrate Echo's latest win in the RWF with the New World First mousepad and loads of other great merch at echogg.ly/merch/Scripe
+[3:17:41] Aristiet: pig before tree to save lust for tree?
+[3:18:45] relitv_: who's that guy with that good looking beard? :D
+[3:19:22] KiwiGuy17: gg key
+[3:19:37] IAmJoey: routa depleta
+[3:19:40] IAmJoey: as kush would say
+[3:20:01] KiwiGuy17: You need to run with the Echo MDI guys :P
+[3:20:26] IAmJoey: wait 20 mins in
+[3:20:31] IAmJoey: and you havent killed goliath
+[3:20:39] IAmJoey: was already deple before this boss no?
+[3:20:40] bingo_roswell: scripe to replace Gingi for mdi?
+[3:21:02] mohaso21: @IAmJoey we almost killed the pig so time was kinda okay
+[3:21:31] IAmJoey: 18 mins for 3 bosses + 40% is a lot
+[3:21:37] IAmJoey: especially if you dont have bl for goliath
+[3:21:43] mohaso21: we were gonna get it
+[3:21:53] IAmJoey: could defenitly be doable
+[3:21:54] mohaso21: it was gonna be tough
+[3:21:55] mohaso21: but ye
+[3:22:00] IAmJoey: but would require a couple Susge pulls
+[3:22:07] mohaso21: ye i know
+[3:22:24] mohaso21: we got double interrupt witches
+[3:22:29] mohaso21: so it was just unlucky rng i guess
+[3:22:33] IAmJoey: unluck
+[3:22:47] IAmJoey: double etch witches are also shit
+[3:23:20] ZeroEightG: spellsteal?
+[3:23:31] mohaso21: ye i did that after this pull
+[3:23:55] ZeroEightG: propably 2 targets got debuff
+[3:25:08] mohaso21: i should always get volley
+[3:25:18] Echo_Esports: Yooo i yoinked a Staforge PC. Best choice of my life . Go yoink yours at: echogg.ly/starforge/Scripe
+[3:26:21] IAmJoey: Man I wish veng wasn't meta as a havoc main
+[3:26:25] mohaso21: its a rough pull with the interrupting witch with no callouts
+[3:27:07] mohaso21: ye now we learned
+[3:30:22] IAmJoey: you need 2 poison dispell
+[3:30:49] IAmJoey: unless you always strictly pull 1 stinger
+[3:32:19] trivectatv: !workatecho
+[3:32:19] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[3:32:50] mohaso21: how long you around today
+[3:32:53] IAmJoey: Eb has some very spicy parts, 2nd boss included
+[3:33:17] mohaso21: KEKW
+[3:33:21] mohaso21: depends how fast we wipe ?
+[3:33:38] IAmJoey: Even on fort the bosses are very spicy
+[3:34:49] IAmJoey: they cast like every 20 something seconds
+[3:34:55] IAmJoey: 10*
+[3:35:07] IAmJoey: you can't solo as a melee kick on them
+[3:38:17] HypestarTV: !workatecho
+[3:38:17] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[3:39:30] Ilue_: btw did you check the vod to see where the kicks went first pull 🤔 ?
+[3:39:59] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[3:41:24] savke3: 2-3 time
+[3:45:00] Dubbertus: hard tackle
+[3:55:39] Q8ei: skb into shifting power, peak fire gameplay
+[3:57:11] Negativityxd: how come this streamer dont play as a qt belf waifu instead? alkFax
+[3:58:40] Echo_Esports: Gear up for raid with a world-class sitting experience. Enjoy the same long-lasting comfort as Echo, only with the Secretlab TITAN Evo gaming chair: echogg.ly/secretlab/Scripe
+[4:03:39] rottweilerforlive: !workatecho
+[4:03:39] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[4:11:56] ZeroEightG: tight timer
+[4:15:06] Eliannoula: welp
+[4:15:13] SovexFFXIV: Sadge
+[4:17:21] Echo_Esports: Save up to 35% and level up your stream with Elgato! Get started today : echogg.ly/elgato/Scripe
+[4:20:04] kungace3: @Scripe how much crit do u have rn?
+[4:20:54] kungace3: aye yea need some haste
+[4:21:36] kungace3: how come u got mastery stated?
+[4:21:39] kungace3: on ring enchants
+[4:22:02] kungace3: fair fair ^^
+[4:22:28] mohaso21: ofc you took the DHT guy
+[4:24:22] mohaso21: KEKW
+[4:25:31] mohaso21: double dh
+[4:25:34] mohaso21: HUH
+[4:25:56] mohaso21: get a rogue or priest then
+[4:26:22] Saqir_: ???????? get a hunter TrollDespair
+[4:26:49] ppdxd: ye get a boomie
+[4:29:16] crigget: yo mister scripe are there any plans to do the most recent ff14 criterion with the boys?
+[4:29:29] AverageChameleon: LETHIMCOOK
+[4:29:44] 8axy: what was that m+ portal addon/WA?
+[4:32:22] Echo_Esports: Want to learn from the best? Visit echogg.ly/coaching/Scripe and pick the Echo player that suits your needs!
+[4:33:28] zMilamber: !workatecho
+[4:33:29] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[4:41:22] martin_bajen: What's the addon/WA to track interuppts?
+[4:46:23] AverageChameleon: spice
+[4:48:21] mohaso21: the  double dragon is just one of them does aoe damage
+[4:48:47] mohaso21: the other dragon is tank buster
+[4:49:36] mohaso21: you should kill one of which is the small one cuz the aoe dmg on both of them combined on fort is alot
+[4:49:41] pj_sthl: !workatecho
+[4:49:41] Echo_Esports: Time for a break...from your current job? Come work with Echo! Apply at: echogg.ly/apply/Scripe
+[4:50:03] Echo_Esports: Grab your fantastic new Displates for up to 33% off! Use echogg.ly/displate/Scripe and enter code: ECHO
+[4:50:37] mohaso21: 29 yes
+[4:51:47] mohaso21: i wanna rest so bad dejj
+[4:52:04] mohaso21: quick deplete lets go
+[4:52:09] mohaso21: quick and painful
+[4:55:51] AverageChameleon: Wokege
+[4:56:16] ahmmagad: that beard suits you man. caveman
+[4:56:43] SovexFFXIV: xenoBeird
+[4:58:22] Smokeonetv: Hello
+[5:00:06] Tobssessxic: YEP
+[5:02:11] nikozree: sup caveman
+[5:02:17] Eliannoula: ellow smoke!
+[5:02:32] Smokeonetv: hey eli
+[5:03:39] Rafaelfrost_: am I stoned or Scripe likes like he has more hair
+[5:04:23] pope42069: @Scripe papa scripe, when running balefire should we always wait for combust? or send even for mini combust?
+[5:05:24] Echo_Esports: Celebrate Echo's latest win in the RWF with the New World First mousepad and loads of other great merch at echogg.ly/merch/Scripe
+[5:05:39] Frawtarius: ooft
+[5:06:51] Rafaelfrost_: they keep fixating after stun
+[5:07:06] mohaso21: i saw ppl had no cds
+[5:07:39] mohaso21: it was clean up till the ninja pull unlucky
+[5:07:54] pope42069: thank you
+[5:08:57] mohaso21: i changed the way i do my pulls in there
+[5:09:01] mohaso21: it went pretty clean
+[5:09:21] mohaso21: if you noticed i pulled both big guys instantly
+[5:11:39] mohaso21: hahah
+[5:11:47] mohaso21: ye i practiced on some different stuff
+[5:12:01] mohaso21: to make it cleaner and better
+[5:14:33] mohaso21: ye was good keys
+[5:14:48] mohaso21: we gaming tmw too or what you doing
+[5:14:55] mohaso21: we timed fall
+[5:15:03] mohaso21: fall and rise
+[5:15:26] mohaso21: enjoy your weekend
+[5:15:29] Smokeonetv: cya  bb
+[5:15:33] Scripe: cucu
+[5:15:51] SovexFFXIV: peepoWave rest well

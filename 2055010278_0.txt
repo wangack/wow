@@ -1,0 +1,1942 @@
+[0:00:02] your_friend_tim: !first
+[0:00:02] StreamElements: U tried, but Staahle_ZGZ already beat u to it! also ephemeralphantom_ZGZ is slowtom!
+[0:00:09] your_friend_tim: HAHAHA GET FUKT STAAHLE
+[0:00:12] StreamElements: Zeegers is now live! Streaming World of Warcraft: New P2 Mage AOE leveling !VIDEO | !Kick / !YT / !Corsair / !OriginPC
+[0:00:23] Zeegers: lol
+[0:02:33] Convoak: Hey Zeegers it’s me.
+[0:02:40] Convoak: I’m going to play discipline in P2
+[0:02:53] Convoak: !slots 10%
+[0:02:53] StreamElements: @Convoak you got zeegerBELL | zeegerBELL | zeegerAmanda and lost your 13120 Points zeegerRIP
+[0:02:55] Zeegers: yeah? you decided eh
+[0:03:00] Convoak: Yea
+[0:03:09] Convoak: Disc priest / balance Druid
+[0:03:09] Zeegers: givesa you options for both dungeon and world
+[0:03:12] Zeegers: so not bad idea
+[0:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[0:08:41] your_friend_tim: Hey babygirl
+[0:08:46] Summy_211: First
+[0:09:10] your_friend_tim: Restart your computer imho
+[0:09:24] beanns2: Or they have to do an update on their end
+[0:09:37] Convoak: Summy let’s world pvp together in P2 deal?
+[0:09:53] Convoak: Rogue/priest and double balance combo omg
+[0:10:18] beanns2: no way to back up the configs?
+[0:11:05] Summy_211: @Convoak okay buddy
+[0:11:08] Summy_211: !slots 1111
+[0:11:08] StreamElements: @Summy_211 you got zeegerAmanda | zeegerJuice | zeegerJuice and lost your 1111 Points zeegerRIP
+[0:11:28] Convoak: @summy_211 I’m staying discipline so you’ll get the pain supp
+[0:11:53] beanns2: reddit post about it says to copy your interface folder and WTF folder. Copy them back in after reinstall
+[0:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[0:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[0:13:17] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[0:13:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[0:15:50] Summy_211: Classic UI gang gang
+[0:16:23] Frosted2319: i think it just needs updated
+[0:16:33] kitsune1871_ZGZ: yoo its my dad whats up pops !!
+[0:16:38] Frosted2319: it was working before patch
+[0:17:27] Convoak: Zeegers I’m excited for stream today because there ain’t shit going on at work!
+[0:17:35] Summy_211: !slots 1111
+[0:17:36] StreamElements: @Summy_211 you got zeegerAmanda | zeegerJuice | zeegerCHERRYPOP and lost your 1111 Points zeegerRIP
+[0:17:44] Frosted2319: like the ppl who make the addon since the new patch just dropped thats before patch
+[0:17:44] Summy_211: Jan 23rd?!
+[0:17:50] your_friend_tim: Can you re-import your config?
+[0:17:50] Summy_211: damn theyre slacking
+[0:18:19] your_friend_tim: Can you install an older version?
+[0:18:22] Frosted2319: maybe its a differnet issue but towelliee went offline because it was messed up after patch
+[0:18:38] AmandaMarie_ZGZ: @your_friend_tim your pal Toby Keith died did you see?
+[0:18:49] your_friend_tim: Yeah :(
+[0:18:51] your_friend_tim: Had no idea
+[0:19:47] Frosted2319: try going to different profile in elv then do the install there then switch back to current one?
+[0:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[0:22:02] Topher_IRL: Open the config or whatever file they're talkin in Notepad++ and put a -- before those two lines
+[0:22:11] your_friend_tim: ^^^^
+[0:22:29] Frosted2319: ill send it to you what i mean shouldnt mess it up
+[0:22:34] Convoak: Two negatives is still a positive Topher GOSH
+[0:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[0:22:51] Topher_IRL: Notepad++ doesn't give a F about your Maths
+[0:22:56] Convoak: omg
+[0:23:00] cmomoney2000: 2 more days
+[0:23:31] Convoak: *after your intro
+[0:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[0:24:57] ceetwice: DAD?
+[0:26:43] AmandaMarie_ZGZ: time for Nancy Drew
+[0:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[0:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[0:28:06] ooNITRO: Elvui discord claims it will be fixed later today
+[0:28:17] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[0:28:34] Convoak: @amandamarie_zgz You’re outta control
+[0:29:03] Rmont: classic wow and a tank top... nice
+[0:29:05] AmandaMarie_ZGZ: @Convoak listen Linda, Nancy is a classic
+[0:29:14] Convoak: @amandamarie_zgz Classic in the 90s
+[0:29:19] Rmont: what we bitching about
+[0:29:28] ooNITRO: There's a blue post about it, multiple addons fucked
+[0:29:57] Rmont: if you can do stockades with no bars, it'll be cake thursday
+[0:30:50] Convoak: Look at all these nerds playing WoW lulz
+[0:31:00] ooNITRO: "We currently expect to go live with this issue, and we'll then fix it as soon as possible" -blue post LOL
+[0:31:17] ooNITRO: Hopefully the elvui fix gets ahead of it later today
+[0:32:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[0:32:24] Rmont: ah yeah my bars are gone too, dont even use elvui
+[0:32:28] Convoak: Might have to game it classic style buddy
+[0:32:52] Rmont: yep, bartender got hit too
+[0:33:11] ooNITRO: Nice
+[0:33:19] Zeegers: https://github.com/tukui-org/ElvUI
+[0:33:19] Zeegers: https://github.com/tukui-org/ElvUI
+[0:33:19] Zeegers: https://github.com/tukui-org/ElvUI
+[0:33:19] Zeegers: https://github.com/tukui-org/ElvUI
+[0:33:43] Convoak: luffyytaroDeepbreath
+[0:33:58] Tinit5190: Blizzard doesn't do PTR's anymore
+[0:34:04] Tinit5190: Queue D4
+[0:34:31] silenuscro: hey man, what is your opinion about mage aoe heal nerf, mage sets and boosting? planing to make a vid for viable boost/ dungeon grind without it and duo mage?cheers
+[0:34:46] Rmont: are you talking the elvui team or blizz side?
+[0:34:49] Tinit5190: Dunno, my elvui hasn't had any problems since the last update
+[0:34:54] cajuncanuck: is the person responsible for that task...still around???
+[0:35:20] Topher_IRL: The time of facetanking 20 mobs was bound to come to an end imo
+[0:35:30] Rmont: dont think blizzard gives a shit to make sure their stuff works with 3rd party addons
+[0:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[0:35:47] ooNITRO: Facts
+[0:36:07] Topher_IRL: Blizzard from range now, still get the LF damage
+[0:36:08] Topher_IRL: Win win
+[0:36:45] Topher_IRL: The nerf was warranted for sure
+[0:36:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[0:36:53] Topher_IRL: As was the Arcane Explosion heal nerf right after launch
+[0:37:08] Topher_IRL: Speaking as a Mage main since 05 lol
+[0:37:17] Rmont: I think cathedral casters will fuck ya up too much
+[0:37:34] Rmont: they even hit my 60 hard
+[0:37:38] Rmont: if I wasnt in resistance gear
+[0:37:46] Topher_IRL: !bars
+[0:37:46] StreamElements: WoW hotbars bricked with Elv update? Try this! ---->  https://github.com/tukui-org/ElvUI
+[0:38:00] Rmont: armory will be interesting
+[0:38:24] Rmont: those myrmidons or w.e hit like trucks though
+[0:38:28] Rmont: take a couple licks from them and you're done
+[0:38:55] Rmont: I still think ZF GY will be the big one
+[0:39:17] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[0:39:22] silenuscro: i like the changes ofc, just wanted ur take on it.. stockades can be done without healing or duo. mage sets will give u like -30 stam or so so will be interesting, but makes sense what they are doing
+[0:39:34] Convoak: ZF zombies are 43-44?
+[0:39:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[0:39:49] Rmont: I think you do ZF without blizzarding really
+[0:39:54] Rmont: just purely jump back and forth with living bomb
+[0:40:14] ooNITRO: Wonder how much hit% we can get to at 40
+[0:40:23] ooNITRO: Maybe new mage scrolls double? Idk
+[0:40:30] Rmont: yeah you may need LIPs and shit
+[0:40:32] Rmont: to get there
+[0:40:44] Convoak: @oonitro With the gear updates it might be ahievable to get some good hit rating
+[0:40:50] Convoak: achievable*
+[0:40:59] Topher_IRL: Damn she fine
+[0:41:00] ooNITRO: Yeah that's what I'm thinkin
+[0:41:31] Tinit5190: yer
+[0:41:33] Zeegers: !youtube FOR MORE HIGHLIGHT VIDEOS CHECK OUT OUR YOUTUBE!
+[0:41:33] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[0:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[0:42:29] cajuncanuck: make one
+[0:42:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[0:44:33] Rmont: love this hogwarts clip
+[0:44:42] Rmont: really embodies the essence of this stream
+[0:44:46] Zeegers: !youtube FOR MORE HIGHLIGHT VIDEOS CHECK OUT OUR YOUTUBE!
+[0:44:46] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[0:46:05] Tinit5190: It's a lot of runnin
+[0:46:25] Tinit5190: What else is there to do
+[0:46:27] Tinit5190: lel
+[0:46:50] GNR_SweetSkills: Good morning Fam
+[0:47:10] zomnipotent: some of you guys are alright, dont go to stv on thursday LUL
+[0:48:11] Tinit5190: you have to do the firework quest first
+[0:48:14] Tinit5190: then you do the rest
+[0:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[0:48:55] Tinit5190: how you plan on getting to the vendor?
+[0:49:36] Summy_211: im back, what did you do to fix it?
+[0:50:05] zomnipotent: HOLY
+[0:50:10] zomnipotent: 50% EXP BUFF IS ACTIVE ALREADY
+[0:50:20] zomnipotent: time to roll an alt
+[0:50:34] Tinit5190: eww
+[0:50:39] Tinit5190: /slit
+[0:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[0:50:58] zomnipotent: i thought it was /wrists
+[0:51:23] zomnipotent: gonna level a priest mwuahahah
+[0:51:27] ooNITRO: 8 iirc
+[0:51:32] Tinit5190: 8 iirc
+[0:51:36] Avuis_: bingo
+[0:51:46] Avuis_: Stockades is the way better option compared to horde though
+[0:51:47] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[0:52:01] Avuis_: Still trying to figure out my route to 30ish
+[0:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[0:53:22] Zeegers: !bar
+[0:53:23] Zeegers: !bars
+[0:53:24] StreamElements: WoW hotbars bricked with Elv update? Try this! ---->  https://github.com/tukui-org/ElvUI
+[0:54:03] zomnipotent: yep
+[0:54:08] Tinit5190: ya
+[0:54:16] ooNITRO: They're like 200 exp each
+[0:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[0:54:41] zomnipotent: they massacred my boy, starsurge is 36 yards now
+[0:54:41] ooNITRO: They did something to the WSG marks too right
+[0:54:42] Summy_211: like 1k+
+[0:54:45] Summy_211: thats what it should be
+[0:55:56] GNR_SweetSkills: They dropped in @AmandaMarie_ZGZ purse about 2 weeks ago LUL
+[0:56:14] your_friend_tim: Hi am back, such cool, things work
+[0:56:31] your_friend_tim: Kinda mid
+[0:56:37] GNR_SweetSkills: ^
+[0:56:43] Tinit5190: I should have gotten the world buff first
+[0:56:44] Tinit5190: lol
+[0:57:02] Tinit5190: me I should have lol this is pain
+[0:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[0:57:29] your_friend_tim: Where's he need to go?
+[0:57:30] Tinit5190: all good
+[0:57:32] your_friend_tim: I can jump on qucik too
+[0:57:39] Tinit5190: I have to figure out these horde ones
+[0:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[0:58:04] Tinit5190: I am, but some are in crossroads and camp turajo
+[0:58:41] Rmont: I didn't realize STV event was FFA
+[0:58:56] Tinit5190: Pretty sure STV is full on FFA, with some penalty for raids
+[0:59:03] Rmont: Yeah I dont think you'll group up at all really
+[0:59:04] zomnipotent: it is FFA outside of group
+[0:59:25] Tinit5190: might be a spawn or something we don't know
+[0:59:29] Rmont: I think you'll get a debuff for grouping
+[0:59:40] zomnipotent: hmmm, to main rogue or druid...
+[0:59:55] Rmont: Opting out of the Blood Moon PvP event will not put you in a different layer. It will simply keep you friendly with players from your faction, while still applying on any normal server PvP rules. This means you can still be attacked by the opposite faction if you are flagged for PvP, but you will not grant any Blood Moon rewards when killed, or earn any when you kill other players.
+[1:00:00] Rmont: From the recent DEV Q&A
+[1:00:27] Rmont: So the inverse would be, blood mon event makes you hostile to friendly faction
+[1:00:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[1:00:49] hellocno666: hellocno666 subscribed at Tier 1. They've subscribed for 22 months, currently on a 22 month streak! 
+[1:00:50] yoplayyoggie: Hi
+[1:00:52] Rmont: oh itll be toxic as hell
+[1:01:05] your_friend_tim: !bean
+[1:01:05] StreamElements: No whammy, no whammy, no whammy!
+[1:01:07] hellocno666: It's not a cult...
+[1:01:09] Spyke_ZGZ: Mr. Zeegers I got 2 dual lands out of my free packs in MtGA
+[1:01:14] Spyke_ZGZ: I know you don't know what that means but it's a good thing
+[1:01:38] your_friend_tim: Nerd
+[1:02:03] your_friend_tim: I got two blue eyes white dragons for my Yugioh cards, slapped those on my arm deck holder.
+[1:02:09] Spyke_ZGZ: I got one in my REAL packs yesterday and it'll probably be worth enough on its own to cover the cost of them.
+[1:02:17] Spyke_ZGZ: They're basically a necessity
+[1:02:26] Rmont: While you can still group-up with your allies for the event, the Blood Moon is a harsh mistress and will punish those in raid groups.
+[1:02:27] your_friend_tim: What are we doing?
+[1:02:42] hellocno666: so i've got 133.6k Zee Bux that I have no idea what to use them on.
+[1:02:46] Rmont: that wording would suggest 6+
+[1:02:47] Rmont: but who knows
+[1:02:47] hellocno666: Hydrate Stream anyone?
+[1:03:14] your_friend_tim: Ah the buns hun?
+[1:03:28] Rmont: 479g... Im so fucking broke on my mage lol 8g
+[1:03:28] your_friend_tim: Bless You
+[1:03:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[1:03:55] Rmont: my 8g depresses me
+[1:04:02] zomnipotent: i fished a 14 slot bag yesterday, sold for 35g
+[1:04:23] zomnipotent: yep tanaris
+[1:04:48] zomnipotent: i love this feeling, the calm before the p2 storm
+[1:04:49] Rmont: what do you get for doing this?
+[1:05:04] soundwyzrd: happy b day to Bob Marley and me
+[1:05:21] zomnipotent: the good thing about the food is that it stacks with regular water
+[1:05:44] soundwyzrd: Jamaican food, and a Bob marley tribute band show
+[1:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[1:06:00] Rmont: I'll just live through you on launch
+[1:06:04] zomnipotent: jamaican food slaps, gimme a couple meat patties and some coco bread
+[1:06:32] your_friend_tim: Jamaican me hungry
+[1:06:41] soundwyzrd: we got 7 11 here same thing
+[1:06:48] zomnipotent: yea patties are insane, i love the texture of the beef, its like blended up lol
+[1:07:01] soundwyzrd: thats why i love u bro we from the same place but different
+[1:07:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[1:07:26] soundwyzrd: anything carribean wins
+[1:08:21] soundwyzrd: im fucked i gotta balance an alliance and horde toon now
+[1:08:24] swolenerd92: swolenerd92 subscribed at Tier 2. They've subscribed for 6 months! 
+[1:08:28] soundwyzrd: horde on living flame
+[1:08:45] Topher_IRL: zeegerLetsgo zeegerLetsgo zeegerHype zeegerHype zeegerJuice zeegerJuice zeegerPog zeegerPog zeegerPog
+[1:08:52] swolenerd92: look at those fucking SHOULDERSSSSSS
+[1:09:06] soundwyzrd: ur lookin buff, king
+[1:09:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[1:09:20] Rmont: so how degen can we expect you to be on launch
+[1:09:39] swolenerd92: Im gonna be jammin DND 4 sure hopefully i can shoot ya today a few times
+[1:09:43] Rmont: I wanna smell you through my monitor
+[1:09:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[1:10:12] Rmont: Rmont subscribed with Prime. They've subscribed for 43 months! 
+[1:10:21] Rmont: oh didnt realize not subbed
+[1:10:32] Topher_IRL: zeegerLetsgo zeegerLetsgo zeegerHype zeegerHype zeegerJuice zeegerJuice zeegerPog zeegerPog zeegerPog
+[1:10:53] soundwyzrd: i wanna resub my gifted subs up but my email wont go through
+[1:11:16] smurficus_maximus: smurficus_maximus gifted a Tier 1 sub to soundwyzrd! They have given 78 Gift Subs in the channel! 
+[1:11:55] smurficus_maximus: mornin lads! zeegerOFFICER zeegerCoffee
+[1:12:01] soundwyzrd: @smurficus_maximus Thanks for the gift sub!
+[1:12:14] Topher_IRL: zeegerLetsgo zeegerLetsgo zeegerHype zeegerHype zeegerJuice zeegerJuice zeegerPog zeegerPog zeegerPog
+[1:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[1:12:28] soundwyzrd: big news
+[1:12:41] Rmont: honestly feels more hyped for p2 than the last few retail expansions
+[1:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[1:13:08] soundwyzrd: picked up a permanent sound gig doing conferences at Chanel HQ in NYC
+[1:13:24] Zeegers: !video
+[1:13:24] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[1:13:27] cajuncanuck: ! zeegerMage
+[1:13:41] soundwyzrd: gotta send wife some No. 5
+[1:13:43] Rmont: a true wizard of sound, congrats @soundwyzrd
+[1:14:11] soundwyzrd: monthly conference
+[1:14:15] soundwyzrd: zoom feeds
+[1:14:20] cajuncanuck: I still don't understand wow, but glad people are still having fun with it
+[1:14:20] soundwyzrd: big money
+[1:14:30] soundwyzrd: mics and
+[1:14:32] soundwyzrd: etc
+[1:14:50] zomnipotent: wow, you hit buttons
+[1:14:50] cajuncanuck: if bank says I can retire, I'll play
+[1:15:01] swolenerd92: You going to play throne and lib? illl 10000% join the guild and go ham.
+[1:15:06] Topher_IRL: Thursday is a good time to learn with bonus XP 1-25
+[1:15:07] cajuncanuck: absolutely LUL
+[1:15:44] swolenerd92: hopefully
+[1:15:49] cajuncanuck: LE is the only ongoing game I'll prob be playing for a while
+[1:16:13] Rmont: LE?
+[1:16:18] cajuncanuck: Last Epoch
+[1:16:27] Tinit5190: you can get XR and Turajo
+[1:16:30] Tinit5190: Just watch for shitheads
+[1:16:33] swolenerd92: Choo Chooo LuvPeekR
+[1:16:33] cajuncanuck: 1.0 launches Feb 21
+[1:16:54] Rmont: D2R is still trying stuff?
+[1:16:55] smurficus_maximus: Choo Chooo LuvPeekR
+[1:17:13] cajuncanuck: D2R is only resetting season. Nothing again it seems
+[1:17:15] Rmont: F R E S H
+[1:17:20] cajuncanuck: still a fun time for a bit
+[1:17:44] soundwyzrd: question about enshrouded
+[1:17:45] Tinit5190: you can
+[1:17:46] Tinit5190: nope
+[1:17:49] Tinit5190: anyone can get them
+[1:17:51] Convoak: Zeegers you’re so silly
+[1:18:00] Tinit5190: just have to watch for the guards
+[1:18:06] soundwyzrd: if i go to your server its all developed already? or do i still have to map it
+[1:18:17] Convoak: Please be careful in the Barrens. I’m not there to heal you.
+[1:18:41] soundwyzrd: btu no fast travel?
+[1:18:52] Rmont: flight paths are character specific
+[1:18:57] Convoak: I have work. luffyytaroCryyyy
+[1:19:47] soundwyzrd: meant in enshrouded
+[1:19:51] soundwyzrd: my bad
+[1:20:16] Spyke_ZGZ: It's like Palworld I think. Server is developed but YOU don't have shit.
+[1:20:23] soundwyzrd: gotcha i leveled but i still havent covered a lot of ground
+[1:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[1:21:05] Tinit5190: There's a literal flood of horde here so watch it
+[1:21:10] StrikingSmiles: StrikingSmiles subscribed with Prime. They've subscribed for 13 months! I have not been around for a while. I hope that all is very well! Keep doing you <3
+[1:21:27] Topher_IRL: zeegerLetsgo zeegerLetsgo zeegerHype zeegerHype zeegerJuice zeegerJuice zeegerPog zeegerPog zeegerPog
+[1:21:57] soundwyzrd: cocaine and bananas clear that right up
+[1:22:02] StrikingSmiles: Yes, doing well thank you!
+[1:22:20] benjiscrilla: zeeger1 zeeger2 zeeger2 zeeger3 zeeger2 zeeger4 zeeger5
+[1:22:22] soundwyzrd: w\pre workout of the old gods
+[1:22:37] Spyke_ZGZ: Sounds like you slept while sniffing Kita's butt
+[1:22:43] benjiscrilla: having a shit day tbh lollllll
+[1:22:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[1:23:03] benjiscrilla: getting it under control finally
+[1:23:09] soundwyzrd: lvling with my horde buddies last night i was preaching about you homie love this community
+[1:23:14] Spyke_ZGZ: I did that this morning! Woke up at 8 and was ready but was in a shit mood
+[1:23:14] benjiscrilla: nah then it will just be worse tomorrow LOL
+[1:23:15] StrikingSmiles: I absolutely love WoW Classic! It is such A legendary game!
+[1:23:17] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[1:23:18] Spyke_ZGZ: So I slept for 3 more hours
+[1:23:37] benjiscrilla: once I’m done sending this final piece of bullshit government mail I’m passin outtttt
+[1:24:05] benjiscrilla: and then I had to beef with my ISP earlier zeegerRage zeegerRage zeegerRage zeegerRage zeegerRage zeegerRage zeegerRage
+[1:24:07] Convoak: @benjiscrilla Thanks for the necks last night brah!
+[1:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[1:24:20] benjiscrilla: bro no problem lol @convoak
+[1:24:38] Convoak: I lost one on that dumbass raft.
+[1:24:58] benjiscrilla: damnn @convoak if you wanna run some later
+[1:25:01] benjiscrilla: warlock Barb
+[1:25:05] benjiscrilla: would be sick comp
+[1:25:17] Convoak: Yeah might be down tonight!
+[1:25:41] Tinit5190: I have to figure out how I'll level rogue
+[1:26:10] Tinit5190: speed of an unladen african swallow
+[1:26:31] lordalleman: i have to figure out a legal way to win the lottery for an entire year
+[1:27:03] Tinit5190: nope
+[1:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[1:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[1:27:49] benjiscrilla: I wish I could just demand 400mil cash from the government.
+[1:28:02] lordalleman: oh wow...2 more days until phase 2
+[1:28:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[1:29:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[1:29:37] StayDrew: what do the coins give?
+[1:29:47] Tinit5190: inside the dungeons so
+[1:29:50] Tinit5190: no idea where they are
+[1:30:06] smurficus_maximus: Whats P2's level cap?
+[1:30:07] GNR_SweetSkills: Anyone know a good spot to farm coal on Palworld
+[1:30:20] StayDrew: @smurficus_maximus 40
+[1:30:28] smurficus_maximus: mmm, prime level.
+[1:30:28] Tinit5190: The one in ZF is all the way inside the dungeonm
+[1:31:35] crazygiz_zgz: What's the new lvl cap?
+[1:31:44] Convoak: @gnr_sweetskills Just West of Anubis
+[1:32:19] draegon_tengoku_zgz: draegon_tengoku_zgz gifted a Tier 1 sub to crazygiz_zgz! They have given 706 Gift Subs in the channel! 
+[1:32:54] crazygiz_zgz: Tnx Goku! =D
+[1:34:08] draegon_tengoku_zgz: On lunch sitting in the floor in the pharmacy lunch room only has room for 3 people and I wasn't 1 of the first 3 to punch out for lunch lol
+[1:34:24] draegon_tengoku_zgz: In the pharmacy,
+[1:34:25] Tinit5190: some are in way too high of zones though. I got clapped quickly trying for some
+[1:35:32] your_friend_tim: @Zeegers Slammer - https://open.spotify.com/track/0bLPAuVTardAaPBcoQOQJG?si=49ac3818fc5d4e45
+[1:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[1:35:57] your_friend_tim: Yes
+[1:35:59] your_friend_tim: You like
+[1:36:10] your_friend_tim: I know you will
+[1:36:22] your_friend_tim: It's a serious suggestion, not my 99.9% sarcasm troll.
+[1:36:46] your_friend_tim: Might have heard of him, Avicii, Silhouettes
+[1:36:47] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[1:37:06] your_friend_tim: Listening to his tribute concert tracks now
+[1:39:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[1:39:40] Convoak: omg I’m getting Vietnamese for lunch today I’m so excited moms the best
+[1:40:59] Zeegers: jealous !
+[1:41:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[1:42:53] Convoak: Satay boneless chicken on rice
+[1:43:01] soundwyzrd: loving my orc warrior
+[1:43:05] Convoak: Comes with chicken, shrimp and a fried egg. yummm
+[1:43:15] Wombatt_ZGZ: @Convoak oH yOu meAN cHicKen NugGEtS
+[1:43:30] Convoak: Eheheh
+[1:43:39] Convoak: Basically yes.
+[1:43:47] Wombatt_ZGZ: satay nuggets best nuggets
+[1:45:54] Tinit5190: AN orc shaman
+[1:46:01] Tinit5190: use 2h and impersonate a warrior
+[1:47:07] Wombatt_ZGZ: available for classic dads too
+[1:47:20] OroreuxTorii: wait is phase 2 active? .. I though it was 2/8?
+[1:47:41] OroreuxTorii: oh ok
+[1:47:44] Tinit5190: !video
+[1:47:45] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[1:47:47] Tinit5190: learn to read
+[1:47:48] Tinit5190: :)
+[1:47:56] OroreuxTorii: was about to go buy a 12 pk of redbull
+[1:47:58] Tinit5190: Title bait
+[1:48:00] OroreuxTorii: XD
+[1:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[1:49:02] your_friend_tim: You'll get there faster if you get on your mount.
+[1:49:17] OroreuxTorii: XD
+[1:49:17] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[1:49:30] your_friend_tim: Tap tap taparoo
+[1:49:34] Tinit5190: I interrupt the other mount every time as well
+[1:49:34] your_friend_tim: We playing DaD tonight?
+[1:49:50] Convoak: I like DaD
+[1:49:55] your_friend_tim: After son goes down for sure
+[1:50:10] Convoak: Tim I hope you’re doing well today.
+[1:50:17] Tinit5190: taco
+[1:50:22] soundwyzrd: do you see you rhead runes? i have them all but no helm
+[1:50:29] Tinit5190: My cheat day is taco day
+[1:50:32] Tinit5190: literally tacos all day
+[1:50:33] hoppin000: Zeegs lookin like cottage skin wearing a thong
+[1:50:40] hoppin000: cottage cheese
+[1:50:43] your_friend_tim: Leftover dice filet in a burrito shell with brown rice, guac, cheese and hot sawss
+[1:50:43] hoppin000: damnit i fucked that all up
+[1:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[1:50:51] OroreuxTorii: down to one screen again until tomorrow.. had to order regular VGA to HDMI cords cus all the cords for my old pc were wonky adapters for random portsXD XD
+[1:51:09] Convoak: @your_friend_tim So a gas station burrito?
+[1:51:14] crazygiz_zgz: BBQ chicken with homemade coleslaw, a neat salad and some roasted potatoes, carrots n shit =)
+[1:51:20] your_friend_tim: @Convoak + Gas
+[1:51:29] Convoak: Buy gas get $2 off the burrito
+[1:52:20] OroreuxTorii: funny thing though.. last night for the first 15 min i couldnt get my screen to connect cus I never had a graphics card to realize they have ports XD
+[1:52:26] Wombatt_ZGZ: They're called Nuke N Pukes for a reason
+[1:52:28] OroreuxTorii: yea i started looking at screens already
+[1:52:37] lordalleman: i think there is a decent microwave burrito called  da bomb
+[1:52:40] Tinit5190: Well, then it's a Costco box. Return it for full refund... duh
+[1:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[1:52:53] OroreuxTorii: all my game play is smooth now tho and none of my key imputs miss
+[1:53:02] OroreuxTorii: its already night and day dif
+[1:53:02] Convoak: They’re probably El Monterey burritos
+[1:53:04] Tinit5190: Lel. I don't believe in citizen honesty
+[1:53:19] Wombatt_ZGZ: In Canada they shop at Costcou
+[1:53:22] Tinit5190: Some of the shit we take back is beyond belief
+[1:53:30] Convoak: Yeah it’s El Monterey @zeegers
+[1:54:17] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[1:54:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[1:54:51] OroreuxTorii: i was actually going through the  pc set up pics last night looking at the screen setups.. some of those curved screens are pretty dope
+[1:55:46] Tinit5190: I like flat. Feels safer to transport
+[1:55:52] OroreuxTorii: ^^
+[1:56:24] asmonglitch: !video
+[1:56:24] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[1:56:43] Tinit5190: You mean you don't pack your PC up, head over to friends basement with a Big Gulp of Coke Slurpee every weekend?
+[1:56:52] OroreuxTorii: XD
+[1:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[1:57:32] Wombatt_ZGZ: so much work to redo your wire management huh
+[1:57:41] Tinit5190: thats retail
+[1:57:47] Rmont: retail LUL
+[1:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[1:57:53] Wombatt_ZGZ: @Tinit5190 KEEP READING
+[1:58:29] Wombatt_ZGZ: PIRATES, ME MATEYS
+[1:58:35] Wombatt_ZGZ: including in Classic
+[1:59:12] Wombatt_ZGZ: It's for both Retail AND Classic
+[2:01:22] Tinit5190: yes
+[2:01:23] justspunk: el montery are bangin burritos.
+[2:01:28] Tinit5190: but usualloy you can get in and get out
+[2:01:43] justspunk: they have so many diff ones
+[2:02:01] Tinit5190: thats the one I'm headed to now
+[2:02:05] Tinit5190: then I think I'll be good
+[2:02:15] Tinit5190: 17
+[2:02:38] Tinit5190: Pretty sure the one in UC is right at the entrace too
+[2:02:52] justspunk: this is a thumperr
+[2:02:57] justspunk: and ez clap
+[2:02:58] justspunk: lol
+[2:03:00] justspunk: :)
+[2:03:22] justspunk: yep
+[2:03:22] ooNITRO: shit is so broke
+[2:03:45] Tinit5190: twas overlooked with how busted hunters are
+[2:04:21] Wombatt_ZGZ: isn't that the authentic Classic experience though?
+[2:04:29] justspunk: i think sod is just the testing grounds for the war expac for retail
+[2:04:31] Maple7G: @zeegers man I got a jormantide ignis with lucky serious artisan workslave and condensed to 4 star, it’s lvl 5 kindling and is soooooo fast
+[2:04:46] Maple7G: like op as f
+[2:05:21] Maple7G: was a lot of breeding and had to find a lucky one lol
+[2:05:42] GNR_SweetSkills: I just made the minigun for grizzbolt
+[2:05:45] justspunk: AND its gonna bea  ablast
+[2:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[2:05:49] justspunk: i think
+[2:05:53] Maple7G: @gnr_sweetskills so fun!!
+[2:05:55] justspunk: ya agreed
+[2:06:22] Maple7G: mossanda
+[2:06:48] Wombatt_ZGZ: Makes sense, use the free platform as the testbed for the one that sells game copies
+[2:06:58] GNR_SweetSkills: I just learned Feglope has a double jump
+[2:07:38] GNR_SweetSkills: Also Kitsun protects you from hot or cold while mounted
+[2:07:57] Wombatt_ZGZ: that's not shade, that's reality.  If you have a version that doesn't have a box cost, and a version that DOES, you put more effort into the one that does
+[2:08:28] Tinit5190: Do it, no balls
+[2:09:03] Tinit5190: won't be able to
+[2:09:06] Tinit5190: agro radius too large
+[2:09:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[2:09:45] Tinit5190: yup
+[2:09:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[2:09:51] Tinit5190: even trying to get south in tanaris I got owned
+[2:09:56] Tinit5190: cause no one there so everything is always alive
+[2:10:13] Tinit5190: and the GY's are so ass
+[2:10:31] Tinit5190: I almost stopped trying to get through 1K
+[2:10:54] Tinit5190: tons of horde on my phase so I got owned like 3x
+[2:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[2:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[2:12:58] Tinit5190: UC or no balls
+[2:14:04] Tinit5190: barrens was ez
+[2:16:19] reborndevil96: Aloha Mr. Sean Zeegers
+[2:17:00] MuWaMaN: use the stapes from the chair to stick the sheets together Kappa
+[2:17:26] Tinit5190: I'll be chill leveling again
+[2:17:27] reborndevil96: Been revisiting the Mobile Game, Summoners War since it came to steam
+[2:17:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[2:18:01] Loldarian: sup
+[2:18:37] reborndevil96: its the Original Raid Shadow legends game, its on its 10 year anniversary
+[2:18:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[2:18:50] justspunk: !VIDEO
+[2:18:51] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[2:19:08] Wombatt_ZGZ: and that's just from Yorath
+[2:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[2:21:20] reborndevil96: Stamp, Stamp Stamp
+[2:21:44] Wombatt_ZGZ: you should have Drew teach you
+[2:22:45] OroreuxTorii: fuuuuuck..... i need to redo my WoW UI... and download all my add ons that now i dont remember which i had... #sadface
+[2:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[2:23:12] 2facedfox: You should listen to : Lebask-asylum YouDontSay
+[2:23:25] 2facedfox: Trust me
+[2:23:43] 2facedfox: Oh lebask is even harder but hé is an artist
+[2:24:02] reborndevil96: Ready for that Motionless in White?
+[2:24:08] OroreuxTorii: you mean like hooking the PC's together to transfer the files?
+[2:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[2:24:29] Tinit5190: yup
+[2:24:34] Tinit5190: thats why I don't bother lol
+[2:25:38] Loldarian: aw
+[2:25:40] Wombatt_ZGZ: dang you almost had em
+[2:25:44] Tinit5190: not a bad gy though
+[2:26:24] GNR_SweetSkills: Did you all see what happens when you butcher 100 pals?
+[2:27:09] GNR_SweetSkills: it blurs your character for ever
+[2:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[2:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[2:28:17] GNR_SweetSkills: yeah its a glitch I just looke dit up
+[2:28:29] reborndevil96: when Butchering Pals Turns you Into The southsea Murderer
+[2:28:44] your_friend_tim: WHAT ARE YOU DOING
+[2:28:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[2:29:25] Tinit5190: gotta get your body anyways
+[2:29:40] Wombatt_ZGZ: you need a warlock friend
+[2:29:49] your_friend_tim: Do you have a coin purse? Can I see it?
+[2:30:00] Zeegers: !video
+[2:30:00] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[2:30:03] your_friend_tim: :O
+[2:30:48] your_friend_tim: UMSK UMSK UMSK UMSK UMSK
+[2:33:08] soundwyzrd: arms might b better than fury imo
+[2:33:12] primal_drop: @your_friend_tim I HAVE SOMETHING SPECIAL! i want you to taste test ;)
+[2:33:13] soundwyzrd: with new runes
+[2:33:36] soundwyzrd: i like low responsibility
+[2:35:18] justspunk: SHE SAYS i smell chicken
+[2:35:25] justspunk: gimme da chicken
+[2:35:34] justspunk: lol
+[2:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[2:36:45] crazygiz_zgz: Kita i've got a shelf full of snacks for ya, They never got eaten sadly, so they're all yours ;)
+[2:36:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[2:37:27] Spyke_ZGZ: Nephew came over to spend a few nights. Brought his MtG cards out of habit.
+[2:37:30] Spyke_ZGZ: I've trained him so well.
+[2:37:50] soundwyzrd: aight on to an eye appt then to the festivities... see ya on thursday my bro
+[2:38:11] soundwyzrd: thyere visible on char  but
+[2:38:12] Spyke_ZGZ: Yeah, he's like my little brother. Sister had him young and he grew up with us and my mom/dad basically raised him even after she moved out lmfao
+[2:38:16] soundwyzrd: not accesible
+[2:38:34] The_Venom_Inside: you think thats ptr?
+[2:38:37] The_Venom_Inside: he says its on live
+[2:38:45] soundwyzrd: side bar i kinda wanna scrap with u rocking the black tank like a gangster lol
+[2:38:57] Spyke_ZGZ: I wouldn't be surprised if they're in already
+[2:39:03] Spyke_ZGZ: Makes the actual launch patch easier
+[2:39:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[2:39:21] The_Venom_Inside: @Spyke_ZGZ agreed
+[2:39:34] soundwyzrd: 255
+[2:39:36] The_Venom_Inside: the vendor is here at gurubashi as well
+[2:39:40] Spyke_ZGZ: I do like the black tank look
+[2:39:51] soundwyzrd: 2 black belts im a ninja nebro
+[2:39:52] The_Venom_Inside: the new mounts don't say "only usable in stranglethorn vale"
+[2:39:57] The_Venom_Inside: like the ashen ones
+[2:40:09] soundwyzrd: lol love ya bro be safe
+[2:40:13] soundwyzrd: peace
+[2:40:32] primal_drop: Flip Yeah a Work out Stream!
+[2:40:35] Rmont: id hope not STV only, its lv40
+[2:41:20] Tinit5190: I'm just tired of walking everywhere
+[2:41:38] Tinit5190: That was an oversight
+[2:41:56] AmandaMarie_ZGZ: considering you made me a deal to start working out when I got my job in October sir zeegerWeasel zeegerWeasel zeegerWeasel zeegerWeasel
+[2:41:58] justspunk: killing ur friends during the pvp events in stv gonna be chaos.
+[2:42:09] Wombatt_ZGZ: @Tinit5190 that's a feature
+[2:42:11] odayodie: hi bro, do u mind i ask some noob questions? just started playing for like less than a week xD
+[2:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[2:42:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[2:43:42] odayodie: so im currently at lvl 22, i used regen-flame-bomb and the patch just came and it sucks now, i swapped regen to burnout now, what do u think that i should use?
+[2:43:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[2:45:07] Tinit5190: That menas I have to get a new leg enchant
+[2:45:20] Rmont: https://www.twitch.tv/zeroji/clip/DarkNurturingLegPJSugar-t6937J7tBnl5WXNd?filter=clips&range=7d&sort=time
+[2:45:25] The_Venom_Inside: solo stocks might be rough with living flame nerf
+[2:45:29] The_Venom_Inside: unless ur duo mage
+[2:45:59] odayodie: i have been farming on the south of barren side, do u have any like different spot for horde for this lvl? trying to hit 25 before the next patch
+[2:46:00] The_Venom_Inside: imp blizz gonna be bis for duo mage imo
+[2:46:02] xecksi: ooooh zeegers lookin all cut and secksi.
+[2:46:44] The_Venom_Inside: well yeah solo, duo whatever
+[2:46:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[2:46:54] The_Venom_Inside: still can living bomb and flame for the deeps
+[2:47:02] Tinit5190: 152 dumplings should be good
+[2:47:24] Tinit5190: thats what you turn the things into
+[2:47:25] Rmont: is the consensus living flame ticks every 2 now?
+[2:47:55] justspunk: DAMN
+[2:47:57] Rmont: mage discord didnt seem to think that was going live
+[2:47:59] xecksi: should go up the shortcut way :P
+[2:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[2:48:47] odayodie: Any other different spot suggestion?
+[2:48:53] xecksi: i dont like them adding in a new role and then nerfing it to the point people dont want to take them :(
+[2:49:03] Zeegers: !video
+[2:49:04] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[2:49:24] Convoak: Or DESTROY
+[2:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[2:51:16] RELLLIKZ: when does p2 start?
+[2:51:43] RELLLIKZ: what server are you on
+[2:51:56] RELLLIKZ: ahh
+[2:51:59] zomnipotent: wasnt it like 4 pdt at launch
+[2:52:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[2:52:19] justspunk: did u see the server balance sheet for sod.
+[2:52:26] justspunk: they got it like damn near perfect
+[2:52:42] ARobotVampire: !gmable all
+[2:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[2:52:47] ARobotVampire: !gamble all
+[2:52:47] StreamElements: zeegerGitgud ARobotVampire went all in and lost every single one of their 9696 Points zeegerRIP
+[2:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[2:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[2:57:54] SirJungle: Zeeeeeegsss! I've been super busy but it's great to see you still grinding hard. Keep it up, man. Hi, Amanda! Okay, gotta go again. Much Love!
+[2:58:46] Zeegers: !jam
+[2:58:46] StreamElements: catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM
+[3:00:38] benjiscrilla: 😎
+[3:00:42] benjiscrilla: Day completed
+[3:00:45] xecksi: so what youre sayign is i need to go to razor hill on my horde for some hot zeegers pvp action?
+[3:00:50] benjiscrilla: mostly
+[3:00:59] benjiscrilla: just have to put the document in the mail
+[3:01:12] benjiscrilla: and eat some foood
+[3:01:38] benjiscrilla: I’m thinkin Korean bbq for dinner
+[3:01:42] emly_e7: I use to sneak onto the alliance ship as rogue then kill then once the ship took off
+[3:02:03] xecksi: ive got 7 25s
+[3:02:09] xecksi: cause screw rogue.
+[3:02:13] xecksi: :D
+[3:02:33] odayodie: in ur last video, when u are killing gnolls, what kinda of rotation are u doing? is there any guide to do it?
+[3:02:35] Rmont: the zeps and boats are going to be blood baths
+[3:02:40] benjiscrilla: no I’ve never heard of that
+[3:02:44] xecksi: man street tacos are the best.
+[3:02:46] benjiscrilla: but there’s a legit place near me
+[3:03:13] benjiscrilla: gonna get an la kalbi dolsot bowl and maybe 10 pc of wings
+[3:03:22] ukko83: I think you might need to activate windows >.>
+[3:03:38] ukko83: LUL
+[3:03:38] odayodie: uh i have my talents on arcane side
+[3:03:45] ukko83: I know, just giving you some shit
+[3:04:52] ukko83: yeah, they don't like the same product key being used on multiple systems unless its like the corporate license. so when you change too much hardware it registers in their system as a different machine and you have to basically unlock it
+[3:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[3:05:55] odayodie: can i just do living bomb-flame there?
+[3:06:32] Tinit5190: going to be a lot of pissed off dead mages next phase
+[3:06:47] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[3:06:55] zomnipotent: if you didnt know you can buy the BFD trinkets in STV for 75g now, good for hybrids
+[3:06:59] Rmont: wont be any dead mages cause you'll be lucky to even pull 2 mobs lol
+[3:07:11] Tinit5190: nop way in hell am I spending 75g
+[3:07:28] Rmont: I was testing AoE spots last night, not even P2 live, and everywhere was over crowded already
+[3:07:52] ukko83: play when everyone is asleep
+[3:08:09] Rmont: GIVE ME SINGLE PLAYER WOW
+[3:08:22] justspunk: lmao
+[3:08:23] Rmont: RMONT OF WARCRAFT
+[3:08:40] Jkorn415: Testing regen right now on an alt, its healing is almost 0 now
+[3:08:48] Jkorn415: Probably back to old mage aoe right?
+[3:08:52] Tinit5190: That's how I do everything so fast lol
+[3:08:53] zomnipotent: thats what i do, farm at night
+[3:08:55] Tinit5190: play at 2am
+[3:08:56] Rmont: so glad I specc'd blizzard not clear casting last night
+[3:08:59] justspunk: !video
+[3:08:59] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[3:09:05] Jkorn415: Im healing for 2-3 health haha
+[3:09:17] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[3:09:21] Jkorn415: I think I just need blink to feel alrigh
+[3:09:29] ukko83: im getting towards the end of current enshrouded content. I spent an entire 2 days just building a castle -_-
+[3:09:44] Tinit5190: WC pull dead I think
+[3:09:47] Tinit5190: or really hard
+[3:09:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[3:09:52] zomnipotent: how much are you gonna pvp this phase sean
+[3:10:03] Rmont: its dead dead lol
+[3:10:12] AtomicHydraa: i mean its dead at lvl 26 its pointless after that only works for 25 cap
+[3:10:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[3:10:26] AtomicHydraa: if ur higher lvl u cannot boost in wc
+[3:11:08] AtomicHydraa: i still gotta get through some more enshrouded was getting really into it
+[3:11:16] AtomicHydraa: yea they nerfed what we knew from vanilla
+[3:11:19] ukko83: the building is kind of insane with the voxel based. its like mini minecraft blocks
+[3:11:24] Jkorn415: I think GDPK verbiage was any gold for items or exp, might not be able to boost much anymore
+[3:11:27] xecksi: dont think they have it in for sod
+[3:11:33] AtomicHydraa: ^ right! @ukko83
+[3:11:40] Convoak: The Vietnamese place was closed so now I’m depressed
+[3:11:50] AtomicHydraa: terrain manipulation is super dope
+[3:12:10] Jkorn415: Well yea but the wording mentions items or exp so they may consider dungeon boosting within that now
+[3:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[3:12:30] AtomicHydraa: blizz is saying all of this GDKP stuff but i am really curious how they wull enforce any of their claims
+[3:12:45] xecksi: aww man we are layered
+[3:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[3:12:47] xecksi: :(
+[3:12:48] AtomicHydraa: in my experience blizz just doesnt care that much
+[3:12:50] xecksi: lol
+[3:12:50] ukko83: well, they will ban based on gold flow most likely
+[3:12:56] AtomicHydraa: but maybe a new blizzard
+[3:13:06] AtomicHydraa: 100%
+[3:13:09] AtomicHydraa: lol
+[3:13:14] Jkorn415: Yea hopefully its more clear
+[3:13:17] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[3:13:18] AtomicHydraa: lemme get my legal team to review this
+[3:14:00] justspunk: its not blizzard anymore .its mircrosoft
+[3:14:11] ukko83: it hasnt been blizzard for a while >.>
+[3:14:17] ukko83: since 2006?
+[3:14:25] Rmont: where are you seeing them mention exp?
+[3:14:40] Tinit5190: Don't mention it in the wowhead post
+[3:14:44] Rmont: the blue post said "We’re defining GDKP as any raid or dungeon run where items are awarded in exchange for gold"
+[3:14:57] AtomicHydraa: ^
+[3:15:06] Rmont: pretty damn clear c ut
+[3:15:48] Rmont: I think their living flame change is enough to kill most boosting anyway
+[3:15:53] AtomicHydraa: no and yes lol
+[3:16:06] Rmont: like pre-60 boosting
+[3:16:14] AtomicHydraa: it works if your within a level but if I was 40 boosting your 25 no
+[3:16:27] Jkorn415: !VIDEO
+[3:16:27] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[3:16:30] ukko83: yeah, i think they have to be within green level range
+[3:16:42] SavedEight_ZGZ: oh shit. are you selling last minute tickets??? @Zeegers
+[3:16:45] ukko83: kind of like getting soul shards
+[3:16:51] SavedEight_ZGZ: to the gun show baby, god dayum
+[3:17:10] AtomicHydraa: gun shows ?
+[3:17:17] AtomicHydraa: atomic363Soniic atomic363Soniic atomic363Soniic atomic363Soniic atomic363Soniic HypeCheer HypeCheer HypeCheer
+[3:17:20] xecksi: oh but we all are imagning bigger "muscles" on you.
+[3:17:24] xecksi: :D jk lol
+[3:17:46] ukko83: lol, i always hated passing camp mojache as alliance
+[3:17:47] SavedEight_ZGZ: yeah i just crop his face onto david Hasselhoff's body
+[3:17:48] Tinit5190: I did a 19 stack and thats fine
+[3:17:51] Tinit5190: 152 food
+[3:17:58] AtomicHydraa: zeegerGain
+[3:18:15] OroreuxTorii: that was less annoying then I thought getting my UI back to spec.. I never did transfer anything from my old tower to this one so that prolly is the reason
+[3:18:15] Tinit5190: I'm debating doing it on the rogue too just for faster regen but thats a ton of bag space
+[3:18:56] xecksi: copy the wtf and interface folder
+[3:19:00] OroreuxTorii: i thought about that but figured it was a good lil memory refresher since i only did it once XD
+[3:19:39] xecksi: in fact its good to copy them every month and send them to yourself .
+[3:19:45] OroreuxTorii: oh shit now I bet i can have both open with no issue
+[3:20:00] OroreuxTorii: to twitch and kick
+[3:20:02] OroreuxTorii: XD
+[3:20:09] OroreuxTorii: before i had to kick on pc and twitch on phone
+[3:20:21] xecksi: twick
+[3:20:27] OroreuxTorii: a can barley play this account i got now XD XD XD
+[3:20:29] xecksi: kitch
+[3:20:32] xecksi: :D
+[3:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[3:20:47] The_Venom_Inside: do you think buying a item from a item winner is a no go as well?
+[3:20:55] The_Venom_Inside: aka wispering and offering
+[3:20:58] OroreuxTorii: i do it
+[3:21:16] OroreuxTorii: i mean not RMT but ill offer the gold if i have it
+[3:21:16] Rmont: I would think so yeah
+[3:21:45] AtomicHydraa: i would think thats fine because its not the entire raid deemed GDKP like if u wanted to buy it off a guildie
+[3:21:46] The_Venom_Inside: I mean if the whole raid format is normal and ur buying just one item I would hope not
+[3:21:59] emly_e7: 0
+[3:22:00] Rmont: its an item from a dungeon or raid exchanged for gold, thats a no go lol
+[3:22:07] AtomicHydraa: everything is legal until youre caught my friend
+[3:22:26] xecksi: if a tree fallls in the forest and nobody is around to hear it does it make a sound?
+[3:22:29] OroreuxTorii: WHAAAAAT
+[3:22:37] OroreuxTorii: thats is dumb af
+[3:22:43] AtomicHydraa: blizz is actually high if thats the case
+[3:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[3:22:58] AtomicHydraa: entier raid GDKP is a no go but i cant buy items from my guildies?
+[3:22:59] AtomicHydraa: fuck off
+[3:23:02] AtomicHydraa: nope
+[3:23:10] OroreuxTorii: why even make trading a raid item an option then?
+[3:23:15] AtomicHydraa: eactly
+[3:23:26] justspunk: they can set any number of things as flags in the log
+[3:23:47] Rmont: You would need to swap like an item you won earlier for it or something
+[3:23:48] emly_e7: so basically mercing is illegal
+[3:24:03] OroreuxTorii: yea im just saying... if someone rolls for an item... wtf would they just trade it to someone for free
+[3:24:12] AtomicHydraa: ^
+[3:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[3:24:27] SavedEight_ZGZ: willing to sell feet pics for 50 IGG in wow sod.
+[3:24:27] StreamElements: OnlyFans coming soon @ https://tinyurl.com/34u8en66 ! || https://tinyurl.com/32uvzntd
+[3:24:31] justspunk: ya i bet u even link in chat that ur runnong a gdkp and get reported ur f'd lol
+[3:24:34] AtomicHydraa: i just doubt they are that dedicated
+[3:24:37] Rmont: do people actually just sell their won loot frequently? lol
+[3:24:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[3:25:07] justspunk: @Rmont yes
+[3:25:08] AtomicHydraa: automation is what kills the system in general
+[3:25:10] Rmont: Yeah, if you traded gold with someone with an overlapping raid/dungeon ID, you'll be flagged to get your shit kicked in lol
+[3:25:18] OroreuxTorii: if me and a dps roll on Hydra sword and the other person wins... why would they just trade it to me for free is what I am saying.. mise well take you the ability to trade the item all together
+[3:25:25] The_Venom_Inside: I run stop signs when its night time too zeegers Kappa
+[3:25:41] AtomicHydraa: oh no i 100% agree im just saying their line of "trading items for money"
+[3:25:42] The_Venom_Inside: LUL
+[3:25:51] AtomicHydraa: ^
+[3:25:54] Rmont: you run the raid again and try to win the roll next time it drops like a sane person lol
+[3:26:15] OroreuxTorii: doesnt the aution house trade items for gold tho?
+[3:26:20] OroreuxTorii: like.. thats what its for
+[3:26:32] Rmont: entire reason theres BoE and BoP
+[3:26:33] OroreuxTorii: idk i might be thinking about it wrong
+[3:26:39] justspunk: they can have a script that reads the logs with set paramaters
+[3:27:08] justspunk: and have no effort involved.
+[3:27:13] Rmont: yeah it would be pretty easy to find gold for item trading with a script tbh
+[3:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[3:27:47] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[3:28:17] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[3:28:29] OroreuxTorii: if your saying i can offer gold i have farmed in game for an item i didnt win on a roll... imo that is very dumb. If its something else idk whats happening and just gonna leave it alone
+[3:28:38] AtomicHydraa: i forgot you went ham on the mistle toe LMAO
+[3:28:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[3:28:56] Rmont: @OroreuxTorii it's very simple lol you can not give someone gold in exchange for a raid or dungeon item
+[3:28:58] OroreuxTorii: paying to get all items in a raid
+[3:29:01] xecksi: waylaid supplies no longer unique
+[3:29:03] xecksi: :D
+[3:29:14] AtomicHydraa: key words there raid OR dungeon
+[3:29:22] justspunk: @xecksi ya im stacking them
+[3:29:23] Jkorn415: I traded an item in a random dungeon, not GDKP run, guess that is bannable now too
+[3:29:27] Jkorn415: Guy randomly messaged me when I won
+[3:29:28] xecksi: bout to go farm some :D
+[3:29:28] cajuncanuck: what if you trade something for a zeegerHotdog
+[3:29:36] zomnipotent: hes near druid trainer
+[3:29:40] Rmont: keep in mind, the exp buff to turning those in, doesn't apply to p1 ones
+[3:29:41] zomnipotent: theres one that doesnt move
+[3:29:55] zomnipotent: top left
+[3:29:57] SavedEight_ZGZ: yo i love some glizzys
+[3:29:59] zomnipotent: you were right there lol
+[3:30:01] OroreuxTorii: yea I am on the same page then... and that is stupid imo.. policing that is just time taken from looking for actual RMT actions
+[3:30:11] SavedEight_ZGZ: chili cheese glizzy
+[3:30:15] xecksi: its where the mounts are sold
+[3:30:17] xecksi: :D
+[3:30:24] zomnipotent: havin a fatty grilled cheese with ham r n
+[3:30:26] Rmont: @OroreuxTorii blizzard is notorious for not going after the source of problems
+[3:30:57] OroreuxTorii: they prolly have gold selling accounts of their own thats why
+[3:31:00] OroreuxTorii: XD XD
+[3:31:44] The_Venom_Inside: wsg mark stacking not working is a relief
+[3:32:11] Rmont: I like a lot of their changes to slow it down
+[3:32:20] zomnipotent: 15 levels isnt the end of the world
+[3:32:22] Rmont: just play the game lol
+[3:32:37] Convoak: Zeegers I think it’s just so nice that you’re back on WoW. our scarab lord, even though you’re a dirty gnome mage.
+[3:32:53] justspunk: lmao
+[3:33:01] Rmont: not green anymore??? ok I stood by for all the other changes
+[3:33:11] SavedEight_ZGZ: nailed it
+[3:33:16] Convoak: Maybe we’re too close. Maybe they know I’m friends with a Scrub Lord.
+[3:33:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[3:33:56] scotty_zgz: zeegerFbi zeegerFbi
+[3:34:09] justspunk: zeegerFbi zeegerPog
+[3:34:12] justspunk: zeegerRaid
+[3:34:18] AtomicHydraa: zeegerFbi zeegerFbi
+[3:35:28] The_Venom_Inside: doing cloth turn ins right?
+[3:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[3:36:48] Rmont: Feel like Id want to save the cloth turn ins for later when leveling sucks more
+[3:37:02] xecksi: 10k
+[3:37:03] The_Venom_Inside: cloth turn ins dont scale
+[3:37:10] Rmont: preference
+[3:37:12] The_Venom_Inside: they give a static xp
+[3:37:16] Rmont: true true
+[3:37:19] Rmont: more impactful now
+[3:37:24] The_Venom_Inside: exactly
+[3:37:28] xecksi: for all 4
+[3:37:37] xecksi: 60 wool 60 silk
+[3:37:44] xecksi: ya
+[3:37:48] The_Venom_Inside: 2 turn ins in If
+[3:37:48] zomnipotent: wool story bro
+[3:37:56] The_Venom_Inside: IF and one in darn and sw
+[3:38:18] zomnipotent: save the cloth turnins for level 59, the exp scales with your level
+[3:38:27] xecksi: think its 10k i am not totally positive though
+[3:38:27] ripperino187: all good i watched u back in zg where u did this Crazy pull
+[3:38:31] SavedEight_ZGZ: what kind of whore game?
+[3:38:31] The_Venom_Inside: wrong it does not @zomnipotent
+[3:38:38] zomnipotent: it did on hardcore venom
+[3:38:52] zomnipotent: tatu song pog
+[3:39:10] ripperino187: !video
+[3:39:10] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[3:39:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[3:39:33] xecksi: silk
+[3:39:39] The_Venom_Inside: ye
+[3:39:42] xecksi: ya
+[3:39:52] ripperino187: !video
+[3:39:52] xecksi: im pretty sure its 10k
+[3:39:52] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[3:39:56] xecksi: total
+[3:39:57] The_Venom_Inside: nah for all I think hes saying
+[3:40:00] xecksi: not each city
+[3:40:49] OroreuxTorii: glad i know that i cant offer to buy items anymore in raids or dungeons.. i thought that whole things was just against a person buying a free run and all the items in it from groups
+[3:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[3:42:24] Topher_IRL: I don't know if 'Hey I'll give you 150G for those boots you just won' was an intended target or just a necessary casualty
+[3:42:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[3:42:50] OroreuxTorii: my rng win rate for rolls is 1 in 40 so thats why it is upsetting
+[3:43:09] OroreuxTorii: XD XD
+[3:43:15] Topher_IRL: It's very broad to give them the ability to interpret it as they see fit I imagine
+[3:43:42] Rmont: I just think it'll 100% be scripted with very little human oversight, so pretty risky
+[3:44:16] Rmont: Maybe they'll look for multiple infractions before labeling someone a GDKPer, but all risk
+[3:44:17] OroreuxTorii: lol for me there is no reason to do raids with people outside the guild any more XD
+[3:44:40] Rmont: Played this game since 2004 and never bought a drop off a pug lol
+[3:45:30] Rmont: Roll high, die never lie, don't cry
+[3:46:15] OroreuxTorii: if the die never lie me and them got problems XD
+[3:46:59] Rmont: Id think thats the minority mindset in the pugging communities
+[3:47:05] Rmont: but who knows
+[3:47:23] Rmont: Ive definitely had people whisper me and offer to buy stuff
+[3:47:44] OroreuxTorii: i understand that it comes from the idea of "play the game" but how many times you gotta lose the roll before the game is playing you XD XD
+[3:48:47] OroreuxTorii: some people win the lottery and some dont.. facts.
+[3:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[3:49:12] Rmont: the key is to rub your hands together before typing /roll
+[3:49:15] Rmont: it's a +27 boost
+[3:49:39] OroreuxTorii: gesundheit
+[3:50:17] zomnipotent: 5s
+[3:50:32] xecksi: per turn in.
+[3:50:33] zomnipotent: dayum
+[3:50:41] zomnipotent: people are going crazy for tailoring mats
+[3:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[3:50:48] xecksi: 2 different turnins in if
+[3:50:53] xecksi: gnomes and dwarves
+[3:51:04] xecksi: human in sw elves in darn
+[3:51:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[3:52:13] xecksi: ya
+[3:52:17] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[3:52:27] Rmont: Is it better to turn this in off the rip or push a level or two from stockades first?
+[3:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[3:53:19] Rmont: about to run my damn UD into SW, having that AoE farm is so g ood
+[3:53:23] NickInNature: what do you think the timeframe looks like to 40?
+[3:53:52] NickInNature: fair
+[3:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[3:54:46] scotty_zgz: !gamble all
+[3:54:46] StreamElements: zeegerGitgud scotty_zgz went all in and lost every single one of their 48 Points zeegerRIP
+[3:57:10] xecksi: A Donation of Wool (650 Exp.) A Donation of Silk (1650 Exp.)
+[3:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[3:57:25] xecksi: so around 10k for all 4
+[3:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[3:59:40] ARobotVampire: Just a bunch of hordes over there
+[3:59:43] NickInNature: wow
+[4:02:41] phranklyn_zgz: hey everyone
+[4:02:48] OroreuxTorii: suhh duuu
+[4:03:21] NickInNature: toe so good
+[4:03:26] Rmont: the sweat dripping from this setup
+[4:03:34] phranklyn_zgz: Having an absolute shit of a day.... Just found out my father only has a few weeks if that to live :(
+[4:03:43] NickInNature: insanity
+[4:04:14] NickInNature: i thought i had alot with 60 xD
+[4:04:19] Desiren_ZGZ: shaking the rust off?
+[4:04:41] ripperino187: how does it work with the cloth?
+[4:04:56] Rmont: prepping for the prep
+[4:05:00] Desiren_ZGZ: LOOK AT DEM GUNS
+[4:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[4:05:52] ripperino187: ty mate
+[4:06:03] Desiren_ZGZ: i popped on a few days ago and finally got the agi gun on my hunter
+[4:06:05] Rmont: mounts back to 90g+
+[4:06:06] Rmont: bastards
+[4:06:27] Rmont: please blizzard im a broke boy
+[4:06:35] Rmont: guess so
+[4:07:14] Rmont: mount dude by you to check
+[4:07:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[4:07:48] zomnipotent: blizz confirmed bleeds work in gnomer
+[4:07:53] zomnipotent: rogues stay winning baby
+[4:08:52] zomnipotent: spellfire rune has been found
+[4:08:54] zomnipotent: https://clips.twitch.tv/DarkNurturingLegPJSugar-t6937J7tBnl5WXNd
+[4:09:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[4:09:24] Rmont: I think he got it from a random drop off a lv40 mob
+[4:09:40] Rmont: not sure wtf he was doing lol
+[4:09:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[4:10:14] phranklyn_zgz: Today went to shit so quickly for me :(
+[4:10:44] phranklyn_zgz: Found out my father only has a few weeks if that to live
+[4:11:01] xecksi: :(
+[4:11:24] xecksi: give the love while you can dude
+[4:11:27] Wombatt_ZGZ: damn, sorry Phrank
+[4:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[4:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[4:13:17] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[4:16:13] xecksi: ya
+[4:16:21] xecksi: i think the next is the books
+[4:16:23] Wombatt_ZGZ: BOOKS?
+[4:16:24] xecksi: after
+[4:16:33] Wombatt_ZGZ: we watch you to LEAD not to READ
+[4:16:56] Wombatt_ZGZ: hell yeah borther
+[4:17:37] Rmont: seems we have some cool new mage scroll thingies coming
+[4:18:05] Rmont: looks like someone found a p2 one, you can teleport to someone else in your party if you're both in an inn or city
+[4:18:12] Rmont: so you can pay a mage to scroll to you and port ya haha
+[4:18:28] Mecsicaan: !video
+[4:18:28] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[4:18:34] Rmont: we are definitely becoming fancy vending machines in p2
+[4:18:37] Rmont: gotta embrace it
+[4:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[4:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[4:26:47] Wombatt_ZGZ: You gotta get up pretty early in the late late morning to put one over on THE Sean Zeegers, kiddo
+[4:28:02] Wombatt_ZGZ: look at your launcher
+[4:28:27] Wombatt_ZGZ: doesn't tell you the maintenance times?
+[4:35:36] Wombatt_ZGZ: no
+[4:35:51] Wombatt_ZGZ: but I also don't have classic installed so idk if that matters
+[4:40:28] AlldatSass: HII
+[4:40:39] AlldatSass: how ya doing?
+[4:41:33] AlldatSass: ahhh
+[4:42:32] AlldatSass: yeah im sick
+[4:43:04] AlldatSass: you have what?
+[4:43:28] Wombatt_ZGZ: brown bottle flu
+[4:43:30] AlldatSass: ahhhh
+[4:43:32] SavedEight_ZGZ: nerd
+[4:48:03] Topher_IRL: Bust out that YT content
+[4:48:04] Topher_IRL: LUL
+[4:48:35] Topher_IRL: Pretty steady
+[4:48:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[4:49:47] Topher_IRL: The guy that said you're RMT?
+[4:49:48] Topher_IRL: LUL
+[4:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[4:51:07] phranklyn_zgz: I'm sure how many people listen to country, but Toby Keith passed away today.
+[4:51:18] phranklyn_zgz: I'm not **
+[4:51:23] SavedEight_ZGZ: i saw that, 62 y/o!
+[4:51:29] Topher_IRL: Now, not so much
+[4:51:37] Topher_IRL: But I def heard Getcha Some more times than I can imagine
+[4:51:38] Topher_IRL: LUL
+[4:51:44] phranklyn_zgz: LUL
+[4:51:49] phranklyn_zgz: Yeah passaed away to stomach cancer
+[4:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[4:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[4:55:27] Convoak: Why you sliding into my DMs? any mega sweet plans?
+[4:55:45] Convoak: luffyytaroHuuuyyyyaaaa
+[4:55:50] benjiscrilla: like your thighs allegedly
+[4:56:21] benjiscrilla: thigh reveal stream
+[4:56:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[4:57:07] Maple7G: miss the snore streams
+[4:57:08] yaboyty9601: hey how are you
+[4:57:09] Maple7G: zeegerWeasel
+[4:57:11] Maple7G: zeegerDramallama
+[4:57:21] Maple7G: LUL
+[4:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[4:58:29] yaboyty9601: nm man just gaming
+[4:59:06] Summy_211: !video
+[4:59:06] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[4:59:32] Convoak: @summy_211 Omg are you the REAL Summy? the 211 CTA God?
+[4:59:33] zomnipotent: 1337 kwezts
+[4:59:36] yaboyty9601: I’m ps5
+[4:59:41] Summy_211: @Convoak It is I
+[4:59:47] Convoak: Holy balls
+[5:00:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[5:00:54] zomnipotent: time to farm LAME-laid shitments
+[5:02:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[5:03:04] zomnipotent: im gonna order pizza and have shit tons of coffee on deck thursday
+[5:03:44] AmandaMarie_ZGZ: zeegerLetsgo zeegerLetsgo zeegerLetsgo
+[5:03:48] Tinit5190: For SoD P2?
+[5:03:48] zomnipotent: not sure but im guessing 3-6 pm pacific
+[5:04:07] Tinit5190: 2 MST
+[5:04:20] Tinit5190: +/- 2 hours for Blizzard things
+[5:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[5:06:08] zomnipotent: i hate wsg
+[5:06:16] zomnipotent: turtlefest and sucks for a lot of classes
+[5:07:02] VonRawr: what up
+[5:07:27] AmandaMarie_ZGZ: zeegerYo zeegerYo zeegerYo
+[5:08:21] zomnipotent: did the queueing change get implemented yet?
+[5:08:59] zomnipotent: think im gonna make a nelf priest to shadowmeld MC grief horde
+[5:09:04] zomnipotent: with the 50% bonus
+[5:09:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[5:09:20] phixius88: is the new que system up
+[5:09:21] phixius88: human
+[5:09:24] zomnipotent: dwarf
+[5:09:34] zomnipotent: humans are dorky af
+[5:09:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[5:11:04] phixius88: humans do more dmg, dwarfs get an edge in pvp
+[5:11:20] OroreuxTorii: 240 each you said
+[5:11:47] Tinit5190: I'll just level slowly. Since they raised the mount cost back to 90g, I need all my gold lol
+[5:12:08] zomnipotent: i think its a bug
+[5:12:16] benjiscrilla: fuck man
+[5:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[5:12:24] Tinit5190: Those were SoM prices
+[5:12:34] Tinit5190: apparently
+[5:12:35] benjiscrilla: have to skip my Jiu jitsu classes cuz I didn’t have dinner ready in time zeegerRage zeegerRage zeegerRage zeegerRage
+[5:12:47] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[5:12:47] benjiscrilla: I’m drinking a couple glasses of wine
+[5:12:53] zomnipotent: they confirmed in interviews that they were reducing price of mounts so i cant imagine theyd stealth revert it on purpose
+[5:13:08] Tinit5190: This patch did bork a ton of addons so...
+[5:13:08] benjiscrilla: nah tryna be frugal this month
+[5:13:17] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[5:13:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[5:15:56] grassgummy: hi everyone
+[5:15:58] grassgummy: !grass
+[5:15:58] StreamElements: T O U C H  G R zeegerAmanda S S
+[5:16:03] Ignoremygirth: damn zeegs lookin jacked today
+[5:16:12] phixius88: XD
+[5:16:18] grassgummy: did you say dommy mommy?
+[5:16:39] grassgummy: dommy mommy would be better
+[5:17:07] zomnipotent: prayer of mending
+[5:17:08] phixius88: prayer of mending
+[5:18:15] pappibgamin: hiya @Zeegers n chat
+[5:19:33] pappibgamin: doing good now that i'm home, u?
+[5:19:45] pappibgamin: when does that start?
+[5:20:13] pappibgamin: to many games
+[5:20:36] pappibgamin: d2 s6, palworld, wow p2, enshrouded
+[5:20:46] pappibgamin: d4 s3
+[5:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[5:21:06] pappibgamin: DnD.... u better keep us entertained lol
+[5:21:15] shampoo_zgz: I hit d4 for like 2 hours, and quit
+[5:21:47] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[5:21:51] pappibgamin: i learned in d4 i am a cosmetic whore haha
+[5:22:00] Topher_IRL: zeegerLove
+[5:22:06] Ignoremygirth: I managed to get top500 warlock in p1. Couldnt figure out 99s on gelihast and lorgus
+[5:22:11] shampoo_zgz: Tired
+[5:22:20] Topher_IRL: I can
+[5:22:21] Topher_IRL: ezpz
+[5:22:29] shampoo_zgz: yeppp
+[5:22:46] GriFFFoN_ZGZ: level 80 ball lighting sorc and still climbing
+[5:22:46] aginsb: someone posted on reddit that you could get a d4 battle pass with bing rewards and I had a bunch of old points so I got one this season
+[5:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[5:23:28] GriFFFoN_ZGZ: ohhit is fun!
+[5:23:31] aginsb: @GriFFFoN_ZGZ how is it post nerf? it was a lot of fun last season when it was very op
+[5:23:45] zomnipotent: is it true you cant turn in empty waylaid shipments anymore?
+[5:23:49] GriFFFoN_ZGZ: pffft still ripping shit apart even after nerf
+[5:24:13] aginsb: I played hota/charge this season
+[5:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[5:24:21] GriFFFoN_ZGZ: its a fun spec
+[5:24:28] zomnipotent: it depends on the tier of shipment
+[5:24:35] GriFFFoN_ZGZ: i got a occy so im zoo,ming everywere
+[5:24:52] shampoo_zgz: Chicken tendies and giant mozzarella sticks tonight.
+[5:25:06] GriFFFoN_ZGZ: my tele is like lvl 20 rofl
+[5:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[5:27:45] Sharbenstein: how does AOE feel after need to regen healing with living flame?
+[5:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[5:27:58] Sharbenstein: nerf*
+[5:28:21] Maple7G: holy
+[5:28:24] zomnipotent: make the alphabet
+[5:28:37] zomnipotent: zeeger2 zeeger1
+[5:28:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[5:28:58] Maple7G: zeeger20bomb
+[5:29:06] Maple7G: zeeger10bomb zeeger100bomb zeeger50bomb zeeger5bomb zeegerGogogo
+[5:29:08] pappibgamin: did u get me an old man emote yet? haha
+[5:29:20] Topher_IRL: I think there's restrictions on single letters unless it's part of your branding
+[5:29:20] Maple7G: zeegerWizard
+[5:29:24] Wombatt_ZGZ: Make a maple leaf that explodes and turns into Timbits
+[5:29:57] Maple7G: LUL
+[5:30:11] Wombatt_ZGZ: then it could just be a ketchup explosion
+[5:30:12] Topher_IRL: What would you say if I told you I have all the Timbiebs pictures
+[5:30:31] Maple7G: mmmm I miss those bits
+[5:30:32] pappibgamin: zeegerWizard this will work, thanks @Zeegers
+[5:31:51] Topher_IRL: Yeah I don't think it'd work at such a small scale lol
+[5:32:01] Topher_IRL: Still funny to me I had them on deck
+[5:32:03] AmandaMarie_ZGZ: @PappiBGaminAt61 zeeger3 zeeger2 zeeger2 zeeger1 zeeger2 zeeger4
+[5:32:04] Topher_IRL: You never fuckin know, man
+[5:32:05] Topher_IRL: LUL
+[5:32:31] Topher_IRL: topher20Dance
+[5:32:40] Wombatt_ZGZ: we need a clip of you dancing like Mugatu in the Relax music video
+[5:32:40] zomnipotent: ohitsi1ViBE
+[5:32:55] AmandaMarie_ZGZ: @Topher_IRL DDR zeegerPog
+[5:33:05] Topher_IRL: That took me forfuckingever
+[5:33:08] Topher_IRL: The DDR
+[5:33:11] Wombatt_ZGZ: zeegerGogogoat
+[5:33:14] Topher_IRL: It was so finnicky
+[5:33:25] AmandaMarie_ZGZ: zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo
+[5:33:27] shampoo_zgz: !jail @AmandaMarie_ZGZ
+[5:33:27] StreamElements: Believe it or not @AmandaMarie_ZGZ, straight to zeegerJail !
+[5:33:35] AmandaMarie_ZGZ: !jail @shampoo_zgz
+[5:33:36] StreamElements: Believe it or not @shampoo_zgz, straight to zeegerJail !
+[5:34:43] zomnipotent: "instead, we’re going to suspend the XP gain from turning in Marks of Honor at level 25 (in addition to removing the overflow mail from Marks of Honor). We suggest you spend your Marks before reaching 20 of them"
+[5:35:22] shampoo_zgz: There's a reason I uninstalled Battle.net
+[5:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[5:35:52] AmandaMarie_ZGZ: @shampoo_zgz zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama
+[5:36:01] shampoo_zgz: !listen
+[5:36:01] StreamElements: Listen here, Lindo!
+[5:36:48] Skunkeyy: i just saw a vid from xar reacting to a mage who already had the spell frostbolt rune wth? are some runes pre released??
+[5:36:57] whodoes__that: !last
+[5:36:57] StreamElements: You are first in our hearts zeegerLove
+[5:37:19] AmandaMarie_ZGZ: !whodoesthat
+[5:37:20] StreamElements: I know, right?
+[5:37:43] zomnipotent: from a blue post
+[5:37:46] zomnipotent: its on wowhead
+[5:37:51] zomnipotent: https://www.wowhead.com/blue-tracker/topic/us/wow-classic-era-maintenance-notes-february-6-2024-1781972
+[5:38:17] whodoes__that: Not much, rough week so far
+[5:38:30] whodoes__that: Watching the stream always helps
+[5:39:13] AmandaMarie_ZGZ: zeegerLove zeegerLove zeegerLove
+[5:39:14] Convoak: Yea the Vietnamese place being closed was hard on me.
+[5:39:17] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[5:39:40] Tinit5190: F
+[5:39:43] Tinit5190: lelelel
+[5:39:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[5:39:48] zomnipotent: at least you didnt farm too long
+[5:39:55] Tinit5190: /afk never return
+[5:41:14] Convoak: NO THANK YOU
+[5:41:29] Tinit5190: LET ME SEE IF I HAVE THEM
+[5:41:43] Tinit5190: Prob already did them on the rogue
+[5:41:47] xecksi: CAPSLOCK IS CRUISE CONTROL FOR COOL!
+[5:41:47] Summy_211: IM NOT YELLING THATS JUST HOW I TALK
+[5:41:58] AmandaMarie_ZGZ: @xecksi LUL LUL
+[5:42:01] Summy_211: travis is basically samuel l jackson
+[5:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[5:42:40] Convoak: It sucked I just went to another Vietnamese place.
+[5:42:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[5:42:53] Summy_211: Travis you cant have a vietnamese
+[5:43:06] Topher_IRL: He had sadness
+[5:43:16] Convoak: I had chicken and pork vegetable noodle soup
+[5:43:21] Tinit5190: I did them already
+[5:43:22] Summy_211: @Topher_IRL oh is it sad time? ohhh boy
+[5:43:40] Summy_211: Let me put on my Smiths shirt
+[5:43:52] Zeegers: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerHowryanow zeegerYo zeegerGogogo
+[5:43:52] Summy_211: oh or smashing pumpkins
+[5:44:12] Zeegers: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb
+[5:44:12] Summy_211: zeegerBye
+[5:44:26] Convoak: I think they’re the same animation speed Zeegers
+[5:44:26] Tinit5190: raxxHappy
+[5:44:49] Summy_211: zeeger10bomb   zeeger20bomb   zeeger50bomb   zeeger100bomb
+[5:44:54] Convoak: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb
+[5:45:00] Topher_IRL: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb
+[5:45:05] Topher_IRL: Same time for me
+[5:45:23] AmandaMarie_ZGZ: looks the same for me
+[5:45:34] Topher_IRL: That's way cooler
+[5:45:34] Summy_211: wait I cant use them says I need to be subbed
+[5:45:37] Topher_IRL: LUL
+[5:45:41] AmandaMarie_ZGZ: lmao
+[5:45:42] Convoak: Oh weird lol
+[5:46:17] Summy_211: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb
+[5:47:07] Convoak: Maybe my 3080ti loads the emotes faster?
+[5:47:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[5:47:39] Convoak: Wait im on my phone omg
+[5:48:13] AmandaMarie_ZGZ: LUL
+[5:48:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[5:49:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[5:50:11] phixius88: is that warrior named krazie?
+[5:50:21] Convoak: Omg it’s Zeegers
+[5:50:41] phixius88: random
+[5:50:42] phixius88: lol
+[5:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[5:51:25] zomnipotent: 6 chests no waylaid, wtf
+[5:51:57] benjiscrilla: zeegerGitgud zeegerLvlup
+[5:52:07] zomnipotent: ayy got one
+[5:52:35] AmandaMarie_ZGZ: lol just had to complain
+[5:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[5:53:02] Convoak: Use Amanda’s credit card
+[5:53:12] AmandaMarie_ZGZ: WHOA
+[5:54:11] zomnipotent: just got 3 waylaid in like 3 mins lol
+[5:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[5:56:33] Convoak: Is his damage too krazie
+[5:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[5:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[6:02:15] zomnipotent: 12 runes baby lets go
+[6:02:47] AmandaMarie_ZGZ: zeegerLetsgo zeegerLetsgo
+[6:04:48] Topher_IRL: Duskwood has a bunch but it's a little more pewpewing
+[6:06:25] Topher_IRL: Has a decent number of chains so maybe not as profitable
+[6:06:44] Topher_IRL: Stocks quests? Wrynn?
+[6:07:45] xtcFN: thanks for that aoe mage leveling guide zeegers. as the best mage in the guild, i will be making great use of it
+[6:08:20] LumberChopMan: how goes the discovering?
+[6:08:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[6:09:08] whodoes__that: Suns out guns out! Is your office an oven still?
+[6:09:16] xtcFN: in the last day and a half, ive lost 190 elo in valorant, i am struggling to be alive at this rate
+[6:09:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[6:09:27] whodoes__that: Just fork over the 6k to separate the room EZ
+[6:09:44] whodoes__that: 6k CAD is like a 20 dollar bill right?
+[6:09:49] xtcFN: its around there
+[6:09:53] Topher_IRL: It's 4c outside, 29c in the office today
+[6:09:55] xtcFN: about 27 with conversion tax
+[6:09:58] Topher_IRL: Got a lot of sun this afternoon lol
+[6:10:22] xtcFN: hmm, ill come do it for free zeegs
+[6:10:22] ARobotVampire: just get a bucket of ice water and dip your toes in it
+[6:10:23] StreamElements: OnlyFans coming soon @ https://tinyurl.com/34u8en66 ! || https://tinyurl.com/32uvzntd
+[6:10:26] xtcFN: ill bring a sledge hammer
+[6:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[6:12:20] Topher_IRL: Defias
+[6:12:22] Summy_211: in stockades
+[6:12:29] Summy_211: oh
+[6:12:30] Summy_211: lmfao
+[6:12:35] Summy_211: to pick it up?
+[6:12:39] Summy_211: no she pats in old town
+[6:12:41] Topher_IRL: Blood somethingsomething quest?
+[6:12:47] phixius88: color of blood?
+[6:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[6:12:56] phixius88: its stocks
+[6:12:57] Summy_211: and then you do color of blood in stockades
+[6:14:18] Zeegers: !youtube FOR MORE HIGHLIGHT VIDEOS CHECK OUT OUR YOUTUBE!
+[6:14:18] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[6:17:45] Wombatt_ZGZ: we need isolated audio of this cackle
+[6:17:47] Zeegers: !youtube FOR MORE HIGHLIGHT VIDEOS CHECK OUT OUR YOUTUBE!
+[6:17:48] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[6:18:24] your_friend_tim: ACTIVATE YOUR F***ING WINDOWS
+[6:18:45] AmandaMarie_ZGZ: LUL
+[6:19:28] Convoak: Tim please he’s doing his best
+[6:19:46] whodoes__that: @your_friend_tim Too bad all the windows in his office are Windows 11 LUL
+[6:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[6:21:03] JoshDrakoni_ZGZ: What a loser
+[6:21:30] Topher_IRL: Is it tied to your MS account
+[6:21:35] Topher_IRL: My last one was digital
+[6:21:42] whodoes__that: I'll give you a bronze tube 🍆
+[6:21:44] Topher_IRL: And that was from like 8+ years ago
+[6:21:58] StreamElements: zeegerLove Funky Clown 69420 just tipped $4.69 zeegerPog
+[6:22:08] Wombatt_ZGZ: haha what a LOSER
+[6:22:10] whodoes__that: !points
+[6:22:10] StreamElements: @whodoes__that whodoes__that has 13159 Points and is rank 26/96025 on the leaderboard.
+[6:22:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[6:22:29] whodoes__that: vye it nom ease?
+[6:22:36] whodoes__that: that was awkward
+[6:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[6:22:48] your_friend_tim: Get your shit together brian
+[6:22:55] JoshDrakoni_ZGZ: World of warcraft today
+[6:23:19] whodoes__that: @your_friend_tim he basically said "Uriental" monkaW
+[6:23:25] whodoes__that: *Oriental
+[6:23:26] aginsb: and the British? didn't Canada ask them nicely for their independence?
+[6:23:26] your_friend_tim: I have keys
+[6:23:26] whodoes__that: sheesh
+[6:23:51] SavedEight_ZGZ: eh
+[6:24:01] Wombatt_ZGZ: @aginsb Eventually they will
+[6:24:04] Topher_IRL: Other times, asking for forgiveness is better than asking for permission
+[6:24:14] Wombatt_ZGZ: @Wombatt_ZGZ once their King recovers
+[6:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[6:24:31] whodoes__that: "Oh hey der buds, we were just inquiring aboot our independence. We just want to go for a rip."
+[6:26:34] Convoak: Only 1 episode of Peppa Pig left until I get to go home
+[6:27:01] LumberChopMan: never hear of that time unit
+[6:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[6:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[6:28:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[6:28:56] SavedEight_ZGZ: A or B?
+[6:29:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[6:29:19] your_friend_tim: What a shit time
+[6:29:38] your_friend_tim: People have JOBS BLIZZARD
+[6:29:44] your_friend_tim: AND FAMILY
+[6:30:12] AmandaMarie_ZGZ: i think your throat is gonna feel scritchy that day
+[6:30:18] Wombatt_ZGZ: "oh whoops we accidentally scheduled launch for a time that will give us staggered logins throughout the day!"
+[6:30:19] AmandaMarie_ZGZ: better call in sick
+[6:30:24] shampoo_zgz: What did i miss
+[6:30:59] LumberChopMan: "scritchy" what a word
+[6:31:06] AmandaMarie_ZGZ: LUL
+[6:31:13] your_friend_tim: Why can't they release at like 6am EST
+[6:31:15] LumberChopMan: scratchy itchy
+[6:31:28] your_friend_tim: I SAID WHY
+[6:31:30] your_friend_tim: NOT DID
+[6:31:31] your_friend_tim: OR WHEN
+[6:31:33] your_friend_tim: OR YOUR FACE
+[6:31:35] your_friend_tim: FIGHT ME
+[6:31:36] LumberChopMan: we need to go back to 12:00am
+[6:31:44] your_friend_tim: Expect D's
+[6:31:55] Wombatt_ZGZ: Didn't DnD do some really weird time for something because Korea?
+[6:31:57] SavedEight_ZGZ: @your_friend_tim D's what?
+[6:32:07] your_friend_tim: Tootsie Rolls
+[6:32:15] Wombatt_ZGZ: yeah I heard they're based in Korea
+[6:32:30] your_friend_tim: Dude I almost got another bag today
+[6:32:30] Wombatt_ZGZ: same as the copyright holder for the term The Day Before
+[6:32:41] Wombatt_ZGZ: of pots?
+[6:33:46] Convoak: poosebMelting
+[6:35:04] SavedEight_ZGZ: zeegerHotdog
+[6:35:12] SavedEight_ZGZ: zeegerBag
+[6:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[6:36:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[6:37:59] Topher_IRL: I'm happy Blizzard is back
+[6:38:56] Wombatt_ZGZ: @Topher_IRL In many ways he never left, sir.  He's always offered the same high-quality meals at competitive prices.
+[6:39:02] Topher_IRL: jam, vibe, bump, eq
+[6:39:08] Topher_IRL: Somethin that direction
+[6:39:25] Topher_IRL: zeegerWinamp
+[6:39:28] Topher_IRL: LUL
+[6:41:12] Topher_IRL: What the shit
+[6:41:18] Topher_IRL: Is Twitch broken
+[6:41:20] Topher_IRL: Where is my sub
+[6:41:29] Convoak: My brother that’s a co tested grave moss farm
+[6:41:32] Convoak: contested*
+[6:41:44] Bhomber: sod try hards KEKW
+[6:41:46] Topher_IRL: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[6:42:08] Topher_IRL: Alright alright looks pretty good, I wasn't sure about the size
+[6:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[6:42:18] Zeegers: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo
+[6:42:31] AmandaMarie_ZGZ: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo zeegerWinamp
+[6:42:34] LumberChopMan: zeegerGogogo zeegerGogogo
+[6:42:47] LumberChopMan: zeegerLetsgo zeegerGogogo zeegerGogogo zeegerGogogo
+[6:42:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[6:42:48] Zeegers: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[6:42:49] Alexisc805: yo zeegers! I haven’t played wow in 2 years but I still follow you haha I remember the farm runs in ZG back in the day on bigglesworth 🙏🏽 keep grinding bro
+[6:42:50] Topher_IRL: I had to refresh like 4 times
+[6:43:01] Wombatt_ZGZ: !mage
+[6:43:01] StreamElements: Zeegers invented hardcore WoW, he holds every record for mages and was the one that came up with the idea for Scarab Lord all the way back in Vanilla
+[6:43:02] AmandaMarie_ZGZ: @Alexisc805 zeegerYo zeegerYo zeegerYo
+[6:43:18] LumberChopMan: zeegerRedportal where my blue portal
+[6:43:25] Zeegers: zeegerBlueportal zeegerBlueportal zeegerBlueportal
+[6:43:27] AmandaMarie_ZGZ: zeegerBlueportal zeegerBlueportal
+[6:43:29] LumberChopMan: this is timmy discrimination
+[6:43:31] LumberChopMan: ohh
+[6:43:38] AmandaMarie_ZGZ: wheres your glasses
+[6:43:39] AmandaMarie_ZGZ: lolol
+[6:43:45] your_friend_tim: I just stole a red portal from a crew of 3 at the final circle KEKEKEKEEKEKEKE
+[6:43:51] LumberChopMan: zeegerBlueportal its just no where near the red on in my list LUL
+[6:44:25] your_friend_tim: Want daddy to come help you?
+[6:44:37] SavedEight_ZGZ: lmao i was eating and listening. i thought thats how you felt at that party i was like woah wtf lolol
+[6:44:49] LumberChopMan: @SavedEight_ZGZ LUL LUL
+[6:44:51] Zeegers: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[6:44:56] Zeegers: !hype
+[6:44:56] StreamElements: zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo zeegerLetsgo
+[6:45:04] LumberChopMan: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[6:45:08] Zeegers: !jam
+[6:45:09] StreamElements: catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM pepeJAM catJAM
+[6:45:52] Quelxaxas: Winamp, it really whips the Llamas ass
+[6:47:03] Quelxaxas: excited for phase 2? most of my friends took 2 weeks off work to be degens lol.
+[6:48:23] Topher_IRL: !jam
+[6:48:23] StreamElements: zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp
+[6:48:28] Topher_IRL: !hype
+[6:48:28] StreamElements: zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp
+[6:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[6:48:52] LumberChopMan: !hype
+[6:48:52] StreamElements: zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp
+[6:48:56] LumberChopMan: hawt
+[6:49:30] Wombatt_ZGZ: daaaaang how many?
+[6:49:55] LumberChopMan: LumberChopMan is gifting 5 Tier 1 Subs to Zeegers's community! 
+[6:49:56] benjiscrilla: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[6:49:56] LumberChopMan: LumberChopMan gifted a Tier 1 sub to oracleofendingss! 
+[6:49:56] LumberChopMan: LumberChopMan gifted a Tier 1 sub to vulork! 
+[6:49:56] LumberChopMan: LumberChopMan gifted a Tier 1 sub to HellspawnMe! 
+[6:49:56] LumberChopMan: LumberChopMan gifted a Tier 1 sub to 전투요원! 
+[6:49:56] LumberChopMan: LumberChopMan gifted a Tier 1 sub to WiazardQc! 
+[6:49:56] LumberChopMan: zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb
+[6:50:02] Zeegers: zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb
+[6:50:04] Topher_IRL: zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb
+[6:50:06] AmandaMarie_ZGZ: zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb
+[6:50:30] LumberChopMan: beautiful
+[6:50:33] benjiscrilla: zeegerWinamp zeeger1 zeegerWinamp zeeger2 zeegerWinamp zeeger2 zeegerWinamp zeeger3 zeegerWinamp zeeger2 zeegerWinamp zeeger4 zeegerWinamp zeeger5 zeeger5bomb zeegerWinamp zeeger5bomb zeegerWinamp zeeger5bomb zeegerWinamp zeeger5bomb zeegerWinamp zeeger5bomb zeegerWinamp zeeger5bomb
+[6:50:41] LumberChopMan: oooo benji goin hard
+[6:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[6:50:51] whodoes__that: Wait, we spamming?
+[6:50:54] SavedEight_ZGZ: zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo
+[6:50:57] LumberChopMan: !hype
+[6:50:57] StreamElements: zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp
+[6:51:10] LumberChopMan: so much color, love it
+[6:51:23] whodoes__that: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo zeegerHype zeegerKita zeegerFbi zeegerJuice zeegerGain zeegerPog zeegerLetsgo
+[6:51:23] Wombatt_ZGZ: they probably all saw your video and are leveling up
+[6:51:24] benjiscrilla: zeegerWinamp zeegerGogogo zeegerWinamp zeegerGogogo zeegerWinamp zeegerGogogo zeegerWinamp zeegerGogogo zeegerWinamp zeegerGogogo zeegerWinamp zeegerGogogo
+[6:51:36] SavedEight_ZGZ: zeegerYo zeeger1 zeegerHowryanow zeegerWinamp HypeCheer zeegerWinamp HypeCheer zeegerWinamp HypeCheer zeegerWinamp HypeCheer zeegerPoggers zeegerPoggers zeegerGogogo zeegerGogogo zeeger100bomb zeeger100bomb
+[6:51:41] Zeegers: !jam
+[6:51:41] StreamElements: zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp
+[6:51:47] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[6:52:04] whodoes__that: DoritosChip DoritosChip DoritosChip DoritosChip DoritosChip
+[6:52:16] SavedEight_ZGZ: i just had some chicken parm, rice, sweet potato, fries and spicy shrimp
+[6:52:37] whodoes__that: Oh shit I actually have Doritos downstairs! But not for long EZ
+[6:52:45] benjiscrilla: what a smorgasbord @savedeight_zgz
+[6:52:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[6:53:04] whodoes__that: peepoPooPoo
+[6:53:15] Topher_IRL: Testing, testing
+[6:53:17] Topher_IRL: !5
+[6:53:17] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[6:53:17] StreamElements: zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb
+[6:53:22] Topher_IRL: !10
+[6:53:22] StreamElements: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[6:53:30] whodoes__that: TIL you can type : and then find emote that start with your character string
+[6:54:02] whodoes__that: peepoPooPoo so peepo Poo Poo is now in my vocabulary
+[6:54:17] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[6:54:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[6:55:10] Topher_IRL: !5
+[6:55:11] StreamElements: zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb zeeger5bomb
+[6:55:12] Topher_IRL: !10
+[6:55:12] StreamElements: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[6:55:13] Topher_IRL: !20
+[6:55:14] Tinit5190: Nah, this has been like this for a bit
+[6:55:14] StreamElements: zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb zeeger20bomb
+[6:55:15] Topher_IRL: !50
+[6:55:15] StreamElements: zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb zeeger50bomb
+[6:55:16] Topher_IRL: !100
+[6:55:17] StreamElements: zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger100bomb
+[6:55:17] whodoes__that: yes, you missed us peepoHappy
+[6:55:20] Topher_IRL: Aiiight cool
+[6:55:25] benjiscrilla: !hype
+[6:55:25] StreamElements: zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp zeegerLetsgo zeegerWinamp
+[6:55:25] Wombatt_ZGZ: @your_friend_tim ever make fajitas and grab add cayenne in amounts that you think are chili powder??
+[6:55:41] SavedEight_ZGZ: nice emote work, toph
+[6:55:51] Topher_IRL: Ohh hey thanks der bud
+[6:55:53] whodoes__that: @Topher_IRL it's going to bug me that one emote spills onto a third line
+[6:55:57] SavedEight_ZGZ: now paint me like one of your french whores
+[6:56:14] Topher_IRL: @whodoes__that Time for a bigger monitor
+[6:56:17] Topher_IRL: LUL
+[6:56:23] Wombatt_ZGZ: @SavedEight_ZGZ in Canada it's spelled "whoures"
+[6:56:33] SavedEight_ZGZ: @Wombatt_ZGZ LUL LUL LUL
+[6:56:34] Deflatedtattas: looolololo
+[6:56:48] whodoes__that: @Topher_IRL 32 and standard dimensions
+[6:56:59] scotty_zgz: !gamble all
+[6:56:59] StreamElements: zeegerPog scotty_zgz went all in and won 432 Points zeegerGain they now have 864 Points zeegerJuice
+[6:57:12] Topher_IRL: @whodoes__that Is this Tinder
+[6:57:16] whodoes__that: wide and/or curved monitors can suck a fat one
+[6:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[6:57:25] your_friend_tim: Daddy if I tell you something will you be proud of me?
+[6:57:36] Topher_IRL: Tim put away the Tootsie Rolls
+[6:57:47] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[6:57:54] whodoes__that: @Topher_IRL I like my monitors like I like my women, not too wide or curved
+[6:57:55] your_friend_tim: I just did HR Ruins, made it all the way into hell, rags to riches on my barb, no pots or kits, came out of it with 659 gold in sells.
+[6:58:17] your_friend_tim: First time lol
+[6:58:17] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[6:58:21] LumberChopMan: @whodoes__that Right? Can I just get a stable, reliable monitor?
+[6:58:27] your_friend_tim: And I killed a Lock and a rogue
+[6:58:49] benjiscrilla: damn can you teach me how to play @your_friend_tim
+[6:59:03] your_friend_tim: lol, im the worst at this game
+[6:59:06] your_friend_tim: Just rat all the way
+[6:59:11] your_friend_tim: Dipped away from 2-3 teams
+[6:59:15] benjiscrilla: I’m jk lol 😂
+[6:59:19] benjiscrilla: oh shit what were you in trios
+[6:59:22] your_friend_tim: Yeah
+[6:59:33] benjiscrilla: that’s wssp
+[6:59:50] benjiscrilla: I miss the randomness of the playtests wondering whether it was gonna be a 3 man or not
+[6:59:58] your_friend_tim: I just want my daddy to be happy for me, like my real daddy never was.
+[7:00:17] Topher_IRL: @your_friend_tim Daddy Zeeblers always comes back
+[7:00:19] whodoes__that: @LumberChopMan I have a 27 inch ASUS that is 10+ years old and still so perfect. But I got an LG 165hz 32 inch 8k and it's "chef's kiss".
+[7:00:20] Topher_IRL: Except on Wednesdays
+[7:00:40] your_friend_tim: I look forward to 1 day a month and that's when my T3 resub happens, just so I can tell you how proud I am of you :kisses :hugs :lick
+[7:01:37] your_friend_tim: !lurk Dadding
+[7:01:37] StreamElements: Thanks for lurking in the Degen Den, dadding! zeegerLove
+[7:02:19] SavedEight_ZGZ: get one of them fancy corsair flex monitors
+[7:02:21] SavedEight_ZGZ: only 2 grand
+[7:02:23] Topher_IRL: I'm very close to another bowl of leftover chili
+[7:02:37] LumberChopMan: lolol
+[7:02:42] LumberChopMan: zeegerWeasel
+[7:02:49] Topher_IRL: !llama
+[7:02:49] StreamElements: zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama zeegerDramallama
+[7:03:05] drewbullx: @Topher_IRL oh, sorry -- I ate that chili... was that yours?
+[7:03:18] Topher_IRL: @drewbullx You left three tablespoons, thanks
+[7:03:30] drewbullx: but I left some... PrideShrug
+[7:03:41] Topher_IRL: It's the thought that counts
+[7:04:20] whodoes__that: @Zeegers Have you ever considered that interacting with people gaming online swayed your decision to not have kids? Because I think that's exactly what happened to me. FeelsDankMan
+[7:04:57] Topher_IRL: I have my hands full with a cat that sleeps 14 hours a day
+[7:05:08] whodoes__that: Yeah definitely memeing, but I echo your sentiments.
+[7:05:36] whodoes__that: no whodoesthat replicas heading your way, sad to say
+[7:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[7:06:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[7:06:56] drewbullx: I'm still in love with the woman I had to leave because she wanted to have a family FeelsBadMan
+[7:07:47] whodoes__that: @drewbullx Yeah the misses and I were on the same page but she's reconsidering and that worries me
+[7:08:22] drewbullx: @whodoes__that monkaW
+[7:08:55] phixius88: zeegerPoggers
+[7:09:00] whodoes__that: I was always "I want to have kids some day" but that day has definitely never happened. She was on the fence but now might wants kids. Adopted at this point.
+[7:09:17] whodoes__that: I have zero interest in adopting.
+[7:09:17] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[7:09:45] drewbullx: @whodoes__that time to start a spreadsheet
+[7:09:47] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[7:10:02] whodoes__that: Yeah they put a lot of hurdles in there which hurts everyone involved in the adoption process.
+[7:10:45] whodoes__that: @drewbullx On it
+[7:11:07] Summy_211: !slots 1111
+[7:11:07] StreamElements: @Summy_211 you got zeegerJuice | zeegerAmanda | zeegerBELL and lost your 1111 Points zeegerRIP
+[7:11:18] whodoes__that: !slots 261
+[7:11:18] StreamElements: @whodoes__that you got zeegerAmanda | zeegerBELL | zeegerBELL and lost your 261 Points zeegerRIP
+[7:11:39] AmandaMarie_ZGZ: i thought my nephew and niece would make me change my mind, but it made me more sure that i didn't want any of my own lmao
+[7:11:41] drewbullx: communication zeegerThumbsup
+[7:11:50] whodoes__that: @StreamElements I'll trade an zeegerAmanda for a zeegerBELL
+[7:12:07] drewbullx: @AmandaMarie_ZGZ LUL
+[7:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[7:12:47] whodoes__that: @AmandaMarie_ZGZ My wife nephews made her want kids. I hate those fuckers for that. 😠
+[7:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[7:13:05] AmandaMarie_ZGZ: @drewbullx i love them but they are exhausting lmao
+[7:13:20] drewbullx: @AmandaMarie_ZGZ I get it
+[7:13:42] scotty_zgz: !gamble all
+[7:13:43] StreamElements: zeegerGitgud scotty_zgz went all in and lost every single one of their 888 Points zeegerRIP
+[7:13:47] Topher_IRL: AMANDA
+[7:13:53] Topher_IRL: HE SAID DOGS PLURAL
+[7:14:00] Topher_IRL: #kitabrother
+[7:14:01] AmandaMarie_ZGZ: zeegerPog zeegerPog zeegerPog zeegerPog zeegerPog zeegerPog
+[7:14:07] whodoes__that: @Topher_IRL OhMyDog OhMyDog
+[7:14:17] Topher_IRL: #teamKita
+[7:14:20] phixius88: lol
+[7:14:26] phixius88: kita needs a lil bro
+[7:14:28] phixius88: forsure
+[7:14:40] phixius88: she can pass on so much knowledge
+[7:14:42] whodoes__that: name him Peter but pronounce it "Pita"
+[7:14:50] drewbullx: acid zeegerPog AlienDance
+[7:14:50] AmandaMarie_ZGZ: Peeta
+[7:14:53] AmandaMarie_ZGZ: like hunger games
+[7:14:54] AmandaMarie_ZGZ: lol
+[7:14:55] phixius88: kita and peeta
+[7:14:56] phixius88: lol
+[7:15:06] whodoes__that: yeah like Family Guy
+[7:15:06] Trophybass7: good boy tv
+[7:15:13] AmandaMarie_ZGZ: !kita
+[7:15:14] StreamElements: zeegerKitapita zeegerLove zeegerKitapita zeegerLove zeegerKitapita zeegerLove zeegerKitapita zeegerLove zeegerKitapita zeegerLove zeegerKitapita zeegerLove zeegerKitapita zeegerLove zeegerKitapita zeegerLove
+[7:15:19] AmandaMarie_ZGZ: LOOK AT THAT BABY
+[7:15:26] Mekalb: double income no zeegs
+[7:15:29] drewbullx: pepeJAM
+[7:15:39] phixius88: dam
+[7:15:43] phixius88: kita is so cute
+[7:15:53] drewbullx: curls up with kita
+[7:15:53] whodoes__that: if you don't strap that gopro to her head and give us Kita POV we will riot
+[7:16:09] SavedEight_ZGZ: @whodoes__that zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo
+[7:16:23] drewbullx: high fives saved
+[7:16:39] whodoes__that: no, let us judge you for being filthy slobs EZ
+[7:16:43] Mekalb: i'm hanging in there
+[7:16:54] drewbullx: mekalb zeegerPog
+[7:17:04] Mekalb: are mages going to lose self healing
+[7:17:09] phixius88: a dog doesnt take up that much space
+[7:17:40] phixius88: can get a lil mini husky
+[7:18:23] whodoes__that: @phixius88  husk·y: strong; hefty.
+[7:18:29] whodoes__that: So apparently no
+[7:18:35] Rmont: Zf confirmed not open in p2
+[7:18:39] Rmont: So there goes that
+[7:18:40] revolt4200: ngl kinda givin off vin diesel vibes lol
+[7:18:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[7:18:48] ARobotVampire: @phixius88 Called a pomksy, look it up
+[7:19:13] whodoes__that: @ARobotVampire Don't look it up unless you want to throw up from a cuteness overload.
+[7:19:46] whodoes__that: You have to warn people before asking them to google something like that.
+[7:20:22] revolt4200: would one side of mara be open?
+[7:20:24] Rmont: I was probably too shit to do ZF anyway. But was curious to see what mages could do
+[7:20:34] Rmont: Makes it fun in p3 all mages gotta go in blind
+[7:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[7:20:48] revolt4200: one side is like high 30's
+[7:20:53] Topher_IRL: That means Sniper Scope is basically out of the question at 40
+[7:20:58] phixius88: American klee kai is what i was referring to @ARobotVampire
+[7:21:12] Rmont: Sniper scope reciepe from Zf?
+[7:21:36] Topher_IRL: Multiple places but the ZF zombies is one of it not the lowest mob that can drop it
+[7:21:36] revolt4200: RFD
+[7:21:37] revolt4200: ?
+[7:21:43] revolt4200: razorfen downs
+[7:21:48] Rmont: Only gnomes can make it anyway right
+[7:21:51] Topher_IRL: Yeah
+[7:22:06] Topher_IRL: It's still a moonshot either way
+[7:22:07] revolt4200: should do a farm vid on gnomer
+[7:22:37] revolt4200: i only learnt about sod like a week ago
+[7:22:38] phixius88: gnomer is the raid
+[7:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[7:22:59] revolt4200: deadmines would be the farm then to 30 some
+[7:23:48] revolt4200: been playing ascension cause i cant pay monthly for game time atm
+[7:23:48] StreamElements: Level 54 Mage AOE - https://www.youtube.com/watch?v=3h6a_Fk-rHw&t=
+[7:24:08] Topher_IRL: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[7:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[7:24:20] drewbullx: zeegerPog
+[7:24:27] drewbullx: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp
+[7:24:30] revolt4200: they dropped a new season and its random u roll a dice n get a random skill n talent
+[7:24:46] revolt4200: ppl already have gotten pretty far, but bwl isnt available yet
+[7:24:47] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[7:24:52] AmandaMarie_ZGZ: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo zeegerWinamp
+[7:25:29] revolt4200: i was streaming and got flagged for having armen van buren play, what do u play to not get flaged?
+[7:25:57] drewbullx: @revolt4200 you have to make sure your music doesn't go to VOD
+[7:26:22] revolt4200: new to streaming, what is vod
+[7:27:07] revolt4200: you said u would put kita treats back in
+[7:27:13] revolt4200: should do it for like 50k points
+[7:27:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[7:27:30] jayproulx: Im new to wow and gonna start sod. I like to 1v1 alot and trying to figurr which class beat the most classes i know there is always a counter. But with all the info of s2 any recommandation @zeegers
+[7:27:35] Topher_IRL: 50k he'd spend the whole stream feeding the dog
+[7:27:36] Topher_IRL: LUL
+[7:27:38] revolt4200: i ran an ad earlier did u do it?
+[7:27:46] revolt4200: k make it like 500k
+[7:27:47] Topher_IRL: !sod
+[7:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[7:27:47] StreamElements: Season of Discovery - SERVER: Lone Wolf | FACTION: Alliance | GUILD: Degen Den | Whether you're a WoW OG, a fresh little Timmy, or somewhere in between, the Degen Den has a space for you!  https://discord.gg/Zeegers
+[7:28:07] LumberChopMan: @revolt4200 This seems more reasonable
+[7:28:14] revolt4200: i have a build for walock
+[7:28:18] revolt4200: on ascension
+[7:28:18] StreamElements: Level 54 Mage AOE - https://www.youtube.com/watch?v=3h6a_Fk-rHw&t=
+[7:28:31] revolt4200: warlock with frost bolt
+[7:28:35] jayproulx: Thx @zeegers thats what i thought
+[7:28:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[7:28:53] jayproulx: Only priest counter em @zeegers
+[7:28:58] revolt4200: more haste u have for locks faster ur ticks r
+[7:29:01] revolt4200: for dots
+[7:29:31] drewbullx: KEKLEO
+[7:29:55] drewbullx: can't even gank as a rogue KEKW
+[7:30:07] LumberChopMan: lol who stream snipes and still takes the L LUL what a scrub
+[7:30:11] revolt4200: is ambush lvl 26?
+[7:30:27] lordalleman: the fear can make the difference
+[7:30:43] lordalleman: and the shielding
+[7:30:54] revolt4200: pet can daze him
+[7:31:10] revolt4200: i want matt to play again
+[7:31:12] JoshDrakoni_ZGZ: Say that one more time
+[7:31:14] lordalleman: pallies are pretty dang strong too
+[7:31:31] JoshDrakoni_ZGZ: CLIPPED
+[7:31:42] revolt4200: working we havent been talking much, he left hillary
+[7:32:00] revolt4200: me too
+[7:32:04] revolt4200: idk
+[7:32:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[7:32:37] revolt4200: im doing my planning ahead course this month getting my license back
+[7:32:53] revolt4200: and hes going to a service for a buddy he did hockey pools with
+[7:33:00] drewbullx: zeegerAmanda #1 zeegerWeasel
+[7:33:24] aginsb: Zeegs not good enough for dino nuggies
+[7:33:56] revolt4200: dino nugges are legit mcdonalds nugets in the store
+[7:34:36] revolt4200: auto mod is available to everyone or do u have to pay for it
+[7:34:36] Summy_211: huh
+[7:34:37] Summy_211: what
+[7:34:39] Summy_211: what did I miss
+[7:34:45] Summy_211: oh honey!
+[7:34:50] Summy_211: I thought you said summy
+[7:34:58] Topher_IRL: Summy mustard
+[7:35:35] Summy_211: zeegerHotdog zeegerPog
+[7:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[7:36:47] StreamElements: Check out our Rogue content on Youtube! | ROGUE GUIDE - https://youtu.be/sWC6rbrVfMg | PICKPOCKET - https://youtu.be/4R_fxwIG6Vc | GOLDEN KEY Solo - https://youtu.be/Cwu5zNnc7c0 |
+[7:39:15] revolt4200: 90 seconds of adds lets go
+[7:39:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[7:39:36] revolt4200: icant buy anymore
+[7:39:54] revolt4200: wont let me
+[7:40:08] nickatnite247: !video
+[7:40:08] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[7:40:16] revolt4200: got 200k i wanna use em
+[7:40:18] revolt4200: lol
+[7:41:12] Richango: just got a commercial for womens gummies. Gonna have to get me some of those..
+[7:41:14] revolt4200: send me a zeegs whitebeater :P
+[7:42:05] JoshDrakoni_ZGZ: WHERES TIM
+[7:42:06] Richango: yeah but idk if i should be taking the womens ones
+[7:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[7:42:43] JoshDrakoni_ZGZ: Got me hooked to dad again
+[7:42:45] Richango: soomething... koodies
+[7:42:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[7:43:40] OroreuxTorii: How many hours a day did you work out in the slammer?
+[7:43:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[7:44:09] Warcastle: how many laps around the yard?
+[7:44:21] phixius88: nice
+[7:44:35] JoshDrakoni_ZGZ: Did you make wine in your toilet?
+[7:44:58] JoshDrakoni_ZGZ: Adds extra seasoning
+[7:45:11] phixius88: josh knows
+[7:45:13] JoshDrakoni_ZGZ: Spicy meatballs
+[7:47:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[7:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[7:49:02] Warcastle: Been waiting for this world buff for 10 mins
+[7:49:11] phixius88: are u fully juiced
+[7:49:16] phixius88: full log
+[7:49:54] Warcastle: sweat math
+[7:49:55] StreamElements: zeegerLove Iron Mace just tipped $4.69 zeegerPog
+[7:49:58] phixius88: no clue
+[7:50:18] LumberChopMan: gasp
+[7:50:21] AmandaMarie_ZGZ: LUL LUL LUL
+[7:50:25] phixius88: strong kicks
+[7:50:29] AmandaMarie_ZGZ: kangaroo like rofl
+[7:50:29] phixius88: like kangaroo
+[7:50:29] your_friend_tim: Oh man
+[7:50:33] your_friend_tim: Looks like Iron Mace needs you
+[7:50:41] AmandaMarie_ZGZ: rofl
+[7:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[7:50:50] AmandaMarie_ZGZ: zeegerWeasel zeegerWeasel zeegerWeasel
+[7:50:54] your_friend_tim: You have all day tomororw lets you go sexy panther.
+[7:50:58] Topher_IRL: All the
+[7:51:00] Topher_IRL: Small things
+[7:51:10] AmandaMarie_ZGZ: excuse me I get some time tomorrow @your_friend_tim
+[7:51:14] your_friend_tim: No
+[7:51:18] your_friend_tim: You had your chance
+[7:51:23] AmandaMarie_ZGZ: lmao what
+[7:51:45] your_friend_tim: IF THAT'S YOUR REAL NAME
+[7:51:47] AmandaMarie_ZGZ: I have the rings bissshhh
+[7:51:51] your_friend_tim: Do you?
+[7:52:00] your_friend_tim: I can buy him back with steaks and back rubs.
+[7:52:16] SavedEight_ZGZ: newb
+[7:52:27] AmandaMarie_ZGZ: ptsd
+[7:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[7:54:03] LumberChopMan: 5
+[7:54:12] LumberChopMan: 5 coins for clothes
+[7:54:12] Topher_IRL: Deck out that bank alt
+[7:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[7:54:18] LumberChopMan: drip or dumplings, you decide
+[7:54:20] JoshDrakoni_ZGZ: tim
+[7:54:24] AmandaMarie_ZGZ: zeeger5bomb zeeger5bomb zeeger5bomb
+[7:54:27] JoshDrakoni_ZGZ: @your_friend_tim
+[7:54:37] JoshDrakoni_ZGZ: @your_friend_tim time to kill stuff
+[7:55:03] whodoes__that: Wait I missed a chat war?
+[7:55:32] whodoes__that: I was just trying to order dinner, can someone fill me in please?
+[7:55:43] whodoes__that: Pepega
+[7:56:19] uhClown: Hey all!
+[7:56:43] wifeaggro4: just started playing a mage. why didnt i freaking make one sooner lol
+[7:56:44] AmandaMarie_ZGZ: zeegerYo zeegerYo zeegerYo
+[7:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[7:57:19] uhClown: !points
+[7:57:19] StreamElements: @uhClown uhClown has 2048 Points and is rank 261/96048 on the leaderboard.
+[7:57:33] uhClown: !gamble 1048
+[7:57:33] StreamElements: uhClown lost 1048 Points in roulette and now has 1000 Points. zeegerSheep
+[7:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[7:57:52] uhClown: zeegerL
+[7:58:36] pappibgamin: PappiBGaminAt61 gifted a Tier 1 sub to wifeaggro4! They have given 109 Gift Subs in the channel! 
+[7:58:49] Topher_IRL: zeegerLetsgo zeegerLetsgo zeegerHype zeegerHype zeegerJuice zeegerJuice zeegerPog zeegerPog zeegerPog
+[7:59:07] wifeaggro4: Thanks so much PappiBGaminAt61
+[7:59:26] wifeaggro4: @PappiBGaminAt61 Thanks for the gift sub!
+[8:00:03] wifeaggro4: yea debating on what to take to 40 first. hunter,druid,pally, or rogue.
+[8:00:29] pappibgamin: @wifeaggro4 welcome
+[8:00:30] uhClown: !slots all
+[8:00:30] StreamElements: @uhClown you got zeegerAmanda | zeegerAmanda | zeegerAmanda and won 25600 Points zeegerPog
+[8:00:38] uhClown: zeegerPog zeegerPog zeegerPog
+[8:00:57] whodoes__that: Oh wait it took me a while but it'll totally be worth it. Someone said they were getting "Vin Diesel" vibes from you.
+[8:01:07] whodoes__that: More like Vin zeegerWeasel
+[8:01:17] whodoes__that: Nailed it EZ
+[8:01:35] DoubleXL_ZgZ: zeegerYo zeegerYo zeegerYo zeegerYo zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove
+[8:01:59] wifeaggro4: well i have those all at 25
+[8:02:01] DoubleXL_ZgZ: tired! havent done this much work in a day in a while.. lol
+[8:02:14] wifeaggro4: mage right now since the 50% buff to exp
+[8:02:58] StreamElements: zeegerLove uhClown  just tipped $10.00 zeegerPog
+[8:03:00] whodoes__that: !slots 260
+[8:03:00] StreamElements: @whodoes__that you got zeegerAmanda | zeegerCHERRYPOP | zeegerAmanda and lost your 260 Points zeegerRIP
+[8:03:07] Zeegers: !10
+[8:03:07] StreamElements: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[8:03:09] TurboGerbil420: yo yo
+[8:03:16] whodoes__that: !10
+[8:03:16] StreamElements: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[8:03:19] Topher_IRL: !10
+[8:03:20] StreamElements: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[8:03:24] AmandaMarie_ZGZ: !10
+[8:03:24] StreamElements: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[8:03:24] SavedEight_ZGZ: !ten
+[8:03:32] DoubleXL_ZgZ: zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb zeeger10bomb
+[8:03:36] SavedEight_ZGZ: !canwegetsometenbombsinthechat
+[8:03:41] whodoes__that: @SavedEight_ZGZ 1fail
+[8:03:41] SavedEight_ZGZ: didnt work
+[8:03:47] whodoes__that: !fail
+[8:03:51] Zeegers: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo zeegerWinamp zeegerWinamp
+[8:03:59] SavedEight_ZGZ: its flail, git rekt @whodoes__that
+[8:04:08] OroreuxTorii: zeeger10bomb zeeger10bomb zeeger100bomb zeeger100bomb zeeger100bomb zeeger5bomb zeeger5bomb zeeger20bomb zeeger50bomb
+[8:04:08] Topher_IRL: !flail
+[8:04:08] StreamElements: Stuck in Act 3? This is why! ---> https://www.youtube.com/watch?v=g-9p216uEyk
+[8:04:24] Topher_IRL: We got that shit too!
+[8:04:29] uhClown: more than welcome
+[8:04:30] OroreuxTorii: zeegerHonk
+[8:04:33] OroreuxTorii: XD XD
+[8:04:40] whodoes__that: @Topher_IRL Act III gives me nightmares, so thanks asshats
+[8:04:54] uhClown: just flew out for work and heading to site
+[8:05:02] TurboGerbil420: you quest loggin?
+[8:05:40] TurboGerbil420: i fucked myself on my priest, trying to get gold from doing quests. hunter and shaman both have full logs though
+[8:05:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[8:05:58] TurboGerbil420: ill be in dungeons, its fine
+[8:06:06] Tinit5190: Kinda need gold for mounts anyways
+[8:06:27] TurboGerbil420: im prepped for that
+[8:06:34] Tinit5190: YOu need 50 just for skills to 40
+[8:06:54] TurboGerbil420: downtime fishing has me mat ready to go to 225 on leatherworking and tailoring
+[8:07:17] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[8:08:53] whodoes__that: yeah Samuel Barber is one of the best composers in our lifetimes
+[8:09:17] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[8:09:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[8:09:53] TurboGerbil420: how many quest start items in the bank?
+[8:10:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[8:10:39] TurboGerbil420: no not the quest turn in items, i mean the items that start a quest
+[8:10:50] TurboGerbil420: "this item begins a quest"
+[8:11:35] TurboGerbil420: idk if horde is different but we have a shit ton of paws and heads that start quests
+[8:11:47] StreamElements: Have some constructive ideas for my stream? Send me a message, or checkout https://discord.gg/Zeegers - I'd love to hear it!
+[8:12:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[8:12:46] pappibgamin: PappiBGaminAt61 gifted a Tier 1 sub to TurboGerbil420! They have given 110 Gift Subs in the channel! 
+[8:12:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[8:12:48] Zeegers: !discord
+[8:12:48] StreamElements: https://discord.gg/Zeegers
+[8:12:49] Zeegers: !youtube
+[8:12:49] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[8:13:05] TurboGerbil420: @PappiBGaminAt61 Thanks for the gift sub!
+[8:13:08] TurboGerbil420: my guy
+[8:13:17] StreamElements: CHECKOUT MY SUBREDDIT ! ---> https://www.reddit.com/r/Zeegers/
+[8:13:19] The_Venom_Inside: supposedly frostfire bolt drops from the skullsplitter mystics in stv. Just word of mouth tho havent seen a video yet
+[8:13:30] pappibgamin: welcome... had to get to 110, OCD thing haha
+[8:13:41] TurboGerbil420: LOL nice man
+[8:13:46] broliooo: its confirmed to not drop anymore until patch
+[8:13:54] TurboGerbil420: ill check in later if you're still on, gonna run some cs before raids tonight
+[8:13:54] revolt4200: for the music thng do u do it in twitch studio or
+[8:14:11] revolt4200: home
+[8:14:46] TurboGerbil420: that eyebrow looked like you were ready to play too LOL
+[8:14:57] TurboGerbil420: later yall, thanks again for the sub
+[8:15:30] Warcastle: yes they are dnd
+[8:15:44] revolt4200: do u jst toggle vod on?
+[8:16:59] revolt4200: teh fk is obs
+[8:17:02] revolt4200: im newb
+[8:17:29] revolt4200: goth ca
+[8:18:51] revolt4200: ty
+[8:20:14] revolt4200: did u box farm?
+[8:20:35] revolt4200: chests give u box's of mats n shit
+[8:20:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[8:21:19] revolt4200: least its not winrar days
+[8:21:39] Norishtv: !spec
+[8:21:39] StreamElements: Talent Order Priority = 3/3 Elemental Precision - 2/2 Frost Warding - 3/5 Arcane Focus - 2/2 Arcane Subtlety - 5/5 Arcane Concentration - 1/1 Arcane Resilience = https://clips.twitch.tv/YawningDifferentKaleCorgiDerp-CLdfEHx-NGQJWoOY
+[8:22:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[8:24:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[8:24:18] benjiscrilla: dahk
+[8:24:22] benjiscrilla: and dahka
+[8:26:10] aspectoflion: how’s mage after the nerf?
+[8:26:22] benjiscrilla: zeegerWinamp zeeger1 zeegerGogogo zeeger2 zeegerWinamp zeeger2 zeegerGogogo zeeger3 zeegerWinamp zeeger2 zeegerGogogo zeeger4 zeegerWinamp zeeger5 zeegerGogogo
+[8:27:15] aspectoflion: got a video link?
+[8:27:31] benjiscrilla: !video
+[8:27:31] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[8:27:36] aspectoflion: !video
+[8:27:36] StreamElements: Mage AoE Leveling Guide for Season of Discovery PHASE 2 - https://www.youtube.com/watch?v=74TKdDZy63Y
+[8:27:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[8:28:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[8:30:15] aspectoflion: what’s your current gear on this mage?
+[8:30:22] Zeegers: !gear
+[8:31:09] benjiscrilla: zeegerGogogo
+[8:31:14] benjiscrilla: new emotes are sick
+[8:31:23] aspectoflion: I’m impressed with your lvling speed in p1, gonna be fun to follow your lvling progress in p2
+[8:33:00] ImmaNewbie: I think if u have stacked quests, etc.. u can start ahead on those spots
+[8:33:47] StreamElements: Zeegers Stream !wishlist found @ https://www.amazon.ca/hz/wishlist/ls/1DQO27SB3Y8OP?ref_=wl_share
+[8:34:40] habeebbii: when are u planning to turn in quests?
+[8:35:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[8:36:07] your_friend_tim: AH MAN IM HAVING SO MUCH FUN IN DAD
+[8:36:27] your_friend_tim: NOPE
+[8:36:33] your_friend_tim: JOSH DRAKONIIII AND I ARE HAVING SO MUCH FUN
+[8:36:58] benjiscrilla: armpit model
+[8:37:30] benjiscrilla: I was listening
+[8:37:34] your_friend_tim: VOD or lies
+[8:37:42] benjiscrilla: sounded insane
+[8:37:43] Summy_211: he didnt clip it?!
+[8:38:15] benjiscrilla: if he was lying it was pretty convincing voice acting lol
+[8:38:21] SavedEight_ZGZ: zeegerSus zeegerSus zeegerSus zeegerSus
+[8:38:30] your_friend_tim: M O I S T
+[8:39:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[8:39:23] benjiscrilla: damn your Wow vids pull numbers lol
+[8:40:03] your_friend_tim: Sean
+[8:40:07] your_friend_tim: Out of curiousity
+[8:40:12] benjiscrilla: I mean I feel like that’s pretty good personally
+[8:40:13] your_friend_tim: What staff is that?
+[8:40:28] your_friend_tim: Oh
+[8:40:34] your_friend_tim: Wasn't there a purple one or something?
+[8:41:03] your_friend_tim: Hmm maybe
+[8:41:23] your_friend_tim: Wasn't there some raid you could get a better one? Maybe we could run some? I could help
+[8:42:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[8:42:34] phakina00: hey you on wild growth
+[8:42:47] StreamElements: JOIN THE COMMUNITY DISCORD SERVER!! - https://discord.gg/Zeegers
+[8:42:57] phakina00: ok
+[8:43:17] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad
+[8:43:32] uhClown: is this HC?
+[8:43:33] Convoak: Ew a gnome
+[8:43:38] phixius88: insta 26?
+[8:43:41] phakina00: what instance you grinding Thursday we are doing rfk
+[8:43:47] StreamElements: Like something you saw? Create a clip and show others! (ALT-X) - This allows you to custom clip the past 60 seconds of what you just saw. Latest highlights - https://www.twitch.tv/zeegers/videos/highlight
+[8:44:02] uhClown: !points
+[8:44:02] StreamElements: @uhClown uhClown has 26648 Points and is rank 10/96052 on the leaderboard.
+[8:44:13] draegon_tengoku_zgz: draegon_tengoku_zgz gifted a Tier 1 sub to phakina00! They have given 707 Gift Subs in the channel! 
+[8:44:14] Zeegers: !death
+[8:44:14] GNR_SweetSkills: !points
+[8:44:14] StreamElements: Level 54 Mage AOE - https://www.youtube.com/watch?v=3h6a_Fk-rHw&t=
+[8:44:14] StreamElements: @GNR_SweetSkills GNR_SweetSkills has 93049 Points and is rank 2/96052 on the leaderboard.
+[8:44:16] uhClown: !gamble 6648
+[8:44:17] StreamElements: uhClown lost 6648 Points in roulette and now has 20000 Points. zeegerSheep
+[8:44:26] phakina00: cool we have been doing sm but rfk exp better
+[8:44:31] phixius88: !gamble all
+[8:44:32] StreamElements: zeegerGitgud phixius88 went all in and lost every single one of their 22590 Points zeegerRIP
+[8:44:37] phixius88: rip
+[8:44:52] uhClown: rip
+[8:45:05] phakina00: ok
+[8:45:15] phakina00: we have a couple groups so
+[8:45:32] benjiscrilla: smh, a day off? part timer
+[8:45:38] uhClown: !slots 2500
+[8:45:38] StreamElements: @uhClown you got zeegerBELL | zeegerCHERRYPOP | zeegerAmanda and lost your 2500 Points zeegerRIP
+[8:45:57] Zeegers: !discord
+[8:45:58] StreamElements: https://discord.gg/Zeegers
+[8:46:06] benjiscrilla: whoa whoa whoa, a day offf AND sleeping in?
+[8:46:13] benjiscrilla: zeegerDegen
+[8:46:13] Convoak: Yea he's ridiculous
+[8:47:11] phakina00: !slots 10000
+[8:47:11] StreamElements: @phakina00, you only have 24 Points
+[8:47:40] draegon_tengoku_zgz: !gamble all
+[8:47:40] StreamElements: zeegerGitgud draegon_tengoku_zgz went all in and lost every single one of their 1534 Points zeegerRIP
+[8:47:41] Zeegers: !twitter
+[8:47:42] StreamElements: Drop me a Follow on Twitter! https://twitter.com/ZeegersTV
+[8:47:43] Zeegers: !youtube
+[8:47:43] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[8:47:45] Zeegers: !kick
+[8:47:45] StreamElements: GO FOLLOW MY KICK --> https://kick.com/zeegers
+[8:48:36] benjiscrilla: I want veneers bruh
+[8:48:47] StreamElements: We're LIVE on Kick! ---> https://kick.com/zeegers/
+[8:48:50] benjiscrilla: fuck real teeth I want fake ones
+[8:48:56] draegon_tengoku_zgz: *Drill Noises* Dr Goku is here for all your dentistry needs
+[8:49:05] aspectoflion: oh
+[8:49:49] uhClown: !slots 2500
+[8:49:50] StreamElements: @uhClown you got zeegerAmanda | zeegerBELL | zeegerBELL and lost your 2500 Points zeegerRIP
+[8:49:59] Summy_211: !slots 1111
+[8:49:59] StreamElements: @Summy_211 you got zeegerAmanda | zeegerAmanda | zeegerCHERRYPOP and lost your 1111 Points zeegerRIP
+[8:50:04] uhClown: !gamble 5000
+[8:50:04] StreamElements: uhClown lost 5000 Points in roulette and now has 10024 Points. zeegerSheep
+[8:50:12] uhClown: bruhhh
+[8:50:13] Summy_211: !top points
+[8:50:14] StreamElements: Top 5 Points: 1. convoak (118590), 2. gnr_sweetskills (93073), 3. aginsb (88132), 4. summy_211 (61027), 5. fortyse7en (45451)
+[8:50:18] Summy_211: !slots 1111
+[8:50:30] benjiscrilla: !slots 1%
+[8:50:31] StreamElements: @benjiscrilla you got zeegerBELL | zeegerCHERRYPOP | zeegerBELL and lost your 419 Points zeegerRIP
+[8:50:34] pigsfly: haircut lookin clean
+[8:50:46] uhClown: !slots all
+[8:50:46] StreamElements: @uhClown you got zeegerJuice | zeegerBELL | zeegerAmanda and lost your 10024 Points zeegerRIP
+[8:50:47] StreamElements: Looking for uber chads to game with? Check out the 'Looking for Group' channels in the Discord, https://discord.gg/Zeegers
+[8:50:50] draegon_tengoku_zgz: And play only Taylor Swift songs during stream
+[8:51:35] uhClown: points doomed
+[8:51:43] Summy_211: !slots 1111
+[8:51:43] StreamElements: @Summy_211 you got zeegerJuice | zeegerBELL | zeegerAmanda and lost your 1111 Points zeegerRIP
+[8:51:56] revolt4200: vb audio?
+[8:52:06] draegon_tengoku_zgz: God i miss mixing audio for recording
+[8:52:47] StreamElements: Exclusive Corsair partner link, check out all the great deals here --> https://cor.sr/Zeegers
+[8:52:49] draegon_tengoku_zgz: !wieners
+[8:52:49] StreamElements: zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog
+[8:53:42] draegon_tengoku_zgz: !wieners
+[8:53:42] StreamElements: zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog zeegerHotdog
+[8:53:45] Zeegers: !rollcredits
+[8:54:02] Zeegers: zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo zeegerGogogo zeegerWinamp zeegerWinamp
+[8:54:16] SavedEight_ZGZ: zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeegerWinamp zeeger5bomb zeeger10bomb zeeger20bomb zeeger50bomb zeeger100bomb zeegerGogogo zeegerGogogo zeegerGogogo zeegerGogogo
+[8:54:17] StreamElements: CHECK THESE PAGES OUT! https://discord.gg/Zeegers | https://twitter.com/ZeegersTV | https://www.youtube.com/c/ZeegersTV | https://www.reddit.com/r/Zeegers/ | https://www.instagram.com/ZeegersTV | https://www.tiktok.com/@zeegerstv | https://zeegers.tv/ |  https://kick.com/zeegers |
+[8:54:18] DoubleXL_ZgZ: !cult
+[8:54:18] StreamElements: zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove zeeger1 zeeger3 zeeger1 zeegerLove
+[8:54:24] draegon_tengoku_zgz: Emote Deez Nutz
+[8:54:43] DoubleXL_ZgZ: zeegerBlueballs
+[8:55:24] Zeegers: !jam
+[8:55:24] StreamElements: zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp
+[8:55:49] Zeegers: !jam
+[8:55:49] StreamElements: zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp catJAM pepeJAM zeegerWinamp
+[8:55:50] Zeegers: !seaofred
+[8:55:50] StreamElements: zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames  zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove zeegerFlames zeegerLove
+[8:55:59] DoubleXL_ZgZ: Have a great night DEGENS!!!
+[8:56:12] Zeegers: SEE YOU ALL ON THURSDAY! FEW HOURS LATE ON START TIME JUST FYI
+[8:56:14] Zeegers: 3PM EASTERN
+[8:57:17] StreamElements: Link to my YouTube Page, HIT THAT SUB BUTTON!! - https://www.youtube.com/c/ZeegersTV
+[8:57:47] StreamElements: Subscribe to HelloFresh and use my code POGHF120631 to receive one free breakfast item per box while subscription is active https://strms.net/hellofresh_zeegers #ad

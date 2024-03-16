@@ -1,0 +1,1305 @@
+[0:00:10] StreamElements: notmes is now live! Streaming World of Warcraft: Mes <Liquid> - 10.2.5 today!
+[0:00:25] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[0:07:32] reklebin: good evening
+[0:09:03] al_capow: ayoo
+[0:12:31] sunileif: ;o
+[0:15:10] al_capow: yeah raid time, I don't see anyone on tho
+[0:15:14] Anhak: no one showed up avs power is out and not sure when it be back and last time we had to 8 man anyways i dont think its likely
+[0:15:42] al_capow: im on ahn
+[0:15:52] al_capow: also mes check out the latest iteration
+[0:15:52] al_capow: https://wago.io/hJR-gBib_
+[0:16:03] reklebin: i have retail raid for 15 mor min then can come
+[0:16:23] Rainbowmes: time to step up our 5 man
+[0:16:39] al_capow: we can totally do a 5 man
+[0:17:49] al_capow: you can now make full presets and everything with the WA
+[0:18:16] Rainbowmes: well we have 5 but not sure we have tanks
+[0:18:42] al_capow: now change a rune
+[0:18:46] al_capow: or make a diff set
+[0:20:12] al_capow: it very unfortunately cant automate it all at once
+[0:20:23] al_capow: yeah
+[0:20:35] al_capow: <3
+[0:20:51] al_capow: its been really nice in raid so far switching between aoe heal and single target quickly
+[0:21:51] al_capow: ope voice cut?
+[0:21:51] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[0:22:47] al_capow: aw thanks man
+[0:22:48] nikthevoker: no
+[0:22:49] al_capow: no you can't
+[0:23:17] Solushun: i took more time off fuck it @notmes
+[0:23:18] Solushun: LOL
+[0:23:19] al_capow: hm I did not test in combat lol
+[0:23:26] Anhak: click in combat twice
+[0:23:30] Solushun: are you playing retail tonight?
+[0:23:34] Anhak: yea yea yea
+[0:24:05] nikthevoker: dammit i couldnt of takenm that shuffle
+[0:24:09] nikthevoker: i  could of
+[0:24:50] Anhak: alright so make up raid tmrw 9 Server hopefully a few more people are around and we smash a quick one
+[0:25:48] crosstip: dang srry
+[0:25:58] Anhak: yea so just 24 hours delayed
+[0:26:24] crosstip: i should be on tom
+[0:26:33] al_capow: if you have a rune set equipped you can change the name
+[0:26:52] al_capow: Ill update that
+[0:26:57] al_capow: if the name is the name, good idea
+[0:27:08] crosstip: crosstip gifted a Tier 1 sub to Anhak! They have given 101 Gift Subs in the channel! 
+[0:27:08] StreamElements: Anhak just subscribed mesDad mesDad mesWeckso
+[0:27:17] Anhak: Just putting it here cause i see a lot of normals we are allowing alts in main raid your in guild character that is roll main is your main (except nik) and alts do not get soft res and will roll 1-99 to show not a main so that way peoples mains get the 1-2 missing pieces
+[0:27:19] crosstip: haha
+[0:27:19] Anhak: Thanks cross
+[0:27:27] crosstip: np
+[0:28:07] Anhak: but since all mains have trinkets and such and some of us are full bis or just chasing 1 or 2 items etc it just makes sense with the raid becoming way easy for us to do that
+[0:28:27] Anhak: we go back to SMOrc play mains etc next phase obviously until we find the raid in a similar spot
+[0:28:49] americanmoses18: sup mes
+[0:29:37] Ekazz: 277 raiders from Ekazz have joined! 
+[0:29:38] StreamElements: Ekazz just raided the channel with 277 viewers PogChamp
+[0:29:41] Ekazz: payoWow payoWow payoWow
+[0:29:47] notmes: !command add runeWA https://wago.io/hJR-gBib_ by @al_capow
+[0:29:47] StreamElements: @notmes, successfully added command runewa.
+[0:29:51] notmes: !runewa
+[0:29:51] StreamElements: https://wago.io/hJR-gBib_ by @al_capow
+[0:30:03] sherekhan75: POGGERS in the chatttuuuuuuhhhh payoS payoR payoJab payoOld payoMayo
+[0:30:03] Ekazz: resending Payo's love again ! lol
+[0:30:07] realglazed: What's a counter to rmp?
+[0:30:11] Sacrom: ekazz1WOW ekazz1Gahh ekazz1Gahh
+[0:30:18] al_capow: oh man thank you so much
+[0:30:30] Solushun: POGGERS POGGERS
+[0:30:49] buzzyfps1: song name?
+[0:30:57] sherekhan75: @Ekazz ppc raid my little man
+[0:31:01] buzzyfps1: oh nice mate
+[0:31:04] buzzyfps1: !followage
+[0:31:05] StreamElements: @1buzzy_, 1buzzy_ has been following notmes for  2 years 3 months 9 days
+[0:31:05] Moobot: @1buzzy_ 1buzzy_ has been following Mes for 2y 3mo. BTTV users can type /followed
+[0:31:10] Ekazz: <3
+[0:31:11] RotkidAU: Any good alternative to gladius. Its broken so bad rn
+[0:31:15] buzzyfps1: gooood
+[0:31:17] buzzyfps1: :D
+[0:37:14] avenueone: woops
+[0:38:05] americanmoses18: time to hope and pray my war gets leggo tmrrw lols
+[0:42:37] nikthevoker: gladiusex works
+[0:42:37] Moobot: Join my Discord community! https://discord.gg/mes
+[0:46:00] ferrers__: what is the least played class?
+[0:47:34] krome2dadome: LORD MES
+[0:47:38] PunishedLrnz: @rotkidau late response but look for bicmex gladius, he fixes gladius. Its on curseforge
+[0:49:19] sunileif: pagan lord mes
+[0:50:18] nikthevoker: pwaf was talking about sending pet kick into it 1st global LUL
+[0:50:24] nikthevoker: to get a stack
+[0:51:25] nikthevoker: gnaw
+[0:51:42] Begasaur: evening
+[0:51:44] Briggsy22: would it have to be transformed pet
+[0:52:11] nikthevoker: ya it turns to gnaw right?
+[0:53:32] nikthevoker: oh ya itts the extra 1sec right?
+[0:53:44] Blaze150000: Yooo Mes
+[0:53:59] nikthevoker: ya ya im just dont remember 5sec ago
+[0:54:40] Blaze150000: we wanna get glad with TWD we can choose between rdruid and disc. what would u recommend
+[0:56:16] No_Claws: Deep breath after grip?
+[0:56:58] ferrers__: What has fewer players: tank or healer?
+[0:57:12] No_Claws: Tank
+[0:58:40] nikthevoker: LUL
+[1:01:06] Blaze150000: how u get rid of the blizzard arena frames ?
+[1:07:25] Tealam: when would you play claw build vs dot build?
+[1:07:25] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:08:28] happyheals: what if he had a Nimbus 2000
+[1:08:39] happyheals: best broom for sweeps
+[1:11:18] avenueone: asmrguy: sup daddy mez
+[1:11:34] happyheals: I read as Mr Guy
+[1:11:49] Triknology: mr boss guy chief
+[1:12:17] happyheals: I thought asmr was a price on cars
+[1:12:30] Triknology: Yo how can I get my runes in the middle of the screen like that?
+[1:12:42] happyheals: edit mode
+[1:12:48] happyheals: and move them
+[1:12:48] avenueone: !runes
+[1:12:48] Nightbot: it’s !points
+[1:12:49] StreamElements: Use addon in !scripts or use: /run RuneFrame:ClearAllPoints() RuneFrame:SetPoint("CENTER",UIParent,"CENTER", 6,-75) RuneFrame.SetPoint = function() end RuneFrame:SetScale(1.5)
+[1:12:50] ionlyplaymetas: what addon are you using to make the player/target frames show class art? i was using easy frames but its completely broken now with the patch
+[1:13:27] No_Claws: !gamble all
+[1:13:27] StreamElements: No_Claws went all in and lost every single one of their 4004580 runes LUL
+[1:13:41] happyheals: yeah half the add ons and weak auras I had needed to be deletewd
+[1:13:46] happyheals: deleted*
+[1:14:18] happyheals: but I mean they were from season 2
+[1:14:45] Briggsy22: can you make it start quietly mes and then really loud for the last 3 seconds
+[1:15:36] happyheals: only one on wago for it is
+[1:15:39] happyheals: Stasis Buff Duration Bar/Timer
+[1:15:42] happyheals: named that
+[1:17:25] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/VvQNdB
+[1:17:58] americanmoses18: !gamble 100000
+[1:17:58] StreamElements: americanmoses18 won 100000 runes in roulette and now has 16352334 runes! FeelsGoodMan
+[1:18:03] happyheals: Evoker Stasis by Sohka
+[1:18:16] americanmoses18: !points
+[1:18:16] StreamElements: @americanmoses18, americanmoses18 has 16352334 runes
+[1:18:52] disquared: !gamble 5000
+[1:18:52] StreamElements: disquared lost 5000 runes in roulette and now has 2889248 runes! FeelsBadMan
+[1:20:51] happyheals: the best looking weak aura on wago he asked about has a ton of lua errors reported
+[1:22:16] happyheals: !gamble 696969
+[1:22:16] StreamElements: happyheals lost 696969 runes in roulette and now has 2146082842 runes! FeelsBadMan
+[1:22:25] happyheals: maaaan
+[1:23:14] Briggsy22: mes can u send me that WA that makes pet frame glow when sub 45%
+[1:23:19] ZasiaTV: Can you show talents
+[1:23:44] happyheals: He has many talents
+[1:24:32] Briggsy22: you dont like the bottom right 2/2 runeforged talent?
+[1:24:47] ZasiaTV: You always play the same talents ?
+[1:25:39] zaetar: yo waddup guys, does mes have a UDK guide up anywhere? last thing on youtube is from 2 years ago lol
+[1:26:35] Blaze150000: what u play instead of doomburst pvp talent ?
+[1:26:39] happyheals: can you still use bandages
+[1:26:43] happyheals: just do that
+[1:27:54] happyheals: Chuck has that daddy money
+[1:27:54] Moobot: Join my Discord community! https://discord.gg/mes
+[1:28:00] Blaze150000: necrotic aura better then bargain ?
+[1:28:46] Diviniumz: oneyedking and chun
+[1:30:09] cyndi247: hey mes! PokPikachu HypeLUL
+[1:32:16] nikthevoker: if you kick the 2 disins after ES he does very little dam
+[1:34:31] nikthevoker: sorry im in 3s too, those are the gigga buffed ones
+[1:34:46] nikthevoker: esp if he shatering stars before
+[1:35:13] happyheals: have you guys tried druid with the comp lately?
+[1:36:10] nikthevoker: LUL
+[1:36:24] No_Claws: Rogues are just dumn right now. All specs
+[1:42:10] Ulby42: is warrior rogue a comp you guys could play? is it even a comp?
+[1:45:54] happyheals: the free healer ccs to start hurt
+[1:47:25] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[1:50:22] happyheals: could nullifying shroud help on those early ccs to the pres
+[1:50:22] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:51:21] Bersolgens: yoooo
+[1:57:50] happyheals: HPal with bop,sac, freedoms might be good with your comp
+[1:58:15] nikthevoker: 250k hps jfc
+[1:58:34] Arthasnokkov: can you show talents rq?
+[1:59:10] happyheals: Looking at arena logs for 2100+ 3v3 HPAL is S Tier. Didn't realize
+[2:05:25] happyheals: does nullifying shroud stop openers freom rogue?
+[2:05:35] happyheals: from
+[2:06:52] ariacy: @happyheals kind of. All the rogue has to do is hit sap 3 times though and it's off
+[2:08:08] happyheals: that was what I was thinking, but you are rushing in to get in combat it might help you get rogue out
+[2:08:19] happyheals: I haven't played that class at all
+[2:17:06] happyheals: that comp looks like it feels the way you guys like to press
+[2:17:06] Moobot: Join my Discord community! https://discord.gg/mes
+[2:19:47] happyheals: happyheals gifted a Tier 1 sub to trillforthekill! They have given 307 Gift Subs in the channel! 
+[2:19:47] StreamElements: trillforthekill just subscribed mesDad mesDad mesWeckso
+[2:20:12] Idgtst: Idgtst subscribed at Tier 1. They've subscribed for 43 months! 
+[2:20:12] StreamElements: Idgtst just subscribed for 43 months in a row mesDad mesDad mesWeckso
+[2:20:34] AnAnonymousGifter: An anonymous user gifted a Tier 1 sub to bigmommymilkers!  
+[2:20:34] StreamElements: bigmommymilkers just subscribed mesDad mesDad mesWeckso
+[2:21:04] Kendakilla: hey @notmes how can i get your WA profile?
+[2:21:13] happyheals: feels like an Ave move
+[2:21:29] happyheals: yeah you right
+[2:21:34] happyheals: I was gonna bait him out
+[2:21:47] avenueone: what
+[2:21:54] AnAnonymousGifter: An anonymous user gifted a Tier 1 sub to brickedupdrinkingmilk!  
+[2:21:54] StreamElements: brickedupdrinkingmilk just subscribed mesDad mesDad mesWeckso
+[2:21:56] happyheals: not you lol
+[2:22:08] happyheals: I was using you as bait
+[2:22:13] happyheals: Ave can take it
+[2:24:07] avenueone: im so confused rn
+[2:24:09] avenueone: take what
+[2:24:09] happyheals: happyheals gifted a Tier 1 sub to cdewmadhecantgrowbeard! They have given 308 Gift Subs in the channel! 
+[2:24:09] StreamElements: cdewmadhecantgrowbeard just subscribed mesDad mesDad mesWeckso
+[2:24:14] happyheals: I laughed too hard
+[2:24:19] happyheals: that name
+[2:24:48] happyheals: I dunno, I found the name and thought it was so dumb it was funny
+[2:24:55] AnAnonymousGifter: An anonymous user gifted a Tier 1 sub to DRINKING_MILK_TOO!  
+[2:24:56] StreamElements: DRINKING_MILK_TOO just subscribed mesDad mesDad mesWeckso
+[2:25:03] happyheals: one more sub
+[2:25:06] krome2dadome: so im up to 2.4 on my dh randomly @notmes KEKW
+[2:25:17] AxiomDK: HELLO MES
+[2:25:17] happyheals: aww
+[2:25:26] Solushun: I left right before u @ me i had to bounce hi @happyheals
+[2:25:27] avenueone: avenueone gifted a Tier 1 sub to mesdich! They have given 6212 Gift Subs in the channel! 
+[2:25:27] StreamElements: mesdich just subscribed mesDad mesDad mesWeckso
+[2:25:34] Solushun: i wish i gave the sub to drinking milk tbh
+[2:25:38] krome2dadome: yea we tried some tonight with a disc buddy
+[2:25:42] indithedog: LuL
+[2:25:44] avenueone: was meant to be dick
+[2:25:51] happyheals: You good Sol, I just wanted to mess with you
+[2:26:07] happyheals: I needed you to q solo shuffle with me
+[2:26:15] Solushun: im 0-0 and never been happier
+[2:26:21] lundisak: lundisak subscribed at Tier 1. They've subscribed for 37 months! 
+[2:26:21] StreamElements: lundisak just subscribed for 37 months in a row mesDad mesDad mesWeckso
+[2:26:49] avenueone: avenueone gifted a Tier 1 sub to isadik! They have given 6213 Gift Subs in the channel! 
+[2:26:50] StreamElements: isadik just subscribed mesDad mesDad mesWeckso
+[2:26:53] happyheals: needs individual subs to start
+[2:27:01] happyheals: from separate accounts
+[2:27:22] happyheals: it is pronounced is a dk
+[2:28:07] al_capow: al_capow is gifting 10 Tier 1 Subs to notmes's community! They've gifted a total of 1530 in the channel! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to Vigi9413! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to wilteh! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to NateDawg_McNasty! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to dreaminks! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to Fixit_cat! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to Modest_PhD! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to Chantekay! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to ellipsii7! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to shipmentz! 
+[2:28:08] al_capow: al_capow gifted a Tier 1 sub to imbagosas! 
+[2:28:09] StreamElements: Vigi9413 just subscribed mesDad mesDad mesWeckso
+[2:28:09] StreamElements: dreaminks just subscribed mesDad mesDad mesWeckso
+[2:28:09] StreamElements: NateDawg_McNasty just subscribed mesDad mesDad mesWeckso
+[2:28:10] StreamElements: wilteh just subscribed mesDad mesDad mesWeckso
+[2:28:10] StreamElements: Fixit_cat just subscribed mesDad mesDad mesWeckso
+[2:28:10] StreamElements: Modest_PhD just subscribed mesDad mesDad mesWeckso
+[2:28:11] StreamElements: ellipsii7 just subscribed mesDad mesDad mesWeckso
+[2:28:11] StreamElements: shipmentz just subscribed mesDad mesDad mesWeckso
+[2:28:12] StreamElements: Chantekay just subscribed mesDad mesDad mesWeckso
+[2:28:12] StreamElements: imbagosas just subscribed mesDad mesDad mesWeckso
+[2:28:22] krome2dadome: POGGERWOBBLE
+[2:28:22] avenueone: avenueone gifted a Tier 1 sub to dk_notwarior! They have given 6214 Gift Subs in the channel! 
+[2:28:22] StreamElements: dk_notwarior just subscribed mesDad mesDad mesWeckso
+[2:28:30] happyheals: happyheals gifted a Tier 1 sub to ColoradoGamingCommunity! They have given 309 Gift Subs in the channel! 
+[2:28:30] krome2dadome: POGGERWOBBLE
+[2:28:30] StreamElements: ColoradoGamingCommunity just subscribed mesDad mesDad mesWeckso
+[2:28:36] krome2dadome: POGGERWOBBLE
+[2:29:01] AxiomDK: POGGERWOBBLE
+[2:29:06] krome2dadome: oh btw @notmes what are your thought on vile contagion into that dh/dk mirror if you're just trying to go full pve with necrotic aura? buddy was trying ur build and thought that could crank
+[2:29:24] Solushun: Did you finish krome list?
+[2:29:32] Solushun: I missed half of it :(
+[2:29:33] avenueone: avenueone gifted a Tier 1 sub to game_on_my_stick! They have given 6215 Gift Subs in the channel! 
+[2:29:33] StreamElements: game_on_my_stick just subscribed mesDad mesDad mesWeckso
+[2:29:40] krome2dadome: for sure
+[2:29:49] Solushun: Can you do one of my lists one day?
+[2:30:05] Solushun: That was an S tier idea
+[2:30:23] krome2dadome: giga tier
+[2:30:31] avenueone: avenueone gifted a Tier 1 sub to Stickydick2! They have given 6216 Gift Subs in the channel! 
+[2:30:31] StreamElements: Stickydick2 just subscribed mesDad mesDad mesWeckso
+[2:31:01] xmodus: how goes it
+[2:31:01] krome2dadome: just ignore the shell
+[2:31:13] AxiomDK: I thought about that a few days ago
+[2:31:19] krome2dadome: notkrome is online
+[2:31:21] AxiomDK: Ill pull up and help
+[2:31:24] happyheals: happyheals gifted a Tier 1 sub to solforpresident! They have given 310 Gift Subs in the channel! 
+[2:31:24] StreamElements: solforpresident just subscribed mesDad mesDad mesWeckso
+[2:32:07] happyheals: I keep watching streams, I haven't queued one game all day
+[2:32:26] avenueone: avenueone gifted a Tier 1 sub to Soft_Cock_69! They have given 6217 Gift Subs in the channel! 
+[2:32:27] StreamElements: Soft_Cock_69 just subscribed mesDad mesDad mesWeckso
+[2:32:46] happyheals: soft sock
+[2:32:57] happyheals: it is a passive c
+[2:33:07] krome2dadome: krome2dadome gifted a Tier 1 sub to Hard_cock69! They have given 1706 Gift Subs in the channel! 
+[2:33:07] StreamElements: Hard_cock69 just subscribed mesDad mesDad mesWeckso
+[2:33:42] happyheals: giving Mes all the good followers smh
+[2:33:50] avenueone: avenueone gifted a Tier 1 sub to Sloppycock69! They have given 6218 Gift Subs in the channel! 
+[2:33:51] StreamElements: Sloppycock69 just subscribed mesDad mesDad mesWeckso
+[2:34:13] happyheals: is this an asmr stream now?
+[2:34:41] avenueone: why mes no golden kappa ever
+[2:35:17] happyheals: It is because he has all these weird followers
+[2:35:49] happyheals: happyheals gifted a Tier 1 sub to blessthesecheeks! They have given 311 Gift Subs in the channel! 
+[2:35:49] StreamElements: blessthesecheeks just subscribed mesDad mesDad mesWeckso
+[2:36:19] welsh_newbloodgaming: Hi! Have a nice stream, can i ask a question? I need a macro for dk petkick, but i want it to be usable only when Dark Transform is active, do u know how to make it?
+[2:36:54] happyheals: happyheals gifted a Tier 1 sub to TwitchRivals! They have given 312 Gift Subs in the channel! 
+[2:36:55] StreamElements: TwitchRivals just subscribed mesDad mesDad mesWeckso
+[2:37:37] happyheals: Choo Chooo HypeUwu
+[2:37:37] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[2:37:37] krome2dadome: Choo Chooo HypeUwu
+[2:41:05] AxiomDK: Is the break points for haste on Unholy? @notmes 8 / 18 / 22 / 28? Does anything come after lol
+[2:41:10] AxiomDK: What is*
+[2:41:41] Dominate911: Is DK better with a warrior or DH?
+[2:42:36] avenueone: richard
+[2:43:49] vyzo_1: do you run doomburst and shorter apoc in shuffle?
+[2:46:12] Croix4: how do you feel about dh dk compared to walking dead
+[2:50:46] happyheals: Sol do you have any dps toons?
+[2:51:34] happyheals: My druid is 1614 in 2v2. I should bump that up
+[2:52:04] happyheals: I figure Ave is prob like 4k
+[2:52:45] Kendakilla: Kendakilla subscribed with Prime. They've subscribed for 3 months! 
+[2:52:45] StreamElements: Kendakilla just subscribed for 3 months in a row mesDad mesDad mesWeckso
+[2:54:32] zythane: @notmes for climbing in SS would you recommend clawing or plaguebringer?
+[2:54:32] Blaze150000: damm mes !! i tried your build in SS 2x now and obliterated everything in dmg. but why is it such a diffrence not playing sudden doom procs at all no doomburst
+[2:59:24] krome2dadome: oop
+[2:59:24] Moobot: Join my Discord community! https://discord.gg/mes
+[2:59:29] MaybeRespect: Were you not doomburst there?
+[3:04:25] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/VvQNdB
+[3:04:59] SpeedyMcD: evokers burst is actually a little bit too much
+[3:06:56] johnnythunderbunny: yo
+[3:09:40] happyheals: 6-0 lobbies are the best
+[3:10:07] happyheals: first one of the day
+[3:11:26] whirr: are you drawing something on paint? we can’t see
+[3:11:43] SpeedyMcD: is necromancers bargain any good?
+[3:12:40] Blaze150000: yes we can see
+[3:12:41] al_capow: I can see it
+[3:12:50] whirr: see it now it blended in
+[3:12:57] KindaBursty: I couldn't see it during first explanation
+[3:16:16] miatzoo: !wa
+[3:16:16] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[3:17:41] Szain3: DinoDance
+[3:18:53] happyheals: mioght be better to leave it off
+[3:19:30] senorio91: !drops
+[3:19:30] StreamElements: https://worldofwarcraft.blizzard.com/en-us/news/23999066/dragonflight-twitch-drops-get-the-dashing-buccaneers-slops-transmog-now
+[3:19:55] happyheals: yeah save purge for the go
+[3:19:55] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[3:20:06] Moobot: Please be sure to ask permission before posting links in chat! (@Blaze150000)
+[3:20:40] happyheals: Moobot comin in hot
+[3:20:52] happyheals: blazin em
+[3:21:05] Blaze150000: well just did with your specc my third duellist in ss can i send u a link to screenshot of the scoreboard ?
+[3:21:08] privategravy: Did 45 sec build feel good there?
+[3:21:12] privategravy: It didnt seem bad
+[3:21:55] Croix4: how much haste do you think we should run
+[3:22:11] julienb95: Retail looks so brutal to play
+[3:22:38] happyheals: it is that way in order to have shorter games
+[3:23:01] happyheals: the healers in solo shuffle gotta get back out there in the streets
+[3:23:08] happyheals: earn daddy money
+[3:23:25] brindleindle: so no doomburst is the play now?
+[3:24:10] happyheals: Gotta have the Taco Bell buff for the doomburst to proc
+[3:24:35] happyheals: man
+[3:24:49] happyheals: I want Taco Bell now. I haven't had it in like 7 years
+[3:25:07] manyforless: yall put any thought into frost dev as a potential comp in awc?
+[3:25:10] Delicious91: Ö
+[3:26:02] julienb95: Damn I respect your determination 👏 man
+[3:32:23] happyheals: frost and dev are showing decent games on arena logs. I see Frost Dev Pres with the highest win % over 2100. Holy Priest, Mistweaver all over 60% win
+[3:32:43] happyheals: with rsham 57 %
+[3:32:58] happyheals: only based off of games with people running arena logs
+[3:33:17] Eradivyn: !addons
+[3:33:18] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[3:33:21] Eradivyn: !weakaura
+[3:34:25] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[3:37:34] Blaze150000: Blaze150000 subscribed at Tier 1. They've subscribed for 2 months! 
+[3:37:34] StreamElements: Blaze150000 just subscribed for 2 months in a row mesDad mesDad mesWeckso
+[3:37:35] Kriptonikz: yo
+[3:37:44] TrippyvV: Is it me or double caster kinda insane right now
+[3:37:51] Blaze150000: Thx u for the tipps man
+[3:38:04] Kriptonikz: how you doin mes?
+[3:38:09] sunileif: Cheer1 Cheer1 Cheer1
+[3:40:22] Blaze150000: its amazing how u guys giving us nice advice, like cdew also when u ask him something in chat he answer
+[3:40:22] Moobot: Join my Discord community! https://discord.gg/mes
+[3:41:40] TrippyvV: Dmg is unreal
+[3:42:32] happyheals: These guys are very knowledgeable and love to help, just sometimes it may take them a while with matches going
+[3:42:59] Blaze150000: yeah i understand when they are in matches
+[3:44:36] TrippyvV: That was goin good too
+[3:45:25] sean_spelled_like_seen: @TrippyvV double caster is always good because it usually has pretty solid cc. if you line up cds and stuff right it makes it pretty annoying to play melee cleaves into it
+[3:45:49] sean_spelled_like_seen: hybrid and double caster always tend to have the upper hand on pure melee cleaves
+[3:46:17] happyheals: harder to reset and drink for the melee team
+[3:46:19] TrippyvV: Yeh fair, just the sheer dmg of destro/sp looks busted rn
+[3:47:05] TrippyvV: Dudes are parsing 99s
+[3:47:26] sean_spelled_like_seen: that's also because they're just getting to chew through 2 melee who have to stand in to do damage
+[3:47:37] happyheals: Only need to parse a 69 to win
+[3:47:40] sean_spelled_like_seen: nice
+[3:48:18] happyheals: happyheals gifted a Tier 1 sub to TrippyvV! They have given 313 Gift Subs in the channel! 
+[3:48:18] StreamElements: TrippyvV just subscribed mesDad mesDad mesWeckso
+[3:48:30] sean_spelled_like_seen: honestly i enjoy playing melee cleave but my partners always tilt and we usually just default back to hybrid comps
+[3:48:37] TrippyvV: I swear pala is also insane for this hes enabling them so much
+[3:48:48] TrippyvV: Yooo big thanks @happyheals
+[3:48:56] SlaqzEnhance: do you think the dot build is "better" then the wound burst build?
+[3:48:57] happyheals: for sure
+[3:49:14] sean_spelled_like_seen: pala is crazy for caster for sure, bop sac searing glare
+[3:49:21] sean_spelled_like_seen: all good util to keep squishies up
+[3:49:54] happyheals: pala and druid are strong
+[3:49:54] sean_spelled_like_seen: lower mmr you just slam the pala whenever they sac tho
+[3:50:30] michaelss_: he can glimpse
+[3:50:33] michaelss_: so he doesn’t get cc
+[3:50:41] michaelss_: GLIMPSE STOPS THE CC
+[3:50:45] michaelss_: someone tell@hom
+[3:50:58] TrippyvV: Yo thats insane?
+[3:51:34] therealMartianX: Hiii
+[3:51:42] therealMartianX: came from the discord
+[3:52:09] happyheals: hello
+[3:52:11] therealMartianX: how are yoouu
+[3:52:14] TrippyvV: Aintnoway thats real Chas up at 8 am q'in NA arena lol
+[3:52:18] happyheals: welcome to the danger zone
+[3:52:48] sunileif: DANGA ZONE!
+[3:53:01] therealMartianX: ayyy nice to be here
+[3:55:46] Szain3: DinoDance
+[3:56:42] AxiomDK: !wa
+[3:56:42] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[3:56:46] dyelbish: you playing any more wotlk?
+[3:57:25] AxiomDK: this is the updated weakaura right?
+[3:57:41] ultiexilate: how come you went dot build there? to oom Druid ?
+[3:58:50] crusadein: wouldnt clawing work better with spellwarden? so you can get rotten touch aswell and hit large clawings to fill the dmg that is missing from doomburst
+[3:59:14] Shovel99: can you give some sort kf advice for dk builds? ive seen sk many variants being played
+[4:01:01] dyelbish: dark on dark - thats super dark
+[4:01:01] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[4:02:46] Idgtst: I haven't played in a while, did they change how abom limb looks?
+[4:03:04] AxiomDK: Is the DF weakaura updated? I love that notification for Big Missles / Kicking Next @notmes
+[4:03:35] happyheals: happyheals gifted a Tier 1 sub to CDewsSeadoo! They have given 314 Gift Subs in the channel! 
+[4:03:36] StreamElements: CDewsSeadoo just subscribed mesDad mesDad mesWeckso
+[4:03:37] ultiexilate: what addon for showing big icons above shaman totems?
+[4:03:41] SlaqzEnhance: !talent
+[4:04:08] happyheals: it is called big debuffs
+[4:04:17] happyheals: you can get it on curseforge
+[4:04:42] AxiomDK: Is the DF weakaura updated? @notmes I love that kick next missles / big missles notification
+[4:04:43] Eradivyn: lichborne and IBF should be separately used right? @notmes
+[4:05:40] ConchubarOD: the positioning requirement for the frontals is annoying to play around in pve
+[4:05:49] joeyybarber: is there a list of mes addons?
+[4:06:02] barricade777: !addons
+[4:06:02] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[4:06:27] barricade777: here @joeyybarber DinoDance
+[4:06:44] joeyybarber: sweet thanks
+[4:06:47] YungScuz: !wa
+[4:06:47] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[4:10:43] poxpoxxd: lmaooo
+[4:10:56] poxpoxxd: what comp did u play back in the days in wrathful ssn
+[4:12:47] ultiexilate: what talent did you drop there for party AMS
+[4:13:26] happyheals: In order to party you have to drop some sick beats
+[4:13:54] poxpoxxd: why never stream with cam
+[4:13:58] poxpoxxd: are u afraid of bullying
+[4:14:14] happyheals: no, he will stream with a cam when he moves
+[4:14:32] poxpoxxd: did he ever turn on cam
+[4:14:36] poxpoxxd: before
+[4:15:09] ImHomegr0wn: yea he's streamed in the past with a cam
+[4:15:28] poxpoxxd: ok
+[4:15:28] happyheals: yeah he has been to Blizzcon playing live as well
+[4:16:32] happyheals: he has a wife and child that he is being respectful of.
+[4:17:20] Szain3: DinoDance
+[4:18:35] joeyybarber: what addon is flashing his cooldowns on his screen when they are up?
+[4:18:44] happyheals: !addons
+[4:18:44] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[4:18:55] happyheals: !wa
+[4:18:56] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[4:19:01] happyheals: my bad the 2nd one
+[4:19:05] ImHomegr0wn: joeyybarber omnicc but use doomcooldownpulse for it
+[4:19:11] joeyybarber: is it a weak aura?
+[4:19:21] joeyybarber: ohh okay thanks
+[4:19:33] ImHomegr0wn: you're welcome
+[4:19:34] happyheals: the abilities and stuff appearing on screen are
+[4:19:50] Pwnyo808: what's the best bagnon replacement?
+[4:20:07] happyheals: he adds and adjusts the abilities as needed
+[4:20:19] happyheals: wow ui
+[4:20:29] Pwnyo808: fair
+[4:21:03] happyheals: they added pretty much the bagnon abilities
+[4:21:03] Moobot: Join my Discord community! https://discord.gg/mes
+[4:21:56] happyheals: you could use bag brother to keep track of inventory across toons on your account
+[4:22:26] avenueone: asmrguy: mez gen z gamer confirmed
+[4:22:51] happyheals: Ave is my hero
+[4:23:10] avenueone: the hero nobody wants
+[4:23:33] happyheals: but the one that people watching the movie know they need
+[4:23:56] avenueone: until i become the villain
+[4:24:09] happyheals: but secretly wish that he went back to his playboy days with a lady on each arm
+[4:25:02] happyheals: But then you find out it is 2 Russian Assassins from a different movie franchise
+[4:25:30] happyheals: and Ave gets replaced by Ryan Gosling
+[4:25:32] avenueone: morgan: Oh, you think darkness is your ally. But you merely adopted the dark; I was born in it, moulded by it. I didn't see the light until I was already a man, by then it was nothing to me but BLINDING! The shadows betray you, because they belong to me!
+[4:26:21] avenueone: bane is my fav batman char
+[4:27:24] happyheals: I had a memory from facebook back in 2010 or something where I said I would like to invest in anyone who can record Morgan Freeman's Voice and make an artificial compilation of every word in the English Language.
+[4:28:43] happyheals: My favorite Batman Character is irony
+[4:29:11] avenueone: tate: Yo, whats up my man Mez. Didn't see you at our latest meet up. Hope to see you at the next one you can fight me you beta bitch
+[4:29:34] avenueone: its not
+[4:29:36] Varsader: so hostile
+[4:29:36] avenueone: its just you
+[4:30:00] avenueone: maybe u playing with ur sound channels ruined it for u again
+[4:31:51] avenueone: gonna do r1 push on wotlk ?
+[4:32:51] avenueone: Xijinping: diu lar ma
+[4:33:42] happyheals: happyheals gifted a Tier 1 sub to Blizzard! They have given 315 Gift Subs in the channel! 
+[4:33:43] StreamElements: Blizzard just subscribed mesDad mesDad mesWeckso
+[4:34:14] happyheals: gotta make all the movers and shakers follow Mes
+[4:34:19] Varsader: LUL
+[4:36:52] Briggsy22: !wa
+[4:36:52] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[4:36:53] Szain3: DinoDance
+[4:37:22] krome2dadome: rukiGrin
+[4:37:34] sunileif: mews
+[4:39:18] krome2dadome: dewMes
+[4:39:20] sunileif: whiski will fix that
+[4:39:41] avenueone: ill fix it
+[4:39:45] al_capow: need the classic h20
+[4:39:46] sunileif: whiski isnt a cure all?
+[4:39:49] krome2dadome: mesDragon1 mesDragon2
+[4:39:57] Briggsy22: @notmes can you post that pet WA that you had where the frame glows sub 50% or whatever it was from earlier 3s
+[4:39:58] avenueone: ktfo
+[4:40:05] happyheals: Whiskey is all I really drink. It don't do shit for headaches, but it won't cause them
+[4:40:15] al_capow: nothing like a 2 am bfd, that will clear it out
+[4:40:32] notmes: https://wago.io/4ZrucWtGX
+[4:40:37] Briggsy22: ty chief
+[4:40:42] Briggsy22: howd the no doomburst feel overall
+[4:40:50] al_capow: I ran on my shammy earlier and the guild yoinked the pearl
+[4:40:51] al_capow: sigh
+[4:41:09] al_capow: also I updated the WA for your renaming suggestion
+[4:41:09] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[4:41:24] happyheals: happyheals gifted a Tier 1 sub to NewZealand_PvP! They have given 316 Gift Subs in the channel! 
+[4:41:25] StreamElements: NewZealand_PvP just subscribed mesDad mesDad mesWeckso
+[4:41:39] al_capow: mes you should scratch your coding itch and make your bg WA with the buttons you talked about
+[4:41:44] happyheals: I spent way too long looking for something cool
+[4:42:49] krome2dadome: krome2dadome gifted a Tier 1 Sub to Hobbit_PvP! They’ve given 6969 Gift Subs in the channel!
+[4:43:10] avenueone: asmrguy: mez hobbit confirmed
+[4:43:18] happyheals: Kromedome done lied
+[4:43:35] sunileif: keys?
+[4:43:45] avenueone: rbgs
+[4:43:49] avenueone: seeing as tho u couldnt get me a win last night
+[4:44:11] sunileif: h raid?
+[4:44:45] luriosbael: !gamble all
+[4:44:46] StreamElements: PogChamp luriosbael went all in and won 2001320 runes PogChamp they now have 4002640 runes FeelsGoodMan
+[4:44:47] krome2dadome: if you want frame class colors try the addon Healthbar Colors
+[4:44:50] avenueone: beefdaddy h fyrakk
+[4:44:53] al_capow: I kinda hope they have like a model update for the next wow expansion
+[4:44:56] krome2dadome: that’s what I’ve been using
+[4:45:04] al_capow: I cant login to retail without thinking everything looks a little squishy
+[4:45:08] avenueone: i tried that krome
+[4:45:11] avenueone: made everything pally color
+[4:45:12] Pwnyo808: ugh, trying to hit 1800 as Surv is rooooough
+[4:45:57] krome2dadome: I just hate the green for my own hp
+[4:46:03] krome2dadome: idk why
+[4:46:57] avenueone: whos ur favorite batman char mes
+[4:47:02] avenueone: villain or hero doesnt matter
+[4:47:05] al_capow: joker ez
+[4:47:17] krome2dadome: Bane
+[4:47:22] avenueone: bane
+[4:47:36] al_capow: or tt robin is cool too
+[4:47:49] avenueone: robin has SDE
+[4:47:53] sunileif: batman is awful
+[4:47:54] al_capow: !ave
+[4:47:54] Nightbot: fuck u ave
+[4:48:23] krome2dadome: you think darkness is your ally? You merely adopted the dark. I was born in it, molded by it.
+[4:49:07] avenueone: tom hardy is just a buff cunt i love when he gets his throat slit in lawless n lives
+[4:49:38] Vanguarded: ffanV
+[4:49:45] Vanguarded: whats cookin NOTMes and chat
+[4:49:52] krome2dadome: lawless was sick
+[4:51:02] Vanguarded: Vanguarded subscribed at Tier 1. They've subscribed for 6 months! I found a penny <3 :D
+[4:51:02] StreamElements: Vanguarded just subscribed for 6 months in a row mesDad mesDad mesWeckso
+[4:51:15] krome2dadome: revenant was sick too
+[4:51:24] Vanguarded: Gotta help the content creators
+[4:51:25] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/VvQNdB
+[4:51:29] Vanguarded: It be a hard bidness atm
+[4:51:51] avenueone: warrior was sick aswell heaps of good tom hardy movies
+[4:52:19] Vanguarded: come ouit and plaaaaaaaaaaay
+[4:52:23] krome2dadome: yea he’s def a top 5 actor imo
+[4:52:25] Vanguarded: warriors is a cult classic
+[4:53:52] sunileif: tom hardy? bar's set real low huh?
+[4:54:01] avenueone: suni
+[4:54:06] happyheals: happyheals gifted a Tier 1 sub to Ninja! They have given 317 Gift Subs in the channel! 
+[4:54:07] StreamElements: Ninja just subscribed mesDad mesDad mesWeckso
+[4:54:17] happyheals: Tom Hardy is an awesome Actor
+[4:54:37] happyheals: His character in Peaky Blinders was og status
+[4:54:46] sunileif: nah but im happy you enjoy his shlock
+[4:54:48] Xcyyted: @notmes as a newer dk player, would u suggest to first settle on clawing build or dot build? to improve overall:)
+[4:55:26] sunileif: next your gonna tell me the fast and furry movies had stellar acting in them
+[4:55:29] happyheals: I'm Happy
+[4:55:30] al_capow: I wonder if 2/8 is an innocuous enough day to take a sneaky sick day
+[4:56:09] avenueone: @sunileif wdym? dont all cars have 15 gears
+[4:56:23] happyheals: February 20th is the best day to take off. Studies were done that showed it is the most ideal day of the year
+[4:56:28] sunileif: or that venom was a fantastic movie
+[4:56:46] happyheals: I haven't seen venom
+[4:56:59] happyheals: haven't seen a movie in a few years, or tv show
+[4:57:17] sunileif: actually nvm he was great in Wuthering Heights
+[4:57:38] happyheals: last new movie I saw was Jackass whatever number in theaters
+[4:57:50] happyheals: Emily Bronte would have been happy
+[4:58:14] sunileif: mes 3s?
+[4:58:25] happyheals: damn I shjould do 2s
+[4:58:51] happyheals: I need someone to lead me down the yellow brick road
+[4:59:25] happyheals: I'm wherever me and Mes left off
+[4:59:26] avenueone: 2 healers and 2 dps queued not aligned
+[5:01:15] happyheals: lol instant q pop
+[5:01:15] Moobot: Join my Discord community! https://discord.gg/mes
+[5:02:56] avenueone: queue dodging maybe
+[5:03:23] Eradivyn: bursting sores or rot build? @notmes
+[5:04:15] atoker: !addons
+[5:04:15] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[5:04:18] atoker: !addon
+[5:04:26] avenueone: !wa
+[5:04:26] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[5:04:27] avenueone: !nameplates
+[5:04:28] StreamElements: Download Plater + use this profile: https://wago.io/2iWqxZtWW (DF) or https://wago.io/CQ5u1hps1 (WoTLK) || Import into Plater not WeakAuras
+[5:04:34] sunileif: !ave
+[5:04:34] Nightbot: fuck u ave
+[5:04:38] sunileif: !klink
+[5:04:39] avenueone: !ave2
+[5:04:39] Nightbot: jk
+[5:04:42] sunileif: !klinkbags
+[5:04:42] StreamElements: 119 klinkbags mesGiga
+[5:04:55] atoker: anyone know which addon mes uses for his bags?
+[5:05:01] sunileif: @kklinker Saususge
+[5:05:19] sunileif: the default blizz bags?
+[5:05:23] avenueone: thats default
+[5:05:30] atoker: bagnon is bugged for me
+[5:05:39] atoker: how do you combine them?
+[5:06:02] avenueone: cant remember i think it does it auto now since edit mode
+[5:06:19] sunileif: its in the options
+[5:06:40] dawsonator171: !ave
+[5:06:40] Nightbot: fuck u ave
+[5:07:00] Xcyyted: @notmes as a newer dk player, would u suggest to first settle on clawing build or dot build? to improve overall:)
+[5:07:40] al_capow: hmm
+[5:08:07] al_capow: is the cast bar text  in a separate frame?
+[5:08:32] al_capow: you could make a WA that, on cast, changes the text frame anchor
+[5:09:01] al_capow: there might be a race condition there depending on how the event works but it might work
+[5:09:37] al_capow: make a blank text aura with a custom event trigger for cast start and try it
+[5:10:27] dawsonator171: you need to use "SETPOINT=DEEZ" for it to work.
+[5:11:05] cdewx: 869 raiders from cdewx have joined! 
+[5:11:06] StreamElements: cdewx just raided the channel with 869 viewers PogChamp
+[5:11:18] rank1gladiator: wassup dude
+[5:11:25] hantaraki: yooo
+[5:11:54] tonydeezerpp: qs seem to be dead Chuck didnt q anything
+[5:12:00] tonydeezerpp: get q*
+[5:12:17] Fostethesnowman: hi mes bye mes
+[5:12:45] happyheals: I get a mage on my team that does nothing and doesn't even ice block and dies both times. Then on the other team he absolutely destroys. It was definitely on purpose
+[5:13:53] devascienos: devascienos is gifting 10 Tier 1 Subs to notmes's community! They've gifted a total of 1550 in the channel! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to DouzySham! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to deathsp1tter! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to asams! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to quantexxx1! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to twinkieruler95! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to turdbUlance! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to Falaenx! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to bump1! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to aant02! 
+[5:13:53] devascienos: devascienos gifted a Tier 1 sub to PROBSTWURST! 
+[5:13:54] StreamElements: DouzySham just subscribed mesDad mesDad mesWeckso
+[5:13:54] StreamElements: deathsp1tter just subscribed mesDad mesDad mesWeckso
+[5:13:55] StreamElements: twinkieruler95 just subscribed mesDad mesDad mesWeckso
+[5:13:55] StreamElements: asams just subscribed mesDad mesDad mesWeckso
+[5:13:56] StreamElements: turdbUlance just subscribed mesDad mesDad mesWeckso
+[5:13:56] StreamElements: Falaenx just subscribed mesDad mesDad mesWeckso
+[5:13:56] StreamElements: bump1 just subscribed mesDad mesDad mesWeckso
+[5:13:57] StreamElements: PROBSTWURST just subscribed mesDad mesDad mesWeckso
+[5:13:57] StreamElements: aant02 just subscribed mesDad mesDad mesWeckso
+[5:13:57] StreamElements: quantexxx1 just subscribed mesDad mesDad mesWeckso
+[5:14:17] asams: @devascienos Thanks for the gift sub!
+[5:14:58] avenueone: asmrguy: mez long while confirmed
+[5:14:59] hantaraki: For a returning player that has 2.1k xp as both UH DK and WW Monk which do you recommend in the current state of pvp?
+[5:15:08] hantaraki: Haven't played since beginning of DF
+[5:15:25] happyheals: happyheals gifted a Tier 1 sub to cdewscousin! They have given 318 Gift Subs in the channel! 
+[5:15:26] StreamElements: cdewscousin just subscribed mesDad mesDad mesWeckso
+[5:16:41] happyheals: getting 4 wins in a shuffle at 1408 rating and no change
+[5:17:12] happyheals: it is just funny. Means there probably arent healers at that cr queuing
+[5:17:25] happyheals: Maybe 2s then
+[5:18:14] StreamElements: fatsaccadeez just donated $20.00 mesWeckso mesWeckso mesDad
+[5:18:26] avenueone: nuts
+[5:18:32] happyheals: thats nuts
+[5:18:46] happyheals: bless these cheeks
+[5:18:49] dawsonator171: wife at work
+[5:18:51] dawsonator171: we all good
+[5:19:07] happyheals: you know when you see a fat sac
+[5:19:24] avenueone: no1 else makes deez jokes
+[5:19:42] Landrysdad: did the patch change the meta at all
+[5:19:47] ImHomegr0wn: maybe quartz has a theme for it?
+[5:19:49] dawsonator171: dawsonator171 gifted a Tier 1 sub to avelovesyou! They have given 2458 Gift Subs in the channel! 
+[5:19:49] StreamElements: avelovesyou just subscribed mesDad mesDad mesWeckso
+[5:20:16] sunileif: and ave loves feet
+[5:20:24] happyheals: yeah I use that in classic
+[5:20:26] avenueone: avenueone gifted a Tier 1 sub to likea! They have given 6219 Gift Subs in the channel! 
+[5:20:27] StreamElements: likea just subscribed mesDad mesDad mesWeckso
+[5:20:40] happyheals: it is just the bars, I am sure they work in both
+[5:20:46] avenueone: avenueone gifted a Tier 1 sub to bulletinthehead! They have given 6220 Gift Subs in the channel! 
+[5:20:46] StreamElements: bulletinthehead just subscribed mesDad mesDad mesWeckso
+[5:21:11] happyheals: nvm, not sure about any wa or add ons atm
+[5:21:13] dawsonator171: dawsonator171 gifted a Tier 1 sub to morelike! They have given 2459 Gift Subs in the channel! 
+[5:21:13] StreamElements: morelike just subscribed mesDad mesDad mesWeckso
+[5:21:19] happyheals: so many issues
+[5:21:19] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[5:21:25] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[5:21:32] dawsonator171: dawsonator171 gifted a Tier 1 sub to CoxynMianus! They have given 2460 Gift Subs in the channel! 
+[5:21:32] StreamElements: CoxynMianus just subscribed mesDad mesDad mesWeckso
+[5:21:37] avenueone: avenueone gifted a Tier 1 sub to Dildointhearse! They have given 6221 Gift Subs in the channel! 
+[5:21:37] StreamElements: Dildointhearse just subscribed mesDad mesDad mesWeckso
+[5:21:39] happyheals: yep, im going minimal a few days
+[5:21:54] al_capow: al_capow is gifting 10 Tier 1 Subs to notmes's community! They've gifted a total of 1540 in the channel! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to holyfans_eu! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to NotKohi! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to jokexbox! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to gorgeousmaxx! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to GiorgianB! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to misterblaht! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to jimmy611yo! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to GaryGlutes! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to Jakedus91! 
+[5:21:55] al_capow: al_capow gifted a Tier 1 sub to lykaionxd17! 
+[5:21:56] StreamElements: holyfans_eu just subscribed mesDad mesDad mesWeckso
+[5:21:56] StreamElements: NotKohi just subscribed mesDad mesDad mesWeckso
+[5:21:56] StreamElements: jokexbox just subscribed mesDad mesDad mesWeckso
+[5:21:57] dawsonator171: it's the xaryu name.
+[5:21:57] StreamElements: gorgeousmaxx just subscribed mesDad mesDad mesWeckso
+[5:21:57] StreamElements: GiorgianB just subscribed mesDad mesDad mesWeckso
+[5:21:58] StreamElements: jimmy611yo just subscribed mesDad mesDad mesWeckso
+[5:21:58] StreamElements: misterblaht just subscribed mesDad mesDad mesWeckso
+[5:21:58] StreamElements: Jakedus91 just subscribed mesDad mesDad mesWeckso
+[5:21:59] StreamElements: GaryGlutes just subscribed mesDad mesDad mesWeckso
+[5:21:59] StreamElements: lykaionxd17 just subscribed mesDad mesDad mesWeckso
+[5:22:17] happyheals: Ave is being a baddie bad today
+[5:22:20] dawsonator171: GARY FUCKING GLUTES MAN
+[5:22:24] dawsonator171: do you wee it.
+[5:22:26] Sgtpeppr: PogChamp
+[5:22:56] dawsonator171: someone could gift or sub to run a train on mes.
+[5:22:57] avenueone: avenueone gifted a Tier 1 sub to meswantsyou! They have given 6222 Gift Subs in the channel! 
+[5:22:57] StreamElements: meswantsyou just subscribed mesDad mesDad mesWeckso
+[5:22:59] DirtyYankee0: why cant you say the names? @notmes
+[5:23:01] yourKnightmaare: could always use quartz no?
+[5:23:01] zachgamegodx: what’s the plan mes, we in q ?
+[5:23:16] Eradivyn: rot spec or sore spec as a DK?
+[5:23:20] happyheals: you should be able to edit it in the weak aura
+[5:23:21] injos: easiest solution would to just import / do your own cast bar as a WA.
+[5:23:26] avenueone: avenueone gifted a Tier 1 sub to tokiss! They have given 6223 Gift Subs in the channel! 
+[5:23:26] StreamElements: tokiss just subscribed mesDad mesDad mesWeckso
+[5:23:44] happyheals: what weak aura is that bar you want to edit?
+[5:23:49] avenueone: avenueone gifted a Tier 1 sub to his_! They have given 6224 Gift Subs in the channel! 
+[5:23:50] StreamElements: his_ just subscribed mesDad mesDad mesWeckso
+[5:23:53] happyheals: keep it simple stupid
+[5:23:56] AnAnonymousGifter: An anonymous user gifted a Tier 1 sub to effrainnsc!  
+[5:23:57] StreamElements: effrainnsc just subscribed mesDad mesDad mesWeckso
+[5:24:06] avenueone: avenueone gifted a Tier 1 sub to Nuts! They have given 6225 Gift Subs in the channel! 
+[5:24:07] StreamElements: Nuts just subscribed mesDad mesDad mesWeckso
+[5:24:09] happyheals: edit mode
+[5:24:25] avenueone: can u read my subs in order mes
+[5:24:29] al_capow: click cast bar
+[5:24:32] al_capow: in the thing
+[5:24:36] happyheals: i thought you meant the portraits
+[5:24:36] PeptoAbysmal: Cheer100
+[5:24:36] StreamElements: PeptoAbysmal just cheered 100 bits PogChamp
+[5:24:56] al_capow: o
+[5:25:28] avenueone: asmrguy: meswants you tokiss his nuts
+[5:25:56] al_capow: beautiful
+[5:26:17] dawsonator171: kissing nuts is strange, and doesn't directly deliver pleasure.
+[5:26:25] avenueone: for you
+[5:26:35] avenueone: its more of a dom thing
+[5:26:39] avenueone: having the power to make sum1 do that
+[5:26:40] sunileif: it does if youre a narcisist
+[5:26:47] dawsonator171: idk what kind of pleasure you get from kissing pistachios or cashews
+[5:27:07] al_capow: the fact that you're allowing it to be 251 and not 250 hurts me
+[5:27:27] happyheals: happyheals gifted a Tier 1 sub to DawsonsCreek! They have given 319 Gift Subs in the channel! 
+[5:27:27] StreamElements: DawsonsCreek just subscribed mesDad mesDad mesWeckso
+[5:27:50] dawsonator171: if I had a dollar for everytime I've heard that in my life
+[5:27:50] dawsonator171: I
+[5:27:54] al_capow: and the height...
+[5:27:58] dawsonator171: would be able to t7 to mes.
+[5:28:00] happyheals: I don't wanna wait
+[5:28:07] al_capow: blessed
+[5:28:08] happyheals: for Ave to get bolder
+[5:28:19] al_capow: oh god
+[5:28:26] al_capow: what is this binary crap
+[5:28:29] avenueone: pretty sure mes knows i have 0 limits
+[5:28:32] happyheals: make it look super awkward to people get tilted
+[5:28:49] al_capow: I try to see the coder mes and you use it to tilt me
+[5:28:50] sunileif: tilt them harder
+[5:29:31] happyheals: Over time I find a way to ignore anything on screen
+[5:29:47] dawsonator171: Mes is doing things I already have ELVUI do, but that's not really the best for pvp.
+[5:30:03] al_capow: I wonder if you could get tts with just enemy cast
+[5:30:13] afk_801: hey Mes can you answer why you run the same embellishment on 2 pieces? does it stack or does it happen twice as often
+[5:30:18] happyheals: the flashing alert
+[5:30:23] happyheals: the aggro flash
+[5:30:25] dawsonator171: it's called GladiatorLossa already @al_capow
+[5:30:26] Itankarenas: i have none of these problems with Elv
+[5:30:31] happyheals: oh I thought iot lit up
+[5:30:43] Itankarenas: it has different stlyes u can choose from
+[5:30:43] dawsonator171: ELV is super loaded as fuck.
+[5:30:46] Itankarenas: mine is simple af
+[5:30:54] al_capow: the name on black background might be an A11Y accessibility thing
+[5:31:01] al_capow: for high contrast
+[5:31:12] Itankarenas: Mine is a single bar, with a small bar underneath with their class power
+[5:31:26] movvo: prolly so they can show the art xd
+[5:31:35] easybola: VoHiYo
+[5:31:47] TiltTeamGG: 2020Snacking
+[5:31:50] happyheals: if you need to do others it is cool
+[5:31:55] afk_801: @notmes does running the double conduit embellish make it stack or happen twice as often?
+[5:32:06] dawsonator171: you can literally set ELV to do virtually anything. The only issue with ELV i have for pvp is DR trackers don't exist.
+[5:32:26] yourKnightmaare: have you seen voodoo castbars?
+[5:32:35] avenueone: Choo Chooo HypeOhDeer
+[5:32:36] yourKnightmaare: voodoo casting bars*
+[5:32:37] afk_801: or can anyone answer my question?
+[5:32:37] dawsonator171: Choo Chooo HypeSanta
+[5:32:49] PeptoAbysmal: Choo Chooo HypeSanta
+[5:33:09] dawsonator171: he doesn't know that I was the anonymous man to trigger a train to be run on him.
+[5:33:24] al_capow: what was the question with protected frames?
+[5:33:44] yourKnightmaare: I think voodoo casting bar makes the current retail ones customizable
+[5:34:03] dawsonator171: resto druid is amazing.
+[5:36:02] dawsonator171: are they nerfing this class soon?
+[5:36:10] PeptoAbysmal: there's an edit mode expanded addon
+[5:36:41] PeptoAbysmal: too expanded for me personally HypeLUL
+[5:36:41] dawsonator171: Bedge maybe I wake up to good news. maybe frost will catch a 4% buff.
+[5:36:56] PeptoAbysmal: but for you, might not be
+[5:36:58] Itankarenas: @notmes i'll link u my UI after I finish this quest if u wanna see it
+[5:37:00] animeonsteroids: @notmes what addons do you have ?
+[5:37:12] Itankarenas: I can put it in an imgur link
+[5:40:15] memph1s: elo
+[5:45:20] Itankarenas: @notmes what my ElvUI looks like https://imgur.com/a/QYZXyCj
+[5:45:20] Moobot: Join my Discord community! https://discord.gg/mes
+[5:46:03] Briggsy22: you and erin gonna play palworld off stream?
+[5:46:22] Briggsy22: its like pokemon with guns
+[5:46:26] Briggsy22: pokemon X arc
+[5:46:30] Briggsy22: ark*
+[5:46:33] Itankarenas: you shoot the pokemon? monkaW
+[5:46:35] Briggsy22: just came out today
+[5:46:39] Briggsy22: have a look on steam
+[5:46:42] Briggsy22: im downloading now LOL cant wait
+[5:46:50] Briggsy22: pokemon red white and blue KKona
+[5:46:51] yourKnightmaare: I see what you did there, mes
+[5:46:53] Itankarenas: Gotta Shoot 'Em All
+[5:47:26] Briggsy22: have a glance on steam even if you dont like it erin might haha
+[5:47:37] Itankarenas: sleep apnea?
+[5:47:47] Briggsy22: i just watched my mate punch a chicken unconcious, miss his ball to capture, so turned it into food lol
+[5:48:03] Itankarenas: well that's better than having sleep apnea at least
+[5:48:49] avenueone: i woke up in a sweat ball power went out overnight for like 5-6 hrs sucked ass
+[5:49:10] avenueone: humid as fuck hot as fuck
+[5:49:35] zachgamegodx: get a generator
+[5:53:06] zachgamegodx: mes deaths advance passive adds your speed enchant to the 70% that’s pretty nice
+[5:53:14] zachgamegodx: so you can’t be slowed below 81%
+[5:53:42] zachgamegodx: just noticed it
+[5:54:15] zachgamegodx: the passive makes slows only reduce up to 70 but your stat addon shows 81
+[5:54:30] zachgamegodx: so I guess it adds in the 11% speed from enchants
+[5:56:18] zachgamegodx: i think you went muted
+[6:00:16] zachgamegodx: night elf’s have a 2% chance to dodge apoc
+[6:00:28] zachgamegodx: has it ever happened to you
+[6:01:29] Canivalol: hello , what nameplate addon u have?
+[6:01:44] Vanguarded: Just did a mythic and topped dmg gave the leads the gear i got as it was a sidegrade, then got kicked from the group KEKW
+[6:01:57] DirtyYankee0: KEKW @Vanguarded
+[6:02:09] Vanguarded: FeelsBadMan
+[6:02:33] Algooty: hows UH nowdays? Thicc?
+[6:10:25] chrisiirc: @Vanguarded no good dead goes unpunished
+[6:10:25] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[6:10:28] chrisiirc: deed*
+[6:10:33] zachgamegodx: mes are you the guy who does “BAM” in weak auras
+[6:10:41] zachgamegodx: i always thought it was you
+[6:10:54] MikeXTV: Hey Mes, as a returning DK what is the best comp to climb now?
+[6:10:59] MikeXTV: Is DH DK strong
+[6:11:00] avenueone: it was him
+[6:11:02] avenueone: in shadowlands
+[6:11:36] zachgamegodx: wait rly
+[6:11:42] zachgamegodx: I knew I wasn’t crazy
+[6:11:47] avenueone: bam and clown horns
+[6:11:48] avenueone: stuff like that
+[6:12:12] krome2dadome: he makes the shotgun sound too
+[6:12:20] simszszy: PogChamp
+[6:13:22] happyheals: it came up like as you died
+[6:13:42] krome2dadome: woulda been a sick tranq
+[6:15:16] devascienos: devascienos is gifting 10 Tier 1 Subs to notmes's community! They've gifted a total of 1560 in the channel! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to Ratkingdomdh! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to laranjas_azuis! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to jazrian! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to blankemad! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to moppy00! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to Trilledux! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to PatrikSimons! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to Nemiha21! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to lucysnorebush123! 
+[6:15:17] devascienos: devascienos gifted a Tier 1 sub to miapx! 
+[6:15:17] StreamElements: Ratkingdomdh just subscribed mesDad mesDad mesWeckso
+[6:15:18] StreamElements: laranjas_azuis just subscribed mesDad mesDad mesWeckso
+[6:15:18] StreamElements: jazrian just subscribed mesDad mesDad mesWeckso
+[6:15:18] StreamElements: Trilledux just subscribed mesDad mesDad mesWeckso
+[6:15:19] StreamElements: blankemad just subscribed mesDad mesDad mesWeckso
+[6:15:19] StreamElements: moppy00 just subscribed mesDad mesDad mesWeckso
+[6:15:20] StreamElements: miapx just subscribed mesDad mesDad mesWeckso
+[6:15:20] StreamElements: Nemiha21 just subscribed mesDad mesDad mesWeckso
+[6:15:20] StreamElements: PatrikSimons just subscribed mesDad mesDad mesWeckso
+[6:15:21] StreamElements: lucysnorebush123 just subscribed mesDad mesDad mesWeckso
+[6:15:22] krome2dadome: after playing dh dk today, it felt a lot stronger than tsg imo
+[6:15:33] iamzill: yayyyy  ty
+[6:18:47] skidetko: show talents pls
+[6:19:16] skidetko: !talents
+[6:19:16] StreamElements: BwPA/gf1fDREKLfAcG9Z2HkF/BAiEhIHItIRSkIRIikIJAAAAAAAAAgCJRSikkGAAhUSkkkgE
+[6:19:24] blankemad: @devascienos Thanks for the gift sub!
+[6:19:33] ghostgalx: are you muted?
+[6:19:47] dankgamer97: Hours lol
+[6:19:53] ghostgalx: yes LUL
+[6:19:55] avenueone: muted for an hr
+[6:19:56] dankgamer97: KEKW
+[6:19:56] avenueone: maybe more
+[6:19:56] krome2dadome: muted since u said dh dk is strong
+[6:20:00] krome2dadome: lol
+[6:20:32] krome2dadome: punch ur leg
+[6:20:35] happyheals: oh crap that has been my problem my whole life
+[6:20:38] happyheals: tunnel vision
+[6:20:39] krome2dadome: will make ur head stop hurting
+[6:20:40] devascienos: just unappriciated i see how it is
+[6:20:49] distorteddoc: gotta take care of that ish mes :D b4 it gets worse
+[6:20:53] happyheals: i meant it as  a joke
+[6:21:02] Briggsy22: @krome2dadome blizzard silenced him for spreading dk propoganda
+[6:21:04] avenueone: asmrguy: mez toxic as fuck
+[6:21:21] Solushun: Hi Mes
+[6:21:27] krome2dadome: u try erking it?
+[6:21:35] Solushun: utoh
+[6:21:44] Solushun: put it in rice
+[6:21:54] happyheals: Mes is 6'6" and half cyborg
+[6:21:58] happyheals: he might break it
+[6:22:08] Solushun: If you punch yourself and it hurts... does that mean your strong or weak?
+[6:22:34] avenueone: if u dont bruise urself ur a pussy
+[6:22:38] krome2dadome: idk whenever I was hurting somewhere my dad would say “I could punch the other one so that one stops hurting”
+[6:22:58] soothingmistmonk: I did learn this one thing about headaches if you squeeze your eyebrows it gives minor relief... Don't know if it is the same for migrains but give it a go.
+[6:23:04] happyheals: that is such a bad idea
+[6:23:09] krome2dadome: well u only have 1 head
+[6:23:14] happyheals: wanna make Chuck sad
+[6:23:15] Solushun: PAIN IS WEAKNESS LEAVING THE BODY!! -me losing 3rd game in a row to devistation evoker DH in dampening
+[6:23:36] krome2dadome: erking it always works
+[6:23:41] krome2dadome: safe backup
+[6:23:55] happyheals: i mean he would be if they made you punch yourself
+[6:24:03] Exzistancetw: 134 raiders from Exzistancetw have joined! 
+[6:24:03] StreamElements: Exzistancetw just raided the channel with 134 viewers PogChamp
+[6:24:15] Relakzx: 2020ByeGuys
+[6:24:22] Exzistancetw: EZ
+[6:24:34] avenueone: any nausea? i usually take something to make me stop being nauseas
+[6:24:40] avenueone: or help rather
+[6:27:36] dalastorx: ggs mes
+[6:28:18] xoHOLLOW: what is the nausea from? i just tuned in
+[6:28:27] Mythh_93: getting specs helped with my migraines happening. Usually from too much time at a pc
+[6:28:29] xoHOLLOW: ah gotcha
+[6:28:36] krome2dadome: @xohollow he needs to poop real bad
+[6:28:37] xoHOLLOW: migraines sound absolutely terrible
+[6:28:41] Grenzle: mes come on play with something other than a rdruid pleaseeeee :( anything
+[6:29:13] distorteddoc: havent heard "i just have a migraine" haha those are painful
+[6:29:41] wowsuomi: Maybe need to more relaxed
+[6:29:48] Mythh_93: I get them weekly. They are more annoying than anything lol
+[6:30:45] avenueone: i used to get em really bad after i had bad whiplash in a car accident
+[6:30:45] Moobot: Join my Discord community! https://discord.gg/mes
+[6:31:03] atoker: you could try drinking a glass of wine to thin out your blood, but idk
+[6:31:14] avenueone: uhhh i was full stopped
+[6:31:22] avenueone: and someone drove straight into my ass about 80kph
+[6:31:46] avenueone: worst thing is it wasnt my car
+[6:31:49] avenueone: was girlfriends sisters car
+[6:31:55] krome2dadome: wine definitely doesn’t thin out your blood
+[6:32:12] Begasaur: Morning
+[6:33:52] krome2dadome: not like one glass at least. we only see real effects in like hardcore alcoholics LUL
+[6:34:31] Begasaur: i have my surgical consult today, lets see what they say
+[6:35:18] Begasaur: yeah basically need a plastics/wound specialize to sew it up from teh inside and then put a skin graph over it basically
+[6:35:30] Begasaur: so just going go thru the procedure etc
+[6:35:58] krome2dadome: consults are usually like “we know you have a problem, let’s discuss what we want to do about it and when”
+[6:36:23] Begasaur: i went to the ER the other day and basically the staples and stitches didnt take and it got infected with MRSA so atm its just a wide open 4 inch gash on my leg
+[6:38:07] coldgrayrain: wait i thought they were immune during tranq
+[6:38:25] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/VvQNdB
+[6:38:47] coldgrayrain: oh
+[6:38:47] krome2dadome: sweeping does ye
+[6:39:08] coldgrayrain: sneaky
+[6:39:35] krome2dadome: I wonder if u have havoc on u if copied abilities will
+[6:39:41] krome2dadome: doubt it
+[6:40:09] avenueone: arena match
+[6:40:46] FaznikDKtnEU: Dot build better for 2v2?
+[6:41:35] Begasaur: its like being on the darkmon rollercoaster but worse
+[6:42:01] distorteddoc: think thats jellybeans and palumor
+[6:42:19] wowsuomi: Those green healz blocking the view
+[6:42:42] Demraxx: new first person update
+[6:42:50] coldgrayrain: id feel so bad getting beat by someone in first person = P
+[6:42:57] krome2dadome: it just had to be the rmp too
+[6:43:02] sharpdressedman15: is that jellybeans
+[6:43:07] avenueone: wd richard
+[6:43:21] krome2dadome: yes @sharpdressedman15
+[6:43:24] timmah25: ya that was jelly
+[6:43:27] krome2dadome: and palumor
+[6:43:32] daruthedru: like the new abom animation mes?
+[6:43:39] Mythh_93: Mythh_93 subscribed at Tier 1. They've subscribed for 14 months! 
+[6:43:39] StreamElements: Mythh_93 just subscribed for 14 months in a row mesDad mesDad mesWeckso
+[6:44:07] daruthedru: think so too looks cooler
+[6:44:18] avenueone: or 14
+[6:44:36] avenueone: i was 70 ytd
+[6:45:36] sharpdressedman15: his name is pretty rude
+[6:47:03] daruthedru: saving cds for the next game
+[6:47:10] Mythh_93: Mythh_93 is gifting 5 Tier 1 Subs to notmes's community! They've gifted a total of 5 in the channel! 
+[6:47:10] Mythh_93: Mythh_93 gifted a Tier 1 sub to VonShank! 
+[6:47:10] Mythh_93: Mythh_93 gifted a Tier 1 sub to smitesucks! 
+[6:47:10] Mythh_93: Mythh_93 gifted a Tier 1 sub to bpj7! 
+[6:47:10] Mythh_93: Mythh_93 gifted a Tier 1 sub to psxx520! 
+[6:47:10] Mythh_93: Mythh_93 gifted a Tier 1 sub to djrainxx! 
+[6:47:10] StreamElements: bpj7 just subscribed mesDad mesDad mesWeckso
+[6:47:11] StreamElements: VonShank just subscribed mesDad mesDad mesWeckso
+[6:47:11] StreamElements: smitesucks just subscribed mesDad mesDad mesWeckso
+[6:47:11] StreamElements: psxx520 just subscribed mesDad mesDad mesWeckso
+[6:47:12] StreamElements: djrainxx just subscribed mesDad mesDad mesWeckso
+[6:47:36] sharpdressedman15: ancestral defense was bugged and made people take +2% aoe damage
+[6:47:53] tesicxx: mesDragon1 mesDragon2 mesDragon1 mesDragon2 mesDragon1 mesDragon2
+[6:48:23] sharpdressedman15: its fixed now though?
+[6:48:27] sharpdressedman15: i dont use it often but occasionally
+[6:48:29] sharpdressedman15: probably killed me
+[6:48:37] Mythh_93: Haha I
+[6:48:51] Mythh_93: Don't chat much but appreciate the content
+[6:50:06] avenueone: mesNotBirthday happy birthday mes mesNotBirthday mesNotBirthday
+[6:50:23] happyheals: im learning a lot
+[6:50:24] Onca4242: I'd be very disappointed if somebody gifted me to hold me off until my Amazon prime is available!
+[6:50:52] avenueone: avenueone gifted a Tier 1 sub to Onca4242! They have given 6226 Gift Subs in the channel! 
+[6:50:52] StreamElements: Onca4242 just subscribed mesDad mesDad mesWeckso
+[6:50:54] avenueone: i was baited by that
+[6:50:54] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[6:51:01] Onca4242: Yeahhhh! Mess community the best
+[6:51:12] Mythh_93: Big bait
+[6:51:16] happyheals: did you still need some gold on ally?
+[6:51:17] avenueone: 88 mes
+[6:51:25] happyheals: I think I have some over there'
+[6:52:50] avenueone: peepoFat peepoFat peepoFat
+[6:53:08] sharpdressedman15: someone gave me a sub the other day didnt notice until later
+[6:53:37] sharpdressedman15: FryedEggs
+[6:53:44] sharpdressedman15: cheers
+[6:54:29] idontknowma: hahaha imagine you double enemy dk and still lose
+[6:54:33] happyheals: i went pillar but for some reasson tried to run to a new one
+[6:55:11] BetterknownasJohn: i remember ratharn from mop that guy farms
+[6:55:16] rob_cheeto: real
+[6:55:18] happyheals: Yewah los would have been fine
+[6:56:16] avenueone: are u excited for awc
+[6:56:42] sharpdressedman15: these guys are snipin
+[6:57:06] avenueone: maybe they didnt appreciate losing in 1st person
+[7:04:01] al3xavr0s: what is the main build nowadays?
+[7:05:31] sillysheepweepandsleep: i was the DK, big fan of yours
+[7:05:32] sillysheepweepandsleep: gg
+[7:06:22] avenueone: asmrguy: Full time streamer since 2014, husband since 2015, and father since 2017. 100 bits or $3 will trigger alerts and be read by me personally. Thanks so much to everyone who has supported us and made the dream of streaming a reality!
+[7:06:31] sillysheepweepandsleep: DH sorry
+[7:09:06] thunderstud25: hello everyone
+[7:09:12] avenueone: how come the mak gora tournament doesnt come up on ur twitch analyticcs
+[7:09:18] thunderstud25: been super busy with work
+[7:09:27] thunderstud25: so haven't gotten to play the last week at all haha
+[7:10:31] avenueone: oh its missing alot
+[7:10:34] avenueone: now that i notice
+[7:11:03] happyheals: Mes has top secret data
+[7:11:03] Moobot: Join my Discord community! https://discord.gg/mes
+[7:11:06] avenueone: i was just googling stuff to TTS lol
+[7:11:28] thunderstud25: i feel as though i have forgotten how to play this game...
+[7:12:30] avenueone: asmrguy:  11,428 views  Jan 10, 2023  #worldofwarcraft #wow #gaming Mes describes how you can "cheese" the system and snipe streamers and dps as a healer because they always have fast queues and can tell by who has or hasnt accepted the queue yet. Will they fix this in next patch?
+[7:13:30] avenueone: i think tts does that with any grammar
+[7:13:37] avenueone: ! " , . ? etc
+[7:14:05] thunderstud25: sheeesh i have under 50 3s games played this season and under 70 2s lol i haven't played at all this season :p
+[7:15:09] thunderstud25: polymor and pikabu
+[7:15:10] thunderstud25: lol
+[7:15:22] thunderstud25: pikabussy**
+[7:15:24] thunderstud25: lolol
+[7:15:50] happyheals: yeah he got me out of stealth
+[7:16:41] avenueone: mes ghosts youtube chat all the time confirmed
+[7:18:41] avenueone: asmrguy: https://www.youtube.com/@notmes hit mes up with a subscribe and like
+[7:19:32] avenueone: likes and subscribes make it more likely to pop up for other ppl
+[7:21:27] thunderstud25: i have liked and subscribed
+[7:22:59] BetterknownasJohn: pillar is like tree, pillar is friend
+[7:23:10] thunderstud25: gotta get used to taking it
+[7:23:21] thunderstud25: :p
+[7:23:26] avenueone: is mes used to take it
+[7:23:28] avenueone: taking it*
+[7:23:49] thunderstud25: he is used to taking it at a professional level
+[7:24:36] hakon123321: You player and focus icons are not aligned 🥸
+[7:24:45] hakon123321: Your*
+[7:24:58] avenueone: hes waiting for an easyframes update
+[7:25:53] hakon123321: My ocd is triggered 🤣
+[7:26:37] avenueone: asmrguy: You player and focus icons are not aligned, please fix brick lord mez
+[7:27:28] avenueone: im just copy pasting that guys comment so u read it!
+[7:30:43] nargonisttv: Does the druid have a POV?
+[7:38:18] sharpdressedman15: I run tireless pursuit against DH in 2s
+[7:38:19] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[7:41:41] Begasaur: did you get the oozling i sent you? i listed 3 mil worth of pets ive been hording for a while and realized i had like 6
+[7:42:15] Begasaur: idk like 60k it makes you green
+[7:42:59] avenueone: attrocious
+[7:47:15] HolyKolmAr: HolyKolmAr is paying forward the Gift they got from devascienos to the community! 
+[7:47:16] HolyKolmAr: HolyKolmAr is gifting 1 Tier 1 Subs to notmes's community! They've gifted a total of 1 in the channel! 
+[7:47:16] HolyKolmAr: HolyKolmAr gifted a Tier 1 sub to reachingthestars! 
+[7:47:16] StreamElements: reachingthestars just subscribed mesDad mesDad mesWeckso
+[7:47:44] HolyKolmAr: Been lurking your stream for a few days, just wanna say that i love the chill vibes and learnt alot when it comes to pvp :)
+[7:50:55] bingles3181: can you fix your belt mog please
+[7:51:36] avenueone: should sell the green recipes still mes!
+[7:51:39] avenueone: some are good gold
+[7:51:43] avenueone: because ppl get knowledge for 1st craft
+[7:51:58] avenueone: and they are cheap crafts
+[7:57:20] reachingthestars: thanks for the gifted sub :)
+[8:00:27] Begasaur: i just finished leveling my monk and instantly decieded to level a priest idk whats wrong with me
+[8:00:27] Moobot: Join my Discord community! https://discord.gg/mes
+[8:01:31] honsou2: @Begasaur you have grass is greener syndrome
+[8:01:53] Begasaur: i basically only play my shaman just get bored and level
+[8:02:17] honsou2: if you finish a statement asking whats wrong with yourself, it does not benefit anyone to be inclusive
+[8:07:44] honsou2: no that was a response to you. It does not make sense to say "i think thats great" in reply to someone expressing dissatisfaction with their choices
+[8:08:16] avenueone: lol
+[8:08:28] honsou2: He verbatim expresssed it as a bad thing, i did not read into anything
+[8:08:32] honsou2: you did
+[8:09:00] happyheals: I love doing thaty
+[8:09:08] atoker: multiclassers keep the game alive
+[8:09:12] coldgrayrain: I have all the alts!
+[8:09:16] happyheals: If I like the class I might level another of the same class but diff race
+[8:09:16] avenueone: personally
+[8:09:24] avenueone: nothings wrong with me and everythings wrong with every1 else
+[8:09:25] happyheals: I played 4 druids in shadowlands
+[8:09:33] coldgrayrain: now 2 of the same claass i just cant do
+[8:09:38] honsou2: me too, and thats totally fine. The case is that he said "whats wrong with me" not "i like leveling these"
+[8:10:27] honsou2: Is probably what? a suggestion
+[8:10:42] happyheals: will you be my friend
+[8:10:55] coldgrayrain: no idea how people have more than 1 max level of the same class = P
+[8:11:08] avenueone: i think people perceive text differently
+[8:11:14] avenueone: no emotion in it
+[8:11:35] avenueone: could be i dont know
+[8:11:39] avenueone: thats what im saying
+[8:11:55] honsou2: i was not being hostile. A lot of people level alts when they actually want to push rating. The "whats wrong with me" made me think he was like that, because i used to  be
+[8:12:08] coldgrayrain: not sure if i like the new slappy hands or not
+[8:12:30] avenueone: mes why did u level a dk
+[8:12:32] avenueone: HUH
+[8:12:39] avenueone: the very 1st time
+[8:14:07] avenueone: i thought u got rolled by 1 in greens
+[8:14:25] Xcyyted: icy touch DK back in wotlk?:D
+[8:14:27] Xcyyted: was fun haha
+[8:15:33] avenueone: yea im just saying people probably perceive stuff i say as hostile or inappropriate too so maybe not every1 is
+[8:17:24] happyheals: Ave told me I wasnt the real Batrman
+[8:17:28] happyheals: Batman
+[8:17:38] happyheals: I was sad, but I wasn't mad at him
+[8:21:19] opticalaccuarcy: Cheer1000 Cheer1000 Cheer1000
+[8:21:19] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[8:21:20] StreamElements: opticalaccuarcy just cheered 3000 bits PogChamp
+[8:21:26] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[8:23:58] sunileif: wooooooooooooooooooooooooooooooooooooooooooooooooooooo!
+[8:24:03] sunileif: it snowed!
+[8:24:27] sunileif: mes goes sleding?
+[8:25:05] sunileif: mes hates snow?
+[8:25:13] sunileif: east coast
+[8:30:13] Fyr666: :O :O :O No EasyFrames!?
+[8:32:26] Fyr666: @notmes How are you making some spells on your bar larger than the others?
+[8:39:37] StijnDaMan: rofl rogue almost dies, vanishes and pops back out of stealth max hp
+[8:43:39] thunderstud25: yayyy 1950
+[8:43:59] stockbridge10: gl
+[8:44:00] Moobot: Join my Discord community! https://discord.gg/mes
+[8:47:02] riplilpeeeep_: hey there how are you party marks so big?
+[8:47:24] happyheals: is trhere a secret to dhs?
+[8:47:29] plebcake_: @notmes do you ever play frost in 2s? or does it not work with healer?
+[8:48:06] thunderstud25: practice
+[8:48:11] beepboopx9: dhs eat druids
+[8:48:18] beepboopx9: have to pratice roots and clones to self peel
+[8:48:31] beepboopx9: tre give IC tree
+[8:48:38] beepboopx9: roots
+[8:48:56] beepboopx9: also rotation frenzy regen when he pops
+[8:51:30] riplilpeeeep_: hey there how are you party marks so big?
+[8:53:03] silones123: is Frost dk viable or nar?
+[8:53:06] beepboopx9: its an addon for cc dont remember what it is tho
+[8:54:01] bornbetter: does being disarmed as a dk actually do anything...? lol
+[8:54:10] beepboopx9: yes
+[8:54:16] beepboopx9: cant heal is a big one
+[8:54:24] thunderstud25: stops your deathstrikes in oh shit moments
+[8:54:37] Loadedmvp: whats your ui scale ?
+[8:54:38] beepboopx9: or do damage but you still have buttons to hit
+[8:54:49] beepboopx9: just cant hit hard
+[8:54:50] silones123: is Frost viable right now or nar
+[8:55:17] shugguls: @silones123 frost mage aint bad- dont think there is any other frost specs out there
+[8:55:29] beepboopx9: it is viable but idk in solo shuffle
+[8:55:48] Freebolt: frost dev will get u glad with cheese and very little effort
+[8:55:49] silones123: Frost dk shuggules
+[8:56:05] beepboopx9: have a friend that run devo dk and the dk is frost
+[8:56:14] beepboopx9: @Freebolt yeah that is what i have been told lol
+[8:56:30] shugguls: @silones123 lol , nar its not good atmo
+[8:56:45] silones123: ok
+[8:57:20] beepboopx9: im lost rn wtf
+[8:57:59] shugguls: @beepboopx9 where are u?
+[8:59:07] krome2dadome: gl
+[8:59:21] ferrers__: What has fewer players, tank or healer?
+[9:00:15] shugguls: pve or pvp ?
+[9:00:33] thunderstud25: in pve its tanks
+[9:00:49] shugguls: prob the same for pvp
+[9:01:05] thunderstud25: well i mean i just hope for no tanks in pvp lol
+[9:02:01] happyheals: finally got a monk team
+[9:03:14] krome2dadome: sporadic
+[9:11:47] sharpdressedman15: is he mass entangling the pets?
+[9:11:47] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[9:14:23] urgot42: How is happy losing like 20% of his mana at the start of these games is he doing something wrong?
+[9:17:16] sharpdressedman15: compare
+[9:17:16] soley_96: he keeps pressing rejuv
+[9:17:33] happyheals: I did something wrong there
+[9:17:33] soley_96: that will tax your mana
+[9:17:38] redslushy: pressing wrong buttons 100%
+[9:17:50] thunderstud25: i think its a lot of over refreshing hots potentially
+[9:18:03] redslushy: some1 link him wowhead guide
+[9:18:09] happyheals: It wasnt like that before. Something was off on my frames
+[9:18:13] happyheals: I reloaded
+[9:18:16] happyheals: well see
+[9:18:30] happyheals: I had my rejuv in a diff spot
+[9:20:15] happyheals: My keys were in a different spot because I swapped a spec but went back
+[9:20:16] raphaelionthecoolkid: good stuff
+[9:20:18] happyheals: bad choice
+[9:20:52] happyheals: I went to reforestation and my rejuv and regrowth were in diff hotkeys
+[9:20:55] thunderstud25: no conquest cap next week yayyyy
+[9:21:02] thunderstud25: ill actually start catching up alts lol
+[9:22:13] atoker: you could probably have a few fully geared new alts with all the conquest you'll be making from 3s with the team
+[9:24:25] beepboopx9: this priest is pretty good
+[9:24:34] Szain3: DinoDance
+[9:25:59] Lazugo: Good morning fellas
+[9:26:09] Lazugo: What a beatiful day
+[9:27:05] Bersolgens: good morning!
+[9:27:37] sharpdressedman15: whats your record for most declined solo shuffles in a row
+[9:27:56] sharpdressedman15: i swear i got 12 once
+[9:30:56] rekroyal: how do you maximize your dps on dk
+[9:31:35] DerangedPOS: @rekroyal pop wounds and spam death coil at max runic power
+[9:32:01] DerangedPOS: thats aeghis
+[9:32:01] Moobot: Join my Discord community! https://discord.gg/mes
+[9:33:07] reedthesham: Good morning
+[9:33:50] happyheals: thank you for your patience
+[9:33:56] happyheals: I learned a lot
+[9:34:00] thunderstud25: you are doing great happy
+[9:34:00] PromiscuousToilet: beating mage/rogue feels so satisfying
+[9:34:17] thunderstud25: rotation and mana management are your next key steps
+[9:35:54] happyheals: For sure, I missed the expac so far, so fresh on healing. A few days in
+[9:36:10] happyheals: I got like some rando games last season
+[9:36:19] thunderstud25: i can help heal orrr come on my v undergeared warrior maybe haha
+[9:36:19] Bersolgens: <3
+[9:36:27] thunderstud25: i need to get my eyes back into game mode
+[9:36:38] thunderstud25: thunderstud25 is gifting 5 Tier 1 Subs to notmes's community! They've gifted a total of 761 in the channel! 
+[9:36:39] thunderstud25: thunderstud25 gifted a Tier 1 sub to Rawrkibble! 
+[9:36:39] thunderstud25: thunderstud25 gifted a Tier 1 sub to paladinsareepic! 
+[9:36:39] thunderstud25: thunderstud25 gifted a Tier 1 sub to nargonisttv! 
+[9:36:39] thunderstud25: thunderstud25 gifted a Tier 1 sub to Skullkandy2933! 
+[9:36:39] thunderstud25: thunderstud25 gifted a Tier 1 sub to Kaponi787! 
+[9:36:39] StreamElements: nargonisttv just subscribed mesDad mesDad mesWeckso
+[9:36:39] StreamElements: Skullkandy2933 just subscribed mesDad mesDad mesWeckso
+[9:36:40] StreamElements: Rawrkibble just subscribed mesDad mesDad mesWeckso
+[9:36:40] StreamElements: paladinsareepic just subscribed mesDad mesDad mesWeckso
+[9:36:41] StreamElements: Kaponi787 just subscribed mesDad mesDad mesWeckso
+[9:36:49] thunderstud25: mesAFK
+[9:36:54] happyheals: I don't even have weak auras for abilities or anything
+[9:37:07] happyheals: I am watching the frames and winging it
+[9:37:23] Lemrik: wow
+[9:37:50] raphaelionthecoolkid: eek
+[9:38:00] happyheals: yeah, I have never played like that
+[9:38:25] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/VvQNdB
+[9:38:39] Skullkandy2933: Thank you for the gifted!!
+[9:38:48] happyheals: what stuff is working for arena? I had to delete my weak auras and removed a lot of add ons because the game was unplayable
+[9:38:50] Skullkandy2933: <3
+[9:39:03] happyheals: gladius wasnt working right
+[9:39:36] reedthesham: I think sArena works @happyheals
+[9:39:41] happyheals: cool
+[9:39:46] reedthesham: and you might have to reload the WAs
+[9:40:04] reedthesham: or Import them again, I can't remember
+[9:40:05] happyheals: My ui bugged out again too. The right action bars went tiny for no reason
+[9:40:43] happyheals: I have never had an issue like that.
+[9:41:51] yepbeef: Hey mes, ggs in 2s. you destroyed my priest
+[9:41:59] yepbeef: your cc is insane..
+[9:42:46] happyheals: Good game
+[9:43:05] jugram1haschwalth: !Macro
+[9:43:05] happyheals: I was trying to get back in the swing of things
+[9:43:51] happyheals: happyheals gifted a Tier 1 sub to DKGOD! They have given 320 Gift Subs in the channel! 
+[9:43:52] StreamElements: DKGOD just subscribed mesDad mesDad mesWeckso
+[9:45:02] americanmoses18: happy heals > sol heals
+[9:45:38] happyheals: maybe 2 expacs ago
+[9:46:22] happyheals: Ive been working in unfun places overseas most of the time
+[9:47:27] Szain3: DinoDance
+[9:48:03] happyheals: at least last season I got 2 weekends to play
+[9:48:28] happyheals: did the ret some for ksm and aotc and stuff, then did a little balance druid
+[9:50:27] happyheals: happyheals gifted a Tier 1 sub to solheartsyou! They have given 321 Gift Subs in the channel! 
+[9:50:28] StreamElements: solheartsyou just subscribed mesDad mesDad mesWeckso
+[9:55:19] happyheals: now my ui ios messed up again
+[9:55:19] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[9:55:42] happyheals: Im targeting Mes and it is hotting me
+[9:55:54] happyheals: oh loil nvm
+[9:55:59] happyheals: He is Ally
+[9:58:44] Szain3: DinoDance
+[9:59:46] happyheals: yeah we baked a cake
+[9:59:49] yepbeef: oh look hes back
+[10:00:00] happyheals: yeah and made ikea furniture
+[10:00:14] miapx: Hi
+[10:00:19] happyheals: Just a small living room set
+[10:00:26] happyheals: no big deal
+[10:00:32] guinnezz2: Mes how do you feel about the current state of retail. Kinda feels like it dying out.
+[10:00:39] thunderstud25: i can come on warrior?
+[10:01:35] yepbeef: trying out dannycarrys rbg build
+[10:01:46] guinnezz2: I hate ever stating a game is to hard to pick up an play because the die hards will rip me to shreds. But i feel its one of the biggest issues with retail. Its hard to get new players and old players back due to complexity of pick up and play
+[10:02:14] guinnezz2: especially in PVP
+[10:02:48] miapx: Send a hug I'm in the hospital, my daughter was born hahaha sorry for the English I'm Brazilian and I love watching your PvP even though I don't understand sometimes
+[10:03:01] guinnezz2: Then again the success of SoD probably doesnt help the active retail numbers
+[10:03:15] raphaelionthecoolkid: congratulations miapx
+[10:04:22] miapx: Tyyy ^^
+[10:07:50] PromiscuousToilet: @guinnezz2 i dont think retail is dying out. its much more popular than SoD and such. The playerbase is just more spread out
+[10:08:25] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[10:12:42] happyheals: Sorry IO was dead most of the game
+[10:13:42] Lythi: morning Mes!
+[10:16:21] yepbeef: 2619 my god thats legendary
+[10:16:21] Moobot: Join my Discord community! https://discord.gg/mes
+[10:27:42] Szain3: DinoDance
+[10:34:28] JustTaki: you guys  look like you have a nice comp
+[10:34:37] gachie_: anyone know what the fastest way to level from 60-70 is? just questing+spamming dungeons?
+[10:35:54] ZealotryTV: is it better to just run crafted gear outside of tier and weapon?
+[10:36:05] ZealotryTV: i guess trinkets too
+[10:37:09] PromiscuousToilet: @gachie_ paid carry
+[10:37:51] ZealotryTV: with the caveat that you already have a level cap toon
+[10:39:39] gachie_: mm
+[10:39:43] gachie_: idk if i have 100k to spare
+[10:40:01] undertreex: @notmes do you know where i can get a death freezing trap weakaura, or do you have a video showing how to make a weakaura
+[10:40:17] ZealotryTV: the follower thing really isnt worth it
+[10:40:34] ZealotryTV: they are keeping the xp low so people cant just afk level
+[10:40:39] undertreex: for it to say freezing trap
+[10:40:55] undertreex: ok cool
+[10:40:57] undertreex: thanks
+[10:42:24] ThatDudeRogue: what am i watching
+[10:42:27] ThatDudeRogue: is this tank throwing
+[10:42:55] ThatDudeRogue: I thought yall were horde nvm
+[10:42:59] thunderstud25: im not sure 2x rdruid is it tbh
+[10:43:05] thunderstud25: for at least the damage profile here
+[10:43:27] atoker: is the tank in chat?
+[10:44:03] thunderstud25: i can go pally or something so we can maybe change healing profile, warrior is a little undergeared also
+[10:46:20] ZealotryTV: i am around if you need healer
+[10:47:16] thunderstud25: i was getting nuked through  dstance and parry lol
+[10:47:26] thunderstud25: before hots started kicking in
+[10:47:45] thunderstud25: lolol
+[10:47:52] thunderstud25: 3 is def worse than 2
+[10:47:54] ZealotryTV: is that a WA  showing all your vaults?
+[10:48:03] atoker: @thunderstud25 you'll be fine once you replace all those greens
+[10:48:10] yepbeef: kick beefangus
+[10:48:20] thunderstud25: that is the hope @atoker haha
+[10:48:20] ZealotryTV: i can also go dps
+[10:48:28] yepbeef: im on mud haha mw now
+[10:48:28] Khanitus: ♥
+[10:49:36] ZealotryTV: argh i thought the spoils buff was this week. why does blizz hate fun
+[10:49:37] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[10:51:30] happyheals: we need a disc priest and a caster dps
+[10:52:05] cookietime95: damnit 1p is on 4 hr cd...
+[10:52:31] atoker: can anyone in chat come on their lock?
+[10:53:42] thunderstud25: my lock is level 60 unfortunately
+[10:56:03] cookietime95: cat
+[10:56:53] cookietime95: spot on, now your enemies will really be afraid
+[10:57:01] JustTaki: Is that cat still in the shop?
+[10:57:29] cookietime95: i think so
+[10:57:53] cookietime95: they wouldnt pass up on a micro transaction
+[10:58:51] cookietime95: whats the 5d buff you have?
+[10:59:11] cookietime95: ahh
+[11:05:02] americanmoses18: mes throw

@@ -1,0 +1,2776 @@
+[0:00:10] StreamElements: Hydramist is now live! Streaming World of Warcraft: SoD 40 Prep | Guide DONE !Guide | 40 PvP Tierlist DONE !Tierlist | BiS Lists TODAY
+[0:00:51] jattefari: Heyo
+[0:01:46] Sinostra: Hey Hydra !
+[0:01:51] Sinostra: still pre questing ?
+[0:02:13] Sinostra: wanna do some alliance bgs ?
+[0:02:19] Blackmanball: where can I get the links to all  your sixtyupgrades BiS?
+[0:02:25] Chazzmichael: Hey, you think im retarded if i roll Warlock from Priest in p2?
+[0:02:54] Sinostra: it's my birthday today ! :P
+[0:03:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:03:27] Sinostra: thanks, I got to level 32 ^^
+[0:03:53] Lunaatj: hydraLeigh
+[0:04:06] Lunaatj: Alright mate, thanks. You?
+[0:04:53] perseay797: What are you farming mate?
+[0:05:23] Skilten: I farmed these for 30 mins until I realized the rope was in my bank
+[0:06:07] Skilten: its definitely not a bad drop rate
+[0:06:26] Sinostra: might be worth checking
+[0:07:05] reggieface420: yea i did the name skilten
+[0:07:11] reggieface420: i got the rope drop like 1 month ago
+[0:07:13] reggieface420: and forgot
+[0:08:05] reggieface420: did u hear anything about escort quests going into your log even if its full?
+[0:08:32] reggieface420: there's a screenshot of some guy with 22/20 quests
+[0:09:23] reggieface420: allegedly if someone else starts the quest and you hit accept, it just goes into your log like normal, havent been able to confirm it tho
+[0:09:32] nogresh2: !tierlist
+[0:09:32] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:10:10] Sinostra: do you think you're gonna play alien isolation next saturday ? even with P2 ?
+[0:11:05] perseay797: Just 1 week? LUL
+[0:11:07] Lunaatj: What am I hearing? WoW during my Alien Isolation stream?
+[0:11:09] Lunaatj: Nani?
+[0:11:11] Lunaatj: hydraT
+[0:11:13] deltrexx: what do u think of exorcism -> divine holy shock crit -> exorcism -> holy shock (reset cd) is this viable enough for shockadin
+[0:11:18] keffyox: !guide
+[0:11:18] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[0:11:21] deltrexx: divine favor
+[0:11:27] perseay797: And then? :D
+[0:11:48] reggieface420: is that like 1500 damage in 4 globals
+[0:11:57] reggieface420: normally that'd be sick but its kinda mediocre in sod
+[0:12:27] reggieface420: at 40 ofc
+[0:12:51] yoozpro: !guide
+[0:12:51] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[0:14:12] Buglifeee: man did u watch wizk's spirit link kill from yesterdays awc?
+[0:14:15] DnB_Junkee: sup all
+[0:15:02] notJumu: they nerfed starsurge and mangle :O
+[0:15:08] DnB_Junkee: whats that rare detection addon?
+[0:15:10] Buglifeee: check it out
+[0:15:13] Buglifeee: https://clips.twitch.tv/SmoothCalmSalamanderMVGame-3wx1lYd31ZUbrPIU
+[0:15:19] reggieface420: hmm, u only actually get 50% of the crit that the talents say you do, like all the mage talents puts them to 225%, including the boot rune
+[0:15:48] reggieface420: like shaman will go from 150->200
+[0:16:08] notJumu: "Starsurge reduced to 30 yd range, down from 35 yd. Mangle (cat) reduced to 270% weapon damage, down from 300% weapon damage."
+[0:16:41] reggieface420: they are wowhead datamines it seems
+[0:16:55] perseay797: Proof in the chat LETSGO
+[0:16:57] notJumu: https://www.wowhead.com/classic/spell=417157/starsurge
+[0:17:03] notJumu: https://www.wowhead.com/classic/spell=407993/mangle
+[0:17:18] notJumu: they didn't post about it, just updated tooltips
+[0:17:45] daggerslife: it does not matter , starsurge needed that and it will still be 37 talented so its gorgeous
+[0:17:46] daggerslife: :)
+[0:17:49] reggieface420: the range is part of the problem with starsurge but starsurge is kinda overpowered in every single way
+[0:17:57] reggieface420: it'll be 36 talented
+[0:18:12] perseay797: They are nerfing ferals become they've become op LUL
+[0:18:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:18:25] notJumu: mangle caught a stray bullet lmaoooo
+[0:18:37] DnB_Junkee: ya, then ele shamans struggle with 15y shock range :D
+[0:18:42] Itshighnoonwotlk: yo
+[0:18:43] daggerslife: sure make it cost mana and lower damage but lower mana on everything else and boost damage on everything else
+[0:18:50] reggieface420: i think they want you to press shred instead of spam mangles
+[0:19:07] reggieface420: death-starsurge-lava burst are my top 3 "this is gonna be dumb" runes
+[0:21:18] Macosqt: thanks, I just wanted to pass by lol
+[0:21:22] Lunaatj: hydraKit
+[0:21:24] daggerslife: also btw all druid spells needs to get low on mana and starsurge needs to have proper cost aswell
+[0:21:50] PaEu: How much honor do u think is needed to get rank 3 in one week?
+[0:22:36] Macosqt: killed me bro lol
+[0:22:41] Macosqt: but is okay xD
+[0:24:04] daggerslife: guys do u know around how much xp a  waylaid shipment would give ? a guy just showed me in discord 89 BOXES wtf
+[0:24:33] Plushie__Tv: depends on the box's level, 1 gives 180, another gives 200 and the lowest rep gives like 120 or something
+[0:24:45] reggieface420: even chain lightning with 200 sp, overload, 1500 damage on a single target, if a 2nd player shows up its 2500, if another shows up its 3100 LUL
+[0:24:50] Plushie__Tv: thats with current rates according to staysafe but theres no confirmation if this will be increased
+[0:24:53] daggerslife: what ??? only 200 per box  ?
+[0:25:09] YesImFredTheBest: @daggerslife They said it would be increased next phase.
+[0:25:13] weeedzygg: No way they would nerf druid a leave priest like that bro cmon
+[0:25:15] hiraethonhs: 200 is not much tho
+[0:25:31] Itshighnoonwotlk: who said 200 per box? kekL
+[0:25:38] perseay797: 100 boxes = 20k
+[0:25:49] YesImFredTheBest: Ye but imagine they increase it to 1k each
+[0:25:54] Qtxo1: it is 200 for the top box average box is 180
+[0:25:56] YesImFredTheBest: then it will start counting
+[0:26:05] reggieface420: if the idea is that u can do all the quests and it doesn't brick ur char, ur gonna need a lot more than 25k bfd per 3 days to unbrick
+[0:26:06] hiraethonhs: well I hope they're not dumb
+[0:26:08] bigsugg: its 200 rep per box now
+[0:26:09] YesImFredTheBest: They will increase it, but how much noone knows.
+[0:26:12] hiraethonhs: they know players stack em
+[0:26:31] daggerslife: yeah 1 k is good and its not so much  80k is like 2 levels and a half
+[0:26:35] Plushie__Tv: no one knows if they will increase the exp on current boxes or just the new ones and how much the exp will be increased by
+[0:26:43] hiraethonhs: 1k is too much
+[0:26:49] hiraethonhs: like 400 max
+[0:27:10] daggerslife: why Ryan its just 2-3 levels
+[0:27:28] Studiovirtanen: !Guide
+[0:27:29] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[0:27:29] bigsugg: they are playing the game when theyrestacking arent they
+[0:27:33] reggieface420: they need a way to get people who did 100 quests at level 25 to get like level 30
+[0:27:34] googlewooglex: you cant stack boxes?
+[0:27:35] toonits: couldve prepped crazy aswell but chose to take the gold from quests instead
+[0:27:37] reggieface420: how are they gonna do that
+[0:27:44] reggieface420: u can stack completed boxes
+[0:27:47] daggerslife: to be fair :) farming boxes takes so much more time than 3 marks
+[0:27:51] daggerslife: and u have to complete with mats
+[0:27:54] toonits: yuup
+[0:27:57] Plushie__Tv: i have a slight feeling that the current boxes wont give any exp past honored since they give no rep past honored, this is my own thoughts though
+[0:28:05] sickest__: !tierlist
+[0:28:05] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:28:20] reggieface420: the new boxes will give a heavy amount of exp i'm sure because they'll need new mats
+[0:28:31] Plushie__Tv: ^ is what i think too
+[0:28:47] hiraethonhs: sounds good to me
+[0:28:47] daggerslife: lord FAIRNESS
+[0:28:48] daggerslife: :)
+[0:28:55] daggerslife: god bless
+[0:28:57] reggieface420: we had a guy in the guild who plays wsg for fun and he had 25-37 in his restore when it got wiped
+[0:28:58] daggerslife: gold from pvp
+[0:28:59] daggerslife: finally
+[0:29:00] reggieface420: LUL
+[0:29:04] Plushie__Tv: I havent farmed any boxes, it was tedious enough just getting honored with my priest and druid :P
+[0:29:12] piouspectre: Yea pvpers need some dosh
+[0:29:16] reggieface420: oh 28-37* not 25-37
+[0:29:20] Shiwoon_TV: is it possible that i cant see your channel in discord with "just" prime subscribe?
+[0:29:28] PaEu: like the supply things from TBC
+[0:29:45] Shiwoon_TV: i did that :( will check again
+[0:30:05] hiraethonhs: I dont mind those guys that no lifed for 100 box gets something from it tho but not much. One lvl up seems fair
+[0:30:11] Plushie__Tv: should be up, I ran past the black cat during an event :)
+[0:30:23] thickplumpyhippo: !tierlist
+[0:30:23] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:30:32] Blackmanball: what's with the omega signs instead of names?
+[0:30:45] bmkJR: if you're looking for shudumbra she spawns a bit more up the hill next to the house
+[0:30:57] deltabreeze_2: frost mage with 150% crit damage is gonna be kinda crazy, ice lance will pump in pvp
+[0:31:05] Sinostra: @Blackmanball that's because  of Hydra's omega braain
+[0:31:23] Plushie__Tv: yeah she also goes up north where the deer stag women things are
+[0:31:24] fizgaroth1: I know you probably get this question 1000 times per stream, but do you think it would be cool if they added arenas to SOD?
+[0:31:38] thickplumpyhippo: !guide
+[0:31:38] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[0:31:48] deltabreeze_2: @fizgaroth1 im pretty sure ive seen him answer this, no he doesnt want arenas
+[0:31:54] deltabreeze_2: nvm, lol
+[0:32:15] toonits: @deltabreeze_2 UHM
+[0:32:31] elementixxx: and we will receive zero
+[0:32:43] daggerslife: Its beyond me how after 20 years pvp still not sustain its own repairs and consumes, gold for marks is very good , 10-20 gold per day from playing pvp is good :)
+[0:32:56] perseay797: Are you unhappy with the class balance right now?
+[0:33:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:33:24] Itshighnoonwotlk: just ask viewers for gold
+[0:33:27] elementixxx: they already told that nothing competitive because in such case they need to balance classes
+[0:33:34] hiraethonhs: ye on of reasons I didnt pvp in p1 is cause of gold cost, I use few pots and that's 2G. Not worth
+[0:33:52] hiraethonhs: go up the hill
+[0:33:55] Blackmanball: it has a 15 min respawn timer
+[0:34:00] bmkJR: @Hydramist it spawns up the hill next to the house
+[0:34:06] Plushie__Tv: it patrols further up the road too
+[0:34:17] hiraethonhs: left hill
+[0:34:19] Plushie__Tv: north
+[0:34:25] biddlybee: how do you have healing numbers showing?
+[0:34:25] Plushie__Tv: up to the tree raynewood
+[0:34:26] motod0x: it spawns at the north of that path
+[0:34:27] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[0:34:28] motod0x: just sit there
+[0:34:30] lund19: Fastest way to level from 20 to 25 in SoD? hardstuck on warr and not sure what to do now xd
+[0:34:31] hiraethonhs: ye
+[0:34:35] bmkJR: go all the way up the hill
+[0:34:36] PaEu: Id love to see arenas in SOD. In TBC and wotlk meta was already solved. Sod arena would be completely now. But peopel would whine too much over balance issues i think
+[0:34:41] bmkJR: and stay there it'll spawn
+[0:34:42] Plushie__Tv: sort of wanders to the left up here
+[0:35:46] perseay797: Are you okay with how powerful the priest currently is? In my opinion priests are overpowered in pve.
+[0:35:46] bmkJR: yes
+[0:35:48] perseay797: pvp*
+[0:35:48] bigsugg: event bugged. zone bugged
+[0:35:48] bmkJR: behind the house
+[0:36:21] daggerslife: no way they do that to warriors hahahaha
+[0:36:42] jimbonni: i sure SP going to pump in pvp but ar they going to pump in pve?
+[0:36:58] hiraethonhs: why is default castbar still bugged for chanelled casts, they didn't fix it yet?
+[0:37:05] mehdic_jt: Maybe im alone on this but i think arena would be really shit in SoD, i could see the appeal of a 1v1 thing you could do but arena 2/3/5 feels a bit pepega to me and probably wouldnt have that much interest from classic players
+[0:37:24] ghostgalx: is there a possbility of shadow priests with pain supression? is that gonna be a thing?
+[0:38:00] notJumu: Pain sup "Cannot be used while shapeshifted"
+[0:38:10] DeathToad007: you saw starsurge is getting its range nerfed?
+[0:38:11] notJumu: yes
+[0:38:12] notJumu: it does
+[0:38:23] notJumu: yes
+[0:38:30] hiraethonhs: why would they write it if it wasnt shapeshift
+[0:38:31] notJumu: penance cant be cast while shapeshifted
+[0:40:02] hiraethonhs: if Blizz was smart they would focus on sod
+[0:40:20] motod0x: sit here
+[0:40:22] motod0x: where you are atm
+[0:40:26] motod0x: this is where it spawns
+[0:40:43] ghostgalx: yes, theres a comment on wowhead of someone mentioning the cat despawning infront of him when event started
+[0:41:06] hiraethonhs: I think it would be smart move to cancel Cataclysm crap and focus more on sod
+[0:41:13] notJumu: that's if u get unlucky and layers collapse
+[0:41:34] perseay797: Especially when they fired 1800 blizzard employees
+[0:41:37] mehdic_jt: cataclysm will be a waste of time it might be arguably the worst expansion they ever put out
+[0:41:46] 0b1jacobi: !Guide
+[0:41:46] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[0:41:48] Baxxtah: just cancel DF, fakn garbage
+[0:41:49] perseay797: I'm kinda worried of the quality and quaantitiy of content we would get
+[0:42:14] ghostgalx: "So apparently he despawns when the Ashenvale PvP event starts on Season of Discovery realms.. got him to 50% then event started and he vanished."
+[0:42:21] acroxd: !tierlist
+[0:42:21] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:42:22] Baxxtah: Problem is PvE in cata is top tier..
+[0:42:26] ghostgalx: It was the bear, but i guess it applies to the cat as well
+[0:42:37] lund19: @Hydramist 80% of player base will quit in cata for sure, game is too hard
+[0:42:45] hiraethonhs: I can see so many options for SoD, like new sod season when they cycle new spells/items raids. So many possibilites
+[0:42:50] deltabreeze_2: reputation wise, I think people know what to expect with it so if it sucks its whatever.
+[0:42:51] magickdoge: Cata's gonna a be a trainwreck
+[0:43:30] Itshighnoonwotlk: go for the harvester instead, its only 24 hr respawn timer
+[0:43:33] Sinostra: am i the only one here who actually enjoyed cata ?
+[0:43:37] Shiwoon_TV: now it worked! (Twitch + Discord Channel) i'm just dumb :) used my old Twitch Account...
+[0:43:44] hiraethonhs: make /target macro it's easier
+[0:43:47] elementixxx: cata is still better them boomies with insta button for 500 dmg for 10 mana
+[0:43:57] Itshighnoonwotlk: actually ultra rare kekL
+[0:44:04] flopopopop: !tierlist
+[0:44:04] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:44:46] biddlybee: the weapons from last boss in dragon soul were quite fun
+[0:44:52] perseay797: Cata was the beginning of the end. Ridding off talent trees is a massive hit to what WoW is loved for.
+[0:44:56] biddlybee: just getting ripped in pvp because a warrior proc'd 3 tentacles from his weap
+[0:44:57] deltabreeze_2: is ice barrier better than pws for self buffing?
+[0:45:02] Baxxtah: all that matters in SoD is how it is at 60, everyting till then can be meme city for all i care
+[0:45:17] motod0x: how are you on a layer when the event isnt being done lol
+[0:45:52] hiraethonhs: its bugged
+[0:45:54] hiraethonhs: event
+[0:45:56] hiraethonhs: probly
+[0:46:05] Sinostra: yeah, but questing isn't the best experience in the game tbh
+[0:47:25] vrsswow: Sup bro....hello every one
+[0:47:35] perseay797: Any preppers in chat? KKona
+[0:47:37] Itshighnoonwotlk: whole point of sod is playing each phase, 60 is gonna be a at late summer @ baxxtah
+[0:48:02] twinberrycheesecake: 💀
+[0:48:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[0:48:48] illeezz_: facts
+[0:49:09] lund19: Gotta love the good old MLD in cata
+[0:49:14] fafoo204: hunter players like cata
+[0:49:18] hiraethonhs: @Itshighnoonwotlk late summer? you mean summer 2025?
+[0:49:42] HyperexTV: Like WLD
+[0:49:56] Itshighnoonwotlk: @hiraethonhs there is a roadmap for all upcoming expansions including SOD if u want a link
+[0:50:40] hiraethonhs: yeah I saw it but I really doubt they will keep to those timeline, they will say they lost a lot of ppl blabla @Itshighnoonwotlk
+[0:50:49] Manzugs: do you think sod will have new classes or remain classic
+[0:50:57] sneakynoob123: !tierlist
+[0:50:57] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:51:09] Iketh: !guide
+[0:51:09] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[0:51:09] daggerslife: everyone i know who played back then lost like 80 % of his mates exactly at that expansion including me
+[0:51:10] fafoo204: def not any new clsses
+[0:51:13] daggerslife: fk cata
+[0:51:20] Itshighnoonwotlk: yeah bring dks into sod LOL
+[0:51:29] Manzugs: bring dhs in lmao
+[0:51:31] hiraethonhs: i stopped at cata, they destroyed my lock lol
+[0:51:31] perseay797: Hydra can you elaborate a little bit why TBC classic wasn't popular and died so fast? @Hydramist I missed that time but i' kinda hungry for TBC.
+[0:51:32] Sinostra: to me, mop was the shitty expansion
+[0:51:45] damnzy: also around cata league was going hard af
+[0:52:08] texa69: cata pvp is superior to wotlk pvp, there's nothing that can change my mind
+[0:52:13] lund19: Main problem with cata is pve, most people dont even pvp anyway
+[0:52:21] lund19: people could hardly do hc dungeons
+[0:52:22] Manzugs: which classic client would have the most pop?
+[0:52:25] Itshighnoonwotlk: @hiraethonhs yeah, but i dont think they will delay it for another year. they are masters at stalling, but not that long xd
+[0:52:27] fafoo204: i had good times in mop
+[0:52:40] elementixxx: mop was great because no pve for pvp
+[0:52:52] choptopyo: cata still much better than mop wod legion bfa shadowlands dragonflight :D
+[0:53:10] vrsswow: Cata pvp 3v3 Hydra Braindeadly and Jimos was HILARIOUUUUUSSSS
+[0:53:17] fafoo204: i would def play mop classic a bit
+[0:53:17] perseay797: BASED
+[0:53:17] daggerslife: actually they can do something about SOD PVP.  Give gold for marks as Ryan said and also give me replica gear vendor
+[0:53:29] biddlybee: ok, where can we message Ziqo then?? xD
+[0:53:32] Manzugs: @Hydramist is SOD the most populated classic client?
+[0:53:34] daggerslife: basically current raid gear for gold per piece  but replic " not working outside pvp "
+[0:53:37] lund19: Oh god what was the name of the feral druid yelling TRANQUILITY?
+[0:53:55] hiraethonhs: They should also add more pvp gear
+[0:54:04] wookie_hairy: The sherpas are badasses
+[0:54:07] Ryett: The Simpsons
+[0:54:52] aocamilo07: !tierlist
+[0:54:52] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:55:16] daggerslife: Btw Ryan did u lost ur mage during Cata also :) i remember u played with Redhot and then he stopped and u found the next one that most ppl know
+[0:55:45] DnB_Junkee: loving the omega names :D
+[0:55:53] notJumu: there's a vid where the rich mountaineer fucks are stepping over and ignoring an injured sherpa otw to everest summit
+[0:55:54] DnB_Junkee: tell me, if you want sth else :D
+[0:56:03] notJumu: some people climb mountains to see the world other people climb mountains so the world can see them
+[0:56:24] DnB_Junkee: ya, gonna be more active on discord again
+[0:56:24] BrickedUpBob: !tierlist
+[0:56:24] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[0:56:35] DnB_Junkee: abandoned it for several months
+[0:56:41] Ryett: Was there something about you licking your lips when playing WoW. Odd questions but its a very old memory from Arena Junkies
+[0:56:57] AndreSwd: they sign a term of responsibility
+[0:57:10] Dakkroth: dafuq r those names sir
+[0:57:19] perseay797: Aware Climb mountain for nothing Aware It's not like there's an epic chest waiting for you up there
+[0:57:19] AndreSwd: if they die its their own responsibility
+[0:57:22] AndreSwd: at their own risk
+[0:57:30] Dakkroth: whats the point of it tho, for attention seeking
+[0:57:32] Dakkroth: or
+[0:57:41] Dakkroth: little anti stream snipe fame
+[0:57:50] Dakkroth: OH bro I need this shit LMAO
+[0:58:08] Dakkroth: its unplayable on living flame cuz of this freaky dogshit stream snipe squad
+[0:58:10] SirPadfoot: Hi there, can you tell me how you make dispellable enemy buff glow pls ?
+[0:58:35] twinberrycheesecake: any omegas in the layer 💀
+[0:58:38] notJumu: there was another case where a sherpa saved a mountaineer and then the guy thanked his insurance company for saving him and ignored the sherpa on socials ><
+[0:58:47] ephixa_fan: hydraLeigh
+[0:58:48] 23rhz: boomy great times are a lil over, range and dmg starsurge got nerfed, u saw that?
+[0:59:01] 23rhz: at least the spell got only 30yards at wowhead now
+[0:59:12] hiraethonhs: u cant waste time of nolifer KEKW
+[0:59:16] DnB_Junkee: what did you mean with what is not working or bringing it back?
+[0:59:27] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[0:59:39] misstherese: hello
+[0:59:43] vrsswow: i mean camping world #1 priest is a big deal bro what you mean , that only tells you how big u are
+[1:00:01] grilledcheeseistasty: @Hydramist how bad u hoping shadowfiend is just a qol change and not a rune
+[1:00:03] daggerslife: what are the chances of clean start with no login server crashes and random dc's which send u to 20k queue
+[1:00:03] DnB_Junkee: ah alrighty
+[1:00:07] choptopyo: how good you think kali was compared to other rogues in old wrath like woundman , reckful and that korean rogue in  orangemalades team dont remember name
+[1:00:09] choptopyo: ? :)
+[1:00:33] SirPadfoot: Hey guys, can you tell me how to make dispellable buffs glow on target buff ? (sorry for spamming)
+[1:00:36] daggerslife: WOUNDMAN... wtf kalimist was the best
+[1:00:37] JonnySweatpants: is there an easy way to get the meditations as a priest?
+[1:00:44] Kyfoon: kali soooo good
+[1:00:54] fafoo204: what are your thoughts on gear swapping(rune swapping) and how out of hand its going to get later on with so many slots? @Hydramist
+[1:01:06] DnB_Junkee: did you ever play with neilyo?
+[1:01:07] Ryett: in TBC is was Neilyo who is prob still the GOAT
+[1:01:16] SirPadfoot: Hey guys, can you tell me how to make dispellable buffs glow on target buff ? (sorry for spamming)
+[1:01:28] twinberrycheesecake: Prayge
+[1:01:34] vrsswow: Hydra Kalimist and Flyn - RMP FOR LIFE
+[1:01:55] tokyolab40: !guide
+[1:01:55] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:01:55] Shiwoon_TV: how will you level your priest? BFD -> ??
+[1:01:58] daggerslife: my heart goes to hydra / kali / redhot
+[1:02:14] Amoxychillen: uh bad example
+[1:02:31] Amoxychillen: a rotten apple fam?
+[1:02:39] perseay797: Let's say bad cheap apple vs good fresh apple
+[1:02:40] SirPadfoot: Hey guys, can you tell me how to make dispellable buffs glow on target buff ? (sorry for spamming)
+[1:02:43] daggerslife: i was sad when they moved from Emeriss to Stormscale
+[1:02:54] grilledcheeseistasty: @Hydramist  u ever gonna go hom over shadowfiend for pvp?
+[1:03:01] vrsswow: what was the name of the french guy that played mage with you Ryan
+[1:03:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:03:26] vrsswow: Rivah
+[1:03:44] ociriss: are  the new runes for 40 known ?
+[1:03:46] vrsswow: damn i tought he was a French
+[1:03:48] artform_: how did you enjoy MOTD then Ryan KEKW
+[1:03:54] Ryett: You really think lock will be that bad? Will they bounce back after 40 ?
+[1:04:04] thedonconn: are you going to play cata?
+[1:04:08] Kyfoon: only if they win both games in hand!
+[1:04:11] SirPadfoot: Hey guys, can you tell me how to make dispellable buffs glow on target buff ? (sorry for spamming)
+[1:04:13] Kyfoon: brentford gonna dome them tonight
+[1:04:17] depe485: p2 is on thursday right? but server reset is on wednesday, does this mean it's pointless to pvp with the goal to have quick ranks first week?
+[1:04:34] artform_: Nah you're still top but Arsenal closed the gap Despair
+[1:04:47] artform_: likely yeah
+[1:04:48] Kyfoon: we played SO shit, jeez
+[1:04:50] Nolan_lg: !tierlist
+[1:04:50] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:05:07] artform_: They often go on a ruthless run after Christmas
+[1:05:11] ash_p94: With KDB back its a wrap
+[1:05:52] bigsugg: liverpool winnin the league
+[1:05:53] artform_: Tractor boys dropped points at the weekend as well. To Preston Sadge 3rd now
+[1:06:01] SirPadfoot: Hey guys, can you tell me how to make dispellable buffs glow on target buff ? (sorry for spamming)
+[1:06:01] vrsswow: iam gona chill my old ass on sofa watch stream and 100% fall a sleep...ggs :)
+[1:06:42] TV_Kuro: @SirPadfoot Not sure that works on this client.
+[1:06:42] Chrosis: !Guide
+[1:06:43] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:06:49] bigsugg: first half they got dominated
+[1:06:49] DnB_Junkee: @SirPadfoot you will need an addon for that. No idea if sth like that exists for classic
+[1:06:56] artform_: Not sure, shaky performance from VVD I heard
+[1:07:23] ociriss: i think the classic will let oyu only see dispelable buffs
+[1:07:27] JonnySweatpants: what are the numbers above your target frame?
+[1:07:36] SirPadfoot: Ok ty mate
+[1:08:07] Dakkroth: was watchin the vod just now
+[1:08:12] Dakkroth: its insane the lengths they go to
+[1:08:16] Dakkroth: its always the same people as well
+[1:08:18] Dakkroth: FREAKSSSSSSS
+[1:08:19] prodigy_wow: We need rank 1 buff/debuff detector :O
+[1:08:32] grilledcheeseistasty: @Hydramist what u up to i ngame
+[1:09:14] Dakkroth: just waiting for same names to pop up on NA too
+[1:09:30] Dakkroth: ah blessing
+[1:09:40] Akaruin: anyone in chat know why increasing minimum name size doesnt seem to do jackshit for me in terms of seeing names further away?
+[1:10:12] noodlewiener: !guide
+[1:10:13] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:10:21] ociriss: maybe your distance view ?
+[1:10:36] Dakkroth: shame streaming with a delay sucks
+[1:10:47] Dakkroth: would help a bunch
+[1:10:51] Akaruin: monkaHmm
+[1:10:52] grilledcheeseistasty: @Hydramist u stackin quests for launch>
+[1:12:02] Dakkroth: muchos appreciatos
+[1:12:02] DnB_Junkee: still here
+[1:12:13] DnB_Junkee: ya, planning to send it on CF
+[1:12:21] DnB_Junkee: doing it after work
+[1:12:22] Dakkroth: like im a once a week streamer and they still find time to get me no matter what hour I stream on
+[1:12:25] Dakkroth: dedicated freakos
+[1:13:33] Dakkroth: ya the addon is a blessing, props @DnB_Junkee
+[1:13:36] Shiwoon_TV: you have any leveling plans for phase 2?
+[1:14:00] DnB_Junkee: @Dakkroth keep an eye out for "StreamerMode"
+[1:14:06] nuttykenzo: !tierlist
+[1:14:07] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:15:13] perseay797: What's the secret of beating you in duel? :)
+[1:15:23] Fomse: !gyude
+[1:15:27] Fomse: !guide
+[1:15:27] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:16:32] ociriss: do you think everyone will spec PI as disc or would healing focus and holy crit for penance be a possibility
+[1:16:58] stalkerbronet: stalkerbronet watched 5 consecutive streams this month and sparked a watch streak! phase 2 hype
+[1:17:04] Kyfoon: KEKW
+[1:17:16] perseay797: Fucking Ashenvale man. The guys camping the roads even at the end of phase 1.
+[1:17:53] perseay797: o7
+[1:18:04] ca_Y_z: so, i wrote this movie once in fryeburg
+[1:18:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:18:48] Chrosis: How can people hate on Ashenvale ganking, it's literally the only good part of Ashenvale
+[1:19:06] Drunk_Mantis: My family is visiting Friday-Monday; RIP my phase 2 leveling Deadge
+[1:19:12] perseay797: @Chrosis Not when you're  on the other side KEKW
+[1:19:21] SirPadfoot: Have you already made talents list for P2 ?
+[1:19:49] DnB_Junkee: fuck it, done with work for today :D
+[1:20:00] SirPadfoot: i feel like holy is gonna be over disc, what a shame
+[1:20:21] stalkerbronet: naah streaming is so much more flexible than 9 to 5
+[1:20:46] omgink13: and shadow will be the best spec at 40
+[1:20:54] perseay797: forsenCD momentum
+[1:21:13] grilledcheeseistasty: @Hydramist bro whenever you on i tune in cause your the only streamer that does priest lmao
+[1:21:32] genjimainofc: its like an entire company taking vacation
+[1:21:34] perseay797: How many subs you rocking rn? Did you stream boom with SoD Release? @Hydramist
+[1:21:40] pokt: If you were to solo heal Gnomer, first lock out, would you go disc or holy?
+[1:21:48] neilius85: Being self employed, I know the pain
+[1:22:07] grilledcheeseistasty: @Hydramist should make a super indept shadow priest deep dive video all tips n tricks n everything
+[1:22:29] Sinostra: Hydra, you need to make a duel guide !
+[1:22:34] pokt: we have off heals, mage if needed, but I'm main healer. I figure it will be death but worth a shot.
+[1:22:46] grilledcheeseistasty: @Hydramist  MORE IN DEPTH ON SHADOW
+[1:22:52] grilledcheeseistasty: alrdy checked it out come on now
+[1:23:10] Amoxychillen: ur really good at guides..
+[1:23:14] Konsekvens: !wa
+[1:23:18] Amoxychillen: can you do a guide guide?
+[1:23:30] pokt: guide video was top notch
+[1:23:37] rosso5792: can you also play the game for me @Hydramist
+[1:23:56] Sinostra: can you make a bag space  guide ?
+[1:24:31] ronke420: u dont have bank ? i mean why do u have 4 stacks of wool in bags lol
+[1:24:36] perseay797: Dayem you don't even have a DMF 14 slotter bag. It's cheap AF and DMF is every other week. @Hydramist
+[1:25:01] ociriss: tip 1 destroy your hearth, its wasting space
+[1:25:05] Steggy_730: !tierlist
+[1:25:05] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:25:30] ronke420: 10g dm storage box on my server
+[1:25:34] ash_p94: its done yes
+[1:25:49] perseay797: Yeah. It's over. Depends on the server. On Lone Wolf it cost me about 8-9g, from tickets of course. You don't buy bag itself from AH LUL
+[1:26:11] genjimainofc: wdym why didnt YOU remind ME?! i forgot aswell LUL
+[1:26:44] Danimal_Media: gming too hard
+[1:26:49] ronke420: i just done it like 2 days aggo with engi for like 2.5 gold
+[1:26:58] genjimainofc: i think i have like 20 min left on mine from last raid
+[1:27:15] Danimal_Media: ooof sounds like chat forgot to remind you to do it
+[1:27:26] Danimal_Media: LUL
+[1:27:43] perseay797: Madge Chat
+[1:27:57] ronke420: i mean u can go take it but its on ally side so can be fuked up xD
+[1:27:59] oornli1992: good choice youre prepping for SoD 40
+[1:28:35] shmokes_: so what the prep about? getting  gold and BiS from BFD?
+[1:29:07] shmokes_: ohh and get the exp
+[1:29:09] shmokes_: fuck
+[1:29:18] shmokes_: i handed a bunch of them for the gold
+[1:29:19] grilledcheeseistasty: gravestone scepter or phoneix iginition on priest?
+[1:29:32] Steggy_730: why does the homun have Omegas as its name?
+[1:29:35] ociriss: i wonder if you can get tidal charm in P2
+[1:29:51] Kyfoon: course you can, its one of the questing zones
+[1:29:59] frozzon: I an excited to watch you at 40 as I believe spri gonna be dat guy, what streamers are you excited to watch in p2?
+[1:30:00] Kyfoon: would be weird to freeze it out
+[1:30:06] Sinostra: i'm going out tonight, so i won't be available for alliance wsg
+[1:30:08] Sinostra: sadge
+[1:30:16] twitchara7: stv chest??
+[1:30:18] Kyfoon: it will be a pvp event in itself
+[1:30:19] ociriss: try and get it early
+[1:30:23] SirPadfoot: Seems like bfd is giving some xp now, so might be better to wait for P2 lauch to do it now right ?
+[1:30:27] perseay797: 9pm GMT 8th Feb. Wtf, why so late? It will be a midnight for me LUL
+[1:30:49] Sinostra: yeah, but don't forget i'm 1 hour ahead of you
+[1:30:52] Itshighnoonwotlk: @SirPadfoot bfd resets every wednesday morning so u can do it before that
+[1:31:21] ronke420: @Itshighnoonwotlk bfd resets twice a week
+[1:31:21] owlbuttx: !Tierlist
+[1:31:22] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:31:48] perseay797: !addons
+[1:31:48] Nightbot: https://www.youtube.com/watch?v=d8vm4aSwoKQ
+[1:32:34] SirPadfoot: Yeah i have already done it i'm tag until wednesday but for the next tag i'll wait for thursday
+[1:32:40] frozzon: I an excited to watch you at 40 as I believe spri gonna be dat guy, what streamers are you excited to watch in p2?
+[1:33:05] oornli1992: for sure, Shadow Pumping
+[1:33:08] ronke420: 20+ quests and bfd on the 1st day ph2 and ill get lvl 28 ez  xD
+[1:33:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[1:33:33] jellypie: so first handing in quests then bfd?
+[1:33:56] hiraethonhs: we actually all logged out at bfd spirit
+[1:34:02] hiraethonhs: so we instant do bfd
+[1:34:04] ronke420: they didnt said .. but they said its gonna give alot xp upon completing
+[1:34:12] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[1:34:32] SirPadfoot: Probably better to do drums after BDF so you can quest with it
+[1:34:33] 9ntice: good afternoon sir
+[1:35:07] slarenoff: you struggling for gold? LUL
+[1:35:08] frozzon: do you think MitchJ gonna hit 40 before August?
+[1:35:09] oornli1992: can't, don't play wow anymore
+[1:35:17] ronke420: Horn drops are so bad omg ...
+[1:35:18] ociriss: will u get dreamweave at 40
+[1:35:25] 9ntice: im good man hbu, still in a loss for words for the P2 spells LOL
+[1:35:41] stilfor: i think you'll have to find wildvine in chests to make them?
+[1:36:01] stilfor: or higher mobs i supposed
+[1:36:13] ociriss: u can get it on honterlands alot
+[1:36:15] ociriss: from the trolls
+[1:36:18] ociriss: hinterlands
+[1:36:26] Itshighnoonwotlk: can i post a link hydra?
+[1:36:36] Itshighnoonwotlk: fast route to lvl 40
+[1:36:43] oornli1992: maybe if youre a Cow, cuz of the Herb Passive Skill, but otherway i don't think so
+[1:36:46] Itshighnoonwotlk: https://www.youtube.com/watch?v=5BgaqqugWCc
+[1:37:30] ladow1: !guide
+[1:37:30] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:37:45] Kyfoon: standard dungeon grind route
+[1:38:17] Amoxychillen: no way you couldnt get a big pumper grp
+[1:38:45] hiraethonhs: questing should be rly good for gold tho
+[1:38:53] hiraethonhs: if u have gathering proffs
+[1:39:45] Amoxychillen: put the word out and youd get them, no?
+[1:39:52] oornli1992: u could allways ask Snutz through
+[1:40:08] hiraethonhs: well just get like average warriors or mages and ur good
+[1:40:13] hiraethonhs: u only need 1 good mage to pull
+[1:40:18] Itshighnoonwotlk: after bfd>turnins>bring 4 mages and u heal hydra, u will destroy rfk
+[1:40:34] Borsti7777: !guide
+[1:40:34] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:40:50] Kyfoon: like a nice orange squash
+[1:40:54] Itshighnoonwotlk: questing gonna be wild in vietnam(stv) tho
+[1:40:57] hiraethonhs: i think ur underestimating how many ppl will be around
+[1:41:01] oornli1992: yea, especially when youre doing the quests now, and then just turn them in, should be easy like 5 maybe even 6 levels, give or take
+[1:41:35] hiraethonhs: i might do it 50/50 some dungeons at start and when I get bored go for some quests
+[1:41:40] Kyfoon: think you can only get 2 levels max from pre-q
+[1:41:48] Peoplewhinetoomuch: + 18 wsg marks
+[1:42:10] Zd_90: u lvling speed run ?
+[1:42:19] Itshighnoonwotlk: im not touching stv. gonna be 90% rogues and druids griefing other questers
+[1:42:47] hiraethonhs: STV is so fun zone to lvl tho, I love it
+[1:42:49] Peoplewhinetoomuch: non stealth melee players will suffer in STV LUL
+[1:42:56] Itshighnoonwotlk: i prep + 100 waylaid boxes and ill have 40 wsg marks ready
+[1:43:04] AndreSwd: theres alot of people doing prequests in living flame
+[1:43:07] Peoplewhinetoomuch: Druids nuking you from 42 yards away
+[1:43:07] greatywhite_: does anyone know roughly how long it will take to get 25-40?
+[1:43:10] thuruuuuu: spriest on alliance viable u think ?
+[1:43:20] ronke420: there are guides ... u ve normal and hc quest preps .... horde can get max 75k exp ... so thats more than 2 lvls
+[1:43:20] stalkerbronet: lots of ppl prepping am i only one taking it chill i only hit 25 in january haha
+[1:43:37] Kyfoon: you should be able to get 2 levels if you have 'item quests' in your bank stored to start
+[1:43:39] Gallowxyz: Humans are a really good choice too
+[1:43:43] bald_dumpster_swede: wdym change ur racials
+[1:43:52] ronke420: + u can have all those drop quest that u can find ... ashen and barens are full of tham
+[1:44:03] Gallowxyz: Im just trying to make myself feel better for my poor choices man
+[1:44:16] lezfer: !Guide
+[1:44:16] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:44:17] oornli1992: yep
+[1:44:18] stalkerbronet: 5% spirit COPIUM
+[1:44:28] ph1lthy88: !tierlist
+[1:44:28] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:44:29] Kiroxx: gettin carried by meleetrain in stockades, then vietnamthorn inc :D
+[1:44:36] PaEu: perception gonna be good in STV
+[1:44:52] hiraethonhs: yeah use percept on CD lul
+[1:44:52] Itshighnoonwotlk: actually what u said, i will be ahead of the wave. stv might be a thing
+[1:44:58] Kyfoon: might for gnomer
+[1:44:59] Kiroxx: maraudn boost
+[1:45:01] Kyfoon: xd
+[1:45:04] Amoxychillen: nature dmg in gnomer
+[1:45:16] hiraethonhs: u are other 10k ppl that did prequests @Itshighnoonwotlk KEKW
+[1:45:24] hiraethonhs: and*
+[1:45:26] slarenoff: ppl are already playing fulldps tank so i doubt it will sell for anything
+[1:45:30] ronke420: NEVER WALK ALONE!
+[1:47:10] Satyr13: !tierlist
+[1:47:10] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:47:37] oornli1992: why do u want that cat??
+[1:47:37] Itshighnoonwotlk: @hiraethonhs out of 27k players on horde side on lone wolf u really think 10k of them are gonna be in stv same time as me? i actually hard doubt it, its many bots, many casuals, so those numbers dnt add up
+[1:47:46] oornli1992: arh ok
+[1:48:24] oornli1992: nop
+[1:48:31] genjimainofc: it patrols down the hill and to the right
+[1:48:36] EpShade: at the foot of the big tree i believe
+[1:48:37] Zodzorlol: Can patrol up to the tree at least
+[1:48:49] Kyfoon: ive done it 3 times and only ever spawned at top
+[1:48:50] jellypie: i layer switched like 6 times and then i had it
+[1:48:56] Kyfoon: but idk for certain
+[1:49:10] Kyfoon: to left of tree i think
+[1:49:13] Kyfoon: further up
+[1:49:24] Kyfoon: yah
+[1:49:29] slarenoff: Clueless
+[1:49:36] hiraethonhs: yeah i play on living flame so I know it will be zoofest there :D @Itshighnoonwotlk
+[1:49:53] Kyfoon: LOL
+[1:50:11] colm35: !Tierlist
+[1:50:11] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[1:50:13] Kyfoon: yes
+[1:50:14] hiraethonhs: little bit
+[1:50:16] pokt: yes
+[1:50:18] Kyfoon: 10s each i think
+[1:50:18] ronke420: max 10s per 1
+[1:50:20] hiraethonhs: page
+[1:50:20] Victwitch: kingsb 20s
+[1:50:21] 23rhz: ya
+[1:50:29] Kiroxx: kick kingsblood, SM got enough of it
+[1:50:29] 23rhz: kingsblood is 7s on alliance lol
+[1:50:32] 23rhz: 20s on horde?
+[1:50:34] Itshighnoonwotlk: @hiraethonhs https://ironforge.pro/population/sod/ living flame only have 2k more, or is this very inaccurate?
+[1:50:35] Kyfoon: bags NotLikeThis
+[1:50:36] andreasmads: THe first aid stack
+[1:50:38] varatupaj: shradder page
+[1:50:55] varatupaj: ah
+[1:51:15] Itshighnoonwotlk: @hiraethonhs i remember seeing living flame with like 90-100k players total
+[1:51:22] hiraethonhs: it says 60k I am on EU dunno @Itshighnoonwotlk
+[1:51:26] oornli1992: damn the pages, probably the worst quest ever made
+[1:51:51] Sinostra: @oornli1992 there's the ones in STV
+[1:51:51] hiraethonhs: dont forget a lot of ppl stopped playing and waiting for phase 2 @Itshighnoonwotlk
+[1:51:54] bmkJR: u can buy them at ah
+[1:52:07] Itshighnoonwotlk: @hiraethonhs 60k living flame is only 1.5k more than lone wolf
+[1:52:33] oornli1992: @Sinostra yep, thats the one im talking about
+[1:52:36] Itshighnoonwotlk: @hiraethonhs bit confusing thats all, cuz last time i checked living flame was popping big time
+[1:52:49] Mystylerocks: eveningggggg
+[1:53:02] Itshighnoonwotlk: makes sense
+[1:53:09] hiraethonhs: 52% ally, not too bad balance
+[1:53:52] Kyfoon: i think orc ya
+[1:53:55] hiraethonhs: orc i think
+[1:53:56] EpShade: orc yeah
+[1:53:58] Konsekvens: Orc/troll just run ratchet
+[1:53:59] Bolveg: Orc with log skip in the cave
+[1:54:05] SirPadfoot: orc y you can log skip
+[1:54:07] oornli1992: yea orc/troll, and take the secret passage to Ratchet
+[1:54:07] 23rhz: its orc with deadthskip
+[1:54:07] ronke420: tauren closest
+[1:54:09] 9ntice: tauren tbh
+[1:54:16] Kyfoon: Thunderbluff lay out OP
+[1:54:17] 9ntice: bank next to mailbox
+[1:54:30] ronke420: death skip
+[1:55:09] 23rhz: in the cave
+[1:55:33] somiii000: Do sod have good pvp?
+[1:55:58] oornli1992: time for me to make some dinner, gonna be lurking
+[1:56:08] somiii000: I start learning rogue on wotlk and its so hard ngl
+[1:56:27] Sinostra: where's the best place to duel ? horde eu ?
+[1:56:30] izdaen65: !guide
+[1:56:30] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[1:56:45] bassiemon123: 0 prep here xd
+[1:56:45] Kyfoon: ive got a spreadsheet which shows xp etc
+[1:56:46] Kyfoon: can share
+[1:56:53] SirPadfoot: sarthe made a good video about it
+[1:56:54] ronke420: just 2 in stonetalon
+[1:56:57] bassiemon123: Except getting the fp's i need
+[1:57:02] bmkJR: theres a zockify list
+[1:57:08] Mystylerocks: theres like 2-3 big quests in stonetalon all elite
+[1:57:14] Kyfoon: https://docs.google.com/spreadsheets/d/1ooeLelKuUtJQIYzVoY7B-dbHLgGqBNRtwNcmuSMC2K4/edit?usp=sharing
+[1:57:21] Mystylerocks: The Den, the elite harpy and another one with the 3 treasures
+[1:57:25] ronke420: if u havent lvled there at all than no
+[1:57:44] Kyfoon: not mine, but working pretty good for me
+[1:57:50] bassiemon123: Dont most of the quest u about to hand in have follow up?
+[1:57:55] Kyfoon: tick which quests you have done and it will show you how many levels you should get
+[1:57:59] Kyfoon: oh haha
+[1:58:00] hiraethonhs: ashenvale,arathi and needles is easier way
+[1:58:02] hiraethonhs: imo
+[1:58:05] ronke420: i done ashen, 1000 needless
+[1:58:07] ash_p94: Theres this one from reddit i used: https://docs.google.com/spreadsheets/d/11uPnBJFIFs0C2QgHDXbQtoV1JjCDvJyJ7gsncNFNIoI/edit?usp=sharing
+[1:58:09] Istunlocklocalpensioners: ggs.
+[1:58:31] Istunlocklocalpensioners: deadge.
+[1:58:49] Kyfoon: use @ash_p94 , basically the same
+[1:58:53] hiraethonhs: arathi is pretty good also, there is that elite chain
+[1:59:30] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[1:59:40] jcurt03: U see people are saying base range on SS is gonna be 30yds?
+[1:59:41] hiraethonhs: i think u can get 40 just by doing some dungeons and STV
+[1:59:43] Istunlocklocalpensioners: do you find SOD levelling tedious asf
+[2:00:00] gratzitko: theres more leveling then just dungeons and questing
+[2:00:10] Oldschoollol: Oldschoollol subscribed at Tier 1. They've subscribed for 78 months! hydraCreep
+[2:00:15] NeVolent: @jcurt03 legit?
+[2:00:24] varatupaj: the sould put mana cost on ss
+[2:00:35] CreasesPieces: runes is leveling with roids
+[2:00:39] gratzitko: @jcurt03 where do u see this at. is it confirmed
+[2:00:43] Oldschoollol: good good, long day, but was fine. And yours?
+[2:00:52] hiraethonhs: tbh Blizzard locking out ally on living flame was best move they did
+[2:00:56] hiraethonhs: else it would be 70% ally rn
+[2:01:06] varatupaj: range would be fine if you cant spam it for free
+[2:01:17] theEntropie: Not even mana cost, just cut the range to 25-30 yards
+[2:01:58] ediblemaster: !guide
+[2:01:58] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:01:59] Kyfoon: yep
+[2:02:03] gratzitko: people complaining about boomkins just need to stop, nerfing starsurge makes the class 100% completly useless again. theyre literally fine
+[2:02:13] bmkJR: xd?
+[2:02:17] hiraethonhs: starsurge is broken
+[2:02:18] ediblemaster: hydra ur a life hack for me as a priest main, love and appreciate the work bro
+[2:02:23] theEntropie: I can normally fight boomies on mage or priest in close range no problem, the issue is when I get a meteor strike from 10000 miles away
+[2:03:03] gratzitko: starsurge is fine imo.....it literally hits for like 250 dmg  and they do 0 dmg outside of that. i dont even play boomkin and i dont find them to be a problem at all
+[2:03:08] Istunlocklocalpensioners: the runes were always gonna create problems like this lol
+[2:03:17] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:03:18] Kavsen: @hiraethonhs druid just ganked me, 3 starsurge, healed inbetween, nothing I could do. fun stuff..
+[2:03:20] Istunlocklocalpensioners: but it makes it fun
+[2:03:21] EpShade: @gratzitko it hits for around 500
+[2:03:24] theEntropie: @gratzitko yeah dmg and cost are fine imo but for me the range is absurd
+[2:03:33] cheetobbob: star surge does not need to be nerfed 1 bit
+[2:03:37] gratzitko: it does NOT hit for 500 lmao, maybe ur talking about a crit, which is exztresmly rare
+[2:03:45] Chrosis: @gratzitko There is no counterplay to it at all. It's a 1 button, 8 second cooldown that cannot be stopped and does 20-25% of your hp bar
+[2:03:47] NeVolent: @gratzitko not true... they do 300 dmg with ss and when is vs caster they spam swrath that hit for 150-160 each 1.5 sec veeeery fast cast
+[2:03:54] Itshighnoonwotlk: those bags are madness, wheres bagnon x)
+[2:04:08] hiraethonhs: guys only way to live starsurge spam is if u have like 1.5k hp
+[2:04:11] hiraethonhs: or healing
+[2:04:16] hiraethonhs: if ur non healing class ur fucked
+[2:04:22] wowiranidog: !guide
+[2:04:22] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:04:24] ronke420: DUDE .... ahahhah we have same amount of gold lol
+[2:04:26] gratzitko: it hits for 250 dmg. if you have 1400 hp which most people do, sometimes more, its gonna take like 6-7 surges to kill u lol. 40 seconds
+[2:04:33] bmkJR: even if ure healing class u go oom lmfao
+[2:04:36] potnis__: i have biss gear on my druid, in pvp i can crit some time 450-500 with bfd buff and berserk
+[2:04:37] cheetobbob: it does not hit for 300-350 full bis
+[2:04:44] ronke420: ltrly have 31g 31s
+[2:04:50] NeVolent: Wrath also gets 70% pushback now so they can totaly spam warths in ur face while  they tank ur dmg with Wild growth
+[2:04:55] cheetobbob: it hits for 225-275 bis gear non crit
+[2:05:01] slarenoff: deadly blunderbuss
+[2:05:05] gratzitko: @cheetobbob yepo
+[2:05:07] gratzitko: no
+[2:05:18] SirPadfoot: i'm asking myself if we should hand in green quests before getting into bfd
+[2:05:21] NeVolent: dude i have druid not even bis and hit for 300
+[2:05:28] NeVolent: and 150-160 wraths
+[2:05:45] gratzitko: rogues open on a druid and kill them in 2 seconds
+[2:05:50] NeVolent: maybe u play vs undergeared boomies
+[2:05:51] bassiemon123: Ur wrath still hitting harder then my lb rank 4 xd
+[2:05:53] cheetobbob: I’m full bis and I haven’t seen a 300
+[2:05:54] gratzitko: boomies r fine man lol
+[2:05:56] NeVolent: lol
+[2:06:04] NeVolent: never seen boomie lose to rogue in duels or any tournament happened
+[2:06:19] gratzitko: yeah because a duel tourny is diff when every1 is stacking stam vs rogues
+[2:06:22] gratzitko: ur not doing that in the open world
+[2:06:23] NeVolent: saw 2 tournaments where bobka was playing and was losing to boomies
+[2:06:25] potnis__: rogues are easy on druid, if u have wild growth
+[2:06:42] gratzitko: rogue shits on boomy in open world, it only wins in a duel tourney where a boomy stacks stam
+[2:06:52] gratzitko: but most boomies run with 1k hp, and + arcane dmg, so they get shreded by a rogue
+[2:06:53] NeVolent: stacking stamina? boomies dont stack stamina they stack MANA so they spam Wild growth
+[2:07:07] gratzitko: in duel tourneys no they def stack stamina vsd rogues kekw
+[2:07:07] Synckery: what we thinking about arms going into the next patch, thinking of rerolling off lock cus lock feels underwhelming
+[2:07:09] gratzitko: tf r u talking about
+[2:07:20] NeVolent: the fk u are talkin about u are clueless
+[2:07:28] hiraethonhs: are u on living flame on this priest hydra
+[2:07:29] wheeezyp: that poor orc stuck in the corner :(
+[2:07:37] lil__dolo: KEKW
+[2:07:38] Kyfoon: LUL
+[2:07:39] NeVolent: not true check vods 1200 hp max!
+[2:07:46] ronke420: Preach
+[2:07:48] AndreSwd: i wish the new pvp event had a kind of "gulag" when you die, to give that 1v1 element of pvp
+[2:08:02] gratzitko: @NeVolent ya go watch moonfirebeams stream he put on every single peice of high stamina gear he had when he fought bobka lol
+[2:08:02] FatesFavoriteFool: !guide
+[2:08:02] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:08:13] DeathicaOnline: !tierlist
+[2:08:13] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:08:16] gratzitko: and he still barely won
+[2:08:34] NeVolent: u pull things out of ur ass so take care not in the mood to talk with trolls
+[2:08:39] NeVolent: sry Hydra
+[2:08:44] NeVolent: we desrve it haha
+[2:08:50] jimbonni: guys come on ar we litle kids?
+[2:08:52] NeVolent: bomb us
+[2:09:01] gratzitko: i watched the tourney, im telling you boomies stackd stam when dueling rogues, nothing being pulled out of my ass about that lol. relax bud
+[2:09:11] ephixa_fan: dont ban me man @Hydramist
+[2:09:12] Amoxychillen: i care about their disagreement done with civility
+[2:09:16] ephixa_fan: I did nothing
+[2:09:16] hiraethonhs: do u play druid @gratzitko
+[2:09:23] NeVolent: NUKES inc!
+[2:09:28] cheetobbob: nerds
+[2:09:39] gratzitko: i do have 1 yes
+[2:09:43] ephixa_fan: its Theresse fault
+[2:09:48] slarenoff: GIGACHAD
+[2:09:48] AndreSwd: hahah
+[2:09:56] AndreSwd: colecting them bans
+[2:09:56] dewination: GIGACHAD
+[2:10:10] maincy: lmao what a rebel
+[2:10:14] maincy: what a bad boy
+[2:10:26] ephixa_fan: 6 times is low af since 2015
+[2:10:27] ephixa_fan: lets be honest
+[2:10:28] Istunlocklocalpensioners: he has a troubled past
+[2:10:29] ephixa_fan: Kappa
+[2:10:38] stilfor: just perma lol
+[2:10:47] 23rhz: not gonna lie, shouldnt he get a mod by now?
+[2:10:59] maincy: ephixa for mod
+[2:11:07] 23rhz: free ephixa
+[2:11:11] NeVolent: u should make HIM a mod haha
+[2:11:15] maincy: justice for ephixa
+[2:11:15] ephixa_fan: it means theyre fake bans
+[2:11:22] hot5and7: 3years afk Kappa
+[2:11:23] ephixa_fan: if i get unbanned so fast
+[2:11:27] Ricweedx: Prob didnt watch LUL
+[2:11:27] ace52: should i play sham for p2 ?
+[2:11:28] gratzitko: what did he do lol
+[2:11:29] aslaboii: free ephixa!
+[2:11:32] Synckery: Bangodx
+[2:11:32] gratzitko: i jus had a 3min ad
+[2:11:48] gratzitko: omg all those reports lol
+[2:11:52] 23rhz: so does ephixa get mod status now or nah
+[2:12:00] ronke420: whats all that blizz msgs ?? o.O
+[2:12:04] hiraethonhs: if u guys dont stop arguing abotu boomkin ephixa will get banned again
+[2:12:07] gratzitko: those were all player reports haha
+[2:12:08] 23rhz: hydra reporting 24/7 :D
+[2:12:08] ama__deus: @Hydramist probably remarked on it already, but did you see the shadow form mana cost reduction? I pray that is actually making it into the game Prayge
+[2:12:11] Zodzorlol: Filled ones stack
+[2:12:11] gratzitko: hopfully bot reports
+[2:12:22] 23rhz: snitch :D
+[2:12:30] gratzitko: hahaha
+[2:12:35] NeVolent: i am farming some supply shipments atm
+[2:12:42] 23rhz: reporting zulpi for short legs
+[2:12:42] az3ra: you can stack them when you fill them
+[2:12:48] gratzitko: @Hydramist r u going tailoring engineering
+[2:13:00] ama__deus: -50% mana cost on shadow spells shadow form Prayge
+[2:13:05] gratzitko: snutz said he was going tailoring / mining on his lock, not sure why hes going mining is there some benefit?
+[2:13:10] stilfor: lol why
+[2:13:14] ama__deus: Zulp KEKW
+[2:13:14] Zodzorlol: They still take up 1 bag slot each but you can have multiple if they are full. You can't have multiple unfilled
+[2:13:29] gratzitko: pfft snutz farming gold? good one hahaha
+[2:13:32] 23rhz: zulper buying g2g, zulper buying new accounts, see no problem here
+[2:13:33] ronke420: i just hope they will allow race change... im now on troll mage instead of my main undead becouse of a friend
+[2:13:48] gratzitko: ppl open trade and give snutzl ike 500g on the reg lol that mans aint farmin a single lick of copper lmao
+[2:14:35] ama__deus: Snutz is an og grinder. He wouldn't even need the bennies EZ
+[2:14:42] gratzitko: @Hydramist u dont like enchanting sigil for next phase on priest?
+[2:14:52] Sinostra: do you still need the wsg food ?
+[2:14:53] gratzitko: ye
+[2:15:34] ama__deus: Cloaking device alone is already worth more than 20 SP KEKW
+[2:15:45] Ricweedx: Are the bracers gonna be available @Hydramist
+[2:15:51] laxxe12: Yo Hydra.. How important are professions in PvP even? Engi, surely but what about 2nd?
+[2:15:58] gratzitko: no wayyyy lol
+[2:16:03] gratzitko: 100 sp is massssive lol
+[2:16:07] gratzitko: but yea i get wuit ur sayin
+[2:16:27] shmokes_: you keeping robe of arugal in your inv?
+[2:16:53] Sinostra: i think you can delete the wsg food off your inv
+[2:17:01] gratzitko: plus i doubt they let u use 5 of them for a 100 sp stack
+[2:17:21] Cata1ystAce: !tierlist
+[2:17:21] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:17:34] scarecrovv__: !build
+[2:17:44] wowiranidog: Your priest guide is good i approve, :D
+[2:17:45] elninololo69: !serv
+[2:17:50] grilledcheeseistasty: u see the mana reduction on shadow form
+[2:17:58] Zaaartan: Do you have any guides on pvp and pve talents at 40 ?
+[2:18:08] ama__deus: If that's real, though... Prayge
+[2:18:21] Vehellum: @Zaaartan !guide
+[2:18:28] Zaaartan: !guide
+[2:18:28] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:18:34] Sinostra: i'm going off for now, see you later
+[2:18:34] ama__deus: Can never have enough mana SwiftRage
+[2:18:35] Volitar: I feel like p2 is gonna be clown fiesta levels of PVP balance.
+[2:18:39] NeVolent: well 30% from despression is like nothing :p
+[2:18:40] Tabbs33: what prep have you done so far
+[2:18:42] gratzitko: cuz blizz likes over buffing, and over nerfing, they can never just do small incraments lol
+[2:18:46] ama__deus: @Volitar so was P1 tbh LUL
+[2:18:49] Zaaartan: @Vehellum tyty
+[2:19:04] Blazerrow11: !tierlist
+[2:19:04] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:19:13] grilledcheeseistasty: stuck between mage and priest on leveling first and maining
+[2:19:19] shmokes_: can you show that gear you got in your bag and why are you keeping it?
+[2:19:19] gratzitko: they needa move other healers on par with priest, theyre so broken man lol
+[2:19:24] JavaSkrpt: o/
+[2:19:46] ama__deus: dam and spirit will be rough with all the open world pvp, though monkaW
+[2:19:56] JavaSkrpt: DoTs can crit next phase, right? Any thoughts on stacking crit?
+[2:20:11] twitchara7: druid counter priest next phase??
+[2:20:17] ama__deus: @javaskrpt that's a data mine for level 50. No critting dots next phase from what we know so far
+[2:20:18] theEntropie: Other healers will catch up in P2 because all priests are going shadow xD
+[2:20:18] gratzitko: idk i feel like druids just oom to fast with wild growth, if they have another OP aoe heal like pom and shit that doesnt cost all there mana then maybe
+[2:20:22] Blazerrow11: isnt the hat better?
+[2:20:43] shmokes_: shmokes_ subscribed with Prime. 
+[2:21:10] JavaSkrpt: @ama__deus Got it - if it does come, VP + Pain (and if lucky vampiric) could pop off with crit builds
+[2:21:20] twitchara7: also epic staff gonna be prolly prebis
+[2:21:29] shmokes_: Made a priest coz of you, now im stuck in this lifestyle
+[2:21:49] gratzitko: yeah i mean tbh alot of the gnomer gear isnt that far off from, BFD gear. the bfd gear is rly OP
+[2:21:49] shmokes_: its insane
+[2:21:57] shmokes_: didnt thought i would have that much fun
+[2:21:59] Blazerrow11: undead priest for life
+[2:22:00] JavaSkrpt: I enjoyed it in MoP as shadow
+[2:22:07] Ricweedx: Are the WSG bracers gonna be in the game in P2/
+[2:22:16] ama__deus: Priest lifestyle addictive until you walk around without 20% movement speed boon for more than 15 minutes 😡
+[2:22:21] gratzitko: fun? i think you ment BUSTED  ;P
+[2:22:30] fourkgaming: im more of a paladin man myself
+[2:22:30] JavaSkrpt: Pumped for AB soon, little variety to the BGs
+[2:22:30] gratzitko: but hey busted is fun lol
+[2:22:32] Blazerrow11: Hydra 7 video my priest life started
+[2:22:42] gratzitko: ya priest is just a fun class
+[2:22:51] BlueMoon1337: do u think shadow priest will be viable in phase 2 ?
+[2:22:55] gratzitko: kekw
+[2:22:57] saund: hey're just so versatile
+[2:23:00] saund: they're*
+[2:23:01] gratzitko: na not viable at all @BlueMoon1337
+[2:23:07] ama__deus: I do miss mobility, admittedly, but that's mostly due to lack of experience regarding positioning
+[2:23:14] genjimainofc: was priest the first class you ever picked or how did u initially land on it?
+[2:23:25] JonnySweatpants: !wa
+[2:24:07] shmokes_: fuck, i see all the gear you keep in your inv to switch between PvE and PvP.. and i remember silly me just disenchant all of it :'(
+[2:24:08] slarenoff: warrior in classic 💀
+[2:24:26] Synckery: have a feeling warriors will get bladestorm eventually in SoD
+[2:24:38] JavaSkrpt: Braindead play
+[2:24:43] Synckery: prefer to get stormbolt ngl
+[2:24:57] JavaSkrpt: Shockwave or Bolt would be tits
+[2:24:59] aslaboii: do you have a list/ guide over quest item that can be bought for next phase?
+[2:24:59] ama__deus: There's still hope UA might not be an actual rune Prayge
+[2:25:13] twitchara7: shadowfiend prolly gonna be spell so whe gonna have 2 pets its insane
+[2:25:13] JavaSkrpt: I'd prefer those over BS
+[2:25:21] Volitar: at some point is someone just gonna be like "wanna go play era instead?" and the answer we be "yes"
+[2:25:21] gratzitko: @Hydramist wait u said the engi cloth belt was gonna be super good? whats good about it im looking at it? looks like kinda garbo tbh
+[2:25:22] kajjan112: deadly
+[2:25:22] ama__deus: Deadly Blunderbuss
+[2:25:25] staun: Deadly blunderbuss
+[2:25:25] shmokes_: ye
+[2:25:26] Blazerrow11: deadly blunder
+[2:25:27] gratzitko: yes
+[2:25:36] mylittlehombre: yerpp
+[2:25:39] JavaSkrpt: Cheap, nice
+[2:25:52] shmokes_: I stil miss 4 runes
+[2:26:17] ama__deus: Only missing the auto salvage one. Not sure I can be bothered
+[2:26:20] KioskHasse: lock or hunter for world pvp shenanigans p2? :)
+[2:26:50] shmokes_: i feel like i dont need the other runes.,.. all i need is penance plague and the homies
+[2:27:04] shmokes_: and switch between homies and Mend
+[2:27:13] shmokes_: when healing or Dps
+[2:27:43] Synckery: when does the next phase launch is it on wed?
+[2:27:53] mrbirman: Oi Hydraa helloes mate
+[2:28:04] Blazerrow11: yes
+[2:28:35] ama__deus: What addon did you install to see XP rewards in the log btw?
+[2:28:37] Blazerrow11: yeah it needs u to kill lorgus jett then u get the shoulder or agi ring
+[2:28:51] Blazerrow11: i think the raid quest should give more xp
+[2:29:00] Blazerrow11: its chain
+[2:29:05] ronke420: chain
+[2:29:52] Blazerrow11: thousand needles there some good xp also
+[2:29:54] ama__deus: Yeah, I picked up runed scroll, but it's too out of the way
+[2:30:02] hiraethonhs: needles
+[2:30:06] aslaboii: do the harvester!
+[2:30:15] hiraethonhs: ore is from needles
+[2:30:23] kajjan112: panther quest?
+[2:30:25] kajjan112: in the cage
+[2:30:26] ronke420: doesnt matter how much xp ... it doesnt take quest space xD
+[2:30:31] shmokes_: harvester never spawn xD
+[2:30:36] shmokes_: hhmmm
+[2:30:38] shmokes_: dont do it
+[2:30:40] Blazerrow11: no
+[2:30:41] ama__deus: Risky
+[2:30:43] genjimainofc: no
+[2:30:51] shmokes_: dont risk it for science
+[2:30:55] genjimainofc: u can abandon no risk
+[2:31:13] genjimainofc: u can get them without the quests
+[2:31:19] ama__deus: can you trust a genji main, though? FeelsThinkingMan
+[2:31:30] shmokes_: whats the addon that show all your rings in inventory while putting your mouse on it
+[2:31:32] ronke420: i think u can abandon ... becuse u dont need quest at all to farm pages
+[2:31:36] ama__deus: Pog
+[2:31:59] davidslfc: anyone have list of max xp quests?
+[2:32:26] Hydramist: https://docs.google.com/spreadsheets/d/11uPnBJFIFs0C2QgHDXbQtoV1JjCDvJyJ7gsncNFNIoI/edit?usp=sharing
+[2:32:27] davidslfc: cheers
+[2:32:32] ama__deus: Thank you
+[2:32:44] shmokes_: sounds good
+[2:32:51] hiraethonhs: i wouldnt hold hilsbrad
+[2:32:53] shmokes_: maybe some in stonetalon too??
+[2:32:55] hiraethonhs: some are really low lvl
+[2:32:57] Distorpia: hillsbrad grieftown inc
+[2:33:13] hiraethonhs: needles seems like a good hold
+[2:33:19] spoxan: elixir of agony is a bitch btw
+[2:33:21] spoxan: the higher end
+[2:34:10] Kyfoon: stonetalon has a few good quests
+[2:34:14] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[2:34:18] ama__deus: I did Ashenvale->Stonetalon->TB->TN
+[2:34:18] hiraethonhs: i did my 20 prequest in few hours, hunter is too ez
+[2:34:24] Kyfoon: hillsbrad has some of the high XP quest
+[2:34:25] Distorpia: hydraFiesta
+[2:34:32] Kostjanov: !guide
+[2:34:32] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:36:05] Mpowerd: Hilsbrad vry nice
+[2:36:08] ama__deus: Guess if you got a summ service lined up it's worth
+[2:36:17] Kyfoon: you could do some of hillsbrad now and then some at 27/28 or summin
+[2:36:38] EnlightenedNinja: !guide
+[2:36:38] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:36:50] Kyfoon: yeah steelsnap worth
+[2:36:54] Distorpia: beware the battle of hillsbrad farms, it's infested with multiple griefers
+[2:38:13] Distorpia: what the heck are those names in front of u?
+[2:38:29] jerotw: i want to know that also, why omegas everywhere
+[2:38:36] Distorpia: is that an addon ?
+[2:38:50] ronke420: i need legs and hands from bfd and my mage will have 1.25k hp unbuffed
+[2:38:52] znoxofc: !tierlist
+[2:38:52] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:39:15] Distorpia: ye
+[2:39:19] Distorpia: SFK quest
+[2:39:22] Mpowerd: sfk
+[2:39:22] ronke420: sfk
+[2:39:34] znoxofc: !guide
+[2:39:34] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:39:39] NeVolent: Hydra can u show gear?
+[2:40:15] nintoz: what do you think of the surge range nerf
+[2:40:31] saund: CHONKY BO
+[2:40:33] saund: boy
+[2:40:34] NeVolent: we lost some mana but looks good nice
+[2:40:46] Mpowerd: Do you get serendipity for p2?
+[2:40:48] ronke420: dont need that much mana in pvp
+[2:40:52] mrbirman: is this with improved fort?
+[2:40:52] saund: yoo you got the names thing to work
+[2:40:54] mrbirman: 1.6k
+[2:40:55] Distorpia: the tauren
+[2:40:55] saund: so glad man
+[2:40:58] ronke420: but u do need alot of hp
+[2:41:02] Distorpia: dwarf gives the coin
+[2:41:06] mrbirman: fkin chad
+[2:41:17] Distorpia: coins can be used to purchse stuff in moonglade
+[2:41:25] Distorpia: no
+[2:41:34] Distorpia: but u can buy food that gives 4% max hp/mana in moonglade
+[2:41:34] saund: nah they're worthless
+[2:41:36] saund: its lore shit
+[2:41:38] Distorpia: it's basically bis for a while
+[2:41:44] kiirtz05: !GUIDE
+[2:41:45] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:41:56] ama__deus: POGGIES
+[2:42:05] Distorpia: every coin = 8 xfood
+[2:42:12] cyanne112: the thing with that food is that IT STACKS with regular drink/food
+[2:42:15] Distorpia: there are coins in every capital + some towns
+[2:42:16] Distorpia: brill for example
+[2:42:17] cyanne112: you can use them at the same time
+[2:42:24] Distorpia: sec lemme link u the list
+[2:42:25] Nagini101: zeppelni
+[2:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:42:43] Kioshko: !guide
+[2:42:43] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:42:45] Distorpia: https://www.wowhead.com/classic/guide/lunar-festival-wow-classic#elders-collecting-coins-of-ancestry
+[2:42:48] Distorpia: thats the list
+[2:42:53] sidjzhed: !guide
+[2:43:00] DanUK_47: Whats your strat when P2 hits?>
+[2:43:25] Distorpia: there's one in sepulcher too
+[2:43:42] Kostjanov: !tierlist
+[2:43:42] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:43:52] ama__deus: 5 coin lets you buy the engi schematic that is pretty cheap skill points
+[2:43:55] Distorpia: there's one more thing u can buy with coins thats worth
+[2:44:02] Distorpia: 5x coins buys u a schematic
+[2:44:34] hiraethonhs: I kinda hate those festivals lol
+[2:44:39] Seriumosa: You can re-use the teleport scroll
+[2:44:42] Distorpia: its a 215 recipe or something
+[2:44:55] MmBLOL: !tierlist
+[2:44:55] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:44:58] Distorpia: sorry 275 engi
+[2:45:00] ama__deus: Either HS or wait 10 m for the scroll to bring you back
+[2:45:33] Spacecombo: !Guide
+[2:45:33] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[2:45:34] ama__deus: WSG ghetto hearth could work as well LUL
+[2:45:35] Distorpia: so 275 engi that crafts fireworks, when used grants a buff that increases hp by 250 (non dispellable) for 30 mins. the recipe is bop so can't acquire later on.
+[2:45:48] variawings: hey if you quest from 25-40ish - go shadow spec with 5 wands first as in p1 or go holy?
+[2:46:58] JustOndore: 20 raiders from JustOndore have joined! 
+[2:47:01] hiraethonhs: get hunter friend @variawings
+[2:47:43] Distorpia: yeah but can't craft it till phase 3
+[2:47:51] JustOndore: Trying to get those supplies to turn in and some PvP
+[2:47:52] prodigy_wow: https://www.youtube.com/watch?v=9miRi_KG42I some potentially real leaked rogue runes :o
+[2:48:00] JustOndore: Slow day tho. Not much action wPvPing
+[2:48:37] prodigy_wow: actually this video is more than just rogue runes :o
+[2:48:50] EzPlzLol: !Tierlist
+[2:48:51] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[2:48:54] Kyfoon: diff to whats been data mined @Prodigy________________ ?
+[2:49:04] variawings: so push disc tree? thanks!
+[2:49:06] bahamastbc: Yo, that turtle meat quest, I got cooking, but cant pick it up, Do u have to be Freindly with UC to get it?
+[2:49:08] variawings: so many options. seems quite nice :)
+[2:49:11] ama__deus: Secrets? Pog
+[2:49:28] prodigy_wow: Rogues getting a physical cone of cold?
+[2:49:42] Distorpia: that shawarma weapon is hilarious
+[2:50:07] HeyImArty: Good evening hydraKit
+[2:50:45] Distorpia: volume's a bit low
+[2:50:59] Tabbs33: cant hear
+[2:51:00] prodigy_wow: turn it up sir
+[2:51:01] gs_inno_btw: Truee
+[2:51:44] Distorpia: coin's right behind u btw
+[2:52:07] Kyfoon: deathknight Pog
+[2:52:10] prodigy_wow: the NPC in st
+[2:52:12] prodigy_wow: stv
+[2:52:15] prodigy_wow: yeah
+[2:52:28] aslaboii: if you to manny in raid you get that buff maybe and npc show up to fuck you up
+[2:52:34] Seriumosa: LOOL
+[2:52:38] ronke420: @Hydramist  r u using Wide Quest Log addon ? becouse its bugged for me ... its showing only half and half is transparent /facepalm
+[2:52:38] prodigy_wow: Non unique
+[2:52:40] ama__deus: That doesn't seem troll at all Kappa
+[2:52:50] Kyfoon: definitely not
+[2:52:54] Distorpia: not fake at all
+[2:53:03] Distorpia: xd
+[2:53:07] Kyfoon: GIMME SHAMAN
+[2:53:28] ama__deus: wtb stoneform monkaW
+[2:53:35] Distorpia: 20% ? NotLikeThis
+[2:53:48] ama__deus: Luffa stonks 📈
+[2:53:59] JustOndore: No warlock :(
+[2:54:18] prodigy_wow: Having a tool to unstealth other rogues would be nice
+[2:54:29] ama__deus: They're really trying to convince people Outlaw wasn't a shit concept LUL
+[2:54:33] prodigy_wow: oof fan is boring
+[2:54:45] Kyfoon: naisu
+[2:56:02] HeyImArty: LBRS ring
+[2:56:04] scroteyx: yeah
+[2:56:05] prodigy_wow: basically but the numbers are different
+[2:56:09] Itrulia: lbrs ring
+[2:56:10] Itrulia: yeah
+[2:56:17] ama__deus: Dragon something
+[2:56:19] knutolafx: yo just tuned in, has the guy already covered priest runes
+[2:56:31] ama__deus: Same concept
+[2:56:40] prodigy_wow: @knutolafx dont think there was anything for priest in this vid
+[2:56:53] Distorpia: 0.9% drop rate
+[2:56:57] Distorpia: kek
+[2:56:58] knutolafx: i see thank you @Prodigy________________
+[2:57:02] notJumu: it's diff, 10 less mp5
+[2:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[2:57:42] JavaSkrpt: Mana Shield, damn.
+[2:57:53] Distorpia: its 50% mana reduction
+[2:57:54] ama__deus: Prayge just fold your hands, boys
+[2:57:54] JavaSkrpt: Don't they get insane mana regen too?
+[2:57:55] pancakesatmondays: What spec do you think will be the go-to as Mage in PvP & PvE
+[2:58:01] Itrulia: that is actually on wowhead yeah
+[2:58:06] Itrulia: stormstrike is also being reworked
+[2:58:20] DisorderlyTV: I think 0 is a placeholder number
+[2:58:25] JavaSkrpt: So mega mana + half mana depletion PLUS 100% efficacy on mana shield
+[2:58:25] Itrulia: different spell Id thats how
+[2:58:28] Distorpia: as a book i guess?
+[2:58:38] darkstarklife: have to see it to find it
+[2:58:40] Itrulia: deep wounds in SoD is wotlk deep wounds but didn't affect Era
+[2:58:51] fourkgaming: would be nice if they made sod its own client
+[2:58:53] prodigy_wow: I could see shadow spells being 10-20% cheaper in shadowform
+[2:58:56] Distorpia: starsurge range reduced to 30y  btw
+[2:59:00] ama__deus: I mean, they also change shred damage and shred isn't a rune
+[2:59:04] Distorpia: he missed that one
+[2:59:05] Itrulia: Here is the changed stormstrike: https://www.wowhead.com/classic/spell=410156/stormstrike
+[2:59:17] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[2:59:27] kajjan112: So, you think we can start ranking on wednesday? As the next reset will be in p2?
+[2:59:28] HeyImArty: Cat in cat bed hype hydraKit
+[2:59:33] kinglourenco: why is everyones names weird
+[2:59:41] Mavralex: !talent
+[2:59:42] HeyImArty: is it TinyKitten chilling behind you
+[2:59:53] Itrulia: They copied it, didn't change it yet
+[2:59:57] Itrulia: https://www.wowhead.com/classic/spell=15473/shadowform here is shadowform
+[3:00:12] Distorpia: not sure if u missed it btw @Hydramist  starsurge ranged reduced to 30y
+[3:00:17] Distorpia: range*
+[3:00:30] sheeshkebab139: !discord
+[3:00:30] Nightbot: As a 'Thank You' to my subscribers for all their support, my Classc, WOTLK and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[3:00:48] hiraethonhs: i think shift click on map shows u exp amount
+[3:00:50] hiraethonhs: on questie
+[3:02:09] HeyImArty: Whats the gold situation chief
+[3:02:12] Itrulia: battle of hilsbrad, dangerous, agony & souvenirs of death are worth it
+[3:02:21] hiraethonhs: doenst really matter it's like few bars difference, I wouldnt bother with exp amount
+[3:02:42] Itrulia: souvenirs is follow up of first battle of hillsbrad
+[3:02:49] Applezzss: !tierlist
+[3:02:49] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:02:55] Itrulia: @hiraethonhs it makes a difference since it stacks up. I have enough quests for lv 28
+[3:03:01] cheetobbob: aren't the higher quest rewards have the most xp since it's like 6 copper per 1 experience
+[3:03:05] Itrulia: Yeah you want 2nd last agony & last battles of hillsbrad
+[3:03:14] mylittlehombre: yea
+[3:03:15] Venzo96: there is an addon called "questlog experience" that shows the exp u get in questlog
+[3:03:19] Itrulia: But souvenirs is unlocked after first hillsbrad & independent
+[3:03:33] hiraethonhs: @Itrulia yeah but than green quests will be useless for u and u wont have good quests to lvl up
+[3:03:56] mylittlehombre: I’m not gonna min max it to hard just gonna dungeon spam most of the way I think
+[3:04:28] HeyImArty: Alright, rank 3 done on the druid, quest prep done & ~200g  ready to go for P2
+[3:04:35] varaipad: @hydramist hydra what do u think about this build? https://www.wowhead.com/classic/talent-calc/druid/51005020025–5005001
+[3:04:49] Xonez: why did you hide the names?
+[3:04:54] HeyImArty: We dont discuss your finances
+[3:05:25] moonlightpal: did you prep 20 quests ?
+[3:05:39] HeyImArty: btw isnt starsurge with a 15% chance to stun gonna be the dumbest shit ever
+[3:05:54] variawings: whats the addon named showin g
+[3:05:56] varaipad: i now but i have 3 dots)
+[3:05:59] variawings: showing quest xp and spell-dmg
+[3:06:03] variawings: spell-dmg on icons*
+[3:06:20] varaipad: sunfire moonfire and roy
+[3:06:27] funkrosin: @HeyImArty according to the updated wowhead datamine stuff it isnt affected by the stun talent
+[3:06:31] HeyImArty: no way you ever go insect swarm
+[3:07:11] HeyImArty: resto is dead until mby 60 when you go Swiftmend flag carrier build
+[3:07:29] pearljamed: !guide
+[3:07:29] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:07:36] moonlightpal: not sure if questing is the right call on our server, all contested zone will be hell and strangle vietnam
+[3:07:55] acaciashrub: resto is defs not dead now that boomy would have to shift out of boomkin to cast wild growth
+[3:08:18] Soeasylol: !guide
+[3:08:18] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:08:19] Baimzz: !tierlist
+[3:08:19] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:08:30] HeyImArty: @acaciashrub in that case it's still preferable to be deep balance & just not sit in moonkin form
+[3:08:39] HeyImArty: if you need to throw out healing on the side
+[3:08:58] nickfr0stt: CHUNKY CAT
+[3:09:05] sulltan95: @Hydramist i made a bis gear for priest on 40 can u check it ?
+[3:09:10] Itrulia: our cat gained 200g and we have no clue how, we have automatic feeders etc
+[3:09:10] AndreSwd: good for winter xD
+[3:09:16] HeyImArty: wheres TinyKitten hydraKit
+[3:09:19] kajjan112: so whats with the names?
+[3:09:20] hiraethonhs: so stv even is every 3 hours right? so 1st should be at 00 oclock server time for EU?
+[3:09:41] HeyImArty: i still cant get over the fact that you named your cat TinyKitten
+[3:09:42] nickfr0stt: lmao
+[3:09:59] potatoinname: bis list for arena in sod?
+[3:10:21] Otheranother1: !tierlist
+[3:10:21] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:10:28] HeyImArty: wonder how hard-to-earn the pvp event epics are gonna be
+[3:10:30] Carepai: getting some dumplings? for double drink
+[3:10:51] Carepai: 4% ye and can be used with water
+[3:10:58] jazni_23: do you enjoy raid healing at all?
+[3:11:21] feardachiken: is starsurge range getting nerfed?
+[3:11:33] sulltan95: @Hydramist i made a gear for lvl 40 but i stacked too much sp and low healing i would say but i dont know how classic works wanna check it ?
+[3:11:55] Distorpia: mindspike is the new starsurge since it's range is 35 baseline, 42y sp inc
+[3:12:22] acaciashrub: mindspike instant?
+[3:12:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[3:12:31] VONDAVVE: @Distorpia where did you see starsurge reduced range?
+[3:12:38] HeyImArty: every hunter has gotten brain rot this phase by having their pets solo people, they dont even turn off cheetah when you attack them
+[3:12:43] acaciashrub: does it have a CD atleast to make mind flay worth pressing
+[3:12:50] Distorpia: it's on wowhead just type starsurge, range is now 30y
+[3:12:57] Distorpia: it used to be 35
+[3:13:17] VONDAVVE: @Distorpia okay ty
+[3:13:21] Distorpia: STV preview right here
+[3:13:25] Itrulia: just got ganked by a 4 boomie and 2 rogue squad in hillsbrad
+[3:13:32] Itrulia: just trying to quest on my alt
+[3:13:39] HeyImArty: these are the people that will get 1v3'd in later phases by ppl using stuff like rocket helm
+[3:13:40] Distorpia: or rogues
+[3:13:54] Itrulia: @HeyImArty horde can get rocket helm in p2 KEKW
+[3:13:55] aerodynam1c: tell it to my 40 energy mutilate
+[3:13:58] hot5and7: fk grps
+[3:14:00] Distorpia: but we still gotta quest
+[3:14:06] tme_meteors: bis 5 man comp?
+[3:14:07] Lunaatj: You have the choice of gaining no currency, or reduced currency cause you need to be grouped.
+[3:14:19] cryptomeganinja: rogue gonna steal killing blows with ambush
+[3:14:23] Distorpia: imagine trying to quest on 3rd-5th alt weeks from now, gonna be painful
+[3:14:37] cryptomeganinja: true
+[3:14:41] acaciashrub: swd go brrr
+[3:14:41] HeyImArty: @Itrulia horde can?
+[3:14:44] prodigy_wow: Shadow word death easy $
+[3:15:02] Itrulia: @HeyImArty boss in uldaman drops lv 40 plate helmet that does the same as rocket helm
+[3:15:03] aerodynam1c: imagine tagging a friend on another faction and no one attacks them while running through the zone lol
+[3:15:05] Distorpia: i really hope the penalty for raid size groups isn't something mild
+[3:15:31] HeyImArty: @Itrulia ah ye but thats only warrior
+[3:15:36] HeyImArty: who cares about warriors, they arent people
+[3:15:43] Distorpia: get a layer quick
+[3:16:04] aerodynam1c: PepeLaugh
+[3:16:09] HeyImArty: how dumbs hunter gonna be with beastial wrath
+[3:16:21] Lemon_Farmer1: Yo hydra, you got a link to the talents you'll use to level?
+[3:16:26] cyanne112: i understand you are content creator and you need... content, but not letting ppl group up is the wrong thing to do in a mmo. Tbh the game isnt fun / interesting enough to play without friends
+[3:16:39] HeyImArty: its never just a hunter brother
+[3:16:45] cryptomeganinja: close
+[3:16:50] aerodynam1c: awkward silence in his group noow
+[3:16:59] HeyImArty: ofc he cant 1v1, he sat there with cheetah on getting meleed by homies
+[3:16:59] prodigy_wow: games too tricky LUL LUL
+[3:17:02] HeyImArty: dented as fuck
+[3:17:56] hot5and7: true. it's dumb
+[3:18:14] cyanne112: my point wasnt specifically about you, but the entire event
+[3:18:18] prodigy_wow: True
+[3:18:31] cyanne112: the way they set it up is just... bad
+[3:18:34] fulgah: !guide
+[3:18:35] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:18:36] Grandson_Gary: !guide
+[3:18:55] hiraethonhs: I already see a way to grief in event, come with 10 ppl and make 2 groups and dont kill each other
+[3:19:35] fakemejo: fakemejo watched 5 consecutive streams this month and sparked a watch streak! sod hype sod hype
+[3:19:37] hiraethonhs: well rogues and hunters might go solo tbh and get free kills
+[3:19:41] belz_ks: 4priest/1 warrior groups
+[3:19:44] justingatlin: @Hydramist you should get more rep when u gonna farm alone/without group when u kill someone
+[3:19:45] prodigy_wow: It should be full ffa no groups
+[3:19:47] morvious: Do you think Shadow will be strong in pve phase 2?
+[3:19:48] hiraethonhs: druids*
+[3:20:02] screwu666: hello
+[3:20:49] VONDAVVE: 5v5 is just chaotic, 2v2 or 3v3 makes it alot more interesting even in wpvp
+[3:21:08] xz6969: Yo hydra you excited for shadow p2?
+[3:21:47] prodigy_wow: That would be super fun
+[3:22:13] hiraethonhs: i will probly go solo with my rogue and find 5m with hunter in event
+[3:22:47] xz6969: Warrior could be opressive af with warbringer charge/intercept + shockadin freedoms
+[3:22:53] sulltan95: lets hope they add a debuff the higher group you are in u receive % less healing and dmg and hp
+[3:23:00] sulltan95: that makes smaller grps stronger
+[3:23:42] genixrs: !guide
+[3:23:42] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:24:03] hiraethonhs: stv even will probably be non faction right?
+[3:24:23] hiraethonhs: damn that's bad, I dont want to fight orcs as rogue lol
+[3:24:27] xz6969: tbh making a group to kill my guildies sounds hilarious
+[3:25:04] Distorpia: there's no pvp etiquette anymore
+[3:25:05] Distorpia: kinda sadge
+[3:25:12] xz6969: some classes are just fkin horrible solo tho
+[3:25:13] plowgod: fuckin cats i swear
+[3:25:14] HeyImArty: Cat causing mayhem? hydraKit
+[3:25:25] screwu666: i'll be going in and dying, but i'll always try to at least take one mf8cker with me
+[3:25:44] morvious: Shadow really misses a crit dmg talent that other casters have
+[3:26:12] Distorpia: with the starsurge changes , do you reckon balance is still going to be S tier ?
+[3:26:15] screwu666: shadow also misses a travel form and a blink
+[3:26:22] cryptomeganinja: there are rumors, that bigger grp will have decreased stats/movementspeed
+[3:26:26] HeyImArty: boomies getting 100% more crit dmg on Starsurge
+[3:26:29] HeyImArty: gonna be something
+[3:26:29] cryptomeganinja: like 5% for each player
+[3:26:35] tick1en1pple: How do you think shadow is looking for 4O hydra?
+[3:26:47] acaciashrub: yeah i think theyre open to modding event to punish bigger groups depending how the meta turns out
+[3:27:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[3:27:34] cryptomeganinja: its a good way to balance it out
+[3:27:35] tokyolab40: @Hydramist you will  main disci/holy or shadow for world pvp at level 40 ?
+[3:27:39] acaciashrub: 5% dmg/healing reduc per person in group
+[3:27:49] lolshmekera: !guide
+[3:27:49] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:28:14] HeyImArty: 99% of the playerbase still dont know how Daze works 20 years later, says a lot about ppls skill level
+[3:28:27] cyanne112: wait until streamer X goes in with an entire raid of ungrouped ppl as backup
+[3:28:27] maincy: people always pick the path of least resistance tho
+[3:28:37] Itrulia: https://www.wowhead.com/classic/spell=435884/s03-tuning-and-overrides-passive-shaman  stormstrike now has 6s cd
+[3:28:47] maincy: agree
+[3:28:53] Itrulia: 20s
+[3:28:54] morvious: 20
+[3:28:54] Distorpia: 20
+[3:28:56] HeyImArty: 20
+[3:29:33] JustOndore: No CD on drainlife with master channeler rune.
+[3:29:48] JustOndore: LUL
+[3:29:53] desirata27: !guide
+[3:29:53] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:30:10] xz6969: warlock got death coil felguard stun + fear for p2?
+[3:30:11] Distorpia: same way wildgrowth / starsurge carrying druids xD
+[3:30:13] JustOndore: All I want is demonic circle tbh
+[3:30:31] KungKotz: do you like underground techno?
+[3:30:37] HeyImArty: i hate starsurge, its made druid pvp completely braindead
+[3:30:39] dreeeamyy: Good evening o/
+[3:31:06] fakemejo: when is rogue lvl 25?
+[3:31:08] fakemejo: Kappa
+[3:31:56] xz6969: Dots critting is kinda hype tho
+[3:32:03] xz6969: dunno if thts next phase
+[3:32:04] xz6969: yeah
+[3:32:06] dreeeamyy: if he is mm he has 41yd range
+[3:32:35] fourkgaming: starsurge is the reason why pvp sucks atm
+[3:32:40] fourkgaming: and hunter pets
+[3:32:48] dreeeamyy: care with the imp concussion 20% stun
+[3:32:58] cryptomeganinja: hunter pets will get nerfed again, but lone wolf will get buffed
+[3:33:03] cryptomeganinja: 20%
+[3:33:15] prodigy_wow: p2 they will all be melee hunters lol
+[3:33:23] HeyImArty: issue is playing lone wolf would require more than 8 braincells
+[3:33:26] hiraethonhs: 30% lone wolf sux
+[3:33:26] HeyImArty: so the avg hunter cant do it
+[3:33:30] cryptomeganinja: lone wolf is scary, also now. but many hunter dont play it
+[3:33:35] Dodie324: Do the homies have a mind of their own? I don't understand their algo
+[3:33:37] hiraethonhs: they need to make it like 50% to be even worth it
+[3:34:03] cyanne112: LW sucks because you lose 20% stats
+[3:34:06] darkstarklife: Hunters in general HATE LONEWOLF
+[3:34:15] IshiidaJK: Ya prepping with full quests log with completed?
+[3:34:17] Ardechio10: !guide
+[3:34:17] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:34:20] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[3:34:20] Distorpia: felguard soon SeemsGood
+[3:34:21] dreeeamyy: Lone wolf = lose Lion buff
+[3:34:28] JustOndore: Maybe remove dead zone from lonewolf
+[3:34:30] Itrulia: remember lion should have been belt until redditors wined
+[3:34:31] cyanne112: and even if they buffed LW to the sky pets have way to much utility in pvp
+[3:34:36] Itrulia: which destroyed hunter build diversity
+[3:34:41] funkrosin: + having a pet that brings util is part of the class
+[3:34:52] shmokes_: true
+[3:35:04] HeyImArty: unless i hibernate the pet now i die to a hunter desptie deadzoning him
+[3:35:10] HeyImArty: because the pet is dumb
+[3:35:12] dreeeamyy: @hydramist i went MM and smashed people in world pvp
+[3:35:13] funkrosin: and pet micro is a way to express skill on hunter
+[3:35:15] jgagel1: once leather + has MC gear or better hunter pets really dont do much
+[3:35:17] dreeeamyy: with chimera shot
+[3:35:29] dreeeamyy: altho im very geared
+[3:35:30] KungKotz: found a sick tune you may like https://www.youtube.com/watch?v=bDLZspHvE4U
+[3:35:32] hiraethonhs: it's kind sadge that ppl try to balance game around lvl 25 tho, hunter will get overnerfed and useless max lvl
+[3:35:42] dreeeamyy: Yeah true
+[3:35:55] HeyImArty: @hiraethonhs imagine if it wasnt a small company that had the ability to tune stuff based on the current phase
+[3:36:35] dreeeamyy: i hope they dont do too much, it cant get to far away from ”real” Vanilla
+[3:36:46] hiraethonhs: hunter is like worst scaling class in classic, traps dont scale and sting doesnt scale
+[3:36:49] cyanne112: btw hunter pet dmg is around 25% atm in pve, they really dont do THAT much dmg, it;s less than tbc for example
+[3:36:58] jeffapriest: !tierlist
+[3:36:58] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:37:05] hiraethonhs: i mean fire traps
+[3:37:08] cyanne112: and it will continue to drop down as we level up
+[3:37:11] HeyImArty: who cares about the fire traps
+[3:37:18] cyanne112: its jsut how hunters scales in classic
+[3:37:24] hiraethonhs: ye talking about pve mostly
+[3:37:38] HeyImArty: eh classic pvp is a meme
+[3:37:46] hiraethonhs: rn my pet does like 30% overall dmg in raids
+[3:37:48] k3mpsu: !tierlist
+[3:37:48] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:38:18] cyanne112: ive played hunter back in classic, at low lvl pets were pumping even back then, ppl just weren't doing pvp / stayed at that level to notice
+[3:38:22] screwu666: @HeyImArty so is pvp in every other expansion of this game :D
+[3:38:23] aabflug: wtf is with your names
+[3:38:50] bassiemon123: Streamer mode addon
+[3:39:09] fedm0: !tierlist
+[3:39:10] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:39:27] KungKotz: Im skipping greens
+[3:39:32] fedm0: !guide
+[3:39:32] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:39:38] bassiemon123: Dont they have a follow up?
+[3:39:42] maincy: @aabflug ΩΩΩΩΩΩ ΩΩΩ is popular name rn. like when everyone used to put qt after their name
+[3:39:43] HeyImArty: not worth over-doing
+[3:39:48] Retsubabe: gold > exp
+[3:39:51] KungKotz: Go do waylay supply boxes instead
+[3:39:55] KungKotz: thats the big thingy
+[3:40:03] HeyImArty: the difference between an optimized quest list & a decent one is kinda irrelevant
+[3:40:04] KungKotz: sure full quest log is nice but the supply boxes maan
+[3:40:09] FACEHUNTERZ: !guide
+[3:40:09] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[3:40:10] Pixiieboy: Why npt push dungeons when you can after release? Money is biz
+[3:40:33] Pixiieboy: Oh
+[3:40:33] bassiemon123: Dont really need that mutch gold anymore
+[3:40:39] HeyImArty: Dungeons only worth if you have 4 other actually good players
+[3:40:40] bassiemon123: Mount cost reduced
+[3:40:42] HeyImArty: And most players are awful
+[3:40:42] Retsubabe: @Pixiieboy this guy gets it
+[3:40:44] bassiemon123: No more gdkp
+[3:40:48] KungKotz: thats cuz living flames shit, come to Chaos Bolt :D
+[3:40:53] bassiemon123: Gold kinda only for consums
+[3:40:57] Deftvx: do we know anything about next pvp rank cap or ab reputation items?
+[3:41:04] Pixiieboy: Chaos Bolt bis :D
+[3:41:05] bassiemon123: Hahahaha
+[3:41:06] Retsubabe: @bassiemon123 and mounts on alts
+[3:41:10] bassiemon123: Yee no lies there
+[3:41:10] fsu_brooklyn: What would you rate SOD so far? Out of 10
+[3:41:24] HeyImArty: Will Ryan have gold for mount at 40? find out on the next episode
+[3:41:34] bassiemon123: @retsubabe lvling to 40 should give u plenty of gold
+[3:41:35] fsu_brooklyn: yea, same
+[3:41:40] darkstarklife: i just made 200+ g passed 2 days due to some pre phase fixes in the AH
+[3:41:45] JavaSkrpt: What gets a 9-10 on the fun rating?
+[3:41:49] fsu_brooklyn: think next phase will be the best one tbh
+[3:41:52] KungKotz: you know why I like Chaos Bolt, I actually remember people I see, I meet them again, my KoS list actually make sense
+[3:41:53] HunterEZ: BBoomer
+[3:41:53] JavaSkrpt: Or a 6 or lower
+[3:41:55] ama__deus: I usually have like 5g at 30, then still always make the 100g for the mount at 40. It'll be chill
+[3:42:19] HeyImArty: im on 208g total and i think thats more than enough, the only expensive will be consumes & enchants
+[3:42:26] Leon81094: price for mount is halved in sod
+[3:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[3:42:30] HunterEZ: Philosopher Ryan
+[3:42:33] HeyImArty: expenses*
+[3:42:41] tme_meteors: Closest thing I've had to a 10 were some WoW pservers. Those went crazy back in the day
+[3:42:54] misstherese: same
+[3:42:54] ama__deus: Vanilla was a solid 9 for sure
+[3:42:56] Chazzmichael: I know what you aRe talking about
+[3:42:58] screwu666: wow classic and cs1.6
+[3:42:59] callie5: Same, it was on another lv when it first came out
+[3:43:02] HeyImArty: where does TBC classic land, you played the shit out of TBC classic
+[3:43:02] jgagel1: that feeling is long gone but i remember the thought process
+[3:43:04] Retsubabe: I enjoyed wrath a lot
+[3:43:11] prodigy_wow: Making arena team names was something special in TBC
+[3:43:16] Drunk_Mantis: i'll never forget playing the original wow vanilla beta back in early 2000s
+[3:43:16] Retsubabe: s8 could have gone forever
+[3:43:18] KungKotz: But that's also cuz it was "new"
+[3:43:21] nilsolof123: and what point u give SoD?
+[3:43:22] dreeeamyy: @hydramist the original wow, back in 2004 is the closest to a 10 ive ever experienced
+[3:43:25] Victwitch: I was there in 2004 closed beta WoW, 10/10 experience!
+[3:43:28] HunterEZ: Nothing beats warlords of draenor
+[3:43:31] cyanne112: Just a question to put your rating into perspective, did you play any other MMO before vanilla wow?
+[3:43:36] Deftvx: You know whats crazy to me is how they even fkn created vanilla wow, all the quests/mobs/details, so well, IN 2006
+[3:43:36] JavaSkrpt: That's not bad, then.
+[3:43:42] EpShade: too early to rate sod tho
+[3:43:45] notJumu: I've had 3x 9s in my life and they were all when i was a kid so i guess nostalgia is a helluva drug
+[3:43:45] HunterEZ: Remember back in the days when u sat there and waited for WOD
+[3:43:45] tme_meteors: SoD is sick but I just cannot stand not having resil and ooming after 1 ability
+[3:43:47] Retsubabe: favorite season? mine would be season 8
+[3:43:48] EpShade: could go up or down easily
+[3:43:49] HunterEZ: it was the best expansion ever
+[3:43:50] ama__deus: Tentatively excited for this whole Classic+ experiment, because SOD has been fun so far, but we'll see
+[3:43:55] fakemejo: Dragonflight 3,5 / 10
+[3:43:58] JavaSkrpt: Retail is about a 2-3 to me, it's like the opposite of what I think is enjoyable.
+[3:43:59] screwu666: Neverwinter Nights
+[3:44:09] KungKotz: those came around tbc
+[3:44:13] ama__deus: Anarchy Online Pog
+[3:44:18] fumanchu899: wildstar
+[3:44:21] dramajohns: mettin 2
+[3:44:23] screwu666: retail gets better if u delete Demonhunter Monk and DK
+[3:44:26] DancerOCE: SOD TBC waiting room
+[3:44:28] hot5and7: daoc FeelsGoodMan
+[3:44:37] Chazzmichael: Running deadmines on my human Paladin until the mobs were gray. And then eventually ended up in desolace killing chimaeras for like 3 levels with no clue at all about what I Was doing
+[3:44:41] KungKotz: SWTOR was kinda nice
+[3:44:57] ama__deus: Add CS to that and same, yeah
+[3:45:22] KungKotz: wow today is like that ex gf that you KNOW you wont go Full time with but you just cant let her go fully
+[3:45:27] HeyImArty: Where would you put TBC classic?
+[3:45:29] HeyImArty: You seemed to rly enjoy it
+[3:45:32] dreeeamyy: i never tried it
+[3:45:35] hiraethonhs: lol anyone rememebers Wildstar hype :D
+[3:45:36] Retsubabe: which was your favorite pvp season? I loved season 8 as priest (because of mates at the time I think)
+[3:45:36] ama__deus: Lost my team a CS LAN final, because someone gave me a WoW beta key to log into and I was addicted af playing it there LUL
+[3:46:14] KungKotz: damp not safe to del
+[3:46:19] cryptomeganinja: <3 sod
+[3:46:19] HunterEZ: There is only one game that was compareable and that was everquest
+[3:46:34] KungKotz: if you got the quest from damp not then you can del it
+[3:46:36] ama__deus: Too young for Everquest Sadge
+[3:47:01] notJumu: 2/5 imo
+[3:47:06] HunterEZ: runescape is like it's own entire type of MMO but it's still a good game
+[3:47:08] ama__deus: Original GW apparently would have been great, but didn't get into that due to still riding that WoW high then LUL
+[3:47:14] notJumu: maybe only 1/5
+[3:47:26] hot5and7: best spec for dungeon levelling?
+[3:47:28] notJumu: ohhhh my bad
+[3:47:32] notJumu: thought for same level
+[3:48:04] greatywhite_: hopefully they add a barber
+[3:48:13] ama__deus: Spirit tap worth for dungeon leveling? 🤔
+[3:48:24] notJumu: @greatywhite_ lmao shobek would be in shambles
+[3:48:26] Drumme13: How do you know that STV will be everyone vs. everyone and not faction vs. faction?
+[3:48:37] ama__deus: I kind of like that spirit tap snipe gameplay in dungeons
+[3:48:42] hiraethonhs: lol
+[3:48:42] HeyImArty: has there been any word on the supposed priest racial changing thing
+[3:48:45] HunterEZ: They should add a plastic surgeon to the game so u can swap gender
+[3:48:59] notJumu: 6 hour barber stream is the plan
+[3:49:06] ama__deus: @HunterEZ barber usually let you do that actually LUL
+[3:49:16] HunterEZ: Barber cuts ur peepee Keepo
+[3:49:24] JavaSkrpt: Wish my wife could cut my hair and not butcher it
+[3:49:47] ama__deus: @javaskrpt why, though?
+[3:50:11] HunterEZ: 1. its cheaper 2.no need for booking
+[3:50:13] HunterEZ: WDYM
+[3:50:22] yucknothanks: @Hydramist quick TLDR of what I should be doing for the SoD p2 prep
+[3:50:30] JavaSkrpt: No barbers nearby that I'd get the snippity snip from
+[3:50:31] ama__deus: I mean it's 20 quid every 2 months or so eShrug
+[3:50:41] HunterEZ: 20 quid mad cheap lmao
+[3:50:41] JavaSkrpt: Waitlists for those I would
+[3:50:47] yucknothanks: roger that
+[3:51:09] ama__deus: HUH
+[3:51:12] notJumu: @yucknothanks buy some ramen and tell ur friends and family ur going on a business trip for the next 2 weeks
+[3:51:13] Itrulia: 25 is like the cheapest you can get here
+[3:51:19] HunterEZ: I use to spend 37 quid every second week to get a cut
+[3:51:22] JavaSkrpt: SSJ3 Goku is my dream cut
+[3:51:23] wrodara94: !tierlist
+[3:51:23] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:51:29] HeyImArty: Ryan, any news on swapping priest racial? or was that just a guess
+[3:51:32] yucknothanks: @notJumu heard. ordering now
+[3:51:33] JavaSkrpt: No eyebrows is key
+[3:51:35] tme_meteors: Haircuts here cost $50
+[3:51:50] HunterEZ: 3rd world countries Kappa
+[3:51:51] HeyImArty: A haircut is like 15 euros
+[3:51:53] HeyImArty: w
+[3:51:55] MawblesPDX: I hope they leave priest racials alone
+[3:52:11] Itrulia: mix & match racials
+[3:52:15] HeyImArty: Devo plague seems kinda shit ngl
+[3:52:18] fourkgaming: i pay 35 eur for haircut in norway
+[3:52:19] Itrulia: undead + troll = anti melee KEKW
+[3:52:30] ama__deus: wait, why troll racials? Weren't they super low on the racial tier list?
+[3:52:36] HeyImArty: ye but everything is shit compared to void plague
+[3:52:38] HeyImArty: lmao
+[3:52:40] notJumu: everything is shite compared to void plague
+[3:52:41] HunterEZ: But Ive started growing out my hair... so far its almost reaching my shoulders
+[3:52:48] JokiGhostCrew: Whats up with the OOOOOOO names?
+[3:53:03] HeyImArty: Shadowguard blackout is funny af
+[3:53:07] dreeeamyy: ma boiiiii
+[3:53:15] HeyImArty: @JokiGhostCrew just large names so u see them from far away
+[3:53:17] fakemejo: im playing troll, but cant play without cough cough tmorph
+[3:53:36] ama__deus: No troll racial in your s tier on the list 😡 wdym
+[3:53:43] HunterEZ: They're ohms Kappa
+[3:53:51] ama__deus: If it's not S tier, it's low Kappa
+[3:53:55] notJumu: when we gettin racial swaps >:|
+[3:53:56] Itrulia: looking manually through the datamine there's so much op stuff I am 100% sure wont be in the game
+[3:54:06] garmok1979: @Hydramist would you ever be a priest IRL?
+[3:54:27] HunterEZ: Does anyone wanna be a priest IRL with that reputation
+[3:54:28] maincy: do i get penance irl too?
+[3:54:34] notJumu: would u be a shaman IRL?
+[3:54:38] HeyImArty: thats a cult but we'd join
+[3:54:39] garmok1979: you should create a cult yeah
+[3:54:44] ama__deus: Only a cult until you get those tax bennies HahaThink
+[3:54:50] HeyImArty: we'll join the cult as long as TinyKitten is there
+[3:54:54] garmok1979: Athene XD
+[3:54:57] maincy: LUL
+[3:54:58] FluskB: LUL
+[3:55:02] greatywhite_: do warriors get spell reflect in classic?
+[3:55:09] HunterEZ: Be a priest irl... gank lvl 1s in the starterzone
+[3:55:19] Itrulia: sounds like athenelol cult
+[3:55:23] Itrulia: but without the sex
+[3:55:35] dreeeamyy: LUL
+[3:55:40] fdaapproved123: pvping bears
+[3:55:45] Snewch: Def better PvP content LUL
+[3:55:45] ama__deus: shhht around the corner with your money EZ
+[3:55:53] HunterEZ: Will u get a boyfriend as well and a cheap logitech headset?
+[3:55:55] notJumu: @fdaapproved123 LUL
+[3:55:57] garmok1979: at least 10
+[3:55:57] fakemejo: what u mean, u can make better content than the best holy paladin in the world??
+[3:56:02] fdaapproved123: LUL
+[3:56:18] ama__deus: There is a vid on how they did that in Ultima Online and it led to the most fucked up things LUL
+[3:56:25] gorglinz: eventually we get too consumed in the cult and then you’ll need to create a giant compound gamer house to keep the gold flow coming in
+[3:56:55] gorglinz: CoolStoryBob
+[3:56:56] Abyss_lol: !tierlist
+[3:56:57] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[3:57:00] maincy: thats not how they thought that would go down
+[3:57:08] dreeeamyy: D E N I E D
+[3:57:11] garmok1979: tHeY weRE rEaDy foR uS
+[3:57:11] HeyImArty: btw did you make the large names available on your discord or smthing
+[3:57:20] ama__deus: Bet they'll put that into their pvp montage Kappa
+[3:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[3:57:38] plowgod: stop making me want to main priest in p2
+[3:57:40] Itrulia: @HeyImArty thats a wow settings in acccessibility
+[3:57:43] HeyImArty: wait i though its a WA?
+[3:57:48] HeyImArty: today i learned
+[3:58:00] ama__deus: "Udderlythicc" KEKW
+[3:58:10] ama__deus: Oh, shit. Leaked the name. Purge it mods monkaW
+[3:58:24] fdaapproved123: are you making enemies at NA already
+[3:59:12] HeyImArty: oh no, kid aggro
+[3:59:20] JavaSkrpt: Sounds like nap/bed time :)
+[3:59:27] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[3:59:28] eXTreMe1337: did he got critted?
+[3:59:34] JavaSkrpt: My boy smashed a small rock on my face the other day
+[3:59:49] JavaSkrpt: Just came back with his arm and WHAM, right on my upper lip
+[4:00:21] lokkraa: When does next phase start
+[4:01:00] JavaSkrpt: It had power, no doubt.
+[4:01:00] HeyImArty: btw how did TinyKitten end up with the name TinyKitten
+[4:01:25] HeyImArty: Like your other cats have "normal" names and then theres TinyKitten
+[4:01:57] variawings: i got a whisper that jumping over fence and dotting will get you banned. lolö
+[4:02:16] Waterwalk: !prebis
+[4:02:16] Nightbot: https://clips.twitch.tv/DarkDaintyDonkeySuperVinlin-NtQ1IND6hsfu-3n3
+[4:02:23] ama__deus: Anything will get you banned if you get mass reported tbh LUL
+[4:02:24] Waterwalk: ryan, you made prebis lv 40
+[4:02:27] Waterwalk: i mean link.P
+[4:02:55] Waterwalk: gief.P ploax
+[4:03:11] Waterwalk: hehe depths of narnia:P
+[4:03:14] Waterwalk: or depths of BRD: )
+[4:03:25] Waterwalk: soi know
+[4:03:27] Waterwalk: what to save for you
+[4:03:29] Waterwalk: you slacker:O
+[4:04:20] Hydramist: https://sixtyupgrades.com/sod/set/mnC9QhRKMe7bJLFbcdaCbi
+[4:04:26] Hydramist: https://sixtyupgrades.com/sod/set/twUDjuwq7SodXDm9xteqj7
+[4:04:26] ama__deus: Put together PVE for the views. People love that shit EZ
+[4:04:32] Hydramist: https://sixtyupgrades.com/sod/set/n4fFwMapU1557GKd7T5bB3
+[4:04:33] MVPeteTV: what about pre prebis?
+[4:05:09] fakemejo: X2 underworld band. man these will prolly go for 500g each
+[4:05:13] Distorpia: what about bis ?: P
+[4:05:20] fourkgaming: what about pre pre-pre bis'?
+[4:05:23] ama__deus: @fakemejo yeeeah
+[4:05:34] MVPeteTV: what about second bis?
+[4:05:43] HeyImArty: 2x underworld band seems wrong? wasnt there a blood moon ring
+[4:05:48] Distorpia: @MVPeteTV SeemsGood
+[4:05:53] ama__deus: Was that a hobbit meme? PauseChamp
+[4:05:53] HeyImArty: oh nvm its pre bis im dumb ignore me
+[4:06:12] cold03: !tierlist
+[4:06:13] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:06:32] peeweeherman69: everyone avoids the raid boss
+[4:06:57] shaelly_gamer4life: !Tierlist
+[4:06:57] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:06:59] variawings: so for bis we do need to run at 40 in bfd for staff :/
+[4:07:30] AndreSwd: well will give xp so you better run it on lock
+[4:07:41] AndreSwd: eventually it will drop
+[4:07:57] Distorpia: that self MS racial man
+[4:08:09] variawings: @AndreSwd good idea
+[4:08:13] JavaSkrpt: That moan
+[4:08:20] Dodie324: what's with the nameplates?
+[4:08:38] AndreSwd: sniper tactics
+[4:08:40] deluxerubber: whats the point doing all these quests, rep gold?
+[4:08:45] lokkraa: They are, except the miner
+[4:08:47] variawings: prep for xp i guess
+[4:09:10] deluxerubber: when is sod?
+[4:09:22] deluxerubber: when is sod-p2 ?
+[4:09:27] variawings: 8th feb
+[4:09:37] Distorpia: @deluxerubber right after p1
+[4:09:40] Waterwalk: fFeb 8th , 22:00 ST
+[4:10:46] JavaSkrpt: LIVE
+[4:10:47] 9ntice: @Distorpia xd
+[4:10:54] HunterEZ: inv me :(
+[4:10:57] Itshighnoonwotlk: the lvl 24 chasing as well, cute
+[4:10:59] HunterEZ: I wanna kill
+[4:11:05] HeyImArty: Seal Team 1v6 in full force today
+[4:11:14] JavaSkrpt: Mana pot on hand?
+[4:11:25] Waterwalk: If i wasn't playing RS on wwrath, i'd joing hydra on my 5 hunters
+[4:11:28] Distorpia: bro how are u still alive xd
+[4:11:29] Waterwalk: and scare people:P
+[4:11:33] Waterwalk: maybe i do that soon :P
+[4:11:35] Monkeyf4ceit: !tierlist
+[4:11:36] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:11:53] 9ntice: Prayge
+[4:12:02] Amoxychillen: so sick
+[4:12:04] JavaSkrpt: Perfect fear, lol.
+[4:12:04] lokkraa: pog
+[4:12:15] username_kev: ahahahahaha
+[4:12:16] glolxd: !guide
+[4:12:17] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:12:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:12:28] Lizardmale: warrior LUL
+[4:12:28] Plushie__Tv: my god these guys are so hungry for you lol
+[4:12:40] 9ntice: whats this incognito addon tho
+[4:12:55] Drunk_Mantis: Hillsbrad going to be a warzone in phase 2
+[4:13:01] JavaSkrpt: Rare moib?
+[4:13:04] JavaSkrpt: Nvm
+[4:13:17] Distorpia: aren't all hunter bots ?
+[4:13:22] Waterwalk: no:P
+[4:13:31] DnB_Junkee: @9ntice StreamerMode coming to curseforge, uploading atm
+[4:13:38] Waterwalk: Ryan, icome soon on 5x hunter for some fun times:P
+[4:13:41] Distorpia: that warrior is deadge for sure
+[4:13:47] Distorpia: there was no way out from that pathing
+[4:13:49] scroteyx: standard alliance, shit their pants when they don't outnumber you any more
+[4:14:12] tin2700: !guide
+[4:14:12] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:14:34] Oceangraves: @scroteyx yes, this would never happen on horde /s
+[4:14:52] Distorpia: this has got the be the worst quest to do at lvl 25
+[4:15:03] Distorpia: nagas lvl 32 harder than any elites
+[4:15:26] 9ntice: @DnB_Junkee ah nice man
+[4:16:00] 9ntice: Will there be changing own name too? I know there was an addon/script for it @DnB_Junkee
+[4:16:32] 9ntice: These murlocs are hell yo LOL
+[4:17:09] notJumu: there's a spot where these murlocs are mostly 28 and 29 instead of 30 and 31
+[4:17:45] petedelete2019: Hi Hydra! U doing these quests to have them to turn in for exp at release?
+[4:18:10] Amerish88: pretty sure the punishment is being a hunter
+[4:19:10] Itshighnoonwotlk: bois dont act like u dont have a autoshot andy hunter making bank for u effortless
+[4:19:19] ostemmm: what do u think about that every mele clas bis is the leather gear droped in gnomer
+[4:19:25] Allstarplayabro: Have you done the PVE Bis list yet?
+[4:19:56] Allstarplayabro: You think people will be going DIsc or just Boss spamming with the Spirit Rune?
+[4:19:59] Amerish88: @Itshighnoonwotlk I do but I don't know his name and i only contact him via g2g xd
+[4:20:13] Itrulia: @ostemmm war wants 2 mail items
+[4:20:18] ostemmm: i am
+[4:20:24] Itshighnoonwotlk: @Amerish88 good one x)
+[4:21:06] stalkerbronet: id love to see a bis list for rogues, i dont know any rogue content creators
+[4:21:29] Amerish88: pshero but you'll get "I don't care" xD
+[4:21:31] bassiemon123: What tier did u place enh shammies for pvp p2
+[4:21:37] langfotkongla: @Amerish88 XD
+[4:21:39] Kowaqt: dont know about a good warrior content creator
+[4:21:41] NeVolent: shobek, bobka
+[4:22:30] Waterwalk: wait
+[4:22:59] kevinrmp: no tunes? :o
+[4:24:38] JavaSkrpt: DeD
+[4:25:00] bassiemon123: "Im calling the boys"
+[4:25:36] bassiemon123: Can turn it up a little
+[4:26:01] bassiemon123: heroHYPERS
+[4:27:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:27:54] DatDayOff: !guide
+[4:27:54] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:27:58] DeathToad007: we pre questing boys?
+[4:28:28] MxKV__: OOH an angry mob!
+[4:28:59] AndreSwd: its the starsurge! the other day a dude said to me if its a druid its kos! hhahah
+[4:29:16] Duhski: how much exp is the 20 prequests? my main has 20, plus 23 crates to hand in. Not sure I have the energy to do it on alts lmao
+[4:29:36] Unholy_john: @Duhski depends on the quests LUL
+[4:29:50] Duhski: lol, true
+[4:29:52] bassiemon123: Wait u can stack the suplies now?
+[4:30:19] shmokes_: loll
+[4:30:20] AndreSwd: once completed yes]
+[4:30:25] Duhski: yeah just dont hand them in, complete them, then chill in the bag
+[4:30:28] shmokes_: why tbag while 3v1
+[4:30:34] bassiemon123: Aahh thats nice cheers
+[4:30:35] Unholy_john: @bassiemon123 only filled ones
+[4:30:37] Duhski: did it on my feral, not sure i cba doing it on my rogue alt lol
+[4:30:37] shmokes_: these guys are clownies
+[4:30:39] r_kramerz: i'm rolling holy paladin - I think they'll be good with Sacred Shield. or i could be completely wrong.. but shooting in the dark here haha
+[4:31:06] langfotkongla: item rack is fucking up my keybinds
+[4:31:11] Duhski: I went for druid mostly coz stealth and hybrid healing lol
+[4:31:15] Duhski: stv gonna be a warzone
+[4:31:20] shmokes_: love the tune
+[4:31:24] DnB_Junkee: no way
+[4:31:25] shmokes_: can you hand out the name of it?
+[4:31:31] DnB_Junkee: not gonna go into there
+[4:31:40] MxKV__: LUL
+[4:31:40] Itshighnoonwotlk: hpal gna be tanky, big heals, quickily oom, better than dogshit like p1
+[4:31:59] shmokes_: the name of the song plsss hydraFiesta
+[4:32:24] DnB_Junkee: well, just add the swap weapon manually into your item rack macro
+[4:32:26] Hydramist: https://youtu.be/OL0k3q4vht4?t=4174
+[4:32:34] JavaSkrpt: Good mix.
+[4:32:37] r_kramerz: @Itshighnoonwotlk - sucks we don't get magical dispels - but I hope you're right. I hope sacred shield is busted and Sheath is going to be actually good.. Would be awesome to see some improvements around Holy Shock!
+[4:32:51] JavaSkrpt: Normally here just for the chunes
+[4:32:56] JavaSkrpt: Gameplay is a plus
+[4:32:59] langfotkongla: alot of people is stacking up wayland supply , is it comfired that current boxes will go good xp?
+[4:33:26] JavaSkrpt: DJ Hydra
+[4:33:31] TBou_nyncuk: !Tierlist
+[4:33:32] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:33:32] Itrulia: @langfotkongla 200xp a box, so not really that much
+[4:33:40] Itrulia: and only the ilevel 25 ones do
+[4:33:54] lyxqt: !guide
+[4:33:54] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:34:20] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[4:34:22] Duhski: its not big exp but its just something to farm until p2 right (the boxes)
+[4:35:04] Itshighnoonwotlk: @r_kramerz yeah, priest gonna be disgusting cuz of 2x magic dispel. but hpal gna be up there, if u enjoy hpal in general its time to play it p2
+[4:35:11] MxKV__: defo doesn't
+[4:35:19] scroteyx: defo
+[4:35:23] Duhski: lmao
+[4:35:24] MxKV__: LMAO
+[4:35:28] cryton1000: lol
+[4:35:31] MxKV__: he's trying so hrad
+[4:36:05] jimbonni: LOL
+[4:36:06] Larbuftw: !guide
+[4:36:06] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:36:13] variawings: whats the alternative to bfd staff? guess not many ppl running bfd at 40 anymore
+[4:36:38] bassiemon123: ERROR 404 "tree unit blocking the way"
+[4:38:00] Danimal_Media: Danimal_Media subscribed with Prime. They've subscribed for 16 months! SUP
+[4:38:32] glyceRhine: !Tierlist
+[4:38:32] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:38:44] notJumu: @variawings hypnotic blade and orb of the forgotten seer
+[4:39:08] Danimal_Media: yeah 16 nuttttyy
+[4:39:12] variawings: @notJumu thank you. a lot worse?
+[4:39:18] Duhski: youll probably get people run ait at 40 for the staff, itll only take like 10mins lol
+[4:39:26] variawings: ok, thank you :)
+[4:39:40] variawings: i missed out p1 but starting in p2
+[4:39:45] kasjuss: !guide
+[4:39:45] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:40:05] DeathToad007: staff of jordan is 2nd bis right?
+[4:40:36] poiskd: poiskd subscribed with Prime. They've subscribed for 4 months, currently on a 3 month streak! 
+[4:40:38] Itshighnoonwotlk: where is the streamer drop rates, smth is wrong
+[4:41:53] DnB_Junkee: lol @Hydramist look at discord...
+[4:41:54] waltzzTV: !guide
+[4:41:54] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:42:46] Lylitzz: Yo hydra any links to your discord? Somehow I struggle to find it
+[4:43:08] Hydramist: !discord
+[4:43:08] Nightbot: As a 'Thank You' to my subscribers for all their support, my Classc, WOTLK and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[4:43:31] Lylitzz: So it was that easy nice
+[4:43:32] Lylitzz: Cheers
+[4:43:54] jijlol: !guide
+[4:43:54] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:45:07] cryton1000: wth? whats with the nameplates? just noticed
+[4:45:19] MannySJ: Heyge
+[4:45:34] hiimcayne: !guide
+[4:45:34] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[4:45:35] kajjan112: rune quest right
+[4:45:36] notJumu: hunter rune
+[4:45:53] MannySJ: I never get Heyge back Sadge
+[4:45:55] kajjan112: Let him do his rune lol
+[4:46:30] mickster111: Is shadow priest going to have a raid spot in Gnomer?  Or should I go disc and run homies?
+[4:46:32] MxKV__: ooof they don't want none lol
+[4:46:41] MannySJ: He was fishing Weirdge
+[4:47:02] kajjan112: it's a rune thing
+[4:47:03] MannySJ: Murdered fisherman Weirdge
+[4:47:15] Mystylerocks: all hunters should be kos by default
+[4:47:20] xfrostiie: you like football hydra
+[4:47:28] Darkblue1: catJAM catJAM
+[4:47:36] MxKV__: catJAM
+[4:47:57] MxKV__: homies heard it for sure.
+[4:48:21] kransenbror: paranoid monkaGun
+[4:48:32] connyvonanka: !tierlist
+[4:48:34] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:48:41] Mavralex: !talent
+[4:49:05] Dodie324: youre a LP fan?
+[4:49:19] MannySJ: Don't watch last nights highlights KEKW
+[4:49:38] xfrostiie: im an Arsenal fan KEKW
+[4:49:51] jijlol: worth saving quests for next phase?
+[4:50:37] kraizk: are you still with that scouse girl
+[4:51:14] Jetwnz: !tierlist
+[4:51:14] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[4:51:26] jobutts: !talents
+[4:51:27] Nightbot: https://www.youtube.com/shorts/o1HC3zbP4H8
+[4:52:39] Mavralex: show your talents for the battlefield please
+[4:52:44] Mavralex: !talents
+[4:52:44] Nightbot: https://www.youtube.com/shorts/o1HC3zbP4H8
+[4:52:45] DnB_Junkee: ya, I wouldn't spread too much
+[4:52:54] Plushie__Tv: i think do hillsbrad stuff then go to thousand needles at 27/28
+[4:52:56] Lylitzz: Is there any plans for someone who did all quests?
+[4:53:11] notJumu: 1k needles gonna be swarmed by hunter drones on launch imo
+[4:53:39] notJumu: gotta hide in rfk till sm ><
+[4:53:52] mogani9292: im goonna farm RFK at launch
+[4:54:00] mogani9292: and then move on to SM
+[4:54:33] Darkblue1: whats up with the names
+[4:54:46] bassiemon123: Streamer mode addon
+[4:54:51] Darkblue1: tnx
+[4:54:57] bassiemon123: Probs to @dnb_junkee
+[4:55:47] MxKV__: catJAM
+[4:56:08] MxKV__: you're basically a tank  lol
+[4:56:35] Mystylerocks: go to the mine
+[4:56:36] Mystylerocks: less people
+[4:56:44] bassiemon123: U can get em at the other part aswel, the keep
+[4:57:05] Mystylerocks: they re ok, most of them are miners lvl 26 u can handle ma boi
+[4:57:07] bassiemon123: Were u did the escape q
+[4:57:24] bassiemon123: Aahh kay
+[4:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[4:57:49] Jushijuice: LUL
+[4:58:13] Roesux: First time watching on twitch instead of youtube
+[4:58:47] papismaekmyazz: FeelsDankMan CrayonTime
+[4:59:06] misstherese: 🤨
+[4:59:29] misstherese: 👍🏼
+[4:59:36] Darkblue1: monkaS
+[4:59:44] brumm3rs: is it worth getting spirit tap for levelling? feel like don’t need it and can go to wand straight away
+[5:00:00] Lightshadow86: !tierlist
+[5:00:01] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[5:00:12] dreeeamyy: is this NA or EU?
+[5:00:14] Skilten: !guide
+[5:00:14] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[5:00:37] Dlax: !guide
+[5:00:58] Itrulia: Oh you soon have King William. Ngl feel bad for Charles
+[5:01:30] Itrulia: Charles diagnosed with cancer
+[5:01:34] Dlax: he got cancer :(
+[5:01:47] misstherese: 🥹
+[5:02:01] JavaSkrpt: Damn
+[5:02:08] JavaSkrpt: She was a trooper
+[5:02:27] Itrulia: for me it was crazy how healthy she looked. Her husband lasted 2 years longer but he looked like a walking corpse
+[5:02:33] misstherese: omg I thought your family you mean the royal thingy
+[5:02:39] MVPeteTV: mind sear is pretty good actually
+[5:02:53] DnB_Junkee: haha, fuck me. I forgot to turn in a bunch of crafted shit for darkmoon tickets to get the 14 slot bag... too busy with your addon :D
+[5:02:56] MVPeteTV: with bis each tick is 70+
+[5:03:21] misstherese: the queen was super cool like a stone when she get shot at and still keep do her duty
+[5:03:32] MVPeteTV: SM cath solo farm as shadow with sear and multidotting might actually work
+[5:03:54] Itrulia: and voidzone in p3
+[5:03:55] Zeuvin: Do you guys know if Orc or Troll is better for hunter in SoD?
+[5:04:10] Mystylerocks: orc usually
+[5:04:10] Itrulia: Orc melee hunter wins
+[5:04:22] MxKV__: this mix goes hard catJAM
+[5:04:45] MVPeteTV: you would have to use the spot in the fountain, but will be hard without slow
+[5:05:23] donkelips: !guide
+[5:05:24] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[5:05:50] fumanchu899: where are the streamsnipers, addon working?
+[5:07:46] bassiemon123: Cringe
+[5:07:49] MxKV__: hell yeah
+[5:07:54] bobozchtek: Copium?
+[5:07:59] bassiemon123: They waited 6h xd
+[5:08:07] MxKV__: is just an addon or a WA
+[5:08:10] bassiemon123: That top degen
+[5:08:14] dreeeamyy: Really people go to these lenghts with streamsniping?
+[5:08:22] dreeeamyy: How many are there? always the same people?
+[5:09:19] dreeeamyy: i would just feel ashamed of myself
+[5:09:19] pun7z: !tierlist
+[5:09:19] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[5:09:25] dreeeamyy: jesus
+[5:09:45] ama__deus: Try the tech Pog
+[5:09:48] MVPeteTV: same like flay i think
+[5:10:06] dreeeamyy: do the SWP spread rune + mindflay
+[5:10:08] ama__deus: even mobs kick botting now Sadge
+[5:10:50] DnB_Junkee: DnB_Junkee subscribed with Prime. They've subscribed for 5 months, currently on a 2 month streak! yo, some support down on your late work day :D
+[5:10:57] Feetslockar: !tierlist
+[5:10:57] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[5:11:02] dreeeamyy: just go clear bags
+[5:11:05] dreeeamyy: its worth it
+[5:11:09] anzoh46: !guide
+[5:11:09] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[5:12:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[5:13:20] bobban1234: What spec do you want to run in dungs. i guess you want something with 5/5 spirit tap for infinite mana?
+[5:14:12] Synckery: yo guys when does phase 2 go live
+[5:14:14] MVPeteTV: mans a pro fencer
+[5:14:29] warsickk: will p2 launch reset bfd id’s or should i not raid on next reset day (Wednesday before launch)
+[5:14:51] warsickk: if i wanna do bfd for exp
+[5:15:52] ephixa_fan: good evening
+[5:15:57] ephixa_fan: hydraCreep
+[5:16:06] zaekath: !Tierlist
+[5:16:06] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[5:16:14] prodigy_wow: Does anyone know how much exp a bfd will give? isnt exp in a raid group reduced?
+[5:16:30] kitra__: HeyGuys  Whats up with the QQQQQQQ QQQQQQQQQQQ QQQQQQQQQ name? :)
+[5:16:30] Mixedcolors: will bfd be worth doing for exp as p2 launches? aka dont get locked out before the patch?
+[5:17:01] warsickk: patch wont reset the lockout ?
+[5:17:05] StatesSideRob: HEY, Hey, hey
+[5:17:05] ephixa_fan: I'm not ok, I was 1 hour far away from my new year resolution record of beating a 1 week without timout on your channel, this is outrageous
+[5:17:06] Peoplewhinetoomuch: 21 261 xp according to the google doc
+[5:17:10] StatesSideRob: you know what day it is
+[5:17:21] Peoplewhinetoomuch: 26 261**
+[5:17:23] Leqt: bit of mary j blige decent
+[5:17:31] MVPeteTV: how much exp for 25-26?
+[5:17:33] StatesSideRob: StatesSideRob subscribed with Prime. They've subscribed for 7 months! lets go!
+[5:18:02] ephixa_fan: Theresse made me feel like its monday
+[5:19:06] Goswin1: sood cant wait
+[5:19:12] Goswin1: is it thurday 22:00 eu ?
+[5:19:23] TTDeluexe: yeah
+[5:19:27] Goswin1: lets goo
+[5:19:35] Cavorkean: whats your quest log addon
+[5:22:23] MVPeteTV: wait is it 22:00? whyyyyy
+[5:23:31] Peoplewhinetoomuch: 23:00 in Finland Aware
+[5:24:15] ephixa_fan: have a great stream and night, send my wishes to your cat, going to read the witcher's last book and then idk what to do with my life, but still have 100 pages to go
+[5:24:16] xMartyrz: hydraTilt
+[5:24:33] Itrulia: @MVPeteTV for w/e reason sod launched at 22:00
+[5:24:35] Peoplewhinetoomuch: LUL
+[5:24:39] ephixa_fan: wait
+[5:24:41] ephixa_fan: thats a roast
+[5:24:42] Mindfieldz: Mindfieldz subscribed with Prime. They've subscribed for 8 months! woop
+[5:24:44] ephixa_fan: i will remember
+[5:24:45] Jushijuice: LUL
+[5:25:14] ephixa_fan: better see that white sword and green background near my name when I login in tomorrow as a reward
+[5:27:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[5:28:43] Mystylerocks: hydraT bigbrains
+[5:28:57] ama__deus: Not using @player or shift as player mod? monkaW
+[5:28:57] Mystylerocks: i can barely use 15 keys monkaS
+[5:29:18] ama__deus: I'd probably kind of hate having to click myself Sadge
+[5:29:49] ama__deus: Yeah, a self-button would work probably, but too used to shift as a self mod at this point
+[5:29:50] Itrulia: so many bots on US servers ngl
+[5:30:04] Guydx: did you move?
+[5:30:09] ama__deus: @Itrulia don't be mean. Kappa
+[5:30:09] Guydx: different background
+[5:30:18] Itrulia: @ama__deus KEKW
+[5:30:55] Guydx: me
+[5:31:02] ama__deus: You're on your own there, mate KEKWait
+[5:31:05] Guydx: not even 25 yet KEKW
+[5:31:07] horrorzm2: Hey, Do you know how to see enemy player target frame Buffs? like if an enemy has fort, chronoboon or buffs in general?
+[5:31:31] ama__deus: @horrorzm2 classicauradurations
+[5:31:50] dreeeamyy: This mob is gonna be harder than most ur 1v1 pvp encounters KEKW
+[5:32:22] Itrulia: inb4 siren silences at 5%
+[5:32:45] horrorzm2: I have CAD, Mine might be corrupt. do I just delete and reinstall?
+[5:32:47] dreeeamyy: I would come there and help you on my hunter but its ally
+[5:32:51] dreeeamyy: so id be perma ganked
+[5:33:27] ama__deus: It also didn't work for me with anything other than the default unit frames
+[5:33:35] MVPeteTV: bot central
+[5:33:54] Mystylerocks: tick full aura replacement in the addon settings ppl
+[5:33:56] Mystylerocks: it will work
+[5:34:07] dreeeamyy: these oldschool house vibes tho, i like it
+[5:34:17] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[5:35:00] Zubtron: !guide
+[5:35:00] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[5:35:46] dreeeamyy: Its entertaining to watch tho LUL
+[5:36:17] MxKV__: this is prob what it's like leveling warrior.  except it's dodge miss parry miss miss  parry dodge
+[5:36:37] frozenpizza2209: cant wait until lvl 40
+[5:36:39] frozenpizza2209: lvl 25 so boring
+[5:37:23] Itrulia: no clue what to do until thursday
+[5:37:30] MxKV__: KEKW
+[5:37:37] MxKV__: kinda monka
+[5:38:18] steelhog90: Sadge that release is thursday PM only gonna get couple hours in before bed and there probs gonna be que's
+[5:39:06] man3_m: !guide
+[5:39:09] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[5:39:21] MxKV__: at least respawns aren't terrible
+[5:41:37] Itshighnoonwotlk: pvping the mobs, mad lad
+[5:42:11] ama__deus: Got that 1 phase too late at this point LUL
+[5:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[5:42:42] Synckery: stranglethorn gonna be so much fun next phase
+[5:43:07] Gioxo12: !Guide
+[5:43:10] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[5:43:13] kasjuss: What we farming?
+[5:43:51] kasjuss: prepping a bunch of quests to turn in as phase 2 starts?
+[5:44:00] frozenpizza2209: you think shadow will be strong in 40?
+[5:44:37] dreeeamyy: send it
+[5:45:51] refurbisher4620: Are u leveling us or eu first?
+[5:46:19] HeyImArty: Back, are we winning Ryan hydraLove
+[5:46:47] HeyImArty: just got the feral mace on druid from BFD, just in time to blast leveling
+[5:47:37] DistrictDingo: There are way too many spiders in this game
+[5:49:34] HeyImArty: taking a peaceful stroll through Wetlands and run into 4 hunters ganking together, nani
+[5:50:18] ama__deus: Lasagne BIS Kreygasm
+[5:50:47] xdxdxdxdxdxdxdxdxdxd69xd: Howdy KKona are there any African ladies here looking to be charmed? ( USA IS NOT AFRICAN)
+[5:51:20] Gallowxyz: Damn, how satisfying is PoM bouncing in WSG
+[5:51:57] nyx_yo: Hello,what is best race for sp pvp?
+[5:52:34] Dlax: @nyx_yo undead for dp surely
+[5:52:42] Dlax: ooo
+[5:52:54] nyx_yo: ty ty
+[5:53:04] ama__deus: Does anyone even have a clip or something where they mentioned priest racial swapping?
+[5:53:05] bollingertwo: !tierlist
+[5:53:10] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[5:53:12] bollingertwo: !Tierlist
+[5:53:15] ama__deus: I can't tell if we gaslit ourselves on that
+[5:53:49] pw_scyld: Been dabbling around with night elf priest. It's only fun in solo wpvp. In BGs it's awful
+[5:54:15] pw_scyld: thank god i made a dwarf priest first
+[5:54:19] bazookabtw: whats the addon that shows active targets ;o?
+[5:54:32] DistrictDingo: @dumssi_ Why is it awful in bg?
+[5:54:43] refurbisher4620: Is starshards a channel in classic?
+[5:54:59] pw_scyld: If you're used to having stoneform, fearward and desperate prayer and are then stuck with elune's grace and starshards
+[5:55:03] dreeeamyy: Bit dissapointed Romeyoyo aint a night elf male
+[5:55:12] dreeeamyy: tbf human male is kinda pog aswell
+[5:55:19] pw_scyld: god awful
+[5:55:20] HeyImArty: Starshards exists
+[5:55:21] HeyImArty: thats how it is
+[5:55:26] Jushijuice: lmao
+[5:55:40] prodigy_wow: it doesnt cost mana right?
+[5:55:46] prodigy_wow: so its nice for leveling maybe?
+[5:55:51] HeyImArty: it does cost mana
+[5:55:57] prodigy_wow: aww
+[5:56:00] prodigy_wow: rip
+[5:56:02] Itrulia: wait is starshards really channeled?
+[5:56:03] pw_scyld: it costs mana, deals virtually zero damage and you have to channel it
+[5:56:13] HeyImArty: yes starshards is channeled
+[5:56:15] pw_scyld: and it has an atrocious spell coeff
+[5:56:18] Itrulia: 85 mana for 162 damage and 6s channeled haha
+[5:56:18] prodigy_wow: aww im thinking of tbc, yeah thats ass
+[5:56:18] HeyImArty: it's like a budget dogshit mindflay
+[5:56:35] HeyImArty: one of the abilities of all time for sure
+[5:56:37] dreeeamyy: Shadowmeld in wpvp must be pog
+[5:56:47] Itrulia: 92% scale for all 6 hits
+[5:56:59] HeyImArty: shadowmeld drinking is huge in wpvp
+[5:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[5:58:08] pw_scyld: meld is okay.
+[5:58:13] pw_scyld: not great, not terrible
+[5:58:24] HeyImArty: then it has to be a 2min CD like tbc/wotlk meld
+[5:58:31] DistrictDingo: Why are your nameplates all fuckered up
+[5:58:34] dreeeamyy: wkh,d
+[5:58:39] dreeeamyy: wouldnt it be to op?
+[5:58:40] brumm3rs: if we get racial swapping will nelf priest be better than human?
+[5:59:02] dreeeamyy: yeah tbf
+[5:59:19] ama__deus: There was a time where it didn't suck. Was it tbc prepatch or something? LUL
+[5:59:22] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[5:59:24] walkingwaste1: walkingwaste1 subscribed with Prime. They've subscribed for 2 months! hyped for P2
+[6:00:00] dreeeamyy: Btw, is streamsniping worse in EU or NA?
+[6:00:24] HeyImArty: might wanna turn off auto hand in lmao
+[6:00:32] HeyImArty: before an accident happens
+[6:01:21] dreeeamyy: clip that please KEKW
+[6:01:39] Thund3rkat: ΩΩΩ
+[6:02:12] deluxerubber: !TIERLIST
+[6:02:21] deluxerubber: !Tierlist
+[6:02:23] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[6:03:11] DamDamPew: https://clips.twitch.tv/SoftCrunchyOxPicoMause-ADz9wwerV8n8LyGb
+[6:03:56] HeyImArty: i just hibernated a druid in aquatic form and he left form...
+[6:04:01] HeyImArty: classic brain in full force
+[6:04:06] antholitoo: hey talent shadow ?
+[6:04:07] HeyImArty: imagine drowning yourself...
+[6:04:52] SirDude1: Why is homunculi name like that
+[6:05:04] freazyblack: 4 raiders from freazyblack have joined! 
+[6:05:33] stilfor: city council meeting
+[6:05:56] HeyImArty: getting a layer there might be risky
+[6:06:01] HeyImArty: man gonna get layered into 10 mobs
+[6:06:06] ACElloll: new otk duel torney announced
+[6:06:25] HeyImArty: https://twitter.com/OTKnetwork/status/1754610770044702740
+[6:06:26] Drunk_Mantis: Drunk_Mantis subscribed with Prime. They've subscribed for 3 months! Heyge
+[6:06:52] HeyImArty: surely Shadow is gonna fuck at 40
+[6:07:06] juvemakes: !Guide
+[6:07:12] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:07:45] twitchara7: wil hunter and rogue counter shadow preist phase 2?
+[6:08:00] HeyImArty: bro what are these hitsquads, im looking for some fun 1v1s
+[6:08:02] Lekar624: Is this that new anonymous mode that they were teasing?
+[6:08:05] HeyImArty: and everyone and their nan is out for a walk with the family
+[6:09:00] juvemakes: where i can get link to this new Hydra guide?)
+[6:10:13] tyriz54: hey hydra can homunculi proc blackout ?
+[6:10:20] Refikaxd: Refikaxd subscribed at Tier 1. They've subscribed for 4 months, currently on a 3 month streak! sup
+[6:10:40] LukeDD: !guide
+[6:10:47] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:10:58] HeyImArty: that paladin walked into the wrong part of town
+[6:11:08] QqmoreTV: truth
+[6:11:52] prodigy_wow: 32 invited contestants
+[6:11:55] prodigy_wow: shrug
+[6:12:24] moarpwp: which addon shows dmgs/numbers on spells
+[6:12:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[6:12:40] HeyImArty: Ryan you got 3rd place in the previous duel tourny, surely they invite you
+[6:12:50] HeyImArty: just reach out to your boi asmon and get in on it
+[6:13:17] kkeenntteerrnn: ForSigmar LionOfYara ForSigmar ForSigmar ForSigmar
+[6:13:24] dreeeamyy: What tourney are we talking about?
+[6:13:36] Karuussss: which addon shows dmgs/numbers on spells
+[6:13:51] moarpwp: snutz will win again prob, he never lost something he joined last 5 6 years
+[6:14:16] mjolnirson: !Guide
+[6:14:22] HeyImArty: @moarpwp besides the 2019 AWC
+[6:14:24] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:14:31] dreeeamyy: f
+[6:14:34] dreeeamyy: what tourney=?
+[6:14:36] uggabooga1: meta + soul link??? No melee will kill a lock ever
+[6:14:43] uggabooga1: its gonna suck
+[6:14:49] cryptomeganinja: bullshit pally eat locks
+[6:14:51] xarioo123: yo :) when is sod 40 coming?
+[6:15:05] tyriz54: mage or priest for next phase
+[6:15:10] FIREMAGZZ: warlock: “hey duel me”
+[6:15:12] HeyImArty: Feral probably gonna shit on lock, you got berserk for 15sec fear immunity + trinket + dumb burst with new tigers fury
+[6:15:13] uggabooga1: our soul link w/UA lol
+[6:15:19] varatupaj: people say warlock op, but for some reason all you see in bgs is priests, hunters and druids
+[6:15:21] cryptomeganinja: bubble his first suck and hes gg.
+[6:15:30] moarpwp: @HeyImArty who was the winner
+[6:15:34] HeyImArty: psure feral will chomp locks up with Berserk
+[6:15:45] DeathToad007: warlock will be op as fuck at 50
+[6:15:51] xarioo123: @cryptomeganinja thats a sentence right there
+[6:16:08] HeyImArty: @moarpwp raiku chas whazz
+[6:16:16] moarpwp: phase1 lock phase2 shadow priest phase3 warlock will be my journey :D
+[6:16:29] JavaSkrpt: RANDY
+[6:16:35] JavaSkrpt: Always blame Randy
+[6:17:15] Zachariass75: What's your go to Chinese order Hydra?
+[6:17:23] moarpwp: @HeyImArty they are lucky that mage rogue + healer is best for like 15 years
+[6:17:23] HeyImArty: ferals with 15sec fear immunity + 2 breaks
+[6:17:29] jeexlol: what server are you on
+[6:18:05] dreeeamyy: I still dont know what tourney we talkin bout
+[6:18:09] dreeeamyy: feelsignoredman
+[6:18:14] HeyImArty: they can pvp trinket Dust tho Ryan
+[6:18:18] HeyImArty: druid trinket removes sleep
+[6:18:18] Hydramist: https://twitter.com/OTKnetwork/status/1754610770044702740
+[6:18:23] dreeeamyy: ty <3
+[6:18:40] dreeeamyy: You have to get an invite?
+[6:18:55] dreeeamyy: would be reeeeally fkin wierd if not
+[6:19:00] maincy: if he's not doing it im unsubbing
+[6:19:14] HeyImArty: ye but for a chance at 20k you'll surely play US npnp
+[6:19:24] HeyImArty: hows your US priests situation
+[6:19:31] NeVolent: priest or rogue will win that :P
+[6:19:32] Itshighnoonwotlk: could make a yell macro for the ppl u want to fight instead of running and dying either way
+[6:19:39] NeVolent: U read that first here!
+[6:19:51] HeyImArty: @Itshighnoonwotlk you think these randies notice ingame chat
+[6:19:54] Amerish88: !Tierlist
+[6:19:54] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[6:20:08] VassTheKeeper: Is dungeon spam gonna be the fastest way to 40? If so, whjich ones at what level bracket?
+[6:20:14] ikowens_hagfish: !guide
+[6:20:14] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:20:21] NeVolent: u alliance or horde?
+[6:20:23] HeyImArty: @VassTheKeeper Stockades (or RFK if horde) to 30, then SM to 40
+[6:20:29] HeyImArty: dungeon spamming is only fast if all 5 ppl in ur grp are good
+[6:20:33] VassTheKeeper: alliance
+[6:20:35] HeyImArty: if your grp is dog you just quest
+[6:20:54] Itshighnoonwotlk: @HeyImArty idk man, but as much as hydra runs around in pvp zones maybe 5-10% would lissen kekL
+[6:21:52] Pentextherealz: !Guide
+[6:21:52] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:21:57] QuickfireDouble: QuickfireDouble subscribed with Prime. 
+[6:23:04] Noitheknight333: isnt this the spawn for the other quest? miner hacket around the corner
+[6:23:04] twitchara7: you wil buy al mats for engi on action house for nades?
+[6:23:23] NeVolent: wat?
+[6:23:35] dreeeamyy: With what gold? Kappa
+[6:23:53] dreeeamyy: Damn
+[6:23:58] 64hooks: is there a link for info on the tourney?
+[6:23:59] dreeeamyy: what a legend
+[6:24:09] QuickfireDouble: woah theres a new tourney?
+[6:24:49] NeVolent: yea u need to get full melee and hunter raid
+[6:24:59] peetca: on what spec you will vll up?
+[6:25:15] HeyImArty: gotta say love that OTK does these tournys and stuff
+[6:25:18] HeyImArty: its good for the game
+[6:25:39] NeVolent: trueeee
+[6:25:45] HeyImArty: could do them during a PTR
+[6:25:49] HeyImArty: if there ever is a SoD PTR
+[6:25:58] HeyImArty: ye
+[6:26:19] wacs1de: !tierlist
+[6:26:19] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[6:26:25] dreeeamyy: Lets say everyone is equal, with the information you have now, what class/specc wins?
+[6:27:19] dreeeamyy: didnt rogue get quite juicy stuff
+[6:27:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[6:27:37] HeyImArty: What was your sketchiest moment during the makgora tourny prep btw
+[6:27:38] hntb100: they should not only include set tokens, which they already did. but also some kind of currency where you can just buy an item from bfd. So you dont have to farm the raid for 1 item the whole phase
+[6:27:39] dreeeamyy: Kinda fun there are alot of contenders in terms of class/spec
+[6:27:57] sharpeisabk: !guide
+[6:27:57] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:28:21] HeyImArty: Did you have any "oh shit im dead" moment while prepping for the HC tourny
+[6:28:29] NeoEspalier: What’s the date for the otk tournament? Sry if it’s been said already.
+[6:29:16] Snooqzz_: yeh the last one was in UBRS , that one was scary af
+[6:30:10] dreeeamyy: tje UBRS was so monkaS live
+[6:30:43] jasonsoo2010: morning from australia, have u play with or against payo and pshero?
+[6:30:58] Hydramist: https://www.youtube.com/watch?v=w8FzhsXA56A
+[6:30:58] Hydramist: https://www.youtube.com/watch?v=w8FzhsXA56A
+[6:30:59] Hydramist: https://www.youtube.com/watch?v=w8FzhsXA56A
+[6:31:30] mjolnirson: why are there a bunch of "omegas" substituted for friendly name?
+[6:31:58] jasonsoo2010: @Hydramist thanks. heard of any update or news about the potential cdl tournament for level 40 in sod?
+[6:32:25] krreft: !guide
+[6:32:26] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:33:24] Noitheknight333: STV should fix that though right?
+[6:33:41] Noitheknight333: but you wont have extra allies
+[6:33:48] dreeeamyy: Could be worse, i got ganked and corpsecamped on the way to raptor cave by 4 ppl
+[6:33:56] dreeeamyy: no idea how that is fun
+[6:33:58] 64hooks: https://twitter.com/OTKnetwork/status/1754610770044702740
+[6:34:03] Hydramist: !EDITCOM !NEWVID https://www.youtube.com/watch?v=w8FzhsXA56A
+[6:34:03] Nightbot: @Hydramist -> The command "!newvid" has been updated successfully.
+[6:34:44] dreeeamyy: would be fun to see what type of individuals it actually is
+[6:34:46] dreeeamyy: IRL
+[6:35:42] M_0_S_K_A: !tierlist
+[6:35:42] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[6:36:41] dreeeamyy: layer and see if theres any hunter ther farming the helm, maybe u can tag along
+[6:37:15] NeVolent: i wish instead of Mind spike they gave priest a Void Flay or smth...buffed mind flay with less mana and 30 yards and more dmg
+[6:37:38] saund: GDKP banned for next tourney, making every raid lockout trivial, gonna be interesting seeing some in good gear others not so much @Hydramist
+[6:38:24] saund: people like Bobka and SONII are gm's
+[6:38:24] dreeeamyy: What about restricting it to all greens or somth
+[6:38:25] dreeeamyy: gearwise
+[6:38:27] saund: so they got it easy
+[6:39:05] dreeeamyy: maybe host it on EU for once
+[6:39:24] saund: they will never @drea
+[6:39:26] saund: @dreeeamyy
+[6:39:49] saund: you versus Dakata, shadow vs shadow, will be my dream as spectator in the tourney
+[6:39:58] dreeeamyy: Yeah i know which is so lame
+[6:39:59] NeVolent: what a pussy
+[6:40:09] frozenpizza2209: rogue so pro
+[6:40:21] 64hooks: has that dude been following you the whole time? lmao
+[6:40:29] frozenpizza2209: thats why I rerolled rogue in classic 2019 from warrior
+[6:40:32] frozenpizza2209: sick of ganking
+[6:40:38] dreeeamyy: Should be more people with more gold tho in the server that  might wanna help out
+[6:40:47] jasonsoo2010: snutz gonna win again if there is cdl tourney, i hope meta is ban for the tournament .
+[6:41:25] HeyImArty: i dont think locks will be some type of 1v1 god at 40
+[6:41:28] HeyImArty: no deathcoil is rough af
+[6:41:53] HeyImArty: its fine they get UA in p3 and the game is over and we all uninstall
+[6:42:00] saund: what runes would you even use as shadow
+[6:42:02] saund: that we know of
+[6:42:03] Dirtyharry128: still think they will be pretty strong at 40 with aff talent and haunt
+[6:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[6:42:48] Boombam__: You think boomy gonna be slapping at 40?
+[6:43:06] saund: if we get nourish @Boombam__
+[6:43:11] saund: with resto build
+[6:43:18] Boombam__: I think the range nerf isnt the end of the world tbh lol
+[6:43:30] HeyImArty: @saund you're not going resto, balance is way too isnane at 40
+[6:43:30] jasonsoo2010: will priest get shadowform at 40? or only at lvl 60?
+[6:43:31] Boombam__: Yeah i agree @saund
+[6:43:55] saund: @HeyImArty maybe, we'll have to see for runes
+[6:43:56] jojoshambho: have we figured out if the shadowform mana reduction for shadow spells is real?
+[6:44:08] vlucher: !guidr
+[6:44:18] HeyImArty: only thing of value resto tree has is NS
+[6:44:19] amphoteric21: when is the next level cap
+[6:44:19] vlucher: !Guide
+[6:44:20] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[6:44:21] HeyImArty: insect swarm is dog
+[6:44:24] saund: i prefer if boomie form would be bis ofc, way too fun as a balance druid
+[6:44:40] HeyImArty: and why do you need swiftmend when you have instant healing touches anyway as boomie
+[6:44:56] dreeeamyy: Its beyond me how anyone can enjoy playing boomie looking at that form LUL
+[6:44:57] twitchara7: i honestly think in sod priest counter warlock ad 60 cuz dispell drain life
+[6:44:58] HaeliusTV: wtf are those names?
+[6:44:59] dreeeamyy: but each to their own
+[6:45:21] Boombam__: https://sixtyupgrades.com/sod/set/7ZqU6Nfkd1ae3KuXFN4wZE Thats my boomy bis list, and the talents that i think are gonna be bis, obvsiouly runes can change tho
+[6:45:50] HaeliusTV: hydra what happened to your NPC names
+[6:46:12] jojoshambho: @Boombam__ what bout the other gnomer trinkets?
+[6:46:21] Glen1: how should my talent tree look like for leveling to 40 as priest, want to do questing and heal dungeon and pvp.
+[6:46:23] pw_scyld: man, the music is fire
+[6:46:30] Boombam__: I imean its experimental
+[6:46:30] jojoshambho: @Boombam__ nvm misread
+[6:46:36] HeyImArty: resto druids will still have uses in later brackets, especially as the standard FC spec in WSG
+[6:46:39] HeyImArty: cant FC without NS and swiftmend
+[6:46:41] seizureman19: !s8bis
+[6:46:41] Nightbot: https://www.youtube.com/watch?v=h2DwoBKCVP0
+[6:46:47] HeyImArty: but no shot you play resto at 40
+[6:47:03] darkstarklife: warlock
+[6:47:12] darkstarklife: since no more snutz id love lock
+[6:47:28] dreeeamyy: Maximum does this thing were he invites "a guy" for every class and goes through it with them
+[6:47:31] dreeeamyy: could be something
+[6:47:36] twitchara7: you have al runes avaible?
+[6:47:54] dreeeamyy: That would be really fun
+[6:48:00] wndzz: what is your plan for p2 start ? turn in all quests first and then dungeon spam ?
+[6:48:20] HeyImArty: hows Hydrasham coming along? last time i saw it you were malding over being melee
+[6:48:22] dreeeamyy: bring in Zeroji for hunters
+[6:48:29] jojoshambho: running a BFD asap is wise for the 30k xp
+[6:48:29] dreeeamyy: that guy knows his styff
+[6:48:43] jojoshambho: save ur lock outs
+[6:48:44] Cypagex: do we know its 30k? @jojoshambho
+[6:48:49] saund: get Peaceblade for paladins
+[6:48:52] saund: hes insane
+[6:48:52] jojoshambho: yea lil over 30k
+[6:48:59] dreeeamyy: wedsday?
+[6:48:59] HeyImArty: 1day6h
+[6:49:02] HeyImArty: to BFD reset
+[6:49:03] Kyfoon: tomorrow night
+[6:49:13] jojoshambho: yea make sure not to do it after that if u want the xp for phase 2
+[6:49:23] DeathToad007: wed morning
+[6:49:23] saund: what do you even need still? LuL
+[6:49:27] saund: or on Benseven?
+[6:49:31] dreeeamyy: Send it, its only 22.00 in UK
+[6:49:32] fatslimpapa: gotta drop out of uni to have time for phase 2. its a hard choice
+[6:50:10] 123abraba: any1 knows how much xp bfd will gain?
+[6:50:16] Lizardmale: heal pet
+[6:51:50] 64hooks: you guys are done
+[6:52:09] MxKV__: one brain cell between the two of them
+[6:52:22] saund: PepeLaugh
+[6:52:32] 123abraba: rekt :D
+[6:52:51] MxKV__: gz
+[6:52:51] dreeeamyy: not even close
+[6:53:23] merijnvdc1: Can you all see enemy priests casting penance?
+[6:53:26] merijnvdc1: The actual cast bar
+[6:53:39] saund: done more theoycrafting on KOTH?
+[6:54:56] saund: that sounds cool, hope layers wont be a bitch
+[6:55:07] saund: anything but magic dust PLS
+[6:55:08] iFived: !newvid
+[6:55:08] Nightbot: https://www.youtube.com/watch?v=w8FzhsXA56A
+[6:55:08] saund: LuL
+[6:55:53] ratcherlol: why is everyones name full omega's
+[6:55:54] ratcherlol: wtf
+[6:55:56] jojoshambho: I was wrong, it's 23k xp for full BFD. 3k per boss, 5k for akumai
+[6:56:13] saund: was this datamine dor how do you know @jojoshambho
+[6:56:24] saund: ptr?
+[6:56:27] jojoshambho: yea datamined
+[6:56:30] jojoshambho: could change tho
+[6:56:42] saund: might not send BFD then
+[6:56:45] saund: dont sound too worth
+[6:56:59] saund: unless you have a group ready beforehand
+[6:57:05] saund: on disc or something
+[6:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[6:57:30] jojoshambho: it's 36k xp from 25-26 i think. so i guess about 60% of a lvl
+[6:58:02] jojoshambho: yea i'm def doin it
+[6:58:13] saund: you also gotta think, you lose 1/4th of your boon/dmf, aswell as a high chance of losing them if group dies @Hydramist
+[6:58:54] saund: yeah maybe not, unless people are too eager and rushing
+[6:59:04] DeathToad007: you lose boons/buffs doing anything bruh becasue they take time and buffs wear off
+[6:59:18] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[6:59:25] saund: yea but they're more beneficial in lets say RFK cause higher level mobs @DeathToad007
+[6:59:26] saund: i'd argue
+[6:59:36] DeathToad007: fair point
+[7:00:53] saund: with optimal pre-quest route, where do you end up at?
+[7:00:58] saund: i guess that factors in aswell
+[7:01:03] saund: for if BFD is worth
+[7:01:41] jojoshambho: what u guys think bout waylaid supplies stacking up 12?
+[7:02:03] jojoshambho: might actually be some decent xp if u get a bunch then fill em up and turn in
+[7:02:18] jojoshambho: Stacking up to 12*
+[7:02:27] varatupaj: priests and riflemen drop 35g helmet btw
+[7:02:41] dreeeamyy: Is the hunter a bot?
+[7:02:46] dreeeamyy: LUL
+[7:03:52] Azzinorth: This hunter is for sure a bot
+[7:04:16] Itshighnoonwotlk: KEKW
+[7:04:24] rdy2wrk: new player with full BIS and Humar
+[7:04:45] dreeeamyy: xD
+[7:04:50] lamix9: xD
+[7:05:05] faygodreaming_: MrDestructoid hunter pov
+[7:05:09] lamix9: :D:DDdd.
+[7:05:18] dreeeamyy: I swear to god open world is such a fucking jungle
+[7:07:37] Scoffered: Bot hunters for sure
+[7:07:42] dreeeamyy: No joke, there must be some new kind of "AI bot"
+[7:07:42] varatupaj: they farming helmets
+[7:07:42] notJumu: i literally just minutes ago did this quest
+[7:07:59] dreeeamyy: Like the bots reply random stuff to you and moves randomly
+[7:08:03] notJumu: we pulled the captain with like 10 other mobs and barely survived to kill him
+[7:08:23] dreeeamyy: yep
+[7:08:32] dreeeamyy: its a deathsentence alot of times KEKW
+[7:09:29] dreeeamyy: tbf we have an oldschool in my guild whos born in 63
+[7:09:44] dreeeamyy: and he must look like this hunter when he is out and about
+[7:10:12] Kavsen: catJAM pepeJAM
+[7:10:20] iFived: !newvid
+[7:10:20] Nightbot: https://www.youtube.com/watch?v=w8FzhsXA56A
+[7:11:15] dreeeamyy: a little BFD for the gear in the layer
+[7:11:21] HeyImArty: noo not the early stream end hydraGoose
+[7:12:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[7:13:04] stalkerbronet: any helms drop yet?
+[7:14:21] HeyImArty: that shield is badge
+[7:15:37] HeyImArty: you got 1d5h to do raid so
+[7:15:40] HeyImArty: could be tomorrows content
+[7:15:42] deltrexx: hey hydra whats the addon that shows loot from dungeons/raids
+[7:16:36] verting91: !newwid
+[7:16:36] dreeeamyy: sounds pog
+[7:16:44] HeyImArty: it's really good content (getting GOOD people to talk about their class)
+[7:16:47] notJumu: sounds like a grand time
+[7:17:00] HeyImArty: emphasis on good players of their class
+[7:17:21] PlayerOneFifty: always good and put it on spotify
+[7:18:49] gearlessjordy: LOL
+[7:18:52] Hozitojones: hey papi
+[7:18:57] notJumu: bro LMAO
+[7:19:05] notJumu: what BM way to finish a duel
+[7:19:14] pavelcatsyuk: U done with wrath?
+[7:19:36] Jushijuice: 2020Celebrate 2020Celebrate 2020Celebrate
+[7:21:33] Sebovich: what shows enemy buffs?
+[7:21:47] MawblesPDX: whats that quest log addon?
+[7:23:28] Noitheknight333: does the lunar festival quests give xp?
+[7:27:20] Cupz21: stacks with water
+[7:27:30] Cupz21: can use dumpling and water same time
+[7:27:32] Noitheknight333: ah gotcha
+[7:27:38] notJumu: cluster launcher too
+[7:27:48] oatie1023: yo, i missed getting on Friday to hype you up for you to get a pint. I wont miss this week
+[7:28:41] jungelregla: Do you get anything from lunar thingy?
+[7:30:26] notJumu: org, razor hill, ratchet
+[7:30:27] fnattihatt: You can take all
+[7:30:49] HeyImArty: you ahvent. no
+[7:30:52] HeyImArty: you'd explore a fair bit going there
+[7:30:59] HeyImArty: also you'd remember getting it because that FP is aids at lvl 25
+[7:31:05] brokepp: !tierlist
+[7:31:05] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[7:31:31] dreeeamyy: What do you even need this for?
+[7:31:39] Geelols: i got it last night
+[7:31:40] Geelols: you can
+[7:31:41] fnattihatt: ye i grabbed the razor hill as ally
+[7:31:46] dreeeamyy: no idea
+[7:32:00] bomzzwtf: So if gnomergan full of mechs surely shadowpriest is not a thing in there with void plague? :D
+[7:32:28] Geelols: its close the the middle nearr the waterr so you can run in and click
+[7:32:28] notJumu: think thers 4 known mech bosses
+[7:32:48] bomzzwtf: nope
+[7:32:49] perseay797: Hydra do you think if we farm WSG on Wednesday they will allow the farmed honor to transfer to P2? @Hydramist
+[7:32:52] bomzzwtf: bleed poison disease  cant
+[7:32:54] HeyImArty: no voidplague no bleeds
+[7:32:57] HeyImArty: ferals down bad for gnomer
+[7:33:00] bomzzwtf: unless they change
+[7:33:04] 7idus: @Hydramist what professions you recommend for P2?
+[7:33:24] jungelregla: Is the mailbox wipe for p2 launch of for reset the day before?
+[7:33:54] Geelols: its only wipe for marks correct?
+[7:33:56] bomzzwtf: They cant even wipe mailbox correctly xd
+[7:34:27] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[7:34:40] skyhigh26: !guide
+[7:34:40] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[7:34:47] HeyImArty: whats the rush for rank 6 tho, cant even remember what item you got for R6
+[7:34:49] HeyImArty: neck, right?
+[7:35:29] bomzzwtf: cant wait for normal mounts, this dismount thing from damage is triggering
+[7:35:48] bomzzwtf: especially those green spiders that cast something
+[7:35:53] HeyImArty: hvnt even bought the mount, catform go brrr
+[7:35:59] Chazzmichael: But its lovely when you want to gank people
+[7:36:01] farglo: what is this talk about mailbox wipe?
+[7:36:08] perseay797: @HeyImArty It's just to save time not to do honor routine after leveling. Get max rank 1 week after is Pog
+[7:36:29] bomzzwtf: What are you farming?
+[7:36:35] farglo: aaah, phew almost gave me a heartattack
+[7:36:53] bomzzwtf: What do you get for the coins?
+[7:37:01] Noitheknight333: wtf that was smooth
+[7:37:03] bolleboris1: rogue or mage for p2?
+[7:37:03] perseay797: Btw guys how much honor do i need for r4?
+[7:37:04] farglo: @bomzzwtf bis food
+[7:37:10] perseay797: From r3 to r4
+[7:38:05] bomzzwtf: I hope at 40 homunculi wont get 1 shoted by 1 aoe
+[7:38:58] bomzzwtf: Heavy armor
+[7:39:02] 7idus: lil bro used all of his spellbook
+[7:39:02] MawblesPDX: this poor pally lmao
+[7:39:29] MawblesPDX: i know he just looks so lost
+[7:39:29] funkrosin: prot spec
+[7:39:48] notJumu: dude is permaslowed somehow wtf
+[7:39:53] bomzzwtf: Avengers coming
+[7:39:59] MawblesPDX: HE LAUGHTS AT YOU'
+[7:40:01] MawblesPDX: ally so cringe
+[7:40:18] HeyImArty: @MawblesPDX lets not pretend that both factions arent full of cringelords
+[7:40:20] ogdran: what addon shows enemy buffs?
+[7:42:10] 7idus: @Hydramist should i sit on my marks for pvp reset or use them insta when P2 begin?
+[7:42:16] juiceyyx: he needed the zweihander equipped for the uno reverse
+[7:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[7:42:48] Lunaatj: EZ
+[7:42:49] dreeeamyy: pepeEz
+[7:42:49] notJumu: i feel like ive watched this paladin die like a dog the same way 3 times in the last 3 minutes
+[7:43:02] Lunaatj: Well calculated by the guy with a maths degree.
+[7:43:04] Lunaatj: LULW
+[7:43:05] dreeeamyy: worldpvp content is BiS
+[7:43:24] Josefon: !tierlist
+[7:43:24] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[7:43:25] MawblesPDX: STV should be good pvp
+[7:44:31] Teazir27: @MawblesPDX HeyGuys outside of the blood moon event it will be same than ashenvale
+[7:45:07] Sinostra: can we expect some alliance wpvp in p2 ?
+[7:45:32] perseay797: ALL NIGHT
+[7:45:36] dreeeamyy: Dwarf with spinning ponytails
+[7:45:51] Sinostra: you need to gank a guy on Romeyoyo
+[7:45:54] dreeeamyy: says the human male Kappa Kappa Kappa Kappa
+[7:45:58] jungelregla: playing 156 shadow sp with wb, mindblast into SW:D is almost 700 without crits, feelsgoodman
+[7:45:58] boogy1001: u full bis?
+[7:46:43] boogy1001: not playing anything at the moment tbh
+[7:47:10] eylouk: what are the coins for?
+[7:47:58] bomzzwtf: whats the engi pattern?
+[7:48:07] jungelregla: it does crit for 600 tho:^)
+[7:49:02] Lunaatj: LULW 󠀀
+[7:49:07] dreeeamyy: welcome to the jungle LUL
+[7:49:09] notJumu: legendary paladin plays
+[7:49:12] Lunaatj: Can't write it any better.
+[7:49:18] SirReavan: !tierlist
+[7:49:18] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[7:49:39] notJumu: xroads, camp t
+[7:49:40] bomzzwtf: how many coins do u need?
+[7:49:45] perseay797: This "song" HUH
+[7:49:50] notJumu: freewind, gadget, shimmering
+[7:50:27] notJumu: no
+[7:51:31] koonz: does guide cover shadow for P2?
+[7:51:50] koonz: !guide
+[7:51:50] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[7:52:27] Sinostra: that's a long road
+[7:52:36] bomzzwtf: Which option gives the recipe
+[7:52:57] bomzzwtf: Tbh enchanting seems nice in p2 u get a self buff with spell damage
+[7:53:32] bomzzwtf: There is also a grenade that everyone can use but its a weaker version
+[7:53:33] jallaballan: Mind blast is gonna pump
+[7:53:54] notJumu: do u think helm and boots will have separate CDs?
+[7:54:13] MachoGG: this isnt shaman
+[7:54:18] HeyImArty: still hoping we get upgrades to void touched items
+[7:54:19] notJumu: other side
+[7:54:22] HeyImArty: feels dumb to throw them away after 1 phase
+[7:54:38] MachoGG: did you give up on the elements D:
+[7:54:41] Landon_MDL: whay are you doing these coins Q
+[7:54:44] Landon_MDL: what does it gives?
+[7:54:58] Landon_MDL: ok cool
+[7:55:26] dreeeamyy: xD
+[7:55:29] notJumu: LUL
+[7:55:38] Zelimeth: he got chopped up
+[7:55:41] Zelimeth: put on AH
+[7:56:07] Lunaatj: OMEGALUL
+[7:56:08] notJumu: the aquatic life suffers so that we can travel to goblintown
+[7:56:09] MachoGG: wtf are these names lol
+[7:56:10] perseay797: KEKL
+[7:56:17] notJumu: elune is weeping
+[7:56:20] Lunaatj: Mate you gave him CPR.
+[7:56:36] AndreasJV: hydraGoose
+[7:56:41] Sinostra: dying on the boat actually makes it faster
+[7:56:45] Lunaatj: Andreas POGGERS
+[7:56:47] Sinostra: you res in front of BB
+[7:57:01] AndreasJV: LUNA POGGERS
+[7:57:11] Lunaatj: Oh wait you've got the anti snipe addon going.
+[7:57:19] Lunaatj: I was like "the fuck are these weird mages."
+[7:57:22] Lunaatj: But it's the thing.
+[7:57:24] Lunaatj: Pog
+[7:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[7:57:40] HeyImArty: ah im so upset we arent getting noggenfogger next phase
+[7:57:44] Lunaatj: weird names*
+[7:57:51] Lunaatj: Mage is swimming OMEGALUL
+[7:57:55] Lunaatj: EZ Clap
+[7:57:59] notJumu: EZ
+[7:57:59] Geelols: cpt jack sparrow
+[7:58:07] Lunaatj: Mate you're giving that window a well peek.
+[7:58:15] nordeax: nordeax subscribed with Prime. They've subscribed for 11 months! hydraGoose
+[7:58:22] Lunaatj: hydraGoose
+[7:58:32] rns_aurelius: this boat and the road outside booty bay are gonna be full of corpses next phase
+[7:58:35] oldirtybrucie: creeper in the window
+[7:58:38] HelluvaWrecks: the temptation to move a little?
+[7:58:42] AndreasJV: WE SAW IT!
+[7:58:44] AndreasJV: WOHOO!!
+[7:58:48] HeyImArty: LOL
+[7:58:49] Lunaatj: OMEGALUL
+[7:58:50] oldirtybrucie: KEKW
+[7:58:52] dreeeamyy: XDDDDDD
+[7:58:54] dreeeamyy: LuLW
+[7:58:56] AndreasJV: OMG GOOSED IT
+[7:58:58] PlayerOneFifty: lol
+[7:58:59] Sinostra: xD
+[7:59:01] Sinostra: you're dead
+[7:59:03] HeyImArty: you dead as fuck son
+[7:59:11] perseay797: HS DUDE
+[7:59:13] PlayerOneFifty: cant you log out
+[7:59:19] cole19: !newvid
+[7:59:19] Nightbot: https://www.youtube.com/watch?v=w8FzhsXA56A
+[7:59:22] PlayerOneFifty: and then go on other toon
+[7:59:23] HelluvaWrecks: swim speed ring bis right now
+[7:59:26] AndreasJV: BOOMER HANDS!
+[7:59:30] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[7:59:35] HeyImArty: aint no way he lived
+[7:59:39] HelluvaWrecks: rip
+[7:59:48] perseay797: EZ Clap
+[7:59:48] Geelols: michael phelps
+[7:59:52] Mystylerocks: some addon is messing with my party frames and whenever i inv someone in combat and he joins i dont see them, any clues chat
+[7:59:57] Lunaatj: I mean, you're still a good 30 minutes away from any land.
+[8:00:01] Lunaatj: Kappa
+[8:00:14] HeyImArty: i think tomorrow is "walk around & get all flightpaths" kind of dya for me
+[8:00:48] HeyImArty: latest Questie has all the locations on the map btw
+[8:00:51] HeyImArty: for the event quests
+[8:00:53] Lunaatj: Uh oh.
+[8:00:54] Lunaatj: Lets hear it.
+[8:01:11] Lunaatj: Pog
+[8:01:15] inffecto: !macros
+[8:01:15] Nightbot: As a 'Thank You' to my subscribers for all their support, my TBC and Retail UI's (addons and settings) as well as TBC Weakauras and Macros/Scripts are now available in a new subscriber channel on my Discord! Go to the Hydramist Discord channel (http://discord.gg/hydramist) and make sure to connect your Discord and Twitch. Note: Connection syncing might take up to an hour.
+[8:01:15] AndreasJV: AndreasJV is gifting 1 Tier 1 Subs to Hydramist's community! They've gifted a total of 787 in the channel! 
+[8:01:16] AndreasJV: AndreasJV gifted a Tier 1 sub to f_frank_123! 
+[8:01:21] Lunaatj: hydraSub
+[8:01:25] AndreasJV: 1 FOR the laads
+[8:01:26] Lunaatj: Yeah, it's a good game.
+[8:01:27] Sinostra: what about the game i recommanded ?
+[8:01:30] Sinostra: Frostpunk
+[8:01:31] HeyImArty: update questie if you havent, you get all the elder locations on your world map
+[8:01:41] Lunaatj: Has that little horror element to it as well.
+[8:01:50] Hydramist: https://www.youtube.com/watch?v=w8FzhsXA56A
+[8:01:51] Hydramist: https://www.youtube.com/watch?v=w8FzhsXA56A
+[8:01:51] Hydramist: https://www.youtube.com/watch?v=w8FzhsXA56A
+[8:01:54] fifirikosa: what are we listening now?
+[8:02:17] AndreasJV: KEKW
+[8:02:38] HeyImArty: bros guilt tripping us
+[8:02:41] AndreasJV: lmfao
+[8:02:57] AndreasJV: okay ill like subscribe click the bell np
+[8:02:58] Lunaatj: It's working, I already liked it on all my bot accounts.
+[8:03:05] Sinostra: ok, but you check out Frostpunk @Hydramist
+[8:03:22] Sinostra: i just did now
+[8:03:29] Lunaatj: I'm not sure Frostpunk is a you kind of game.
+[8:03:30] Sinostra: but yoiu need to finish alien first
+[8:03:49] HeyImArty: remember to reload if you updated questie hydraKit
+[8:03:59] Fuujill: subn is a big nono for me
+[8:04:02] dreeeamyy: Is Subnautica scary? thought that was like an exploring the ocean type of game
+[8:04:07] HeyImArty: You did prog last time on Alien
+[8:04:13] Sinostra: seeing you playing a new game to you would be very fun
+[8:04:16] Lunaatj: There's some horror elementl to Subnautica.
+[8:04:21] Lunaatj: element*
+[8:04:22] notJumu: @dreeeamyy thats how they get ya
+[8:04:43] oldirtybrucie: banger tune
+[8:04:52] HeyImArty: people are super invested for some reason, SoD is lit
+[8:04:58] Lunaatj: D: Clap
+[8:05:02] Mapsize_: ''whos never seen the sun'' xD
+[8:05:24] bomzzwtf: Bfd will give xp btw in p2
+[8:06:01] gbjakeee: !newvid
+[8:06:01] Nightbot: https://www.youtube.com/watch?v=w8FzhsXA56A
+[8:06:12] HeyImArty: supplies are no longer unique next phase
+[8:06:14] HeyImArty: so its super eez
+[8:06:43] HeyImArty: if there isnt movement speed on next WB im upset, boon is based af
+[8:07:06] dreeeamyy: yeah thats a giga grief tbh
+[8:07:11] Sidith: show gear
+[8:07:12] QuickfireDouble: cause we get mount
+[8:07:13] dreeeamyy: was the most fun part
+[8:07:14] Zeedoggx: you get mount
+[8:07:16] HeyImArty: emphasis value of mount?
+[8:07:23] QuickfireDouble: yeah spot on
+[8:07:32] krauser2288: as a feral, i appreciate the no movement buff xD
+[8:07:37] krauser2288: might be able to kite people
+[8:07:37] Civix_1802: thats reason enouigh ^^
+[8:07:38] funkrosin: + we get minor speed on boots dont we?
+[8:07:52] notJumu: travel form stonks rising
+[8:07:58] naskilol: How did you get classicauradurations to make dispellable buffs glow?
+[8:08:03] HeyImArty: every time i died i just go to darnassus, cba life without boon
+[8:08:41] mykle90: They could have simply added 1-2 more flight paths per zone
+[8:08:47] NizzyBoom: !tierlist
+[8:08:47] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[8:08:50] HeyImArty: tho boots enchant + mount, it'll be fine
+[8:09:11] Sinostra: @Hydramist tell me what you think about this : https://www.youtube.com/watch?v=UxTxUL_8VkA
+[8:09:24] Sinostra: does it look promising to you ?
+[8:09:52] Lunaatj: It's a good game, I really like it.
+[8:10:40] Sinostra: yeah, also depends on chat
+[8:11:02] pein_iwnl: @Sinostra thats a 6y old trailer , has it not come out yet?
+[8:11:11] Sinostra: but maybe saturdays ?
+[8:11:18] Sinostra: @pein_iwnl it has
+[8:11:26] HeyImArty: atleast you got the loyal bois watching anything you game
+[8:11:26] dreeeamyy: Id watch it, looks pog
+[8:11:35] HeyImArty: you get 200-250 on spooky saturday now
+[8:11:36] Sinostra: second game coming out this year
+[8:11:38] PlayerOneFifty: 1k needles
+[8:12:04] PlayerOneFifty: secred flame is also in 1k needles
+[8:12:11] Lunaatj: Ichor has a terrible drop rate, I'd reckon you keep the elixir quest
+[8:12:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[8:12:29] Lunaatj: ah fair
+[8:12:43] HeyImArty: fastest way to gadgetzan as alliance? theramore & run i guess
+[8:13:05] Lunaatj: Yeah, and pick up the FP in 1k needles on your way.
+[8:13:39] fudderx: !guide
+[8:13:39] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[8:14:01] Barewood: how u viewing xp from quests
+[8:14:23] Barewood: woww ty
+[8:15:19] HeyImArty: im blessed, no questing on launch, got a full meleecleave dungeon group consisting of degens
+[8:15:47] bomzzwtf: im going with 4 mages as a priest :D
+[8:16:02] Mapsize_: what dungeons are you looking to do and when, after the initial BFD @Hydramist
+[8:16:23] Honeypaw: have you done BiS lists yet
+[8:16:27] HeyImArty: @Mapsize_ horde is RFK until 5hour cap -> hand in quests -> BFD - > RFK to 30 -> SM to 40
+[8:17:17] Sinostra: watch out when leveling, you might turn green quests into grey ones
+[8:17:17] HeyImArty: assuming you have a pumper dungeon grp
+[8:17:26] stepdadzacho: !tierlist
+[8:17:26] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[8:17:30] flamingirafe: flamingirafe subscribed at Tier 1. They've subscribed for 37 months, currently on a 37 month streak! 
+[8:18:36] Sinostra: are you sure quests won't become gray before you turn them in ?
+[8:21:48] Sinostra: you might have a long wait
+[8:21:58] Sinostra: yeah, everyone alrready has the pearl
+[8:22:21] 64hooks: I think you can save your ashenvale token for an extra quest turn in thing as well
+[8:22:33] 64hooks: for 2k
+[8:22:35] PlayerOneFifty: with the bloodshards you can get more speed right?
+[8:22:40] 64hooks: yep
+[8:22:53] HeyImArty: Aight im off to bed, have a good rest of your stream hydraLove
+[8:23:01] Lunaatj: Bloodshard buff is 5 minutes.
+[8:23:48] Lunaatj: You could get a 25 spirit buff for 30 minutes with bloodshards though.
+[8:23:52] Lunaatj: Have a good one HeyImArty
+[8:24:00] Sir0j: !tierlist
+[8:24:00] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[8:24:03] angrykittymeow: wtf why so many players in tb
+[8:24:08] angrykittymeow: wtfffff
+[8:24:18] Itshighnoonwotlk: elixir of firepower + swifttistle ones is 4g++
+[8:24:24] angrykittymeow: why so many players here
+[8:24:48] sng7969: u can't get sear after launch ?
+[8:24:50] PlayerOneFifty: is there a addon where you can see how much xp a quest gives?
+[8:24:53] Itshighnoonwotlk: crate farming actually sweaty but nothing else to do atm
+[8:25:10] Itshighnoonwotlk: barrens is good
+[8:25:19] jimbonni: next to camp touro
+[8:25:20] Itshighnoonwotlk: outside of camp tarjau
+[8:25:25] domehxy: for friendly? you can go near tb
+[8:25:46] angrykittymeow: lol every hunter with same exact pet, so stupid
+[8:26:17] dukejunior2113: !addons
+[8:26:17] Nightbot: https://www.youtube.com/watch?v=d8vm4aSwoKQ
+[8:26:36] nailerak: islands south of Undercity good for crates
+[8:26:48] Sinostra: once you're done with alien, you could frostpunk saturday once and see the reception
+[8:27:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[8:29:28] Civix_1802: it is
+[8:29:30] Civix_1802: in retail
+[8:29:45] Civix_1802: not that good after all :>
+[8:29:55] Sinostra: that would be a huge mobility creep
+[8:30:08] testestkappa: @Hydramist is the otk tourney inv only or do u know if quaolifiers
+[8:30:08] Civix_1802: call it what you want :>
+[8:30:15] dreeeamyy: Cant you have movspeed on items in retail?
+[8:30:30] dreeeamyy: for like transmog/mout farming
+[8:30:42] strange10: hey can i see your talents ?
+[8:31:01] bomzzwtf: its a long spawn that thing
+[8:31:01] motod0x: theres a harvester raid on every spawn now
+[8:31:06] motod0x: theres no way you randomly see it
+[8:31:11] PlayerOneFifty: :D the harvester is a myth
+[8:31:21] motod0x: i got it at 8:30 today with 30 other people lol
+[8:31:24] inspect4: yeah theres like 20 guys farming this one quest its insane
+[8:31:25] motod0x: some waited for 10 hours
+[8:31:29] inspect4: on every layer
+[8:31:34] bomzzwtf: so not worth lmao
+[8:31:35] motod0x: its mad
+[8:31:57] swameez: 10 hours to save like no time
+[8:31:58] Sinostra: what does it drop ?
+[8:32:03] eXTreMe1337: met a guy today that waited 10h and didnt got it
+[8:32:13] eXTreMe1337: just for 2k xp
+[8:32:27] Lunaatj: I'm not sure the bloodshard buff stacks with any other movement speed buff.
+[8:32:30] Lunaatj: FeelsThinkingMan
+[8:32:39] swameez: so u save urself 20% of a dungeon run and wait 10 hours
+[8:32:54] hajjadajjenn: do u think they should add arena to sod? @hydramist
+[8:33:00] bomzzwtf: U can have another quest to turn in so not really @swameez
+[8:33:07] eXTreMe1337: thats like killing 10mobs
+[8:33:11] bomzzwtf: @swameez u gain like 300 xp :D
+[8:33:35] thokygg: !tierlist
+[8:33:35] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[8:33:39] bigboumbaby: hi how much hit for lvl 40 at caster please
+[8:33:46] StrandTV: I want something like brawlers guild tho
+[8:34:18] BlazyFM: u play NA ?
+[8:34:25] Nightbot: Follow Hydra's twitter! https://twitter.com/hydramist
+[8:34:31] bomzzwtf: @Hydramist Check that quest south east of taurajo near mining thing
+[8:34:35] BlazyFM: u prep for tourny?
+[8:34:35] bomzzwtf: Something moons
+[8:34:53] Itshighnoonwotlk: so many pickup q's for horde, worlds first for sure going to a horde mage pumper team
+[8:35:15] eXTreMe1337: you can prob also buy mats for that 3quests for rune in ratchet
+[8:35:54] dumpringz: will hillsbrad be full of alli p2?
+[8:35:57] Brichard_UwU: !tierlist
+[8:35:57] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[8:36:27] nosugrr: @Hydramist how good is imp vamp embrace for pvp? never played shadow
+[8:37:22] nike_rise: @Hydramist what are the best pre quests to do
+[8:37:22] nosugrr: oh i thought youd skip pain
+[8:37:57] Delxenyo: Wouldnt be awesome if they did a complete overhaul of talents as well for SoD
+[8:39:55] sqext: !guide
+[8:39:55] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[8:40:29] ca_Y_z: she needs to be sure. do her the favour. im not looking for intelligence, i get them. til each puzzle is solved
+[8:41:19] bomzzwtf: we get mindblast at 40 so maybe the cooldown reduction is good
+[8:42:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[8:42:30] dem702: !Guide
+[8:42:30] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[8:42:55] ca_Y_z: no. im not being touched. i meant it last time
+[8:43:29] ca_Y_z: hopefully
+[8:43:48] PlayerOneFifty: will the wand be useless at 40?
+[8:44:19] Sinostra: there's gonna be a new enchant wand btw
+[8:45:05] perseay797: Yeah. Very minor increase. Let's say you do 200dps as SP in P2. With Vampiric Embrace you'll output 40 hps not including overhealing. 1 point impoved will get you from 40 hps to 50 hps. 2 Points will get you from 40 hps to 60 hps. But your job is to do damage,  not heal.
+[8:45:07] Hanleyy: !newvid
+[8:45:07] Nightbot: https://www.youtube.com/watch?v=w8FzhsXA56A
+[8:45:21] barcode97: @Hydramist what is better in your eyes in P2 rogue or balance
+[8:45:29] bomzzwtf: I love the healing numbers from vampiric
+[8:45:35] Amoxychillen: would like to see blizz make a change where wand continues its relative power level?
+[8:45:36] barcode97: yes pvp
+[8:45:45] bomzzwtf: When u crit that mindblast
+[8:45:56] perseay797: For pvp is even worse coz you' don't do stable 200 dps LUL:
+[8:45:59] perseay797: LUL
+[8:46:27] Amoxychillen: Every 10th wand hit causes a stun
+[8:46:32] Amoxychillen: would be cool
+[8:46:45] nosugrr: you can still heal from dots in disperse though right
+[8:47:17] bomzzwtf: Dispers isnt 40 tho right?
+[8:47:34] boogy1001: @Hydramist u going for first lvl 40 priest?
+[8:47:39] bomzzwtf: oh i thought it was only mindspike and ps
+[8:48:33] perseay797: Did you see that they reduced mana cost for shadow spells in Shadow form by 100%. Tooltip for Shadow form changed on wowhead.  I'm sure they'll not do 100%, they are most likely testing how SP will work, but it's a good sign they're working on mana issues. @Hydramist
+[8:49:20] bomzzwtf: mb mb
+[8:50:01] bomzzwtf: @boogy1001 not sure u can unless you do dungeons with many mages
+[8:50:14] perseay797: 30-32 is mob grind as per guide? @Hydramist
+[8:50:29] LINK8N: !Tierlist
+[8:50:29] Nightbot: https://www.youtube.com/watch?v=PpPjLHVpiyU
+[8:50:35] LINK8N: !Guide
+[8:50:35] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[8:50:58] perseay797: Pog OTK Frogs are returning to SoD @Hydramist  https://www.wowhead.com/classic/news/otk-announces-sod-1v1-invitational-tournament-20-000-prize-pool-337568
+[8:51:43] Sinostra: don't you need 5/5 in shadow focus in pvp just to counteract unbreakable will ?
+[8:52:01] Sinostra: aw, damn
+[8:52:19] dreeeamyy: farming simulator donezo
+[8:52:21] Sinostra: do you think the enerf also applies to suppression ?
+[8:52:26] dreeeamyy: bedge time, ty for stream hydra
+[8:52:29] Aurheimx: next to thrall room
+[8:52:43] dirtymullet5: !guide
+[8:52:43] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[8:52:50] oatie1023: pce, love the stream
+[8:52:52] Sinostra: even more fear resists incoming then
+[8:52:58] 64hooks: awesome wtlands pvp vid btw Hydra
+[8:53:25] Pixiepantss: Heyge
+[8:54:29] Pixiepantss: im geewdd! how are youuu?!
+[8:54:37] Pixiepantss: aw :[
+[8:54:38] kuruption6: vendor next to quest turn in
+[8:54:39] NotoriousICK: @hydramist can you show your all talents you have atm please
+[8:54:39] Sinostra: i'd watch you do bfd now
+[8:55:02] piouspectre: napping
+[8:55:05] justingatlin: @Hydramist payo will do atleast 24 hr stream LUL
+[8:55:09] bomzzwtf: Is there gonna be a restart of the servers at 22;00?
+[8:56:00] sng7969: sng7969 subscribed at Tier 1. 
+[8:56:29] Sinostra: are you gonna be able to keep playing for more than 24h straight ?
+[8:56:56] bomzzwtf: Ive no clue xd
+[8:56:56] piouspectre: on that thurs wsg grind, are you going full 10 or grp of 5
+[8:57:00] 64hooks: the ole college try
+[8:57:27] StreamElements: Excited to be partnering with HelloFresh! Use my code POGUKFRESH3312 and get 60% off your 1st box + 20% off the next 2 months + free gifts! https://strms.net/hellofresh_hydramist #ad
+[8:57:36] bomzzwtf: how does it even work do you need to craft a firework for it?
+[8:58:04] HaeliusTV: wtf happened to your interface?
+[8:58:22] HaeliusTV: npc names?
+[8:58:28] HaeliusTV: dont know that
+[8:58:35] bomzzwtf: Priest XD
+[8:58:39] Mapsize_: 99% sure its cluster
+[8:58:49] bomzzwtf: Check the recipe skill requirement
+[8:58:51] gramljuna: people who played wow in 97' had no idea they would have to play forever
+[8:59:03] HaeliusTV: !server
+[8:59:03] bomzzwtf: 1 was 275
+[8:59:03] Nightbot: Living Flame Horde EU / Crusader Strike Horde US
+[8:59:08] dominozxx: its cluster
+[8:59:14] 64hooks: what are you after?
+[8:59:23] Wolfskie: yooo
+[8:59:34] HaeliusTV: buy them
+[8:59:39] HaeliusTV: on IF or SW or DN
+[8:59:46] HaeliusTV: no no
+[8:59:52] HaeliusTV: main city
+[8:59:53] bomzzwtf: From the vendor where u did the first quest
+[9:00:16] Sinostra: did you take the fp ?
+[9:00:28] HaeliusTV: south
+[9:00:59] HaeliusTV: wtf is streamer mode? no names appear?
+[9:01:02] Mapsize_: had to refresh my memory, found this
+[9:01:03] Mapsize_: One Lucky Red Envelope will be sent to your mailbox for every Elder throughout Azeroth you talk to. It can contain one of two items: Lucky Rocket Cluster or Elder's Moonstone. Use the rocket near a launcher and you will receive a +250 health buff that will last for 30 minutes! Engineers can create the launcher with Schematic: Cluster Launcher so you're able to get the buff all year around.
+[9:01:04] Pixiepantss: awe kitty! softpawBongotap
+[9:01:43] Mapsize_: no you can make the launcher, but you need the drops from envelopes
+[9:01:45] bomzzwtf: in p3?
+[9:01:52] Pixiepantss: AWEE QQQ
+[9:01:57] bomzzwtf: profession cap is 225 isnt it
+[9:02:12] Mapsize_: correct afaik
+[9:02:22] Mapsize_: thats why you sweat out all the eldercoins
+[9:02:24] bomzzwtf: You can just buy 200 rockets from vendor and bank them?
+[9:02:26] Mapsize_: at lunarfestival
+[9:02:47] nosugrr: @Mapsize_ is it 50% chance from envelopes?
+[9:03:00] Mapsize_: @nosugrr yea
+[9:03:09] xiuhx: we used it in SoM in BWL and it was only in the event.
+[9:03:16] Mapsize_: you get an envelope in your mail per collected coin
+[9:03:46] bomzzwtf: But it says engineering 225 on the rockets, so that means its craftable somehow
+[9:03:50] Mapsize_: check this  https://www.wowhead.com/wotlk/item=21746/lucky-red-envelope
+[9:04:09] Mapsize_: you get one envelope per coing you have collected
+[9:04:12] Mapsize_: in the mail
+[9:04:57] slavch0000: !Guide
+[9:04:57] Nightbot: https://www.youtube.com/watch?v=ywvcBhJCtj0
+[9:05:15] Pixiepantss: AWEEEE
+[9:05:16] Pixiepantss: QQQQQQQQQQQQQQQQQ
+[9:05:20] Pixiepantss: softpawBongotap softpawBongotap softpawBongotap softpawBongotap
+[9:05:40] Pixiepantss: hes adorable
+[9:06:21] Sinostra: cat doesn't seem to meow at you tho
+[9:06:27] Pixiepantss: there isnt pretty sure
+[9:06:27] Sinostra: usually hungry cats do
+[9:06:36] wowalbi: you enjoying sod so far?
+[9:06:44] Pixiepantss: BibleThump BibleThump BibleThump BibleThump
+[9:07:02] DistrictDingo: Night Hydra! Might quit my job so I can watch your stream. I’m always working when you’re on hydraKit
+[9:07:16] Sinostra: Good night
+[9:07:21] bomzzwtf: gn
+[9:07:21] Pixiepantss: gn gn!!
+[9:07:54] PlayerOneFifty: cya
+[9:08:01] 9ntice: gngn

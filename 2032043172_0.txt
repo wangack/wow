@@ -1,0 +1,1366 @@
+[0:00:13] StreamElements: cdewx is now live! Streaming World of Warcraft: <Liquid> Cdew: awc jan 31st
+[0:00:26] FlynnFluff: yooo
+[0:00:29] FlynnFluff: first one?
+[0:00:54] mediq1: !plates
+[0:00:54] Moobot: @mediq1 4Head /run local U=UnitIsUnit hooksecurefunc("CompactUnitFrame_UpdateName",function(F)if IsActiveBattlefieldArena()and F.unit:find("nameplate")then for i=1,5 do if U(F.unit,"arena"..i)then F.name:SetText(i)F.name:SetTextColor(1,1,0)break end end end end)
+[0:00:57] FlynnFluff: woooohooooo I made it
+[0:01:07] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/olCbH3 to schedule a coaching session with your favorite Team Liquid raider!
+[0:01:09] FlynnFluff: how you doing tonight cdew!
+[0:01:12] Exxtinctiion: Exxtinctiion subscribed at Tier 1. They've subscribed for 6 months! 
+[0:01:54] Mano_14: dewYo
+[0:02:31] terranapart: dewYo
+[0:05:21] Cybernytez: dewYo
+[0:05:21] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:05:42] Magottx: Hola Dew
+[0:06:04] zachgamegodx: yo man wassup
+[0:06:08] zachgamegodx: ohhhh crap
+[0:06:26] zachgamegodx: I’m Zach first time chatter
+[0:07:26] Cybernytez: cheesecake is bis cake
+[0:07:50] IforestFrostmourne: Is Pres/ MW looking better once patch goes live?
+[0:08:03] BeotchDaysha: thats soo awesomee lol
+[0:08:05] Mano_14: Did you get the mariokarts? @cdewx
+[0:08:32] Dreamy2k3: cdew coming of age
+[0:08:35] zachgamegodx: fistweaver buff
+[0:08:35] rekroyal: Where can we see patch notes
+[0:08:36] osgood_shatter: tft expel cocoon
+[0:08:50] zachgamegodx: patch notes are very minor
+[0:08:53] BeotchDaysha: i miss when my boys were that age  god time flys
+[0:08:57] Dreamy2k3: how old is ur kid cdew
+[0:09:55] Dreamy2k3: aight
+[0:10:04] Dreamy2k3: :=)
+[0:10:08] Dreamy2k3: Haha
+[0:10:10] Cybernytez: xd
+[0:10:12] Dreamy2k3: griiiiiiiiil
+[0:10:12] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[0:10:13] zachgamegodx: grills
+[0:10:14] BeotchDaysha: just like a gamer
+[0:10:25] zachgamegodx: rukiParty
+[0:10:25] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:10:40] zachgamegodx: rukiChamp￼ rukiChamp
+[0:10:42] terranapart: Siblings mang, that's awesome
+[0:10:54] zachgamegodx: they weren’t homies before?
+[0:11:29] Dreamy2k3: hahahah
+[0:11:30] BeotchDaysha: hahahah
+[0:11:30] dipicat: ghetto fabulous
+[0:11:32] Dreamy2k3: HAHA
+[0:11:53] Dreamy2k3: I USED TO SIT in the garage smoke my weed in this type of rol chair for kids
+[0:12:15] Vinserys: it'll be like that now and be even more awe
+[0:12:22] zachgamegodx: that’s gotta be a problem upstairs
+[0:12:28] zachgamegodx: if you know what I mean
+[0:12:47] whompastyle: I always managed to get caught in the rain with my daughter. At the zoo or on a bike ride and we had to hide under a tree.
+[0:12:51] BeotchDaysha: boys are hes looking at me .,...
+[0:13:09] zachgamegodx: yeah I had  a 2 year older brother growing up
+[0:13:24] zachgamegodx: we were either best friends or we hated each other
+[0:14:01] shankribs1: hell yea kids create their own community when they are close in age
+[0:14:34] zachgamegodx: well hopefully the wife tells them it’s bad
+[0:14:46] zachgamegodx: they’ll only listen to the wife
+[0:14:56] McMillionx: DEW SQUAD STAND UP!!!!
+[0:15:01] Pherolex: its big for them
+[0:15:05] Vinserys: its crazy how you feel your purpose in life changes
+[0:15:06] ChumpSeason: i bet some parents pray for boredom lol
+[0:15:18] osgood_shatter: playing games and quality time is the opposite of boring
+[0:15:30] BeotchDaysha: lol
+[0:15:31] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:15:36] Cybernytez: LOL
+[0:15:39] terranapart: hahahaha
+[0:15:40] Dreamy2k3: haha
+[0:15:41] Cdenzy: KEKW
+[0:15:43] Dreamy2k3: CONTENT
+[0:15:48] Dreamy2k3: HAHA
+[0:15:48] ChumpSeason: OMG my nephew does the same thing
+[0:15:51] teatox: Oh no KEKW
+[0:15:54] Dreamy2k3: I cant stop laughing
+[0:15:57] Dreamy2k3: so cute
+[0:16:01] BeotchDaysha: gonna get a new computer asap,,,, for the kids
+[0:16:01] Daegar_: My niece does the same thing lol
+[0:16:03] JD_Yadig: reecord that lol have him support you one day LUL
+[0:16:12] bignoooodle: are u gonna teach them arena?
+[0:16:12] zachgamegodx: can we talk about your stats for patch
+[0:16:16] shankribs1: i had to cancel youtube on my boy. lankybox was getting annoying
+[0:16:17] Dreamy2k3: ye CDEW
+[0:16:19] Dreamy2k3: record it
+[0:16:21] DentalDayum: @cdewx starting him young for those class guides huh?
+[0:16:22] terranapart: SUB TO MA DAD BRUVA!
+[0:16:24] JD_Yadig: that one kid ryan who opens toys makes MILLIONS a year
+[0:16:24] zachgamegodx: you have a lot of mastery, any of that going to haste?
+[0:16:25] Dreamy2k3: make videos get money
+[0:16:35] Dreamy2k3: BRo
+[0:16:49] McMillionx: new sub audio dews kid saying “like and subscribe”
+[0:16:51] Dreamy2k3: @cdewx Dont let him make videos you shud make content with him tho
+[0:16:56] zachgamegodx: i don’t like playing pres  under 25% haste feels bad casting those life flames
+[0:18:03] diuoe: feel like if your class has no internal synergy with haste, and you don't cast a lot, haste loses a lot of value
+[0:18:13] theodeth: is tonight a drinking night?
+[0:18:59] McMillionx: someone gift a 100
+[0:19:08] whompastyle: How many subs for Aff rank 1?
+[0:19:32] alanextv: what do you thhink will be bis healer for fated with all the tier sets coming back?
+[0:20:05] mezard45: deadge
+[0:20:30] terranapart: WOOF WOOF
+[0:20:31] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:21:07] Dreamy2k3: whats r1
+[0:21:13] Dreamy2k3: isnt it just top 0.5
+[0:21:15] McMillionx: do donations not appear on peoples streams anymore??
+[0:21:18] Dreamy2k3: %
+[0:21:21] Xizor01: I need a guild that raids and pvps for wrath :(
+[0:21:29] JD_Yadig: that tier set is winning by a mile
+[0:21:29] alanextv: time to practice pres
+[0:21:31] alanextv: !guides
+[0:21:32] chervz: why wouldnt they get instant living flames?
+[0:21:46] Dreamy2k3: Bro i meant to get the r1 title whats the requirements
+[0:21:52] chervz: ohh
+[0:22:05] biofreaks: s1 winning I believe
+[0:22:08] Dreamy2k3: U just get them and dont tyhink about it
+[0:22:13] fruitjuice27sham: Do you guys practice with Mes too?
+[0:22:17] Nickystr1x: pres is one of the lucky ones where the pvp and pve players want the same set
+[0:22:40] alanextv: https://www.wowhead.com/news/all-tier-set-bonuses-in-dragonflight-337068
+[0:23:17] JD_Yadig: https://www.wowhead.com/news/current-winning-tier-set-bonuses-and-transmogs-for-dragonflight-season-4-337126?webhook
+[0:25:55] carbonzo_bean: thats the nerfed version too; used to make the first AP spender free instead of -5
+[0:25:55] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:26:43] nikthevoker: sup @cdewx hows it going man
+[0:27:01] mayfire15: cant wait to play that tier again
+[0:27:01] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[0:27:16] ButtaTWD: 2s dev sadge
+[0:27:17] fruitjuice27sham: Are you guys gonna play dk rogue or dk boom in awc as backup?
+[0:27:20] ButtaTWD: s2***
+[0:27:53] mayfire15: @fruitjuice27sham they been practicing dh dk and ww dk
+[0:28:40] fruitjuice27sham: Sickkkkk
+[0:29:42] JD_Yadig: the pve lords control our fate @buttatwd
+[0:29:54] fruitjuice27sham: Damn I bet dk Dh is so good
+[0:30:10] ButtaTWD: its hot ass
+[0:30:20] nikthevoker: S1 and S2 we used no tier
+[0:30:29] fruitjuice27sham: Dude look at sayaimans dmg
+[0:30:31] fruitjuice27sham: Wtffff
+[0:30:43] nikthevoker: wait was S1 the empowered?
+[0:30:51] ButtaTWD: yeah i ran no tier s2 lmao
+[0:30:58] JD_Yadig: it was so bad
+[0:30:58] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:31:06] YRNrico69: CAN U LINK THAt?
+[0:31:09] YRNrico69: sorry caps
+[0:31:10] YRNrico69: lol
+[0:31:11] JD_Yadig: https://www.wowhead.com/news/current-winning-tier-set-bonuses-and-transmogs-for-dragonflight-season-4-337126?webhook
+[0:31:22] nikthevoker: ya i used 2pc S1, but always no tier on dev, sucks
+[0:31:58] JD_Yadig: piercing shards PUMPED in pve so its gonna win
+[0:32:05] JD_Yadig: feelsbadman
+[0:32:08] Cybernytez: lmao they really vote tier 3 for ret ? fkn pvers man
+[0:32:17] nikthevoker: shards in pvp legit did 500 dmg
+[0:32:28] JD_Yadig: if that LUL
+[0:32:30] mayfire15: what demo one won?
+[0:32:41] carbonzo_bean: is any spec s2 besides shadow
+[0:32:51] ButtaTWD: if they actually balanced the piss ones it would be cool
+[0:32:53] bynded: destro s2/s3 make you hit extra buttons
+[0:32:59] Cybernytez: pvpers need their own vote man
+[0:33:09] bynded: destro s3 is good for pvp
+[0:33:29] ajwtg1: pvers fuckimg hate not taking 2 minute infernal
+[0:33:34] nikthevoker: dev is fucked, theres like 3 pvp devokers LUL
+[0:33:36] Cybernytez: thats so sad man
+[0:33:40] carbonzo_bean: season 2 and 3 for destro used talents that PvE'ers dont wanna use
+[0:33:44] Runescale: Warriors are really MEH rn right now in PvE
+[0:33:46] ajwtg1: they hate taking rift
+[0:33:46] Cybernytez: i hate that blizzard completely shits on pvpers
+[0:33:53] bynded: @carbonzo_bean this
+[0:33:58] JD_Yadig: that season i had all crafted pieces lol
+[0:34:12] ajwtg1: they want more infernals
+[0:34:20] ajwtg1: more often*
+[0:34:24] alanextv: !youtube
+[0:34:24] Moobot: @alanextv Subscribe to my YouTube - https://www.youtube.com/cdew
+[0:34:32] bestchaakbestjjang: infernals are omega broken in pve @cdewx
+[0:34:36] voldrino: Why would you not want the portals!
+[0:34:46] luckydyldo: they dont want to spec into rift but pres has to spec into a literal useless button in pvp
+[0:34:55] nikthevoker: they nerfed dev mastery too so you wont be able to make up for no tier LUL
+[0:35:32] Sleepysevenz: ewww affi
+[0:35:48] cdewrunadsplease: afflic is fun
+[0:35:58] Sleepysevenz: better then sp haha
+[0:35:59] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:36:11] nikthevoker: at low rating aff looks like torture, everyone incapping/blinding dots off
+[0:36:31] Sleepysevenz: @nikthevoker they are a menace !
+[0:36:36] Poopiepants: Would you ever do a sub goal to heal a m+ 20?
+[0:37:12] Cootman314: 230s are easy
+[0:37:19] Cootman314: 20*
+[0:37:20] not_jsn: what is mythic plus
+[0:37:35] Runescale: 20 is super ez ehough remember cdew is a r1 player Kappa
+[0:37:46] terranapart: THAT'S WHAT'S UP!
+[0:38:23] Poopiepants: they are not easy, a very small percentage of the player base complete 20s without carries lol
+[0:38:32] truthordair: dew vs pika
+[0:38:35] Tommy514454: the moveeeee
+[0:38:35] fruitjuice27sham: Alright you guys are gonna smash em
+[0:38:40] fruitjuice27sham: It's pika
+[0:38:44] voldrino: Call me crazy but I enjoy arena & mythic +!
+[0:38:46] fruitjuice27sham: They aren't focused
+[0:38:52] fruitjuice27sham: And lost the last 3 games
+[0:38:53] dropbombsss: dropbombsss subscribed with Prime. They've subscribed for 6 months! 
+[0:41:21] fruitjuice27sham: Yo against Golden you guys are gonna have to switch healer imo
+[0:41:21] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:41:27] nikthevoker: holy shit the 1%
+[0:43:28] voldrino: RESTO SHAM IS BIS!
+[0:43:28] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[0:43:38] twoyearstardy: most fun match up to watch by far, best tier teams
+[0:43:43] riptiedx: yo are you able to link the call of ysera wa?
+[0:43:52] NPBeharry: dude don’t laugh at sps that’s fucked up
+[0:43:59] terranapart: I don't think Wizk has the set yet
+[0:44:16] trikkSP: wiz is slackin
+[0:44:40] terranapart: I believe he's still working on it, but wait till he gets it
+[0:44:50] nikthevoker: ya
+[0:44:52] Oneonestar: KEKW
+[0:44:54] moldybread00: cause he thinks 4 steps ahead and u can tell
+[0:44:56] daneman14: same w kalvish
+[0:45:06] misterblaht: He goes hard lol.
+[0:45:11] nikthevoker: running around like a crack head LUL
+[0:45:22] terranapart: like playing chess
+[0:45:30] daneman14: zoomers b zoomin
+[0:45:32] TheV2g: takes 4 deaths i think
+[0:45:46] twoyearstardy: are we underestimating trill or what
+[0:46:07] carbonzo_bean: i've been lovin the 'oh CRAP' arc
+[0:46:09] terranapart: The Lam being the Lam
+[0:46:20] terranapart: Instinct
+[0:46:36] trikkSP: 100% its reactive
+[0:46:36] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:46:46] nikthevoker: thats how i play 100% LUL
+[0:46:52] nikthevoker: thats why i like shuffle
+[0:47:08] Infectshin1: Infectshin1 subscribed with Prime. They've subscribed for 4 months! How do you loseeeeeeeee
+[0:47:17] terranapart: Whatever Pika does, it's jsut insane
+[0:47:22] ZonnyArk: triple fire breath disinny
+[0:47:23] Moobot: Latest YT Video: Cdew's Guide to Restoration Druid PVP | Dragonflight 10.2 - youtu.be/EPyCHutkldQ
+[0:47:37] inbreadfetuss: KEKW
+[0:47:42] ZonnyArk: check him pc
+[0:47:47] terranapart: LIVELORD
+[0:48:14] terranapart: Man, can't wait till AWC
+[0:48:30] nyonmage: nyonmage subscribed with Prime. 
+[0:48:48] dropbombsss: I was tryin to watch the vod back - what are your first few buttons when almost dying like opener? renewing, time dial and rewind?
+[0:48:49] terranapart: dewFam
+[0:49:22] murasuo: Hi cdew
+[0:49:24] murasuo: r we boys
+[0:49:27] terranapart: LUL check him pc
+[0:49:30] Skillrogge: rogue diff
+[0:49:51] Deicidiumx: @cdewx most fun shuffle healer?
+[0:50:20] carbonzo_bean: do you anticipate trying solo queue rbg in war within
+[0:50:42] nikthevoker: trill living at 1%
+[0:50:53] bornbetter: tether fucking slaps dude
+[0:50:58] bornbetter: bigggg dam
+[0:51:14] murasuo: What r u drinking
+[0:52:03] nikthevoker: is he high? LUL
+[0:52:03] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:52:45] nikthevoker: haste verse is legit 1st cloak on the right on 1st page LUL
+[0:53:17] 0v0wl77: 0v0wl77 subscribed with Prime. 
+[0:53:29] terranapart: dewFam
+[0:54:06] Onca4242: They in secret strats talk mode?
+[0:54:16] Onca4242: Oh, stream was muted carry on
+[0:54:18] Onca4242: Kappa
+[0:54:36] murasuo: cdew
+[0:54:39] murasuo: what drinking
+[0:54:50] imhaze954: you guys honestly terrorize this ladder
+[0:54:50] terranapart: dewFam dewFam
+[0:54:53] Mano_14: dewFam dewFam dewFam
+[0:54:57] xK3V1N4T0Rx: dewFam dewFam dewFam
+[0:54:58] bestchaakbestjjang: !youtube
+[0:54:59] Moobot: @bestchaakbestjjang Subscribe to my YouTube - https://www.youtube.com/cdew
+[0:54:59] terranapart: dewDrunk EMOTE when?!
+[0:55:02] shadowthehedgehog97: ur a better streamer when ur drunk fr
+[0:55:04] morphz____: Are you not? Doubtful Kappa
+[0:55:06] nikthevoker: just past experiences no reason
+[0:55:06] cdewx: dewCheers
+[0:55:07] murasuo: who sai ur drunk
+[0:55:09] cdewx: dewCaptain
+[0:55:11] Runescale: Someone here is high and it's not me....
+[0:55:16] Cybernytez: u need to be drunk just accept it Keepo
+[0:55:17] Yaeo: it’s mlk day weekend!
+[0:55:21] terranapart: dewTipsy
+[0:55:22] qkmood: dewMikesHard
+[0:55:22] nikthevoker: dewWINE
+[0:55:24] Runescale: dewBoosted
+[0:55:29] Mano_14: We have the cmen dewC dewC
+[0:55:37] KawzFX: I thought you said rdru was getting nerfed
+[0:55:44] morphz____: Dew it's okay, people "your" age commonly have drinking problems
+[0:55:48] morphz____: KEKEK <3
+[0:55:54] terranapart: dewC dewCheers dewC
+[0:55:54] evil_primate: l
+[0:56:01] KawzFX: or pres buff I mean
+[0:56:04] kolorus: what are the pros buffs
+[0:56:06] kolorus: pres
+[0:56:08] KawzFX: they got small buff
+[0:56:40] NPBeharry: you’re about to be cookin
+[0:56:42] chaos_jeeves: maybe an unpopular opinion- but the better druids are the worse arena is… cyclone just isn’t right
+[0:56:46] ZonnyArk: pretty nice, thoughts on the mana increase?
+[0:56:48] NPBeharry: affli ss?
+[0:56:52] KawzFX: ohhh that’s 10% heal increase
+[0:57:08] NPBeharry: Druid is fine just get rid of treants
+[0:57:09] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[0:57:21] chaos_jeeves: they drink too easily, yes I agree
+[0:57:24] ZonnyArk: I hate the fact that treants are so strong
+[0:57:26] nikthevoker: kubzy meta
+[0:57:50] NPBeharry: kubzy low key gonna heal echo
+[0:58:00] Mechgyrasaur: I think toonah is on their team right? @cdewx
+[0:58:13] supermaduro24: @cdewx  what kind mouse to use play world of Warcraft?
+[0:58:19] NPBeharry: echo hasn’t announced their healer yet and I don’t think it’s lontar
+[0:58:21] nikthevoker: he was just THE damp druid that pops outt sadge
+[0:58:32] NPBeharry: I can’t think of anyone else other than kub
+[0:58:32] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[0:58:36] Neekslol: is there a max mastery stat your looking for on rsham? a cap
+[0:59:05] addyz0r: i still have ptsd from the damp 9 meta. 15min games. :x was just the meta in that patch
+[0:59:14] KawzFX: you got pres down like a god
+[0:59:32] NPBeharry: they practiced with Lontar when mehhx was healing them tho
+[0:59:46] Ameratzu: who do you think is healing drake/prev?
+[0:59:57] NPBeharry: they’re not gonna play without brain
+[1:00:12] NPBeharry: that would be criminal
+[1:00:26] NPBeharry: could be kubzy idk
+[1:00:34] NPBeharry: I thought it was lontar at first
+[1:00:36] Ameratzu: i though brain retired from tourneys
+[1:00:38] Cocoapuffs1: isnt kubzy already on a team
+[1:00:40] Ameratzu: after the lastone
+[1:00:40] drgoog: Come to find out it was actually gonna be DRAINER
+[1:00:55] NPBeharry: no way they play without brain
+[1:01:07] NPBeharry: flop doesn’t play anymore
+[1:01:09] terranapart: Last I heard, Brain was no longer playing, but who knows
+[1:01:13] bestchaakbestjjang: i heard its cdew with whazz
+[1:01:30] NPBeharry: I think they would quit without him idk
+[1:01:36] drgoog: Brain is done,
+[1:01:42] Sosatko: chun said today it’s him, kubzy, dazed, and toonah
+[1:01:46] addyz0r: on echo?
+[1:01:48] crucybletv: i saw nahj cant find a time
+[1:01:49] crucybletv: team*
+[1:01:51] terranapart: Brain was so good, it's a shame he stopped
+[1:01:53] NPBeharry: oh true @sosatko
+[1:01:59] NPBeharry: okay my theory is out the window then
+[1:02:10] Cocoapuffs1: thug and aiden i think
+[1:02:10] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:02:16] NPBeharry: he’s in school @terranapart
+[1:02:26] terranapart: @NPBeharry Good for him!
+[1:02:30] joejoejosephhh: fuck yemen 🇺🇸 🇬🇧 we turning them to glass thanks for streaming im on plane there
+[1:02:45] Cocoapuffs1: '
+[1:04:09] bignoooodle: DUDE SO THATS WHAT THOSE BEEPS ARE FOR??? the portal counts?? im gaining 200 rating tomorrow holy shhhhhh
+[1:04:32] krome2dadome: yes
+[1:04:37] krome2dadome: every time he presses portal
+[1:05:16] bignoooodle: my life is changed forever.
+[1:05:28] NPBeharry: my goodness dude you’re absolutely blasting
+[1:05:50] NPBeharry: crazy prev dam
+[1:06:34] charmsrules: what do you think about ai cdew?
+[1:06:36] NPBeharry: Chuck doing 122k dps nbd
+[1:07:34] charmsrules: do you think terminators could beat the best players? because they are coming
+[1:07:35] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:07:35] terranapart: NOICE
+[1:07:48] addyz0r: pumpinh
+[1:07:49] Fros365: Is Chas playing in NA?
+[1:07:49] terranapart: BOORSTING
+[1:07:54] truthordair: there's no question that AI would destroy humans
+[1:08:00] terranapart: @Fros365 Yes, he moved to NA
+[1:08:05] Fros365: Oh shieeet
+[1:08:10] voldrino: Are you not friends with EVERYONE?!
+[1:08:13] ZonnyArk: clonecity EZ
+[1:08:15] TheV2g: MesDUBBB
+[1:08:17] drgoog: YOUR SUPPOSED TO KNOW DEWMAN
+[1:08:23] terranapart: !awproline
+[1:08:23] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/6keNhi
+[1:08:25] bestchaakbestjjang: is chas shaz?
+[1:08:26] willwhit: willwhit subscribed at Tier 1. They've subscribed for 70 months! 
+[1:08:27] dropbombsss: ez promo
+[1:08:28] NPBeharry: calm down boys
+[1:08:31] chubmax: cdew you own or rent your crib
+[1:08:34] terranapart: dewFam
+[1:08:36] FoxiekittenWoW: @Fros365 he also played NA awc last season
+[1:08:40] drgoog: I mean real
+[1:08:40] terranapart: CLONECITY HYPE
+[1:08:41] Runescale: !awproline
+[1:08:41] Sleepysevenz: LOL
+[1:08:41] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/6keNhi
+[1:08:51] NPBeharry: he’s just a little lam
+[1:08:58] VitoBambino: you're guilty because you shit talk rogues every season
+[1:08:59] xK3V1N4T0Rx: Sam diff
+[1:09:03] VitoBambino: which pisses off 90% of pros
+[1:09:04] terranapart: dewSam dewCheers dewC
+[1:09:08] VitoBambino: not that you're wrong in shit talking them
+[1:09:13] addyz0r: they were kidneyd for 30% of the game XD
+[1:09:16] VitoBambino: every class has something shit talk worthy
+[1:09:21] terranapart: HOW DO YOU LOSE?!
+[1:09:25] ezra97: We all know mes is the toxic one
+[1:09:28] bignoooodle: no one talks more shit than kalvishs team tho
+[1:09:29] NPBeharry: 90% of pros don’t play rogue you’re cooked
+[1:09:35] chubmax: @cdewx you own your crib or rent?
+[1:09:39] addyz0r: one more for the zoo
+[1:09:50] VitoBambino: @NPBeharry look at any team that wins anything
+[1:09:54] terranapart: It hought you were about so say, you guys were trying to adopt Sam
+[1:10:08] DeckerDontPlay: smells the dogs
+[1:10:11] NPBeharry: they all know rogue is broken rn they’re not mad
+[1:10:23] Sleepiihead: 39 raiders from Sleepiihead have joined! 
+[1:10:27] NPBeharry: Kalvish pikaboo and trill all know sub is broken
+[1:10:31] KawzFX: it’s your cats territory
+[1:10:32] magnaeus: what if he has a home, but he's a fatty and takes your free meal. but it doesnt need 'rescue'?
+[1:10:33] terranapart: @Sleepiihead dewC
+[1:10:33] NPBeharry: and talk about it all the time
+[1:10:43] addyz0r: deep freeze
+[1:10:48] Havilahx: first global for sure
+[1:10:50] NPBeharry: first globe dedge rip
+[1:10:52] xK3V1N4T0Rx: First global KEKW
+[1:11:04] terranapart: CONFIRMED: The Dewlands adopting dewSam
+[1:11:34] hateorade52: he probably smells 4 dogs and is like yep nope
+[1:11:59] NPBeharry: cats and dogs like each other more than you’d think
+[1:12:35] TheVezir: yeah there was a clip of when u had a plate of food and a dog ate it when u were away LUL
+[1:12:35] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:12:47] fruitjuice27sham: When does awc start?
+[1:12:52] NPBeharry: Jan 31
+[1:12:52] shapebender: my cats beg for human food lol
+[1:12:53] KawzFX: funny you say mudroom. my wife’s grandmother has one that her dogs chill in and just seen it on christmas
+[1:12:55] Cybernytez: LUL
+[1:13:16] bestchaakbestjjang: is pikaboo still in GG?
+[1:13:27] drgoog: How difftent is it from having an org representing you and not
+[1:13:31] NPBeharry: gg quit esports
+[1:13:36] drgoog: Like I was curious what it was
+[1:13:36] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[1:13:38] terranapart: yeah, they looking
+[1:13:58] KawzFX: when’s the AWC? I wanna see you guys take it
+[1:13:59] moldybread00: is it enough to not have to sworry about stream revenue for overhead?
+[1:14:00] 2buxlol: any downsides to being in an org?
+[1:14:04] NPBeharry: it’s basically just a sponsor
+[1:14:15] NPBeharry: it’s in the title
+[1:14:19] drgoog: Does the org not take any money from winnings
+[1:14:27] NPBeharry: no they don’t
+[1:14:28] spayvee: Last awc I watched you won was there an awesome in s2?
+[1:14:38] drgoog: Do orga make ANY money
+[1:14:48] spayvee: Awc * in s2
+[1:14:49] donnule: !addpms
+[1:14:51] bignoooodle: yeah no way if awc has 10k viewers
+[1:14:56] KawzFX: I gotta check your Pres guide if you have one. they’re hard
+[1:15:01] donnule: !addons
+[1:15:01] Moobot: @donnule Details, shows damage/healing. Nameplatebuffs, shows buffs/debuffs above enemies. Omnibar, shows enemies cd's. OmniCD, shows friendly cd's. sArena Updated, Arena unit frame. PartyPets Fix, fixes pets on raid frames.
+[1:16:58] Scudbomb: He kinda sounds like mitch
+[1:17:07] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/hr2y3g
+[1:17:31] Erilfin: Erilfin subscribed at Tier 1. They've subscribed for 4 months! 
+[1:23:15] qkmood: the korean hotswap
+[1:23:15] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:23:46] qkmood: KEKW
+[1:23:51] regular_rusty: SAM
+[1:23:52] ZonnyArk: no rizz Sadge
+[1:23:54] Crushpixelz: instant karma
+[1:23:56] swampbutt2000: damn
+[1:24:10] 2buxlol: premature celebration
+[1:25:23] Ameratzu: kidney the best cc in the game
+[1:28:28] THEURBANSPECTACLE: OMFG HI CDEW ILY
+[1:29:33] disquared: !wa
+[1:29:33] Moobot: @disquared Healer WA's: https://wago.io/yW-d9CghV Enemy CD WA's: https://wago.io/pjH2s0KV3/13 SOTF WA: https://wago.io/L_Skl6u1K/1 Cursor WA: https://wago.io/Hklr0dCdf/1 Lifebloom WA: https://wago.io/i0UwagT-T/3 Rejuv WA: https://wago.io/pwPkkftuA/1
+[1:35:57] swampbutt2000: these games are so close lmao
+[1:35:59] jasonkbkt: Your a dking legend
+[1:35:59] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:36:23] thedabbernaut: wwhat up dewd
+[1:36:28] jasonkbkt: Fking*
+[1:36:28] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[1:36:31] itz_killjoy: shouldn't trill call for oppressive roar with his kidneys?
+[1:36:34] ZonnyArk: ducking
+[1:36:34] hornaeus: sup daddydew
+[1:37:02] sh3ikmustafa: the dew
+[1:37:05] sh3ikmustafa: wassup
+[1:37:13] Robbielee1991: mr bews
+[1:37:14] jasonkbkt: Tuned in to Sam pov
+[1:37:51] gizmogwuai: Hey all im new to pvp if im starting how can i get conquest i farmed honor im full honor gear how  can i now get conq???? i go solos i get railed because every one is full geared  arena same rbg same HOW CAN I GET GEAR FOR RATED PVP?????!!!
+[1:37:52] Moobot: Latest YT Video: Cdew's Guide to Restoration Druid PVP | Dragonflight 10.2 - youtu.be/EPyCHutkldQ
+[1:38:20] blueberrypieface: coil was in air already
+[1:38:31] blueberrypieface: before beam hit
+[1:38:55] jasonkbkt: @gizmogwuai  I would start with the pvp weeklys
+[1:39:23] gizmogwuai: then ill be geared next year
+[1:39:39] jasonkbkt: You can craft 2 free pieces @gizmogwuai
+[1:41:26] terranapart: WOOOOOOOOOOO
+[1:41:26] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:41:41] terranapart: dewSam is a fan of the legendary Rick Flair WOOOOOO
+[1:41:44] ohsomagical_: from screaming till ill die LUL
+[1:42:45] terranapart: NOICE
+[1:42:47] Bonquieshaa: https://clips.twitch.tv/HonestFairPastaDeIlluminati-kaJVTIgyW4IHbzOK
+[1:43:03] Onshuffle: Onshuffle subscribed with Prime. They've subscribed for 41 months! 
+[1:43:11] thedirtyderk: sam is so much hype
+[1:43:15] dreammfuego: !wa
+[1:43:15] Moobot: @dreammfuego Healer WA's: https://wago.io/yW-d9CghV Enemy CD WA's: https://wago.io/pjH2s0KV3/13 SOTF WA: https://wago.io/L_Skl6u1K/1 Cursor WA: https://wago.io/Hklr0dCdf/1 Lifebloom WA: https://wago.io/i0UwagT-T/3 Rejuv WA: https://wago.io/pwPkkftuA/1
+[1:43:17] Cdenzy: @gizmogwuai u can try to join a yolo rbg group
+[1:43:25] quibee: hi
+[1:45:47] jcurt03: Sorry if you've been asked a lot, gonna play SoD when lvl 40 opens up?
+[1:46:04] jcurt03: fun for casual stuff
+[1:46:08] thedabbernaut: do HC SOD
+[1:46:13] DouzySham: Wait for dogs because its cold or what
+[1:46:26] thedabbernaut: lol samee
+[1:46:27] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:47:38] dreammfuego: is there a list for macros for healers
+[1:47:45] dreammfuego: !macros
+[1:48:07] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/olCbH3 to schedule a coaching session with your favorite Team Liquid raider!
+[1:48:33] bad_manners: Macros are for noobs. Just type out your commands on the fly like a pro.
+[1:48:54] bad_manners: lol. I was just kidding
+[1:50:10] dreammfuego: @cdewx do u use any specific wa’s or addons for rdruid
+[1:50:17] FamLeeGaming: !wa
+[1:50:17] Moobot: @FamLeeGaming Healer WA's: https://wago.io/yW-d9CghV Enemy CD WA's: https://wago.io/pjH2s0KV3/13 SOTF WA: https://wago.io/L_Skl6u1K/1 Cursor WA: https://wago.io/Hklr0dCdf/1 Lifebloom WA: https://wago.io/i0UwagT-T/3 Rejuv WA: https://wago.io/pwPkkftuA/1
+[1:50:29] FamLeeGaming: !addons
+[1:50:30] Moobot: @FamLeeGaming Details, shows damage/healing. Nameplatebuffs, shows buffs/debuffs above enemies. Omnibar, shows enemies cd's. OmniCD, shows friendly cd's. sArena Updated, Arena unit frame. PartyPets Fix, fixes pets on raid frames.
+[1:50:52] itz_killjoy: no
+[1:51:05] Exodius89: still waiting to see affl ele ... that comps roths ppl like no other
+[1:51:06] dreammfuego: true i forgot u dropped one , when ores guide coming
+[1:51:07] itz_killjoy: shards are spent on malefic rapture and jinx if u use it
+[1:51:13] itz_killjoy: and soul burn
+[1:51:15] Zerolol123: you ate? you ate what?
+[1:51:16] itz_killjoy: and swap
+[1:51:22] hornaeus: hornaeus subscribed with Prime. They've subscribed for 2 months, currently on a 2 month streak! daddydew <3
+[1:51:32] terranapart: dewFam
+[1:51:32] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:51:47] FoxiekittenWoW: @Exodius89 they die too fast
+[1:51:47] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[1:52:00] jcurt03: Haven't been in the stream in a while sir... you still a sweet wine enthusiast? mitchWeiner
+[1:52:02] itz_killjoy: you need to be on point with jukes if u play afflic
+[1:52:07] terranapart: Sunday actuallly
+[1:52:26] terranapart: dewCheers
+[1:52:33] Artalon: Artalon is gifting 5 Tier 1 Subs to cdewx's community! They've gifted a total of 46 in the channel! 
+[1:52:34] Artalon: Artalon gifted a Tier 1 sub to hucking! 
+[1:52:34] Artalon: Artalon gifted a Tier 1 sub to iamBlackBriar! 
+[1:52:34] Artalon: Artalon gifted a Tier 1 sub to Sick_Shot! 
+[1:52:34] Artalon: Artalon gifted a Tier 1 sub to Toonahz! 
+[1:52:34] Artalon: Artalon gifted a Tier 1 sub to ykxxd! 
+[1:52:37] jcurt03: nice
+[1:52:48] terranapart: dewFam dewFam dewFam dewFam dewFam
+[1:53:01] ashe91: ya
+[1:53:02] magnaeus: <3 <3
+[1:53:11] ashe91: dolphins didnt show up
+[1:53:14] shivwren: @Artalon dewFam dewLove
+[1:53:24] iiconiicz: 26-7
+[1:53:28] scottbur13: 7-26\
+[1:53:29] terranapart: yeah, 26-7
+[1:53:30] Harleywin: dolphins left frozen
+[1:53:40] thedabbernaut: you ever do BGs w viewers ?
+[1:53:46] Kaybo: soo good you fell asleep
+[1:53:48] terranapart: was too cold for the dolphins
+[1:54:03] Zerolol123: you do viewer stuff every time you queue a solo shuffle
+[1:54:19] thedabbernaut: arena carry viewers XD lol
+[1:54:37] jcurt03: we like watching main team
+[1:54:41] swampbutt2000: rbgs would be fire
+[1:54:54] hornaeus: hcgamerdew
+[1:54:56] thedabbernaut: i love  RBGS
+[1:55:00] Zerolol123: mes is the team liquid viewer enthusiast LUL
+[1:55:04] thedabbernaut: cant wait for cata rbgs
+[1:55:07] jcurt03: mmm hmm
+[1:55:14] jcurt03: until it's most efficiennt
+[1:55:19] DouzySham: interesting. RBGs are way more interesting than arena to me
+[1:55:23] jcurt03: nothing
+[1:55:28] tom2012euloljkeu: fire mage in cata rbg pog
+[1:55:38] thedabbernaut: bfa RBGS were my favorite and nostalgia for cata rbgs
+[1:55:53] Zerolol123: sadly rbgs will be figured out to a point where they'll be a snooze fest in cata too
+[1:56:22] itz_killjoy: ppl who play rbgs are bad LUL
+[1:56:43] FamLeeGaming: @Zerolol123 thats the nature of the game as a whole sadly.
+[1:56:43] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[1:56:45] thedabbernaut: hunter base sit RBGS are fun bcuz i get carried and only 1v1 rogues hahaha
+[2:01:08] scottbur13: all this shit going on... i can barely tell where his teammates are at
+[2:01:23] chancywilson: @DouzySham might be more interesting to u but they take a whole lot of less skill then arena and are therefor less competative
+[2:02:40] capac_77: clenchin up
+[2:03:16] dismlx: dismlx converted from a Prime sub to a Tier 1 sub! 
+[2:03:35] Dope49: It looks so stressful just from watching it
+[2:04:12] sadccookie: classic kinda failed because there are no progressive patches. not having changes to mix things up definitely makes it less fun
+[2:04:15] IamWalnuts: yeah but sam is basically like your kids
+[2:04:19] thedabbernaut: haha im jk i dont wanna get carried in RBGS either but arena is way bettter
+[2:04:35] tom2012euloljkeu: wasnt cata rbg full dot cleave stackin boomies afli fire mage etc
+[2:04:57] exizt_01: @typesee hunters dont sit base in cata, because good players dont pick hunters over having an extra rogue
+[2:04:58] sadccookie: maybe treating it like sod and balancing the game and adding new stuf
+[2:04:58] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:04:58] jcurt03: That's what makes sod a bit refreshing imo
+[2:05:07] FoxiekittenWoW: nah playing the same patch for years is so boring
+[2:05:19] jcurt03: It's an old playground with new toys
+[2:05:20] exizt_01: @cdewx as a hunter wrath main and being 1 of like 5 glad hunters every season i would very much like some changes
+[2:05:36] exizt_01: change overpower honestly
+[2:05:38] exizt_01: would help a lot
+[2:05:40] exizt_01: something minor
+[2:05:41] Sirkahn: hey Chuckski
+[2:06:15] exizt_01: bro did you know it works on hunters too? if we queue a raptor strike or place a trap down and he OPs on the trap gcd you get the debuff
+[2:06:24] sadccookie: juke pummel? cool now you have to juke overpower
+[2:06:25] PittleLuss: what’s it do?
+[2:06:27] ixiya_ink: @typesee that was me on mage 🤣🤣🤣
+[2:06:32] exizt_01: so we get the 75% ms too
+[2:06:34] PittleLuss: extra kick?
+[2:06:39] exizt_01: its super minor but nah its not
+[2:07:21] exizt_01: not to mention if you block or dodge they get an OP proc
+[2:07:21] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[2:07:25] sadccookie: then if they play with a dk you have a 2nd kick, grips, stun, silence
+[2:07:25] exizt_01: so its spammable
+[2:07:29] Idgtst: Idgtst subscribed at Tier 1. They've subscribed for 44 months! 
+[2:07:48] armin_ed: Wait whats the thing on overpower for warriors now?
+[2:07:55] exizt_01: @armin_ed hes talking wrath
+[2:08:01] armin_ed: Oh lol
+[2:08:08] Exodius89: its legit priest and shaman issue only tho druid and palas dont cast in wrath :)
+[2:08:08] armin_ed: Yeah wrath warrios is nutty
+[2:08:24] Datguyjay: ???
+[2:08:27] exizt_01: wrath warrior is nuts but might only be 1% more op than cata legendary dagger rogues
+[2:08:58] sadccookie: rmp xpacs are ResidentSleeper
+[2:09:14] swampbutt2000: how are they facing the same team every time?
+[2:09:28] taran127: @sadccookie implying there aren't rmp xpacs
+[2:10:02] lowlay0: @swampbutt2000 only team with that mmr
+[2:10:02] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:11:09] misterblaht: Another from Step Brothers since you're fighting Robert: "He better not get in my face. Cuz I'll drop that mother fker."
+[2:14:25] reallydruid: questionable blind from trilly at end there
+[2:16:03] Amuzin: @cdewx what’s the highest rating you have as a dps?
+[2:16:33] jcurt03: Is Mes still playing with you guys
+[2:17:27] chuckmaindeovre: yes he his
+[2:18:28] armin_ed: Bless you
+[2:18:55] mctinyy: mctinyy subscribed at Tier 1. They've subscribed for 47 months, currently on a 20 month streak! 
+[2:19:12] ll_Meru_ll: are the pres buffs strong?
+[2:19:45] Neji513: who's robert
+[2:20:04] donnule: !addons
+[2:20:04] Moobot: @donnule Details, shows damage/healing. Nameplatebuffs, shows buffs/debuffs above enemies. Omnibar, shows enemies cd's. OmniCD, shows friendly cd's. sArena Updated, Arena unit frame. PartyPets Fix, fixes pets on raid frames.
+[2:20:10] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:20:35] Bigshet21: Anything else getting buffed?
+[2:20:38] exizt_01: i hope they do a few more changes than just the voker
+[2:20:54] exizt_01: i mean more like this week
+[2:20:56] exizt_01: but prob wont happen
+[2:23:19] ohsomagical_: was it easy farming that RMD ?
+[2:25:45] tdey: tdey subscribed at Tier 1. They've subscribed for 100 months! one zero zero
+[2:26:04] Neji513: who doesn't get super f'd by rmd lol
+[2:26:05] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[2:26:10] EarlyOut: @tdey You old af now bruh
+[2:26:12] tdey: its been cancelled like the past 6 weeks
+[2:26:18] ohsomagical_: ive been running every day for like 6 years straight
+[2:26:23] tdey: nope cancelled
+[2:26:23] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:26:26] Havilahx: chuck you gotta go to a physio bro
+[2:26:31] Neji513: when has rogue mage not been the best comp in the game lol
+[2:27:00] ll_Meru_ll: what! rogue mage broken? no way Kappa
+[2:27:14] Neji513: sounds like any other comp lol
+[2:27:18] Neji513: against rmd
+[2:27:28] Cybernytez: they should swap the mage for a boomy even more op Keepo
+[2:27:39] Neji513: what's your confidence level for the next awc
+[2:28:10] GoldenA_: too bad you dont have a mage player Kappa
+[2:28:10] Moobot: Latest YT Video: Cdew's Guide to Restoration Druid PVP | Dragonflight 10.2 - youtu.be/EPyCHutkldQ
+[2:28:36] saffers93: will mr yo or Hera win the age of empires final today ?
+[2:28:50] Requiem237: plus as things stand this comp as is gets better on Tuesday with Pres buffs
+[2:29:12] Hellshaade: does that moonkin have a stream?
+[2:29:16] ll_Meru_ll: i thought sam could play mage
+[2:29:21] tdey: @EarlyOut yes FeelsBadMan
+[2:29:35] Cdenzy: !sam
+[2:29:36] Moobot: @Cdenzy dewSam water boy can be found here twitch.tv/samiyam dewSam
+[2:29:38] Cybernytez: yo guys whats up with gilneas next week? will we get it back as a main city or what xd
+[2:30:14] Cybernytez: ye
+[2:30:32] Mano_14: yep
+[2:30:39] Cootman314: nah
+[2:30:41] Thasta: no deal
+[2:30:41] Cybernytez: idk i do i think looks dope xd
+[2:30:46] Cootman314: fuk them
+[2:30:46] Serpentt_TV: All my homies LOVE gilneas
+[2:30:51] Havilahx: bliz should put the expack cities into the game fully, its a shame so many are instances and weird
+[2:30:51] marbas001: boxes come out 10.2.5?
+[2:30:53] Requiem237: my nostalgia from playing Cata does
+[2:30:55] armin_ed: Gilneas is dope
+[2:31:06] chefdejour82: the undead will help push back the scarlet with them
+[2:31:17] Serpentt_TV: My druid was worgen for a bit when cata launched
+[2:31:41] Iphunny_alt: sup homie
+[2:31:42] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:32:12] Cybernytez: its always rainin in gilenas it reflects my mood every day Kappa
+[2:32:50] ATHLTE: cleeeeave
+[2:33:38] CryogenicFlare: what switches are they?
+[2:33:39] willwhit: whats the keyboard
+[2:33:49] 4chinit: why don't you guys play res with cleave
+[2:33:50] cdewx: !AWproline
+[2:33:51] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/6keNhi
+[2:35:04] CryogenicFlare: I can’t click the link. work blocks it as an ad.
+[2:35:07] CryogenicFlare: rippy
+[2:36:21] exercisefreak: Thoughts an making r1 in 3s only be awarded to 1 of your characters? Like in solo shuffle, to prevent the top ladder beeing only 10 individuals with 10 alts
+[2:37:32] waffleberryx: i think they lowered requirements for the legendary
+[2:37:32] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:37:33] Itankarenas: mes said if he didnt pvp he would pve
+[2:37:44] 4chinit: pop in his stresm
+[2:37:57] Itankarenas: you gotta save him dude
+[2:38:01] exercisefreak: That makes more sense
+[2:38:04] Itankarenas: he actually loves raiding
+[2:38:30] exercisefreak: That shpuld be the play blizzard makes.
+[2:38:54] Itankarenas: H I G H M O U N T A I N H E R I T A G E
+[2:39:24] Cdenzy: you changed again? KEKW
+[2:39:24] Cybernytez: i have a highmountain druid and i wished i would have never wasted an xpac boost on that race KEKW
+[2:39:25] iLLwiLL_HS: i hate getting 2100 healers in 2300 lobbies tbh
+[2:40:08] luckydyldo: is it afflock time
+[2:40:24] Laythos: lowkey guys evoker background for the character select is pretty clean
+[2:40:39] Cdenzy: can you give us a sound sample of the keyboard
+[2:40:45] Laythos: im immersed
+[2:41:50] plainrandumhero: plainrandumhero subscribed with Prime. They've subscribed for 14 months! 
+[2:42:16] moonglaives: Sadge
+[2:42:16] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[2:42:17] plainrandumhero: I guess I still like you...
+[2:43:31] Swingingwilly: so what you gonna do till it pops lol
+[2:43:32] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:43:34] Kymagez: i been borderline for 10 yrs
+[2:43:34] Pontacos: Pally actually aint bad
+[2:43:40] Solushun: i heard CDewDH Said something 👀
+[2:44:11] itz_killjoy: high rated shuffle players > 3v3 players > rbgs players
+[2:44:23] Swingingwilly: most fun healer be the best healer thoughts ?
+[2:44:29] Swingingwilly: vs
+[2:46:22] reaperz14: Man this actionbar messing up thing is so annoying ngl
+[2:47:06] ohsomagical_: whats going on?
+[2:47:26] JerryBuckx: Hows the high mountain workin out LUL
+[2:47:27] Kymagez: jah needs another guy for his cuck life
+[2:47:34] Kymagez: messaging cdew
+[2:47:54] Kymagez: too far?
+[2:48:40] Pontacos: Time to grind the last 3 levels of of SOD
+[2:48:40] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:48:42] Pontacos: FCK me
+[2:48:47] Havilahx: sadge
+[2:48:49] Kymagez: nz isnt real tell him to stfu
+[2:48:59] Solushun: yea can tell cuz u both afk
+[2:49:00] itz_killjoy: who needs a wife when u got team mates LUL
+[2:49:01] tom2012euloljkeu: mes snoyed
+[2:49:04] bonchwater1: Shouts out to my friend Tim Walls!
+[2:49:05] tom2012euloljkeu: unheard of
+[2:49:25] EFFSIN: hit him with a 10 bomber
+[2:49:26] Pontacos: Shiiit its 5 levels XD
+[2:49:27] EFFSIN: everytime
+[2:49:39] Kymagez: just type "kiss?"
+[2:49:44] ohsomagical_: your gonna have to buy him a mince and cheese pie to say sorry since hes from nz
+[2:49:50] Zonnis: My Arena partner has been ignoring my text for the last few days, its annoying as fucj
+[2:49:51] Pontacos: Yeah i just logged in and realized in 20
+[2:49:53] Pontacos: im
+[2:49:54] JerryBuckx: its all just a misunderstanding because of the language barrier, its fiiiiiine
+[2:50:16] bonchwater1: Love you Tim Walls!
+[2:51:08] Kymagez: mes does stream way more than you though, so give him time off
+[2:51:20] Solushun: D:
+[2:51:29] FoxiekittenWoW: yea pala is good i think to have prepared
+[2:51:34] marbas001: i been having a lot of fun on pally
+[2:51:37] EFFSIN: thats ur warrior no?
+[2:51:46] Cybernytez: dj chuky d POGGERS
+[2:52:00] bonchwater1: My friend Tim Walls loves druid
+[2:52:08] Solushun: AHHH i got excited for a sec u bastard
+[2:52:12] Solushun: jebaitged
+[2:52:14] Cybernytez: dj chucky d the ultimate woooyooor :D
+[2:53:24] Cybernytez: we need more dj bladestorm content Kappa
+[2:53:45] FoxiekittenWoW: only shuffle i think
+[2:53:46] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:53:47] Pontacos: nah only healing solo shuf
+[2:53:59] bonchwater1: Tim walls
+[2:54:39] Pontacos: lmao has 22
+[2:54:40] Lionheartleo: mes tilted over you calling him a sack of shit last night?
+[2:54:56] Cybernytez: sack of shit KEKW
+[2:55:14] Pontacos: nothing a nice 1v1 duel cant fix
+[2:55:48] bonchwater1: My friend Tim Walls loves watching this stream <3
+[2:56:00] JerryBuckx: pala feels the best it has since legion imo
+[2:56:12] thedabbernaut: lol
+[2:56:18] qkmood: classic Timothy Walls
+[2:56:19] FoxiekittenWoW: i got surprised of how fun pala is tbh
+[2:56:25] Kymagez: ok charles lil dick dewland
+[2:56:27] Cybernytez: whut hpal content ? i abandoned my hpal this seas after realising it was omega trash but maybe im just omega trash
+[2:56:33] bonchwater1: He likes to go by Tim Walls
+[2:56:33] Pontacos: You dont know tim walls chuck?
+[2:56:42] thedabbernaut: tim walls andys out here
+[2:56:49] itz_killjoy: holy shock , holy shock,  wait for it, holy shock again LUL
+[2:56:52] bonchwater1: @Pontacos Everyone knows Tim Walls
+[2:57:44] Kymagez: tim "fills your wifes" walls
+[2:57:44] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[2:57:48] Cybernytez: oh yeah nobody plays it anymore
+[2:58:06] Laythos: we playing hpal?!
+[2:58:09] Frostyjoneslol: Hpals big downfall is just mana really
+[2:58:09] Laythos: fuck ya bud
+[2:58:36] Laythos: ive found that playing plea everygame with an onuse macrod into daybreak
+[2:58:38] FoxiekittenWoW: @Cybernytez hmm they are super popular on eu
+[2:58:38] Laythos: i never oom
+[2:58:48] GoGoGarrett: qqq
+[2:58:48] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[2:58:53] Pontacos: Yeah idk if i can do this SOD grind - thats more of a week of phase 2 thing
+[2:59:24] Cybernytez: idk man hpal getting cct is bad Sac got nerfed really big to only 20% dam reduce and bop doesnt do shit vs casters and u have no hots and what else
+[2:59:42] dawsonator171: chuck, you're dead AF with 2 hpriest.
+[2:59:49] Kymagez: ibs?
+[2:59:53] pietyhs: happy Saturday night cdew I noticed you never have music playing in streams, do you have a preferred genre?
+[3:00:03] Frostyjoneslol: @Cybernytez u can still play big sac, bop is the same its always been, glimmer is a pretty decent hot lol
+[3:00:24] Cybernytez: thing is if u dont fake cast on hpal and get interrupted u almost autolose insta and u are very not tanky when gettin trained as well bc u have to cast
+[3:01:38] Frostyjoneslol: @Cybernytez thats like most healers if u get int except druid. I can name like 6 instant cast u can use to heal urself
+[3:01:52] waffleberryx: oh no did they double swap
+[3:01:55] waffleberryx: hate to see it
+[3:02:01] FoxiekittenWoW: @Cybernytez dno its not what the ladder is saying tbh, they are no druid, but looking at ladder and shuffle they seem to be the second best healer right now
+[3:02:26] Cybernytez: shuffle ladder maybe ^^ but where are all the hpals in 3s on the top xD
+[3:02:37] FoxiekittenWoW: look at the eu ladder
+[3:02:43] FoxiekittenWoW: there are alot of hpals
+[3:03:37] Frostyjoneslol: @Cybernytez there at 3 in the top 100 on NA
+[3:04:07] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/hr2y3g
+[3:04:07] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:04:29] Cybernytez: idk if 3 hpals out of 100 slots is a good representation
+[3:04:33] Frostyjoneslol: This is the same argument u see when people look at logs, everything gets inflated becuz players dont play things they feel is inferior even if its not by much.
+[3:04:43] dawsonator171: so good when they can't stop the bolts.
+[3:04:50] Cybernytez: and on eu its 6 hpals but
+[3:04:54] dawsonator171: I retract my prior statement.
+[3:05:04] Cybernytez: doesnt really tell me its good
+[3:05:05] DizziestShot: spell steal is so annoying
+[3:05:07] Frostyjoneslol: Im not saying Hpal is gods gift to pvp healing right now, buts its not bad either nor dog water tier
+[3:05:23] itz_killjoy: what a good lobby for a destro , damn ur lucky
+[3:05:51] Cybernytez: idk man i played my hpal and for me its not it
+[3:05:56] ChilledsDogTreats: no immo on dk pet?
+[3:06:07] Cybernytez: maybe some people can have success with it but there were way better times on ot
+[3:06:14] Cybernytez: it*
+[3:06:50] atoker: !macros
+[3:07:24] Frostyjoneslol: There are way better times for every class lol hpals biggest downfall right now is mana control if you go againts a heavy dam comp, u will oom. They have TONS of CD's to trade which makes them inherently tanky
+[3:07:37] Cybernytez: i rather play my disc and i have way more fun on it
+[3:08:08] Frostyjoneslol: I mean i get it fotm classes are fun cuz they do well
+[3:08:21] Frostyjoneslol: why u see all the zug zug 4head dh's lol
+[3:08:23] Cybernytez: disc isnt the best either but still better than hpal imo
+[3:08:27] EFFSIN: solo shuffle looks fun with priests
+[3:08:39] FoxiekittenWoW: fun and good is two different things, but if you think disc is better than pala i dont knwo
+[3:08:44] exizt_01: double hpriest lobby
+[3:08:46] exizt_01: unheard of
+[3:09:30] Cybernytez: disc has thrash tier but i actually think its better than hpal
+[3:09:30] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:10:20] FoxiekittenWoW: maybe you are just better disc then, but in general they are not
+[3:10:26] Frostyjoneslol: @Cybernytez well then by ur logic there are only 2 disc in the top 100 3v3
+[3:10:59] FoxiekittenWoW: 1 disc in top 100 on eu
+[3:11:25] brewtank: 2 hpriests lol
+[3:11:43] Cybernytez: only bc there are 2 disc and 3 hpals in NA top 100 u wanan tell me that figures which one is better ?
+[3:11:44] Frostyjoneslol: we should all go buy lottery tickets getting 2 hpriest in the same solo shuffle
+[3:12:15] sh3ikmustafa: yo is kalvish a r1?
+[3:12:16] Cybernytez: for me disc is betetr ok
+[3:12:43] FoxiekittenWoW: yea thats fine disc is also better for me
+[3:13:05] FoxiekittenWoW: but in general i still believe pala is better
+[3:13:05] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[3:13:35] Frostyjoneslol: @Cybernytez that fine dude but u cant say hpal is bad and nobody plays it just cuz u might not be good at it. Everyone has their good n bad classes, that why u'll never see me on a dk xD
+[3:14:13] Cybernytez: for me hpal is bad ^^
+[3:14:20] Cybernytez: and u cant change my mind
+[3:14:23] Cybernytez: sr
+[3:14:27] Frostyjoneslol: which idk whats up with frost dk but i had one absolutely ST rek me for like 100k damage sustained
+[3:14:30] Laythos: ez 6/0?
+[3:14:31] Disparage: big man dew how we doin
+[3:14:31] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:14:42] OMGWhatsHisFace: thanks for all the guides recently. would you add a destro one too? :D
+[3:14:43] buffevoker: Big Man Dewwww
+[3:14:57] MedtnerFangirl: MedtnerFangirl subscribed at Tier 1. They've subscribed for 9 months! true true
+[3:15:56] Laythos: is it still mes on the second monitor
+[3:16:06] Juliio29: wait wait
+[3:16:12] Yanzoh: Did you 6-0 that lobby??
+[3:16:21] Juliio29: 2429 +72 = 2501?
+[3:16:26] DizziestShot: @yanzoh yup
+[3:16:28] Juliio29: go back to the end of the lobby
+[3:16:33] Juliio29: on vod
+[3:16:38] Juliio29: or am I seeing shit
+[3:17:15] eneyeseakaywhy20: eneyeseakaywhy20 subscribed with Prime. They've subscribed for 12 months! 
+[3:17:41] Cybernytez: still arguing with mes ? LUL
+[3:17:46] brewtank: pally??
+[3:17:50] eneyeseakaywhy20: hyped for awc in a week or so
+[3:18:00] eneyeseakaywhy20: hope you been well lately man
+[3:18:04] Itankarenas: discuss this BUTTS
+[3:18:06] brewtank: what happened lol
+[3:18:49] Moobot: Latest YT Video: Cdew's Guide to Restoration Druid PVP | Dragonflight 10.2 - youtu.be/EPyCHutkldQ
+[3:18:56] sh3ikmustafa: cap being a thing is stupid
+[3:18:58] Laythos: prob dont
+[3:19:09] Elmozez: Hate there there's a cast time on the medals
+[3:19:13] and1spirit: where is beefdaddydew ?
+[3:19:49] kinkysdk: can't you put it on your keybidnings and just press it
+[3:19:49] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:19:51] Elmozez: What comps are you going to q hpala with?
+[3:20:02] TheOleBuckarooo: where do you get the marks of conquest??
+[3:20:34] brewtank: @cdewx pally for fun or you think it'll be good?
+[3:20:38] brewtank: the team all good?
+[3:20:50] brewtank: same
+[3:20:55] Elmozez: Fair enough
+[3:20:59] brewtank: outside of main 3s i cba playing
+[3:21:03] Laythos: yeah
+[3:21:24] Elmozez: I've been going full mast on my Pala seems good
+[3:21:30] Frostyjoneslol: i wouldnt use gloves
+[3:21:43] Frostyjoneslol: i skipped gloves
+[3:21:51] Elmozez: Cause of the beacon talent where you always benefit from full mastery
+[3:21:53] Laythos: i enjoy crit alot but the throughput from mastery is crazy
+[3:21:54] Cocoapuffs1: you really want like all mastery you can get tbh
+[3:21:58] Pontacos: born is crit
+[3:22:21] Elmozez: Crit is probably better though hav3nt tried it yet
+[3:22:29] Squidward_Tentacles: Hypothetically, if you have a log in your pant leg while waiting in line for a Rollercoaster, do you shake it out before, or after you board the coaster?
+[3:23:23] Frostyjoneslol: @meaganisunintelligent heh???
+[3:23:46] frozoneee: Cdew.. questing, what the fuck has the world come to
+[3:23:49] kinkysdk: looking sexy
+[3:24:04] Cybernytez: bop needs anerf ? lmao thats the funniest thing ive ever heard ^^ it can be purged wich almost everx class in the game can do and it can be mded and shattered as well, on top of that its useless vs every caster and even vs some melees than not only do melee dmg ^^ mages can spellsteal it etc etc
+[3:24:12] feldoggo: damn just tabbd out and come back lol, why did you do the spells on the action bar? is there an addon to it? to copy from alts?
+[3:24:40] Frostyjoneslol: @Laythos i think hpal has enough throughput through CD's crit helps with mana
+[3:24:46] Pontacos: can you get more conquest crafting reagents other than using conquest to buy it?
+[3:24:54] Pontacos: ive crafted 3 components
+[3:24:54] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:24:58] Itankarenas: yeah cedew
+[3:25:01] Itankarenas: why u do that
+[3:25:13] frozoneee: Who's cedew?
+[3:25:14] sh3ikmustafa: love using fucking 40 rating for a 3-3
+[3:25:20] frozoneee: Is that Chucks cousin?
+[3:25:25] sh3ikmustafa: losing*
+[3:25:28] Itankarenas: report
+[3:25:58] frozoneee: Whats
+[3:25:59] frozoneee: in
+[3:26:00] frozoneee: the
+[3:26:01] frozoneee: box
+[3:26:22] tom2012euloljkeu: monkaS
+[3:26:37] skepperr: is there no conq boxes yet
+[3:26:56] frozoneee: Is honor still capped at 15k?
+[3:27:03] izza_cat: are you able to turn LFR tier into arena?
+[3:27:42] Itankarenas: turn this into arena BUTTS
+[3:27:51] Sixxtylol: no @izza_cat
+[3:27:55] izza_cat: F
+[3:27:58] tom2012euloljkeu: u jsut gearin pala for sumin diff to do ?
+[3:28:02] frozoneee: @Itankarenas WATCH YOURSELF BUDDY
+[3:28:14] Itankarenas: @frozoneee monkaS
+[3:28:15] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[3:28:32] Frostyjoneslol: Thats what the guy was saying
+[3:28:35] clueless_bajs: U did
+[3:28:48] izza_cat: taxxed
+[3:28:54] Frostyjoneslol: rounding ig
+[3:28:54] DizziestShot: rounding error maybe
+[3:28:55] Sixxtylol: rigged
+[3:29:13] Itankarenas: maybe u rounded this BUTTS ?
+[3:29:18] clueless_bajs: Too op thy have to nerff you
+[3:29:20] ケンダル: 6-0 isn't good enough sorry
+[3:29:20] Itankarenas: KEKW
+[3:29:26] OMGWhatsHisFace: checked vod
+[3:29:29] OMGWhatsHisFace: you were 2500
+[3:29:38] Sixxtylol: lol
+[3:29:38] Itankarenas: it's an emote
+[3:29:40] FoxiekittenWoW: @meaganisunintelligent yesterday he said he thik they are really good
+[3:29:49] buffevoker: Boomer
+[3:29:56] Itankarenas: it's a pepe grabbing his own ass LUL
+[3:29:56] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:30:00] Itankarenas: shits funny af
+[3:30:24] Itankarenas: sub is borked
+[3:30:36] cjdtv: bottom left
+[3:30:42] cjdtv: next to hearhstone
+[3:30:46] T0PNI: bottom left bag, top r
+[3:30:56] buffevoker: Investor
+[3:30:59] Deathbann: you only need 6 total
+[3:31:03] addyz0r: wa to show youre honor capped xD
+[3:31:07] FoxiekittenWoW: @meaganisunintelligent outlaw is super good if you play for damp, whaazz plays is alot if they just want to win on mana and prolonging the game
+[3:31:34] buffevoker: thats 10k conq damn
+[3:32:39] and1spirit: is melee wings still playable ?
+[3:33:01] exercisefreak: Why can you not still mail gold between realms
+[3:33:08] Runescale: you expect paladin to be good in 10.2.5 Kappa
+[3:33:15] EFFSIN: cconthebeat
+[3:33:31] Scudbomb: you can trade gold between realms so idk why not
+[3:33:32] dergregi: Drainer played melee wings and went 0/6
+[3:33:39] DoYouSeeOk: you can trade players from other realms but not yourself
+[3:33:55] DoYouSeeOk: also mail obviously from what i heard
+[3:34:07] Accidentalawesome: are resto druids still focusing on mastery these days?
+[3:34:12] Frostyjoneslol: so trade to a friend then trade back
+[3:34:42] Sixxtylol: vers crit neck prob
+[3:34:44] dergregi: u should buy your 4th piece for 4Set
+[3:34:46] DoYouSeeOk: @Frostyjoneslol should work i had someone from a whole other realm give me gold recently
+[3:35:00] jasonkbkt: What in the cum guzzling gutter slut is going on here???
+[3:35:00] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:35:07] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/olCbH3 to schedule a coaching session with your favorite Team Liquid raider!
+[3:35:12] Sixxtylol: craft ring
+[3:35:19] EFFSIN: alot of honor
+[3:35:29] Frostyjoneslol: @DoYouSeeOk it does work, I trade a friend gold for a carry last week, he traded me back this week
+[3:35:43] jasonkbkt: 750 bloody token quests in the plains
+[3:35:45] EFFSIN: 57k
+[3:36:04] atoker: I think the quest is worth roughly 21-28k honor
+[3:36:17] atoker: sparks
+[3:36:22] jasonkbkt: Prob get tier 1st
+[3:36:27] Zaronah: neck
+[3:36:36] Sixxtylol: craft ring
+[3:36:37] freelofear: cdew on pally dewLove dewLove dewLove
+[3:36:43] ftien17: craft rings?
+[3:36:44] DizziestShot: gotta be weapon
+[3:36:55] EFFSIN: whats that thing in ur bag
+[3:36:58] Sixxtylol: prob want conq neck unless u prefer crafted
+[3:36:59] EFFSIN: Edwin
+[3:37:01] ScumbagMusc: whats some comps you expect to see in AWC?
+[3:37:14] dergregi: idk if the WQs are same in US and EU but in emerald Dream is a Quest for Bloody Tokens too
+[3:37:30] Laythos: I went with the bracers
+[3:37:30] Sixxtylol: yea
+[3:37:31] Laythos: idk
+[3:37:33] jasonkbkt: Boots
+[3:37:34] Frostyjoneslol: bracers yeah
+[3:37:37] Frostyjoneslol: bracers n boots i think
+[3:37:42] Sixxtylol: bracers boots
+[3:37:44] Frostyjoneslol: belt*
+[3:37:44] buffevoker: Will H pals get good in next patch
+[3:37:48] TheOleBuckarooo: boots
+[3:37:55] marbas001: i use boots on my pal
+[3:37:59] Frostyjoneslol: Belt boots im tired lol
+[3:38:04] freelofear: I crafted, boots and rings and chest
+[3:38:15] Ceroxyo: i think bloody token vendor has a crit vers one
+[3:38:31] Veyronn_00: Boots
+[3:38:33] freelofear: boots
+[3:38:34] jasonkbkt: Boots
+[3:38:38] Sixxtylol: yea boots
+[3:38:44] FoxiekittenWoW: yes
+[3:38:49] FoxiekittenWoW: that and precog
+[3:38:52] jasonkbkt: Pretty flexible id say
+[3:38:53] healerfromkz: Whats top Stats for hpally pvp? Versa/Mastery?
+[3:38:54] Sixxtylol: yep ^
+[3:39:06] Sixxtylol: hpal u want crit tbh
+[3:39:08] TheOleBuckarooo: i think its the infurious warboots
+[3:39:08] jasonkbkt: Precoc for sure
+[3:39:13] FoxiekittenWoW: @healerfromkz crit is also super good
+[3:39:13] Sixxtylol: kind of weird but it works
+[3:39:15] freelofear: Would you wanna see my char gear?
+[3:39:20] Veyronn_00: Boots and precog
+[3:39:28] healerfromkz: @FoxiekittenWoW Versa/Mastery/Crit right?
+[3:39:33] Sixxtylol: yes precog on the bracers
+[3:39:40] Justinky1: anyone: blood elf or tauren for Ret? I'm new :)
+[3:39:43] Sixxtylol: or ring w/e u want to do
+[3:40:09] Cocoapuffs1: you need crit but you really need mastery too
+[3:40:09] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:40:14] DizziestShot: @justinky1 whatever looks cooler
+[3:40:21] Sixxtylol: Fr ^
+[3:40:32] Cocoapuffs1: inbetween cds you dont heal for anything
+[3:40:34] freelofear: Mastery>crit>vers
+[3:40:38] freelofear: crit above 25% is fine
+[3:40:42] Cocoapuffs1: and if you dont crit they just die
+[3:40:44] Sixxtylol: I did some mastery but then gemmed tf out on crit vers
+[3:40:54] FoxiekittenWoW: @healerfromkz yea
+[3:40:57] Pontacos: Have yall played spriest this xpac? It is so assss
+[3:40:58] Cybernytez: is dark iron still best race for hpal?
+[3:41:22] BCboy_: hpal starts feeling good around 50% mastery
+[3:41:23] Laythos: undead bis rn with will not sharing cd with trink
+[3:41:30] addyz0r: shaz is playing dark iron as no1 pala na
+[3:41:37] Laythos: wish pally could be undead sadge
+[3:41:38] Sixxtylol: maybe I should run more mastery then tbh @bcboy_
+[3:41:43] marbas001: you can buy trophies with honor
+[3:41:53] Sixxtylol: yea weap it up @cdewx
+[3:42:11] dergregi: weapon for bloody and shield for conquest
+[3:43:05] and1spirit: Is enhancement damage physical or magic?
+[3:45:53] rocif40: chucko nom nom
+[3:45:53] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:46:18] AstralScare: u are playing with a rank 1 EU hppala ;d
+[3:46:36] NenyioXz: damn bro, that holy pala is insane, dont think i have ever seen someone so good on us, who is this
+[3:46:36] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[3:46:58] AstralScare: @NenyioXz :D hehe
+[3:48:01] frozoneee: they're shutting you DOWN. Damn
+[3:48:06] NenyioXz: hahah he reported the warlock
+[3:50:29] NenyioXz: he says your positioning could be bit better
+[3:51:30] NenyioXz: the best pala in the world currently
+[3:51:33] rocif40: W H OMEGALUL
+[3:51:38] NenyioXz: by far
+[3:51:51] skepperr: least deranged eu
+[3:51:51] spujetti: Lmao how many blizzcons has he won?
+[3:51:51] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:51:58] fatuglystupidbald: eu brain
+[3:52:17] gianni_gsp: @fatuglystupidbald EU is better than US xd
+[3:52:20] spujetti: has that hpal won b2b awc cups?
+[3:52:28] Zzandi1: If hes best pala world, why doesnt he play by lock port?
+[3:52:37] shakmanne: sod is so toxic, glad im back to retail
+[3:52:39] whosaiditquiz: @spujetti true
+[3:52:44] Banwellx: Hey Chuck, best pala in world here, did you know /lol is actually a 5% damage buff? Probably don't cause you're not from europe
+[3:52:45] PhilShredz: He might offer you a coaching ses 😂
+[3:52:54] fatuglystupidbald: back to back world war champs @gianni_gsp
+[3:53:06] fatuglystupidbald: eu dogs
+[3:53:43] rocif40: EZ
+[3:53:51] maverickparkour: we hate him in EU as well don't worry
+[3:53:52] ケンダル: heard that roflcopter coming from a mile away
+[3:53:52] joeltrovert: UK is back to back world war champs achshually
+[3:53:54] fatuglystupidbald: wish u could get some bags out in shuffle
+[3:54:18] brewtank: @joeltrovert yeah we had to come in to help yall twice
+[3:55:01] joeltrovert: US couldn't even win vietnam kekw
+[3:55:13] Lee_Kee_Crotch: us is so far advanced now in war. no one is close
+[3:55:13] fatuglystupidbald: nice teeth
+[3:55:19] brewtank: @fatuglystupidbald &
+[3:55:44] joeltrovert: usa hasn't won a war in the last 75 years
+[3:55:44] shugguls: @brewtank lol help, US is like the Chas on team Echo, warming the bench and picking up the glory
+[3:56:04] DizziestShot: this chat got real degenerate real fast
+[3:56:11] brewtank: KEKW
+[3:56:33] truthjuulskill: lets be honest yall would be speaking german right now if not for US lol
+[3:56:39] sked420: UK was actually so screwed in ww1 and ww2 if not for NA
+[3:56:50] Lee_Kee_Crotch: watched a video about us. its crazy how much more they got in every branch
+[3:57:01] fatuglystupidbald: theres absolutely no way anyone can say anything negative about the us military’s power LMFAO
+[3:57:01] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[3:57:04] Lee_Kee_Crotch: than any other country
+[3:57:06] joeltrovert: Russia won ww2 not usa
+[3:57:19] Gimchy: lol this chat. USA #1 🤣
+[3:57:23] fatuglystupidbald: only an 800billion dollar annual budget
+[3:57:37] BCboy_: PogChamp region wars
+[3:57:39] rocif40: healer diff tbh
+[3:57:49] connorfitz10: pala is the lobby dog?
+[3:57:54] spujetti: not the "best hpal in the world" xdd
+[3:58:15] joeltrovert: usa doesnt even have healthcare topkek
+[3:59:29] BCboy_: more oil tho
+[4:00:11] joeltrovert: go bankrupt and die when you get cancer though lol
+[4:00:29] fatuglystupidbald: all that free healthcare and u can’t find a dentist?
+[4:00:46] whooty337: lol
+[4:01:08] joeltrovert: obeseity rate through the roof too fr fr
+[4:01:23] joeltrovert: only country where life expectancy is going down
+[4:01:24] Lee_Kee_Crotch: nice
+[4:01:26] rocif40: healer diff gg
+[4:01:34] kobbe2702: hahah
+[4:01:34] Panaxx: that dragon is insane
+[4:01:36] buffevoker: LUL
+[4:01:50] Cybernytez: KEKW
+[4:01:50] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[4:01:54] xqzlol1: toxic
+[4:01:57] jacob_the_mage: he likes pp
+[4:02:00] jacob_the_mage: that pally
+[4:02:03] spujetti: notice how homeboy who came in here shut up too xd
+[4:02:03] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:02:07] Ssolemn: he started it
+[4:02:11] muhfin: @NenyioXz wya
+[4:02:12] DizziestShot: ship him back to Europe
+[4:02:23] whooty337: facts
+[4:02:32] spujetti: @NenyioXz think your positioning needs to be a bit better bud
+[4:02:34] syntackx: trink bind is alt c?
+[4:02:34] Justinky1: no printer
+[4:02:38] reaperz14: Get him outta here
+[4:02:40] fatuglystupidbald: chuckonomics giving the eu dog a little spanking
+[4:02:42] the_bhagwan: no me :)
+[4:02:48] fatuglystupidbald: that was for america buddy
+[4:02:49] EFFSIN: best eu pally* eu is worse then na
+[4:02:56] Yoskexz: isnt that coreygun pal
+[4:03:00] fatuglystupidbald: 🇺🇸 🇺🇸 🇺🇸
+[4:03:14] xqzlol1: @Yoskexz nah its a EU pally
+[4:03:17] Gimchy: butthurt chat
+[4:03:24] and1spirit: Is it isquare?
+[4:03:35] AstralScare: @and1spirit yes
+[4:03:58] the_bhagwan: monkaS
+[4:04:16] Cybernytez: so many pallys claiming their the best man, IM THE BEST ok?
+[4:04:23] SOADVene: that paly stream? o.o
+[4:04:31] rocif40: ah its a russian paladin
+[4:04:35] rocif40: explains the toxicity KEKW
+[4:04:41] fatuglystupidbald: brain is the only correct answer buddy
+[4:04:42] BCboy_: queue it up PogChamp  f the sparks
+[4:04:42] bigboy_17: im the best 1200 rated paly
+[4:05:30] Pontacos: Its a big centuaur
+[4:05:51] sadccookie: hpal feels like complete dogshit until you get a dec amount of mastery and crit
+[4:05:55] brewtank: @cdewx i need a lil side project. if its not main 3s i cba queueing rn lol
+[4:06:01] sadccookie: just now feeling like i can heal comfortably
+[4:06:55] ar1dqt: is pres not good rn?
+[4:06:55] brewtank: if i had a 2nd account i think id enjoy a dps alt
+[4:07:04] brewtank: maybe i need to push r1 rdru shuff
+[4:07:04] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:07:38] Cybernytez: lmao
+[4:07:47] BCboy_: hpriest side project is all you got left after hpal is geared
+[4:07:50] rocif40: KEKW
+[4:07:53] rocif40: type cyka
+[4:08:14] syntackx: KEKW
+[4:08:31] Applezbtw: prob in a his holy shock macro LUL
+[4:08:44] DizziestShot: someone said he’s russian
+[4:08:55] rocif40: yeah he's russian and this is how russians act on eu lol
+[4:08:55] Moobot: Latest YT Video: Cdew's Guide to Restoration Druid PVP | Dragonflight 10.2 - youtu.be/EPyCHutkldQ
+[4:10:16] Oddin456: what addon do you use for your cursor?
+[4:10:31] frozoneee: Its a weak aura called cursor
+[4:11:29] Methok21116: there is an item you can buy to use warlock gate, you can bind it and dont have to click, got it on all toons and really love it
+[4:11:45] rocif40: he's reporting shaman now
+[4:11:55] Exodius89: i dont think that mage even knows how destro works
+[4:12:14] Cybernytez: guy is saying shaman is botting maybe he is idk
+[4:12:14] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:13:22] sh3ikmustafa: so apparently every 1800 game is actually just a 200cr match
+[4:13:24] sh3ikmustafa: i quit
+[4:13:37] Cybernytez: what is this shamans dam man xd
+[4:15:00] serratedlove: new account ele :^)
+[4:15:01] Cybernytez: shaman is like 90-100k dps whole game
+[4:15:08] Malte_L: ele no boorst
+[4:15:16] firebladecbr1000rr: botter
+[4:15:24] DizziestShot: lava lava lava
+[4:18:45] Elmozez: He tranq prior to the omnicd keeps tranq lit up for some reason
+[4:18:45] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:18:50] SpeedyMcD: any tips for getting 1800. somewhat new and stuck in the 1600-1700 range
+[4:20:15] rocif40: i wanted pal to be heal diff agin Sadge
+[4:21:48] Onca4242: Oh no, poor cervixpounda!
+[4:21:48] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[4:23:24] levinegaming: what’s the best way to level alts right now ?
+[4:23:54] DrDickels: timewalking or boost
+[4:23:56] Onca4242: Tanking time walking until it's gone is always mega fast
+[4:24:05] Itankarenas: @levinegaming timewalking as tank
+[4:25:18] rocif40: lol he's actually typing out /rofl every time
+[4:25:37] spujetti: oh for sure
+[4:25:38] rocif40: yeah he's reporting everyone
+[4:25:40] olivercharts: Do it! Cant stand that guy.
+[4:25:40] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:25:54] rocif40: also i think he's doing RMT
+[4:25:57] Elmozez: No cause you laughed at him too
+[4:26:01] levinegaming: dungeon spam random time walking is the move from 60-70?
+[4:26:10] dmason828: reporting people for what? his toxicity?
+[4:26:24] DrDickels: @levinegaming yes
+[4:26:26] anacronz: i check that over 2400 in solo top casterr devoker is second after  destro lol
+[4:26:48] lustevit: Whos' typing rofl every game?
+[4:27:50] Hordiix: man cervixpounda is really giving it to you
+[4:28:42] Robbielee1991: hello cdew
+[4:28:54] Robbielee1991: How's the youngest one going
+[4:28:58] jasonkbkt: Aura dispel op
+[4:29:14] jasonkbkt: U and sham can't do damage to hip
+[4:29:26] lustevit: A wise man once said. Ain't no fresh. Without the fresh
+[4:29:41] jasonkbkt: Rets have same thing
+[4:29:46] samiyam: yooo if anyone wants to sub to me im almost at 200 subscribas
+[4:29:55] lustevit: I think he was asking for someone to gift him a twitch prime to you
+[4:30:06] samiyam: LOL
+[4:31:07] lustevit: But he was saying he was poor and couldn't afford a sub basically
+[4:31:07] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:31:11] Solushun: samiFried samiFried
+[4:31:13] spujetti: He's streaming rn with just your stream audio in the background lol
+[4:31:15] frozoneee: He was 100% asking for subs to him lol
+[4:31:15] izza_cat: he said he was poor and wanted unused twitch primes
+[4:31:19] Lucaz_H: i think he was asking for subs cause he said he had a old pc
+[4:31:22] DrDickels: he is live so you probably right
+[4:31:22] lustevit: oh lmao
+[4:31:22] addyz0r: samiFinger samiFried
+[4:31:23] pharmztko: nah he’s streaming
+[4:31:24] Pontacos: if anyone wants to gift Sam subs he is almost at 200 subs
+[4:31:31] Pontacos: dewMLG
+[4:31:37] addyz0r: dewSam
+[4:31:48] Applezbtw: damn poor and banned mans is down bad LUL
+[4:32:12] izza_cat: ngl if i was broke with kids the last thing id go for as a job is twitch
+[4:32:58] chinchin23: whats sams twitch ?
+[4:33:09] izza_cat: yeah thats what i mean
+[4:33:12] Juliio29: Samiyam
+[4:33:19] chinchin23: its pipe dream
+[4:33:20] frozoneee: !sam
+[4:33:20] Moobot: @frozoneee dewSam water boy can be found here twitch.tv/samiyam dewSam
+[4:33:44] Justinky1: me :)
+[4:33:52] ケンダル: Me, streaming sounds awful
+[4:33:56] Lucaz_H: I want to be miseriable where i work
+[4:33:59] Fuzzytotems: ^
+[4:34:00] ケンダル: Constant criticism from everyone
+[4:34:08] armin_ed: KEKW
+[4:34:09] ChilledsDogTreats: KEKW
+[4:34:13] lustevit: But do you think turning video games into a job loses the fun out of it?
+[4:34:14] chinchin23: im retired and 35
+[4:34:17] Cassman_: it doesnt apply to streaming only btw
+[4:34:30] telehans: how does holy Pala perform?
+[4:34:36] chinchin23: investment did it for me
+[4:34:43] Juliio29: Sam has been one of the best things to happen to morale
+[4:34:48] Juliio29: for the team
+[4:34:56] oxxxuu: if u had 15million would u still stream?
+[4:34:56] svantelorenzo: i mean its like you cant decide to work as a football player
+[4:35:03] Szain3: DinoDance
+[4:35:11] Elmozez: Sam dies with skin and frenzy every game your like "I love my job healing this dog"
+[4:35:41] unkle420: watching a old vod of u reckful and mitch w. u on monk healer =-) fun to watch old games
+[4:35:42] Elmozez: Jk love Sam
+[4:35:48] Cybernytez: hpal ooms in open world after like 10 spells LUL they still havent fix that since seas 1
+[4:35:54] Reticen: what is sams profession/job?
+[4:36:01] chinchin23: now that im retired i try new things alot
+[4:36:01] shellbacks: shellbacks subscribed with Prime. They've subscribed for 37 months! 
+[4:36:23] svantelorenzo: i mean its like you cant decide to work as a football player
+[4:36:23] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:36:43] Juliio29: @chinchin23 prove it, sun to cdew right now LUL
+[4:37:17] chinchin23: @Juliio29 and thats why most are not retired
+[4:37:17] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[4:37:43] Juliio29: Sub*
+[4:38:33] Cybernytez: no
+[4:38:34] deepdale: no
+[4:38:34] Flokko: yes
+[4:38:34] whspe: nah thats just a "bonus" quest
+[4:38:36] SniggleJake572: no, just an event
+[4:38:53] dankNstein_: the races give a little rep too i think
+[4:39:28] serratedlove: the superbloom weekly quest gives enough to complete the rep quest from 0
+[4:39:42] Lucaz_H: its like spyro
+[4:39:43] chinchin23: is there 3s or i miss them all
+[4:39:48] dankNstein_: the horn icon on the map, it starts every hour
+[4:39:50] frozoneee: The horn on your map
+[4:40:09] truthjuulskill: seeds is ur best bet i think?
+[4:40:10] frozoneee: Just follow the huge ass tree and kill shit
+[4:40:29] Cybernytez: i feel that
+[4:40:56] chinchin23: first time watching you was in WOD and thats all you ever spammed
+[4:41:14] chinchin23: denouce
+[4:41:23] chinchin23: yeah
+[4:41:25] chinchin23: rofl
+[4:41:25] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:41:50] swolenerddotcom: make grp
+[4:41:59] Cybernytez: KEKW
+[4:42:11] hotshotss11: got you
+[4:42:13] chinchin23: i pretty only watch your 3s though nobody else plays 3s much
+[4:42:14] moonglaives: trillsBump
+[4:42:52] hotshotss11: the hpal sacrifice only for you bb
+[4:42:52] xkhyrozx: now it's all classic and m+
+[4:42:52] rembrandt89: I swear legion was popping with 3s streams
+[4:43:14] dmason828: Still is the most exciting thing for me to watch. Its where I learn the most
+[4:43:20] sgrdaddyx: cuz now all ppl see in 3s arenas are weakauras we cant see actual game anymore ;/
+[4:43:29] rembrandt89: shuffle is what ever to watch I like hearing teams talk in 3s
+[4:43:42] chinchin23: i enjoy the banter more today than gameplay
+[4:43:49] Applezbtw: where are u?
+[4:43:50] ChillyHTX: I’m a classic Andy but im here cuz chill vibes
+[4:43:52] Cybernytez: help the brotha out guys im EU :(
+[4:43:56] Synoble: D:
+[4:43:58] Applezbtw: ill come
+[4:44:42] xkhyrozx: are shuffle queues for healer better than for dps?
+[4:45:12] IGna7iusIV: lower rating queues are almost instant
+[4:45:23] chinchin23: i like when you and MVQ have a sheesh strat burn the whole time
+[4:45:37] protatoparv: WM on or off?
+[4:45:39] protatoparv: me big pve
+[4:45:46] kneppemanden: Retail OMEGALUL
+[4:46:06] frozoneee: You're a filthy alliance player.. You aren't showing up in my group finder
+[4:46:19] tom2012euloljkeu: THE LITTLE ACHS R TRADIN POST PROGRESS
+[4:46:22] tom2012euloljkeu: ops sorry
+[4:46:31] chinchin23: aint there addon for that
+[4:46:31] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:46:44] chinchin23: morph into a cow
+[4:48:00] chinchin23: never known anyone thats has got banned from it
+[4:48:17] chinchin23: fair
+[4:48:20] rembrandt89: have you guys tried ww boomkin
+[4:48:45] protatoparv: i can port u
+[4:48:49] izza_cat: portal on far east or hearth
+[4:49:15] izza_cat: 1 spark short rip
+[4:49:30] chinchin23: yeah one of the 20 screens you have open
+[4:49:31] Cybernytez: bugged sometimes from world quests
+[4:49:45] Thoreya: LUL
+[4:50:00] chinchin23: i hate WQ so much
+[4:50:24] izza_cat: look on map far east
+[4:50:25] shugguls: HS out
+[4:50:32] izza_cat: there
+[4:50:38] izza_cat: in center is a portal
+[4:50:40] frozoneee: yes, that island has a portal
+[4:51:02] moonglaives: EX Clap
+[4:51:07] izza_cat: yes
+[4:51:07] TeamLiquid: Break Through Your Game with the new Alienware Pro Wireless Mouse and Keyboard!  go.adv.gg/hr2y3g
+[4:51:09] frozoneee: Yes
+[4:51:09] ItsMeOwenSmile: ya
+[4:51:11] ItsMeOwenSmile: no
+[4:51:12] izza_cat: no
+[4:51:14] frozoneee: no
+[4:51:19] izza_cat: just walk / fly thru
+[4:51:42] hey_rooo: lol
+[4:51:42] izza_cat: lol
+[4:51:42] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:51:45] jasonkbkt: Didn't know that myself
+[4:51:55] moonglaives: yeah that port sucks
+[4:51:59] frozoneee: chicken Dew, MuthaFLUCK
+[4:52:22] izza_cat: hell yeah! Happy bday to him
+[4:52:22] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[4:52:29] fantasiesgx: does your kid play wow yet
+[4:52:33] judojulia: what time do you have to wake up?
+[4:52:36] GamerDragonWoW: im still wondering why they havent put a valdrakken portal there yet
+[4:53:05] stefi__09: how old is ur son :D
+[4:53:06] frozoneee: Can't wait to get up early for work, 55hours here we gooooo
+[4:53:40] jasonkbkt: Time for a new job
+[4:54:07] moonglaives: sick mog
+[4:54:47] marxqtz: @frozoneee 55 effective hours ?
+[4:55:24] frozoneee: 6 days a week, 9-12 hr days lately -.-
+[4:55:43] marxqtz: what do you do ?
+[4:55:48] frozoneee: Cook.
+[4:56:30] dmason828: you can send that pally honor from your other toons too if theyre capped
+[4:56:34] marxqtz: hard work..
+[4:56:35] frozoneee: at least 45 minutes of that is just me complaining someone else called off tbh
+[4:57:03] XamusTV: is there a good 2v2 evoker double dps comp? @cdewx
+[4:57:03] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[4:57:50] thinkablelol: yes
+[4:57:55] phnx2k: No
+[4:58:00] lundbergmackan: you cant buy any token from them tho
+[4:58:21] truthjuulskill: lol i remember watching stream when you logged there damn time flies
+[4:58:23] tom2012euloljkeu: mesdalemd throwback to raiding in tomb of sargeras
+[4:58:32] tom2012euloljkeu: dewland
+[4:58:35] Cybernytez: goo ol legion
+[4:59:56] lundbergmackan: your monk?
+[4:59:57] Moobot: Latest YT Video: Cdew's Guide to Restoration Druid PVP | Dragonflight 10.2 - youtu.be/EPyCHutkldQ
+[5:01:03] Cybernytez: the dad POGGERS
+[5:01:07] Applezbtw: dad always comes through
+[5:01:36] isseswagger: 15k honor is full honor gear
+[5:01:55] isseswagger: I see
+[5:02:22] Reticen: do you think ele shaman is the best ranged dps in pvp right now?
+[5:02:23] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[5:03:34] DarkVoid507: bro yeah its quick to gear now
+[5:03:51] DarkVoid507: fresh rogue all purp except trinks in 2 days
+[5:05:15] thinkablelol: 1600 u get a tier don't forget
+[5:05:43] ar1dqt: do you get the piece from 1600 in solos too?
+[5:06:18] sheep_duck: spark deez nuts
+[5:06:21] ar1dqt: no i meant do you get it form solos as well or does it have to be 2s/3s
+[5:07:00] colin_md1: wait easy quests there insta 100 flightstones
+[5:07:01] colin_md1: ahh
+[5:07:18] Robbielee1991: yes
+[5:07:24] DarkVoid507: 2 set is gooch
+[5:07:24] Moobot: Liquid plus is a FREE website that allows fans to earn unique rewards by watching any team liquid related content or completing quests that are available on the website! My items in the shop consist of a signed Cdew jersey, a vod review or a custom Cdew mousepad! Signup now at https://tl.gg/cdewplus. To learn more about liquid plus please watch this video! https://www.twitch.tv/videos/1303902175?filter=highlights&sort=time
+[5:08:29] lundbergmackan: You want alot mastery as hpala nowadays
+[5:08:29] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[5:08:43] lundbergmackan: divine vision
+[5:08:58] DarkVoid507: i play denounce in 2s
+[5:08:59] lundbergmackan: ya glare is bis
+[5:09:01] luckydyldo: glaze
+[5:09:24] lundbergmackan: I can send u mine if u want
+[5:09:27] Darkmindz_: is holy pally meta now?
+[5:09:30] truthjuulskill: do people still play ult sac?
+[5:09:44] jasonkbkt: Holy prism
+[5:09:51] ScumbagMusc: do you not use murlok.io?
+[5:09:54] lundbergmackan: BEEAomTTpSA9oX6huYLb5nP3rDAAAQAARAAACQJSDal0SSrIikQJJJKaiCikUEIJRkCaICAIAQBIkkgA
+[5:10:03] jasonkbkt: Gives u holy power
+[5:10:47] jasonkbkt: Well okay then I'll go fo myself
+[5:11:03] jasonkbkt: Joking
+[5:11:10] jasonkbkt: On a phone
+[5:11:18] thinkablelol: no
+[5:11:22] thinkablelol: crit mast
+[5:11:35] jasonkbkt: I've been playing full mastery myself
+[5:11:38] bornbetter: oh shit youre gearing the pala??
+[5:11:47] lundbergmackan: I have 23% crit, 16% haste, 45% mastery, 30% vers (outside pvp combat)
+[5:11:51] Pkbrunben: Mastery / xritt
+[5:11:53] bornbetter: we expect r1
+[5:11:55] Pkbrunben: Critt
+[5:13:06] bornbetter: awww puppies
+[5:13:24] Pkbrunben: Most people play much more mastery, just started pala yesterday and did check pvp on alot of palas high rated
+[5:13:33] decayed_life: decayed_life subscribed at Tier 1. They've subscribed for 48 months, currently on a 14 month streak! 
+[5:13:35] jasonkbkt: We gonna see 1 shuffle tonight?
+[5:13:35] Moobot: Follow me! https://twitter.com/cdew_wow https://www.youtube.com/tenderloinx1
+[5:13:55] jasonkbkt: Sweet
+[5:14:11] jasonkbkt: Ahh damn
+[5:14:16] tom2012euloljkeu: send 1 surely
+[5:15:23] tom2012euloljkeu: peace
+[5:15:32] delphikai: pde
+[5:15:37] Pkbrunben: Ty for stream!

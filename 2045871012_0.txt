@@ -1,0 +1,1686 @@
+[0:00:08] StreamElements: notmes is now live! Streaming World of Warcraft: [DROPS] Mes <Liquid> - pvp
+[0:00:35] krome2dadome: YO
+[0:01:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[0:05:05] DBMezzy: so how bdk
+[0:07:07] MedtnerFangirl: this is gonna be so sautéed
+[0:07:23] Moobot: Please be sure to ask permission before posting links in chat! (@ThisIsJesusx)
+[0:07:44] ThisIsJesusx: BibleThump
+[0:08:16] nikthevoker: LMFAO the BDK games
+[0:09:59] ThisIsJesusx: yo, i've question about ret pala. I play this build BYEAAAAAAAAAAAAAAAAAAAAAAAAAAQAACKtWSpUOgoEJplEAAAAAAQahkkUASCRKRgQKpIKhIJIiShWAA ( i sent link in calculator, but build like yours, changed not a lot ). Is it normal if i don't have any cds like no holy powers, no charges of blades and judgments, no another saves and flash healing too on cd, just like 2-4 sec afk and i've too often with long games
+[0:10:31] ThisIsJesusx: i would be happy if u give me good tip about this :3
+[0:10:52] DBMezzy: akroGop
+[0:11:04] DBMezzy: Yeah he will go on ret to test it
+[0:11:17] nikthevoker: BIG DAM
+[0:11:19] skidetko: i guess unholy no longer viable?
+[0:11:37] ThisIsJesusx: nah, he can check it in calclator and see talents also i said, it's around his talents
+[0:12:00] ThisIsJesusx: calculator*
+[0:13:14] krome2dadome: was wondering why ur runes were red
+[0:13:19] krome2dadome: it all makes sense now
+[0:14:15] nikthevoker: "funny"
+[0:14:44] ZeroJenkins: wait why are we playing tanks in 3's now?
+[0:14:54] nikthevoker: have you tried chains?
+[0:15:15] skidetko: im so sad about unholy
+[0:15:19] disquared: !runes
+[0:15:19] Nightbot: it’s !points
+[0:15:19] StreamElements: Use addon in !scripts or use: /run RuneFrame:ClearAllPoints() RuneFrame:SetPoint("CENTER",UIParent,"CENTER", 6,-75) RuneFrame.SetPoint = function() end RuneFrame:SetScale(1.5)
+[0:15:59] ZeroJenkins: i mean where are you getting kill pressure playing blood?
+[0:17:24] DBMezzy: when being annoying is the choice to win lol
+[0:17:40] wEiRdO_dUdE: CurseLit CurseLit CurseLit
+[0:17:44] SsatanSpeedsUp: yo why dk blood is buff?
+[0:19:15] salaprita1: are you playing rune of sanguination?
+[0:19:16] neroxztv: mob is very good into melee cleaves
+[0:19:29] neroxztv: it works with ever auto
+[0:23:06] Arthyius: blood dk what is happening???
+[0:23:06] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[0:26:58] drholymolyy: blood???????
+[0:27:20] the_allmighty_oz: dont we have zero impact as blood>?
+[0:28:00] Arthyius: Why blood over UH/Frost?
+[0:28:09] neroxztv: is ruin of sanguination worth it?
+[0:28:13] neroxztv: rune*
+[0:28:20] WalleBrew: do you think blood is viable?
+[0:29:14] rautaxd: Are you running 4 set?
+[0:29:17] Arthyius: very interesting to see, doesn't seem fun at all to grind out haha
+[0:30:29] NiecheTrips: !song
+[0:30:29] StreamElements: @NiecheTrips No song is current playing.
+[0:30:33] NiecheTrips: :(
+[0:31:12] luriosbael: almost a mil channel points :D
+[0:31:35] luriosbael: !gamble all
+[0:31:35] StreamElements: luriosbael went all in and lost every single one of their 4005850 runes LUL
+[0:33:34] neroxztv: I wanna see cdew fistweaver
+[0:33:36] neroxztv: with this comp
+[0:34:52] ionlyplaymetas: have you tried playing "clenching grasp" into casters instead of using a pvp talent to get "walking dead" it allows you to get spellwarden and strangulate pvp talents.  this is the build ive run vs megamobile casters like arcane BoPAAAAAAAAAAAAAAAAAAAAAAACJJJRISSJSiEJiECSiEAAAAAgkIJ5AEJNhIAAAhkkEAAAA
+[0:35:18] hyeyo: supatese is about to make a tierlist about this
+[0:36:05] ionlyplaymetas: yea idk how it is vs monks, but it felt really good vs mage
+[0:36:25] ionlyplaymetas: yea
+[0:36:40] Ketchypie: !addons
+[0:36:41] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[0:36:49] dranzergx: Lol why blood dk?
+[0:36:52] ionlyplaymetas: but it was SS so i didnt always have a teammate slowing, and it cant be dispelled like chains
+[0:37:29] Begasaur: evening
+[0:37:34] viikiingowl: do you ever play frost?
+[0:37:58] Lamatastisch: so does that mean unholy is dead since you play blood now? Sadge
+[0:38:56] ionlyplaymetas: @Lamatastisch unholy is dead because blizz killed it with this patch lol
+[0:39:30] Lamatastisch: ye the armor nerf was a bit too much for it, felt it yesterday really hard
+[0:40:13] sunileif: this mean blood is no longer a tank spec?
+[0:41:03] ionlyplaymetas: also have you played "murderous intent" in 3s its 9% increased dmg from you and both your teammates. Its infinitely refreshed with your attacks and with your comp it would basically always be 3 stacks
+[0:41:24] josephzein: whats the best current build for unholy mes?
+[0:41:24] neroxztv: ^12% with a war reflect
+[0:42:12] ionlyplaymetas: @neroxztv really? it stacks another time because of the reflect? thats awesome i didnt know
+[0:42:29] ionlyplaymetas: i need to find an arms now lol
+[0:43:02] neroxztv: yea
+[0:43:12] neroxztv: there is an eu team that plays blood arms fw
+[0:43:12] Moobot: Join my Discord community! https://discord.gg/mes
+[0:45:35] DBMezzy: @neroxztv he knows
+[0:45:55] sunileif: CRUSH THAT DRUID!
+[0:46:00] sunileif: MAKE HIM CRY!
+[0:46:39] DBMezzy: LOL
+[0:46:41] sunileif: yeeeeeeeeeeeees!
+[0:46:59] Jankenz: 1 health?!
+[0:47:05] gremell: what the hell did he hit him with
+[0:47:16] DBMezzy: https://clips.twitch.tv/ZealousThankfulEggBlargNaut-STB-DX3fAM30Kghb
+[0:47:21] ThermalActivity: i saw 1 hp
+[0:48:51] ripinpeace10: is blood actually good ? worth gearing for?
+[0:49:08] ripinpeace10: what makes it good
+[0:49:27] DBMezzy: @ripinpeace10 tanky, can support, has damage
+[0:49:37] ripinpeace10: that sounds very fun lol
+[0:49:42] ripinpeace10: @notmes can i see talents?
+[0:50:11] ripinpeace10: is it like a meme spec or actually viable
+[0:52:45] nikthevoker: LUL we just got both epics in BFD, and a hunter tried to ninja the staff
+[0:53:45] stockbridge10: gl
+[0:55:42] DBMezzy: @bear08988 arcane with anyone
+[0:56:19] Bhoujee: What is ur rotation as blood dk ? @notmes
+[0:56:32] ripinpeace10: @notmes thoughts on blood dps? is it a meme spec in pvp or actually in the meta
+[0:56:32] ionlyplaymetas: Trill should just gear a Blood dk so you can play double blood/dmg pres lol say goodbye to all these caster cleaves
+[0:56:43] DBMezzy: whats the stats @notmes
+[0:56:51] nikthevoker: HEALER MES
+[0:57:10] DBMezzy: mesnotmes
+[0:57:19] DBMezzy: cervFifty
+[0:57:42] nikthevoker: the move rematch
+[0:57:43] darrenchen2000: blood dk seriously lmfao
+[0:57:46] darrenchen2000: this is what dk has come to
+[0:58:02] dotxy: What changed about blood DK to make them viable now?
+[0:58:07] nikthevoker: ya
+[0:58:09] Rainbowmes: not everyone can have a biased dev keeping their class immortal for 3 years
+[0:58:20] ionlyplaymetas: time to go watch pikaboos pov
+[0:58:58] DBMezzy: yeah fun viewers 1.6 games
+[0:59:00] DBMezzy: fun to watch
+[0:59:11] neroxztv: LUL
+[0:59:15] nikthevoker: LMFAO
+[0:59:24] nikthevoker: their comms went silent
+[0:59:27] Bhoujee: @notmes whats ur rotation as blood dk ?
+[0:59:30] nikthevoker: LMFAO
+[0:59:31] iamalittlefairy: why is bdk so strong now
+[1:00:10] nikthevoker: mes i hate you so much..... im gonna be facing this shit in shuffle tomorrow
+[1:00:30] DBMezzy: @nikthevoker the na sees one shit and copycat all ladder
+[1:00:32] DBMezzy: rofl
+[1:00:35] nikthevoker: this is just aug
+[1:00:58] ionlyplaymetas: pikas chat is so tilted @ blood dk LMAO rogue enjoyers when they cant 100-0 someone every 30 seconds
+[1:01:04] nikthevoker: all over again, you cant die and big shield for friend,
+[1:01:10] MartianPig: MartianPig subscribed at Tier 1. They've subscribed for 34 months! 
+[1:01:10] StreamElements: MartianPig just subscribed for 34 months in a row mesDad mesDad mesWeckso
+[1:01:19] nikthevoker: @ionlyplaymetas its so great you can taste the salt
+[1:01:35] MartianPig: MartianPig is gifting 50 Tier 1 Subs to notmes's community! They've gifted a total of 50 in the channel! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to arthaher! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to otownraiders! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to crittu90! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to bigpapafood! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to awkwardaxolotl! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to sethgoodtime! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to B_Lappy! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to al3xavr0s! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to sgtstarfox! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to VarietyPanda! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to Loadedmvp! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to deltrexx! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to hyttz120! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to OhioReece! 
+[1:01:37] MartianPig: MartianPig gifted a Tier 1 sub to Bigpenance! 
+[1:01:38] MartianPig: MartianPig gifted a Tier 1 sub to aukiwauki! 
+[1:01:38] StreamElements: arthaher just subscribed mesDad mesDad mesWeckso
+[1:01:38] StreamElements: crittu90 just subscribed mesDad mesDad mesWeckso
+[1:01:38] StreamElements: B_Lappy just subscribed mesDad mesDad mesWeckso
+[1:01:39] StreamElements: otownraiders just subscribed mesDad mesDad mesWeckso
+[1:01:39] StreamElements: sethgoodtime just subscribed mesDad mesDad mesWeckso
+[1:01:39] StreamElements: bigpapafood just subscribed mesDad mesDad mesWeckso
+[1:01:40] StreamElements: awkwardaxolotl just subscribed mesDad mesDad mesWeckso
+[1:01:40] StreamElements: deltrexx just subscribed mesDad mesDad mesWeckso
+[1:01:41] StreamElements: Knightmare2018 just subscribed mesDad mesDad mesWeckso
+[1:01:41] StreamElements: jamieirl just subscribed mesDad mesDad mesWeckso
+[1:01:41] StreamElements: VarietyPanda just subscribed mesDad mesDad mesWeckso
+[1:01:42] StreamElements: ItsOtis_ just subscribed mesDad mesDad mesWeckso
+[1:01:42] StreamElements: Chaseisraw just subscribed mesDad mesDad mesWeckso
+[1:01:43] StreamElements: Gcannonz just subscribed mesDad mesDad mesWeckso
+[1:01:43] StreamElements: sgtstarfox just subscribed mesDad mesDad mesWeckso
+[1:01:44] StreamElements: shrigzx just subscribed mesDad mesDad mesWeckso
+[1:01:44] StreamElements: eXil1337 just subscribed mesDad mesDad mesWeckso
+[1:01:45] StreamElements: ecofriend7 just subscribed mesDad mesDad mesWeckso
+[1:01:45] StreamElements: Crazyjuniot just subscribed mesDad mesDad mesWeckso
+[1:01:45] StreamElements: hyttz120 just subscribed mesDad mesDad mesWeckso
+[1:01:46] StreamElements: OhioReece just subscribed mesDad mesDad mesWeckso
+[1:01:46] StreamElements: al3xavr0s just subscribed mesDad mesDad mesWeckso
+[1:01:46] StreamElements: AssailantLUL just subscribed mesDad mesDad mesWeckso
+[1:01:47] StreamElements: mcbleek just subscribed mesDad mesDad mesWeckso
+[1:01:47] StreamElements: Obligating just subscribed mesDad mesDad mesWeckso
+[1:01:47] StreamElements: GoodeMobs just subscribed mesDad mesDad mesWeckso
+[1:01:48] StreamElements: ablacksheepy just subscribed mesDad mesDad mesWeckso
+[1:01:48] StreamElements: Boneswirl just subscribed mesDad mesDad mesWeckso
+[1:01:49] StreamElements: Loadedmvp just subscribed mesDad mesDad mesWeckso
+[1:01:49] StreamElements: deepakchoppa just subscribed mesDad mesDad mesWeckso
+[1:01:49] StreamElements: Patrixen just subscribed mesDad mesDad mesWeckso
+[1:01:50] StreamElements: fannel1704 just subscribed mesDad mesDad mesWeckso
+[1:01:50] rhowen4: HOLY
+[1:01:50] StreamElements: justacyrus2 just subscribed mesDad mesDad mesWeckso
+[1:01:50] sasinuka: lol
+[1:01:50] StreamElements: TheKayo just subscribed mesDad mesDad mesWeckso
+[1:01:51] StreamElements: Tepre just subscribed mesDad mesDad mesWeckso
+[1:01:51] StreamElements: Bigpenance just subscribed mesDad mesDad mesWeckso
+[1:01:52] StreamElements: Roseqt just subscribed mesDad mesDad mesWeckso
+[1:01:52] Obligating: @MartianPig Thanks for the gift sub!
+[1:01:52] StreamElements: orikinalcurre just subscribed mesDad mesDad mesWeckso
+[1:01:52] StreamElements: Saphilock just subscribed mesDad mesDad mesWeckso
+[1:01:53] StreamElements: bestdkig just subscribed mesDad mesDad mesWeckso
+[1:01:53] StreamElements: Bearom_ just subscribed mesDad mesDad mesWeckso
+[1:01:54] StreamElements: twinbladeuk just subscribed mesDad mesDad mesWeckso
+[1:01:54] StreamElements: skeebod just subscribed mesDad mesDad mesWeckso
+[1:01:54] StreamElements: aukiwauki just subscribed mesDad mesDad mesWeckso
+[1:01:55] StreamElements: notDenadiir just subscribed mesDad mesDad mesWeckso
+[1:01:55] StreamElements: SketchyGoose13 just subscribed mesDad mesDad mesWeckso
+[1:01:55] StreamElements: Metamorx just subscribed mesDad mesDad mesWeckso
+[1:01:56] StreamElements: laserturtle77 just subscribed mesDad mesDad mesWeckso
+[1:01:56] StreamElements: oldmatevis just subscribed mesDad mesDad mesWeckso
+[1:01:56] StreamElements: whatupwrist just subscribed mesDad mesDad mesWeckso
+[1:02:00] b_lappy: @MartianPig Thanks for the gift sub!
+[1:02:21] rhowen4: EZ dodge
+[1:02:23] ionlyplaymetas: @nikthevoker fr lol they are still going off about blood in chat lol welcome to how the rest of us felt about rogue for the last 2 months
+[1:02:45] Rainbowmes: 2 years*
+[1:02:51] nikthevoker: all expac with 1 spec/build or another of rogue atelast
+[1:02:55] Saphilock: @MartianPig Thanks for the gift sub!
+[1:03:05] ripinpeace10: @notmes thoughtson blood? how does it feel is it worth trying out why is it good lol
+[1:03:27] Aramith9: thats 25% of ure stream lol
+[1:03:27] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:03:35] mcbleek: thanks for the sub!!
+[1:03:41] ionlyplaymetas: lets be honest, rogue has been a menace for the last 19 years of WoW lol 2 classes i will never feel bad for getting gutted, mage and rogue
+[1:03:45] nikthevoker: martian IS as legendary as johnny, almost
+[1:03:54] MartianPig: Lol
+[1:04:10] MartianPig: I never have seen anyone drink wine like you
+[1:04:16] dawsonator171: Blood 3s? have we gotten that toxic?
+[1:04:19] nikthevoker: mes was doube fisting
+[1:04:46] nikthevoker: what werent you drinking
+[1:04:52] sunileif: mes was triple fistign it
+[1:04:59] mcbleek: are you using the death strike execute weap enchant?
+[1:05:15] Mykaels: is blood / unholy a possible angle here
+[1:05:25] ripinpeace10: @notmes can you explain blood how is it good ?
+[1:05:27] MartianPig: yeah i think we got champaige first (how to even write that in english) and then red wine
+[1:05:32] dawsonator171: mes had 2 drinks in hand, one held with both feet and a fourth held with his additional appendage.
+[1:05:33] DBMezzy: @notmes d u need 4 set on bdk?
+[1:05:37] mcbleek: nice! I was hitting fat DS today
+[1:05:45] oHodz: Blood daddy
+[1:05:45] MartianPig: and it just disappered from your glass lol
+[1:06:12] nikthevoker: @dawsonator171 and the beer hat
+[1:06:22] dawsonator171: I believe it's champagne in english.
+[1:06:36] cyndi247: hey mes! PokPikachu HypeLUL
+[1:06:48] MartianPig: @dawsonator171 seems right
+[1:07:06] dawsonator171: supa bout to make a vid after this game.
+[1:08:50] DBMezzy: @notmes what stats for bdk? d u need 4 set?
+[1:08:59] ripinpeace10: @notmes how is blood dk in pvp
+[1:09:19] nikthevoker: what about port stun? whats the cd on that?
+[1:09:22] Mykaels: blood bear true...
+[1:09:43] spazztiks: spazztiks subscribed at Tier 1. They've subscribed for 25 months, currently on a 24 month streak! 
+[1:09:43] dotxy: so what is new about blood to make it viable?
+[1:09:43] StreamElements: spazztiks just subscribed for 25 months in a row mesDad mesDad mesWeckso
+[1:10:03] mcbleek: just curious, why ww?
+[1:10:46] dawsonator171: I swear that gorefiend's could be really good in this.
+[1:11:15] DBMezzy: how does unholy bound works on the sang rune?
+[1:12:10] xiliketurtlex: just feel like arms could work better
+[1:13:18] cyndi247: @notmes do you play any other classes?
+[1:14:07] nikthevoker: iti wonder how Hpal would be
+[1:14:30] ripinpeace10: @notmes could you kindly explain why blood is a thing now :)
+[1:15:35] nikthevoker: you can stand outside earthern LUL
+[1:15:50] nikthevoker: like every other melee
+[1:16:16] ionlyplaymetas: !gamble all
+[1:16:16] StreamElements: ionlyplaymetas went all in and lost every single one of their 8019255 runes LUL
+[1:16:54] stockbridge10: hf
+[1:16:56] cyndi247: @ionlyplaymetas ouch 😳
+[1:17:00] antywow: where is that cat mount from?
+[1:17:24] cyndi247: @antywow wow store
+[1:17:44] cyndi247: it’s super cute 🥰
+[1:18:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[1:18:36] nikthevoker: TOXIC MES
+[1:18:52] antywow: thank you @cyndi247
+[1:19:01] ripinpeace10: what did you hit him with
+[1:19:16] nikthevoker: Bdk farms pet teams
+[1:19:22] cyndi247: @antywow :>
+[1:19:53] RottenBanana209: lowkey kinda wanna see this on awc
+[1:20:31] RottenBanana209: 1.6m hp ftw
+[1:20:43] sunileif: bdk/outlaw?
+[1:20:47] Lamatastisch: !gamble all
+[1:20:48] StreamElements: PogChamp Lamatastisch went all in and won 1009920 runes PogChamp they now have 2019840 runes FeelsGoodMan
+[1:20:53] mcbleek: highkey want to see this in awc
+[1:21:14] rhowen4: highkey same
+[1:21:22] cyndi247: @lamatastisch nice!
+[1:21:27] Lamatastisch: EZ
+[1:22:15] cyndi247: I feel like a slacker with my 4.1k 😂
+[1:22:23] rhowen4: !gamble all
+[1:22:23] StreamElements: PogChamp rhowen4 went all in and won 331042 runes PogChamp they now have 662084 runes FeelsGoodMan
+[1:22:34] nikthevoker: just grip the healer away 20times while trill solos someone in AWC LUL
+[1:23:00] cyndi247: @rhowen4 🎉 nice
+[1:23:03] mcbleek: what nik said ^^
+[1:23:21] rhowen4: @cyndi247 :D
+[1:23:24] ripinpeace10: @notmes is blood worth gearing for ? or is it a meme spec
+[1:23:29] nikthevoker: with the casters laughing their asses off
+[1:23:30] Moobot: Join my Discord community! https://discord.gg/mes
+[1:23:34] dawsonator171: maybe drop thirst into gorefiend's into cleave?
+[1:24:13] Hani_Senpai: FINALLY
+[1:24:19] Hani_Senpai: I'm so happy he's off that damned Pres
+[1:25:20] stockbridge10: not the same map
+[1:25:23] stockbridge10: that was quick
+[1:25:30] stockbridge10: just looked away for a minute
+[1:25:43] cyndi247: blood dk healing is insane lol
+[1:26:25] cyndi247: why isn’t trill playing rogue?
+[1:26:54] dawsonator171: go dev ryan.
+[1:27:00] nikthevoker: ya i was thinking like pres or Hpal maybe, rsham too ass atm, maybe better with TR gear? or does he have roughly equiv
+[1:27:34] Hani_Senpai: Is he not feeling his rdruid or what?
+[1:28:14] stockbridge10: gl
+[1:28:19] alltimer1986: @notmes can you play tank in AWC ?
+[1:28:20] nikthevoker: @dawsonator171 we can only hope
+[1:28:37] sunileif: been saying bdk/outlaw for 2 days
+[1:28:56] dawsonator171: I swear dev could be good too, because of the sustain.
+[1:29:09] nikthevoker: i want a Bdk to try with dev now LUL
+[1:29:11] sunileif: best option for them would be to train cdew
+[1:29:59] cyndi247: look at that ret damage 😳
+[1:30:05] dawsonator171: i have a blood dk nik.
+[1:30:07] dawsonator171: js
+[1:30:22] dawsonator171: still working on haste gear.
+[1:30:48] cyndi247: @nikthevoker lemme know when you’re streaming that comp please KomodoHype :>
+[1:33:31] healhut: good god vanguards is pumping lol
+[1:33:44] nikthevoker: would just need a pres or something that doesnt mind being hated LUL and we good
+[1:33:56] DBMezzy: Those knocks
+[1:34:01] Bhoujee: whats the rotation for blood dk to pump just spam ds ?
+[1:34:19] rhowen4: grats 1701
+[1:34:46] cyndi247: @nikthevoker haha no kidding
+[1:35:37] forgottenmarsh: I dont remember you playing blood be4. Have you tried it in the past?
+[1:36:05] thepartyzone: this a possible strat for awc? blood dh
+[1:38:01] nikthevoker: it will prolly be run in EU
+[1:38:32] nikthevoker: look at your healing
+[1:38:40] uninstallspeedrun: @Bhoujee you can see his rotation on the bottom left
+[1:38:46] americanmoses18: oh god mes doing bdk 3s LOL
+[1:39:04] bighamm1986: yo
+[1:39:08] bighamm1986: is this the new tech
+[1:39:34] nikthevoker: we need mike on pres @dawsonator171 ! or someone EZ
+[1:39:41] DBMezzy: does shattering bone do good damage? @notmes
+[1:39:57] sunileif: @americanmoses18 thought i reported you?
+[1:40:20] americanmoses18: ur the worst and ill never forget this @sunileif
+[1:40:38] sunileif: jk thats somethign klink would do
+[1:42:22] nikthevoker: are you using vamp blood offensive or saving it for defensive?
+[1:43:48] krome2dadome: only 76k hps? smh mes
+[1:43:48] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[1:44:33] Im_Tarson: howdy folks
+[1:45:05] cyndi247: do you get anymore money if I subscribe and have turbo?
+[1:45:10] ripinpeace10: @notmes would you recommend blood to gear up for? looks fun but looks like you need stars to align to win games
+[1:45:17] cyndi247: just curious
+[1:45:28] JustTaki: is tombstone all your burst as blood?
+[1:47:24] wEiRdO_dUdE: dancing rune weapon is the big burst
+[1:47:27] downdrivee: !talents
+[1:47:28] StreamElements: BwPA/gf1fDREKLfAcG9Z2HkF/BAiEhIHItIRSkIRIikIJAAAAAAAAAgCJRSikkGAAhUSkkkgE
+[1:47:33] dawsonator171: last 6 lobbies have been 2-3 rounds then a leaver
+[1:47:35] dawsonator171: i hate this game
+[1:47:46] Im_Tarson: you think it could work in SS?
+[1:47:48] ripinpeace10: @notmes would you recommend blood to gear up for? looks fun but looks like you need stars to align to win games 󠀀
+[1:47:57] Im_Tarson: leavers in SS are theworrrsst
+[1:54:06] McLarge: So I know Blood DK is hella broken, but is it really better than UH with this comp?
+[1:56:57] WagwanBombaClatBomba: think blood dk need like war fistweaver
+[1:57:07] WagwanBombaClatBomba: sharpen
+[1:57:39] xiliketurtlex: yea looks like has to be arms to work
+[1:58:08] McLarge: Unless it's changed since last I saw it
+[1:59:00] Docta_tv: mesDad
+[1:59:06] unclebatx: hows blood dk in 3s
+[1:59:59] al_capow: yooo
+[2:05:49] Redpeanut01: mesAlpaca
+[2:05:50] Moobot: Join my Discord community! https://discord.gg/mes
+[2:06:04] Redpeanut01: mesAlpaca mesAlpaca
+[2:10:41] Dudewuut: mes, you prefering bursting/plague over dot rot/clawing?
+[2:11:10] nikthevoker: fml i was laughing so hard i missed my almost 2hr queue in shuffle LUL
+[2:11:29] nikthevoker: im done for tonight after that
+[2:13:23] sicmatesick09: hey mes have you tried pet build with the 4 set could it be good ?
+[2:14:57] DBMezzy: @sicmatesick09 no. bad
+[2:16:57] wEiRdO_dUdE: enhancement has that crazy RNG damage spike potential, I saw it happen the other day too
+[2:19:19] Yankee_ZuIu: cloth > plate 🤣
+[2:21:15] ripinpeace10: !wa
+[2:21:15] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[2:22:09] Yankee_ZuIu: CDEW just getting old 😅
+[2:26:16] SpeedyMcD: so i take it DK is even more paper now
+[2:26:17] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[2:27:03] wEiRdO_dUdE: Awesome!
+[2:28:28] moosethakid: mes 4 set vs no set?
+[2:30:22] moosethakid: fair you get way more vers without too
+[2:30:28] moosethakid: just giving more suvivability
+[2:30:42] wEiRdO_dUdE: It sounds kind of like 40% vers on Unholy to me
+[2:31:45] supatease: r u guys even having fun u guys sound down
+[2:32:48] Dudewuut: can you peep petkick dam breakdown see which build he was playing
+[2:32:51] moosethakid: sorry to keep asking but with no set gear do you still take magus build? or lean more into coil and more sudden doom talents
+[2:34:09] Rainbowmes: because dks dont have a biased dev like rogues do
+[2:35:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[2:35:21] nikthevoker: gotta say mes being toxic and making demo lives hell is best bday present LUL
+[2:35:29] Devcomz: The Rogue Dev loves outlaw and sub but hates Assa
+[2:35:29] sunileif: fuck rogues
+[2:38:00] morgraz: HAPPY BDAY NIK
+[2:39:57] sunileif: blood is the only way
+[2:40:14] Kinetsu: Blood seems to be the only legit spec
+[2:40:21] sicmatesick09: pet build ?
+[2:44:36] nikthevoker: i wonder how bdk chains works with DH dmg, how OP
+[2:44:41] soley_96: what’s happening shagger
+[2:44:42] Kinetsu: Is fury war a decent pvp spec?
+[2:44:51] icyyyspicyyy: yooo messenheimer
+[2:45:41] sunileif: more blood?
+[2:46:06] sicmatesick09: @soley_96  waiting get home so I can que
+[2:46:39] uninstallspeedrun: is blood meme dead already
+[2:46:39] Moobot: Join my Discord community! https://discord.gg/mes
+[2:47:50] skidetko: no more blood dk?
+[2:48:06] skidetko: doin same dmg tho
+[2:49:21] skidetko: whats the point of unholy tho
+[2:49:53] skidetko: into the ww war u'd be dead in 5 seconds
+[2:50:17] wEiRdO_dUdE: DxCat DxCat DxCat
+[2:50:51] Ddzyx: !wa
+[2:50:51] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[2:51:23] Roseqt: mesFryed4
+[2:58:41] sunileif: shovel
+[2:59:01] boyz1331: what is nameplate big mark waekauras??
+[2:59:37] americanmoses18: awww no moar blood sadge
+[3:00:47] wEiRdO_dUdE: Well, there might need to be a defense of the rank 1 rating for blood, toward the end of the season
+[3:01:42] telen46: what happened with blood? why is it being played now?
+[3:02:14] Darwin_Award_Disqualified: It is just that time of the month.
+[3:02:52] wEiRdO_dUdE: Blood is kind of like another aug evoker, people just didn't realize it until recently
+[3:05:33] husky_305: didn’t press silence
+[3:06:11] wEiRdO_dUdE: Blood has a lot of utility to help its team out, and decent burst with dancing rune weapon
+[3:08:36] hatedtoon: What is your main build on warrior? im struggling to keep my dam consistant
+[3:08:36] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[3:08:45] hatedtoon: hatedtoon gifted a Tier 1 sub to Firepumav2! 
+[3:08:45] hatedtoon: hatedtoon is paying forward the Gift they got from krome2dadome to the community! 
+[3:08:45] hatedtoon: hatedtoon is gifting 1 Tier 1 Subs to notmes's community! They've gifted a total of 2 in the channel! 
+[3:08:45] StreamElements: Firepumav2 just subscribed mesDad mesDad mesWeckso
+[3:09:49] sze127: sp is bot, same as Pokemon
+[3:17:27] wEiRdO_dUdE: Cupid down!
+[3:17:46] americanmoses18: man i cannot get more than 3 wins on my ret ello is such fucking hell rn
+[3:17:55] xiliketurtlex: someone said that priest is a bot
+[3:18:23] sunileif: @xiliketurtlex thems strong words... dont go throwing around rumors
+[3:18:29] telen46: think its mostly having vts on every target and capitalizing on psychic link
+[3:18:39] xiliketurtlex: it wasnt me who said it
+[3:18:44] xiliketurtlex: scroll up
+[3:19:13] nooahww: dk dots are shadow dmg?
+[3:19:22] sunileif: seems normal to me
+[3:19:45] CmgxD: it's realistic to do that much damage into pets when you aren't being hit because of how the apps talents scale
+[3:19:45] krome2dadome: wym?
+[3:19:52] telen46: did a lot to army of the dead so maybe hes playing void crash and mass dotting pets for crazy psychic link dam
+[3:19:54] CmgxD: but afaik the bots dont play deathspeaker so their death damage is low
+[3:19:56] CmgxD: liek his
+[3:19:56] Dudewuut: spr similar to affi after last week buffs
+[3:19:57] crusadein: @nooahww 2 shadow 1 frost
+[3:20:26] CmgxD: it's how tormented spirits talent works, you scrash pets and it procs tons of apps
+[3:20:47] CmgxD: i think he's botting though, not playing deathspeaker, only seen bots do that
+[3:21:21] CmgxD: yeah prob botting then
+[3:23:34] Dudewuut: can you peep petkick damage breakdown to see which build he is playing
+[3:23:41] darrenchen2000: mes does dk still feel like shit
+[3:23:43] darrenchen2000: ?
+[3:25:38] iamalittlefairy: where is the blood dk
+[3:27:52] healhut: benched
+[3:28:02] americanmoses18: we want blood
+[3:28:10] darrenchen2000: what ur build
+[3:28:11] darrenchen2000: mes
+[3:29:11] sunileif: mosey is right we need mor eblood
+[3:29:11] Moobot: Join my Discord community! https://discord.gg/mes
+[3:30:51] omkar3108: PogChamp
+[3:37:13] DirtyRandy__: is the legendary good in pvp?
+[3:37:40] sunileif: mes gets leggo next week
+[3:37:49] sunileif: then rea;;y goes blood
+[3:37:58] sunileif: then profit
+[3:41:35] sunileif: bdk/out/rdru please ;3
+[3:42:55] enigmagamingx: give up on blood?
+[3:43:28] Dudewuut: cdew just doesn't understand the power of the pimple popper
+[3:44:54] nooahww: maybe im wrong but i feel like clawing hittig still hard i had 120crits today
+[3:45:20] nooahww: k*
+[3:45:49] crusadein: @nooahww its not bad its just ppl are using talents that arent nerfed instead to optimize
+[3:47:05] nooahww: what do u mean?
+[3:47:42] nooahww: rotten touch been nerfed but still its working kinda nice
+[3:49:32] anmusallam: Was that pettyk
+[3:49:33] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[3:50:48] anmusallam: Mes did you get rank 1 blood in one sitting yesterday
+[3:50:53] anmusallam: I saw you no 1
+[3:52:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[3:57:11] sparticles: how does that mount even fly
+[3:57:42] sparticles: yeah
+[3:57:45] dawsonator171: just because it's tiny doesn't mean it lacks power.
+[3:57:49] dawsonator171: don't ask me how I know.
+[3:58:38] xDroozyy: when does mast DR for uh?
+[4:00:13] Dudewuut: https://www.curseforge.com/wow/addons/true-stat-values
+[4:00:32] Dudewuut: really good add on to see lost stats and dr %s and thresholds
+[4:01:42] sunileif: @dawsonator171 how do you know this?
+[4:01:51] dawsonator171: season 28
+[4:02:02] dawsonator171: @sunileif Years of experience.
+[4:02:08] sunileif: vicious squirrel attacks?
+[4:02:22] sunileif: dont fuck with squirrels man
+[4:02:34] dawsonator171: squirrels fuck with me and my dog.
+[4:02:34] xDroozyy: its terrible
+[4:02:38] dawsonator171: fuck squirrels.
+[4:02:44] sunileif: fuck squirrels
+[4:02:55] sunileif: evil creatures
+[4:02:57] xDroozyy: basically playing around cloning for more frenzy's
+[4:03:05] sunileif: always watching waiting for the time to strike
+[4:03:24] xDroozyy: but as soon u press clone as feral ur insta stunned out of form dead
+[4:03:34] xDroozyy: such bas design
+[4:03:37] xDroozyy: bad*
+[4:03:40] dawsonator171: mes. my glad mount roll landed on 28. BFA season 3 Notorious glad mount.
+[4:03:46] sunileif: that could be mesferal
+[4:04:00] sunileif: mesferal coulda been glad x4 by now ,_,)
+[4:04:04] dawsonator171: mesferal is just bait.
+[4:04:06] xDroozyy: why is it boomy's can clone in moonkin form, but ferals cant cast in cat
+[4:04:32] flalia4: They gotta give feral some weakness
+[4:04:34] sunileif: @xDroozyy the fur
+[4:04:39] Catharsus: @xDroozyy cats dont have hands, enough reason
+[4:04:41] xDroozyy: ^
+[4:04:47] dawsonator171: it's really fucking trippy with the pvp talent too. cuz it auto shifts on success.
+[4:04:51] xDroozyy: ^ true and real
+[4:05:13] xDroozyy: why not make it pvp talent then to cast clone in cat form?
+[4:05:16] xDroozyy: big brain
+[4:05:41] Catharsus: @xDroozyy bliz hates cats? /shrug
+[4:05:59] dawsonator171: asmrguy: mez, it's long past time for you to lay down the brick on these other teams. Let the glaze flow through you and lead you to victory. Also, s 28 mount. KEKW
+[4:06:32] dawsonator171: Notorious.
+[4:08:38] sunileif: @xDroozyy for the same reason worgen dont have tails
+[4:08:47] sunileif: blizz hates you
+[4:09:30] Daakulol: that burst was insane
+[4:15:31] Dudewuut: LOL
+[4:15:31] Moobot: Join my Discord community! https://discord.gg/mes
+[4:15:37] Dudewuut: where did the mage go
+[4:15:47] worstboomkinna: just got SMACKED
+[4:16:05] Dudewuut: sent back to the maw
+[4:16:16] darrenchen2000: mes u still playing 20% haste on dk or???
+[4:16:56] Dudewuut: mes do you feel ebon is value against rdru or bursting/pb for sustain single target dam
+[4:17:40] MaybeRespect: Do any of the DK Hero Talents look promising @notmes
+[4:18:26] MaybeRespect: Oh, I was told all were out. My bad
+[4:19:16] MaybeRespect: I don't believe so I just peeped wowhead article is just old one.
+[4:32:09] technick28: ww monk & rogue do some nasty burst damage
+[4:34:28] exercisefreak: Hello🙏💪
+[4:34:46] avenueone: whats with the green rune bar
+[4:38:04] dawsonator171: Green rune bar doesn't look as good
+[4:38:52] ITSHOHN: What is with the green rune bar that matches unholy spec? Sorry don’t like that can you change it to orange? Thanks
+[4:41:04] LillJ98: !commands
+[4:41:05] Nightbot: @LillJ98 -> The bot commands for this channel are available at https://nightbot.tv/t/notmes/commands
+[4:41:05] StreamElements: @LillJ98 You can find a list of all Commands here https://StreamElements.com/notmes/commands
+[4:46:43] avenueone: mes when is awc cup 1? raider io says jan 31 wow webpage says feb 4
+[4:47:55] shugguls: 31st is qualifiers
+[4:50:45] avenueone: raider io page is still wrong tho
+[4:52:12] rad1c4lz: !cc
+[4:52:12] StreamElements: https://wago.io/NsoiZnZ34 WeakAura for Loss of Control Effects
+[4:52:22] Dudewuut: try with ebon
+[4:54:22] dawsonator171: mes, you have to qualify top 6 for my birthday.
+[4:54:22] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[4:56:03] Dudewuut: try with ebon fever extra dam modifier
+[4:58:30] Neriakied: well that guy got smoked
+[5:00:10] Dudewuut: some survivability as well with extra heal absorb
+[5:00:58] drbutch: drbutch subscribed with Prime. They've subscribed for 33 months, currently on a 2 month streak! 
+[5:00:58] StreamElements: drbutch just subscribed for 33 months in a row mesDad mesDad mesWeckso
+[5:01:01] Dudewuut: was that the 110k
+[5:01:35] al_capow: al_capow is gifting 10 Tier 1 Subs to notmes's community! They've gifted a total of 1560 in the channel! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to ultiexilate! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to hydange! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to sze127! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to Jahream! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to expose977! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to gilliytine! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to derzeck18! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to cigana78! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to Songene! 
+[5:01:36] al_capow: al_capow gifted a Tier 1 sub to Jonnyschlong! 
+[5:01:36] StreamElements: sze127 just subscribed mesDad mesDad mesWeckso
+[5:01:36] StreamElements: expose977 just subscribed mesDad mesDad mesWeckso
+[5:01:37] StreamElements: ultiexilate just subscribed mesDad mesDad mesWeckso
+[5:01:37] StreamElements: hydange just subscribed mesDad mesDad mesWeckso
+[5:01:38] StreamElements: gilliytine just subscribed mesDad mesDad mesWeckso
+[5:01:38] StreamElements: Jahream just subscribed mesDad mesDad mesWeckso
+[5:01:39] StreamElements: derzeck18 just subscribed mesDad mesDad mesWeckso
+[5:01:39] StreamElements: Jonnyschlong just subscribed mesDad mesDad mesWeckso
+[5:01:40] StreamElements: cigana78 just subscribed mesDad mesDad mesWeckso
+[5:01:40] StreamElements: Songene just subscribed mesDad mesDad mesWeckso
+[5:01:49] Dudewuut: Pog
+[5:02:03] al_capow: mes I can't decide what to main next phase
+[5:02:10] al_capow: why did they make p1 long enough to have 4 lv 25 lol
+[5:02:45] Dudewuut: for the csuals
+[5:02:48] dawsonator171: im still at 0
+[5:02:49] Dudewuut: and designed new raids
+[5:02:58] dawsonator171: like level 16 iirc
+[5:04:34] 胡賈斯汀: nice dear boss
+[5:06:28] BossmanRitz: Mages flop
+[5:08:33] al_capow: my problem is that shaman is SO much fun but I know people are going to want my priest for next phase first
+[5:08:46] ITSHOHN: Split
+[5:08:57] al_capow: i like leveling too but 25-40 on horde is kinda rough esp with STV being even more contested than normal
+[5:09:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[5:10:08] Catharsus: @al_capow STV will NOT be the place to be on a pvp server or pve server imo, specially at start of phase 2
+[5:10:41] blakeshow: hey im relatively new to pvp especially playing dps. my monk is 1800 and im trying to get another melee there. is unholy dk easy to get 1800 on with practice?
+[5:10:59] shugguls: @blakeshow DH
+[5:11:01] 胡賈斯汀: @al_capow  are you in US server?
+[5:11:07] Dudewuut: if you are looking for a melee try a demonhunter ngl
+[5:11:10] 胡賈斯汀: If you need, i have some friend carry lvl up
+[5:11:30] blakeshow: @shugguls i got a dh to 2300 in shadowlands but it was inflated so i dont think im actually that rank
+[5:11:39] dimitridq: so thats why arcane is good
+[5:11:50] dimitridq: forgot about cheap spellsteal
+[5:12:00] Dudewuut: you can hold w and press 3 buttons and get 1800 on demonhunter
+[5:12:11] BossmanRitz: spellsteal taks a lot of mana though
+[5:12:23] StreamElements: Catharsus just donated $6.90 mesWeckso mesWeckso mesDad
+[5:13:06] BossmanRitz: buffs barrage dmg
+[5:13:58] notmes: https://wago.io/A2Nat9oUh
+[5:14:10] shugguls: there are alot of things like that from last expansion, like warrior needing buffs...
+[5:14:18] dimitridq: just swap it for good klepto
+[5:14:22] dimitridq: instead of cheap spammable
+[5:14:45] dimitridq: klepto is still really good but at least itd have a cd
+[5:14:45] Moobot: Join my Discord community! https://discord.gg/mes
+[5:15:04] StreamElements: Flameshockenjoyer just donated $6.90 mesWeckso mesWeckso mesDad
+[5:15:10] Drathimos: just make shroud undispellable
+[5:15:41] Solushun: arcane MLD monkaS
+[5:15:59] Khisher: Hello ! How frost dk is viable?
+[5:16:00] dimitridq: any jewelcrafters in chat
+[5:16:09] Catharsus: damn, im SO close to the super flex to spend my points :O
+[5:16:14] Catharsus: @dimitridq aye
+[5:16:36] dimitridq: @Catharsus wanna Lariat craft + gem for 1k each?
+[5:17:24] Catharsus: @dimitridq i can make almost ALL jc but ringbound hourglass, catharsiis-thrall is my jc/shaman main
+[5:17:50] dimitridq: @Catharsus sending sweet ty
+[5:18:05] Drathimos: this matchup is miserable for pres
+[5:18:05] Catharsus: @dimitridq nps, logging him in now
+[5:19:31] dimitridq: @Catharsus shit are u horde?
+[5:19:38] dimitridq: didnt know u couldnt cross for those, rip
+[5:19:57] Catharsus: aye, im horde
+[5:20:38] Catharsus: and ive made lots for ally and horde, it wont let you?
+[5:21:01] BossmanRitz: its either chuck eats fears or pollys
+[5:21:05] BossmanRitz: hard to choose
+[5:21:31] dimitridq: @Catharsus just says player not found
+[5:21:36] dimitridq: is it two ii's?
+[5:22:02] Catharsus: aye, with no ascii, Catharsiis-Thrall should do it for ya
+[5:22:51] dimitridq: @Catharsus odd saying you dont exist, is it realm locked?
+[5:23:17] Catharsus: @dimitridq umm, that im not sure, let me check fast, sec
+[5:23:20] Warshal: @dimitridq yes craft orders are realm-specific
+[5:23:46] dimitridq: oof ty anyways for the help
+[5:23:55] dimitridq: on firetree server cluster unfort
+[5:25:26] Catharsus: MAYBE a work around with friends im reading?
+[5:26:03] dimitridq: its alright someone finally responded
+[5:26:07] dimitridq: appreciate the help
+[5:26:37] Catharsus: nps, and gl <3
+[5:27:32] shugguls: lol yer go dk arms
+[5:30:22] shugguls: well theres my dream dead of that comp
+[5:31:08] sunileif: did you just kill a bdk?
+[5:31:22] sunileif: get killed by'
+[5:31:28] darrenchen2000: hey mes is clawing ever good
+[5:31:29] sunileif: oh ok
+[5:31:45] sunileif: is it possible to just run down the dk
+[5:31:52] sunileif: or kite out
+[5:32:06] dawsonator171: where's mike to be a fisty boy for testing purposes.
+[5:32:37] sunileif: mike fisty boy
+[5:33:36] eMBeaR64oz: huh?
+[5:33:49] sunileif: hi mike fisty boy
+[5:33:56] dawsonator171: no way mes plays that comp anyways.
+[5:34:02] dawsonator171: he's done with warr.
+[5:34:11] sunileif: bdk outlaw fisty boy?
+[5:34:22] eMBeaR64oz: that sounds so aids
+[5:34:24] sunileif: bdk war fisty?
+[5:34:43] sunileif: i think thats the point
+[5:34:44] dimitridq: @notmes can you fly regular in dragonflight???
+[5:35:05] dimitridq: literally just saw this guy flying around on Tyraels charger
+[5:35:05] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[5:35:12] sunileif: mes has famously refused to unlock flying in every xpac
+[5:35:28] dimitridq: i had no idea you could even do it lol
+[5:35:35] Shablagoosh: @dimitridq you have to do pathfinder achieve
+[5:35:41] Shablagoosh: so every questline in df
+[5:35:44] sunileif: need pathfinder achievement
+[5:35:49] dimitridq: ahh
+[5:36:05] Catharsus: @dimitridq and now dragonride in azeroth
+[5:36:07] Shablagoosh: did you guys lose to the blood dk? i was half afk at work lol
+[5:36:12] shugguls: mes has famously denies he has flying in every xpac
+[5:36:15] darrenchen2000: did u decide if unholy 4 set is worth mes??
+[5:36:17] sunileif: dragonriding in sl too
+[5:36:44] cdewx: 955 raiders from cdewx have joined! 
+[5:36:45] StreamElements: cdewx just raided the channel with 955 viewers PogChamp
+[5:36:56] sunileif: bdk fisty time?
+[5:37:28] dimitridq: enjoy mes
+[5:37:38] Axtin: ill let it slide
+[5:38:02] dawsonator171: @Axtin I wouldn't. man was playing blood dk.
+[5:38:36] sunileif: daws goes fisty?
+[5:38:40] Axtin: @dawsonator171 🤢🤢
+[5:39:25] simszszy: PogChamp
+[5:40:17] Zimed: What song is this?
+[5:46:21] jasonkbkt: Fk that oatmeal cream pie
+[5:46:27] jasonkbkt: Mmmmmm
+[5:47:09] popzirl: Idk what that is but I can imagine it rn and made me hungry
+[5:47:54] popzirl: Is it like a 2 oatmeal cookies w creme in between?
+[5:47:57] jasonkbkt: Little Debbie snack
+[5:48:06] jasonkbkt: Yeah
+[5:48:16] popzirl: OK I definitely have seen that nvm
+[5:48:59] popzirl: Zebra cakes are bis
+[5:50:28] krome2dadome: zebra cakes are mid change my mind
+[5:50:47] Yanzoh: Dino nuggies are bis
+[5:51:19] Catharsus: @Yanzoh YES
+[5:51:22] popzirl: Fun nuggets hell yeah
+[5:51:42] Catharsus: @Yanzoh but ONLY if you arrange them on the pan like the trex is chasing the stegos ;)
+[5:52:00] Yanzoh: @catharsus agreed! Lol
+[5:52:11] popzirl: I recently bought some honey glazed Tyson was pretty fire you close your eyes almost tastes like Chinese
+[5:52:57] Reprimand1: is dk doodoo now
+[5:53:07] darrenchen2000: what cr
+[5:53:25] krome2dadome: hi
+[5:53:33] Dudewuut: mes out of the 3 builds which do you feel is the best all around
+[5:53:53] Dudewuut: claw, ebon, burst/pb
+[5:54:18] eMBeaR64oz: I’m not around, goin to bed in a sec
+[5:54:23] eMBeaR64oz: Sadge
+[5:54:34] krome2dadome: old man
+[5:54:36] Yanzoh: Aw
+[5:55:29] eMBeaR64oz: yep
+[5:55:29] Moobot: Join my Discord community! https://discord.gg/mes
+[5:56:00] Itankarenas: are people still doing BDK?
+[6:01:05] Frostyjoneslol: supatease released a vid on it, looks kinda wild with warrior
+[6:02:35] Dudewuut: supatease was also super disingenuous with his video
+[6:02:42] Dudewuut: clickbait farming
+[6:02:45] Itankarenas: UH seems really squishy rn
+[6:02:58] tzunamiDK: Playing much frost?
+[6:03:49] Frostyjoneslol: @Dudewuut true but i mean the fact is, if bdk is doing nearly the damage of uhdk and wont really die no real use playing uhdk if u play with a partner that can carry the dam
+[6:04:04] DBMezzy: I tried blood with lego, its shit asf @notmes
+[6:04:14] darrenchen2000: unholy before nerfs felt so good
+[6:04:14] DBMezzy: 2% dam and less vers
+[6:04:39] DBMezzy: vers does give dam, no? @notmes
+[6:05:19] dawsonator171: If you can line up the on use and get additional value from it, I think it is helpful. You do have empty periods as blood but I am full mastery from being frost.
+[6:05:30] DBMezzy: @notmes iam too much mastery, cant test it properly, but leg now procs from all dots from dk. bbuuut, dot is nerfed a lot
+[6:05:36] dawsonator171: I've seen some really good size crits.
+[6:05:58] Yoskexz: sup howd ur adventure go today
+[6:06:10] dawsonator171: I'm 1850 so far on blood. got a string of lobbies without leavers.
+[6:06:24] DBMezzy: @notmes i wanna try bdk with that big amz, so i get a lot to spend runic shit
+[6:06:46] Yoskexz: most of the bdks play with fistweave dont they
+[6:06:49] dawsonator171: I don't like the fact you don't get RP from team shell, or at least I don't notice it.
+[6:07:07] dawsonator171: DH so far feels like the hardest matchup.
+[6:07:50] Yanzoh: @Yoskexz ya pretty much, since bdk wont die, you can fist for that extra dps rather easily
+[6:08:24] DaraxBarex: hows unholy after nerf? is it really bad as they say?
+[6:08:43] Yoskexz: the taunt debuff paired with monk orb debuff sounds kinda sick
+[6:08:45] Yanzoh: I always feel like something went wrong with design, when you see tanks in pvp tho lol
+[6:09:49] DBMezzy: rmp if not arcane rofl @notmes
+[6:10:23] krome2dadome: warr seems the same way tbh
+[6:10:45] gracioussatan: what's the weakness with blood dk comps? ignore the dk?
+[6:10:51] Yoskexz: are hunters in the same boat. we can go fishing together peepoShy
+[6:10:57] DaraxBarex: i see. but for an average player, ig udk is still ok to reach 2.4k?
+[6:11:03] Frostyjoneslol: can we all agree fears acting as stuns is just ridiculous
+[6:11:07] gracioussatan: gotchaa
+[6:11:10] krome2dadome: I’d fish with u any day yoske
+[6:11:29] Yoskexz: @krome2dadome  bigWOW
+[6:11:31] DaraxBarex: makes sense yeah. thanks!
+[6:12:13] mouro52: Is blood the best spec now or whats going on?
+[6:12:14] mouro52: for shuffle
+[6:12:16] Yoskexz: lowkey wanna watch mes play palworld inbetween shuffle q LULW
+[6:12:45] krome2dadome: u a palworld gamer? @notmes
+[6:15:09] krome2dadome: would u dot build with it?
+[6:18:59] bingles3181: i don't think this mog quite works sorry
+[6:18:59] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[6:21:04] crusadein: uh huh, definitely an accident
+[6:21:04] goatskull123: "accident"
+[6:21:04] RodeyShakur: xd
+[6:21:13] Yoskexz: intentional. MmmHmm
+[6:21:14] Tdales: Hey Mes, is dispelling unholy blight good to do?
+[6:21:20] maggotxtv: yea
+[6:21:25] maggotxtv: ok
+[6:21:27] maggotxtv: cool beanms
+[6:21:31] Yanzoh: lolol
+[6:21:34] bigfathead: lmao
+[6:21:48] Yanzoh: you bully mes! JK JK
+[6:21:51] Yanzoh: xd
+[6:21:55] Dudewuut: @Tdales does not give damage amp anymore, irrelevant
+[6:22:16] Tdales: Good to know thanks
+[6:24:25] Treemanm: is it possible to install mes's whole ui and setup easily, its so perfct
+[6:25:20] samueltko: this is so cringe
+[6:25:25] samueltko: why are you playing liike this
+[6:25:45] crusadein: because they keep neutering dk
+[6:26:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[6:26:04] Ssolemn: because awc, if it's good it's worth testing
+[6:26:20] Axtin: honestly being blood just gave them more of a chance to win, no way they could win as unholy
+[6:26:36] Yanzoh: wow
+[6:26:37] darrenchen2000: mes is dh better than dk rn
+[6:26:46] darrenchen2000: could dh be good in tournament
+[6:27:22] Disemble: 100k dps single target ur just fine the whole time xD
+[6:27:25] Yoskexz: @Axtin  monkaHmm
+[6:27:36] crusadein: @darrenchen2000 yes
+[6:27:42] crusadein: but why play dh when you can play rouge
+[6:27:47] Treemanm: !ui
+[6:27:47] StreamElements: WoTLK: https://drive.google.com/file/d/158Ouac-SQwGwakN3EaiRKhkeocuO0Z2I/view
+[6:28:21] Lenovitch: can you show your build?
+[6:28:25] Freebolt: whats going on with this blood dk
+[6:28:28] Lenovitch: as blood
+[6:28:49] Freebolt: seems kinda meh yeah
+[6:28:58] Freebolt: we beat them as splay quite easily
+[6:29:09] Freebolt: just long and drawnout
+[6:29:16] Tdales: @Dudewuut what about shackling dark transform? Im assuming thats huge damage loss
+[6:29:28] Warshal: is the healer cc'd wa available?
+[6:29:35] Dudewuut: irrelevant, pet/minion dam was trubo nerfed
+[6:30:01] Dudewuut: unholy dam is rotational not, not pet/minion cooldown based
+[6:30:07] Dudewuut: rotational now*
+[6:30:14] khaledx_tv: !weakaura
+[6:30:17] khaledx_tv: !wa
+[6:30:17] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[6:30:31] dawsonator171: TBF I started teh blood grind after leggo last week, I just had no idea about the runeforge.
+[6:30:48] Dudewuut: dark trans is a glorified kick now lolol
+[6:30:49] Tdales: @Dudewuut thanks!
+[6:31:00] Freebolt: what would you like to see changed with frost dk? curious to see your opinion. it seems very annoying to play and play into
+[6:31:07] crusadein: @Tdales its not bad, you can stop the pet kick and stun but meh
+[6:31:25] Dudewuut: yeah but not really worth taking a talent to stop
+[6:31:59] Dudewuut: if you are losing to a petkick/stun you made other more ergegious mistakes
+[6:33:10] Tdales: @Dudewuut When going into Dark Transform how does pet kick get enhanced?
+[6:33:35] Dudewuut: 5-325ish yard range on the kick
+[6:33:40] Dudewuut: 5-25*
+[6:33:51] Dudewuut: and it will root
+[6:33:56] Tdales: ohh i see
+[6:34:13] Dudewuut: if it just a non dt kick it just jumps to you
+[6:34:17] Dudewuut: no kick
+[6:35:13] Tdales: so pet can only interupt in dark trasnform?
+[6:35:26] Dudewuut: cprrect
+[6:36:08] Tdales: since when. a couple xpac ago i sweat they could kick with regular pet
+[6:36:36] Tdales: swear*
+[6:37:29] Dudewuut: pretty sure for many expansions now
+[6:38:08] TheKemical: ggs mes
+[6:38:10] Dudewuut: the stun is a 1 second pet stun outside of dt and a 2secish stun inside dt that could be what was inturrupting you
+[6:38:37] Tdales: true thats prob what it was
+[6:38:53] Tdales: thanks for the help
+[6:39:03] Dudewuut: good luck dude
+[6:39:03] Moobot: Join my Discord community! https://discord.gg/mes
+[6:40:45] dirtymikexo: dirtymikexo subscribed at Tier 1. They've subscribed for 36 months, currently on a 31 month streak! big 3 years
+[6:40:45] StreamElements: dirtymikexo just subscribed for 36 months in a row mesDad mesDad mesWeckso
+[6:41:23] avenueone: mes did u see my last message
+[6:41:37] coolsnikos: coolsnikos subscribed at Tier 1. They've subscribed for 9 months! Happy birthday to me and you mes , love the content.
+[6:41:37] StreamElements: coolsnikos just subscribed for 9 months in a row mesDad mesDad mesWeckso
+[6:41:45] wyldeshock: morning everybody
+[6:44:18] Trales1: can you please show dmg breakdown, thanks
+[6:44:41] avenueone: 4th is my time zone
+[6:44:47] avenueone: so ye it does make sense
+[6:45:39] dawsonator171: you play the day before my birthday, so you know what that means?
+[6:49:31] Devcomz: Well no longer hard stuck 1900 in shuffle made another of the same spec and class and is 2118 in around 100 rounds. The original one is still hard stuck 1900s. Ill take it regardless Ill just brick the original one lol
+[6:50:02] wyldeshock: it means Thursday we are gonna get in discord and celebrate
+[6:50:27] wyldeshock: and mourn mes’s reputation as he plays blood in awc
+[6:51:44] dawsonator171: @avenueone sometimes I wonder if mes reads, or just has to run off to the dunny that often.
+[6:52:45] avenueone: nah i bet mes plays with a nappy
+[6:53:04] Itankarenas: wat
+[6:53:12] Deaddoomx: BloodTrail
+[6:53:17] dawsonator171: wet nappy at that.
+[6:55:20] dawsonator171: dawsonator171 gifted a Tier 1 sub to mesnap! They have given 2464 Gift Subs in the channel! 
+[6:55:21] StreamElements: mesnap just subscribed mesDad mesDad mesWeckso
+[6:55:34] avenueone: mes not talking about it confirming it
+[6:56:08] wyldeshock: I go home today. all I want to do is play wow. I’ve watched so much arena
+[6:57:50] dawsonator171: I've been in a rather shit mood since Friday I got informed I'm not going to be interviewed for a position because I'm "not ready" and it didn't come from the hiring manager directly.
+[6:58:06] dawsonator171: idk why he can't come and tell me straight up, been there for 11 years ffs.
+[6:58:52] wyldeshock: some people take the easy way out. small acorns is all
+[6:59:05] dawsonator171: just send a lacky out to do it heavily filtered.
+[6:59:05] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[6:59:11] avenueone: sounds like a shit company to work for
+[6:59:41] shadowthehedgehog97: your power level is too low for that company. you need to train the basics again
+[7:00:32] eadric_horde: games recently feel like they have been going into damping a lot more.
+[7:01:31] s2tu: thanks for the games
+[7:01:38] s2tu: s2tu subscribed at Tier 1. They've subscribed for 4 months! 
+[7:01:39] StreamElements: s2tu just subscribed for 4 months in a row mesDad mesDad mesWeckso
+[7:01:47] Deaddoomx: guys, can you say name of his addon, that show your debuffs and stucks on enemy bar
+[7:02:12] avenueone: the nameplates?
+[7:02:21] wyldeshock: Hope you feel better mes
+[7:02:24] avenueone: !nameplates
+[7:02:24] StreamElements: Download Plater + use this profile: https://wago.io/2iWqxZtWW (DF) or https://wago.io/CQ5u1hps1 (WoTLK) || Import into Plater not WeakAuras
+[7:02:39] Deaddoomx: @avenueone Ty
+[7:03:37] xiliketurtlex: no difference from high haste vs mastery?
+[7:18:50] DuckClifton: anyone know what addon mes is using to reposition/resize the enemy castbars?
+[7:20:10] dimitridq: what are you testing
+[7:20:15] Yanzoh: that mw has great cc timing, awesome
+[7:20:46] exercisefreak: Is the legendary weapond not worth as uhdk?
+[7:22:14] Dudewuut: it is nice and you gotta redo gear a bit but not gamebreaking or mandatory
+[7:23:55] Hennuu: are u able to pre ams Void Tendrils?
+[7:26:16] dimitridq: lmao that guy has my irl name
+[7:26:45] dawsonator171: Bedge enjoy your games
+[7:27:06] gremell: oh im sorry i thought this was a blood dk stream
+[7:27:26] avenueone: i dont like the green runes on the bar
+[7:27:29] avenueone: red looked nicer
+[7:27:42] ohsomagical_: anyone else getting FPS lag since the latest patch ?
+[7:28:04] gremell: nope but i got dcd about 15 times in a 2 hour span today
+[7:32:07] smo0th0perator: Extremely_Wicked subscribed with Prime. They've subscribed for 5 months, currently on a 1 month streak! 
+[7:32:07] StreamElements: Extremely_Wicked just subscribed for 5 months in a row mesDad mesDad mesWeckso
+[7:32:21] Dudewuut: i've had screen freezing and shit but not fps drops
+[7:32:32] marvin1995xo: ya
+[7:32:47] Deaddoomx: PoroSad
+[7:35:14] DaraxBarex: noice
+[7:35:33] Szain3: DinoDance
+[7:35:35] Simmersz: did the arena tourney happy already?
+[7:35:39] dimitridq: u doin rbgs tonight
+[7:36:25] avenueone: are u allowed to stream ur pov
+[7:36:26] avenueone: or going to
+[7:36:46] Simmersz: Legion, BFD, ShadowLands, DragonfIight... which one was the best?
+[7:36:57] Simmersz: BFA*
+[7:37:25] boredasfk7: !wa
+[7:37:25] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[7:37:43] sunileif: mike fity boy?
+[7:43:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[7:43:03] Moobot: Join my Discord community! https://discord.gg/mes
+[7:44:22] sunileif: does this mena mes commentary on the other matches?
+[7:44:55] Deaddoomx: BegWan
+[7:45:58] darrenchen2000: haste seems ok
+[7:46:13] sunileif: sweet you notice so many things
+[7:46:23] honsou2: im liking my dk a lot more after i went back to 18% haste
+[7:46:25] garythos: what do you think is better ? Bursting Sores or Ebon Fever ?
+[7:51:45] dimitridq: that cocoon felt so good
+[7:52:24] sunileif: ol bdk fist?
+[7:52:52] dimitridq: bm bdk 2's? lol
+[7:53:04] sunileif: ol blod fist is 100% a kung fu movie
+[7:53:42] sunileif: @dimitridq so you just wanna watch the hunter die alot
+[7:58:56] dimitridq: @sunileif love watching hunters die
+[7:59:14] sunileif: D;
+[7:59:22] avenueone: hunters are more disgraceful than rogues
+[7:59:29] sunileif: i live that life it gets old
+[7:59:36] Yoskexz: FeelsWeirdMan
+[7:59:43] sunileif: ave
+[7:59:54] sunileif: got look at feet pics
+[7:59:58] avenueone: hunters named sunileif
+[8:00:08] warloxz: gg mes I was the priest
+[8:00:09] sunileif: he does die alot
+[8:03:09] sunileif: 69 subs today extremly wicked
+[8:03:09] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[8:03:13] sunileif: nice
+[8:03:47] avenueone: avenueone gifted a Tier 1 sub to sixtynineplusone! They have given 6227 Gift Subs in the channel! 
+[8:03:47] StreamElements: sixtynineplusone just subscribed mesDad mesDad mesWeckso
+[8:05:09] 胡賈斯汀: !WA
+[8:05:09] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[8:06:25] omkar3108: PogChamp
+[8:08:45] dimitridq: can anyone explain to me why the ww solo legend cutoff only includes literally 3 people
+[8:08:59] dimitridq: 4 i guess but wth
+[8:11:43] Treemanm: because the game is dead
+[8:12:07] Treemanm: go tell venruki before he makes another vid
+[8:12:22] dimitridq: lmao
+[8:12:23] CHIEFBLITZ: Good morning!
+[8:13:36] CHIEFBLITZ: Gotta question for y'all..... Haven't played wow in a long time.... I am about to hit 70 on retail, once I ding, can I immediately begin doing seeds of renewal questline? Or do I have to finish the main dragonflight story quest first?
+[8:14:43] Treemanm: shutup nerd
+[8:14:45] Treemanm: just kiddin
+[8:14:55] dimitridq: lmao
+[8:14:57] dimitridq: welcome back!
+[8:15:23] dimitridq: think you have to do the questline if im sure
+[8:16:04] gottacatsupemall: tox ban ave for ruining 69streak
+[8:16:05] CHIEFBLITZ: Kk
+[8:16:15] heho1231: have you played any phdk latley?
+[8:16:16] avenueone: LUL
+[8:16:16] e1im: hey man if you could not train me into the ground
+[8:16:21] avenueone: !ave
+[8:16:21] e1im: id love you long time
+[8:16:21] Nightbot: fuck u ave
+[8:16:26] e1im: from nz <3
+[8:16:28] gottacatsupemall: obvi we love ave
+[8:16:30] e1im: yeye
+[8:16:37] e1im: im ready
+[8:16:41] dimitridq: now youhave to
+[8:16:44] e1im: AAAAAH
+[8:18:41] e1im: haha
+[8:19:00] heho1231: hi mes do you always run at healer in 2v2 as dk?
+[8:19:20] heho1231: ok ty
+[8:20:11] avenueone: !drama
+[8:20:11] StreamElements: this is sunileifs command
+[8:20:30] gottacatsupemall: i got back into vaheim and have been killing goblins and greydwarfs like its my job
+[8:20:34] gottacatsupemall: i dont remember how to play wow
+[8:20:51] dimitridq: do the same thing
+[8:21:44] gottacatsupemall: fair
+[8:22:08] avenueone: shrug
+[8:22:13] avenueone: not today bout to hop off
+[8:22:51] janaasen93: How is dk feeling in 2s after  nerfs?
+[8:23:04] avenueone: depends can probably at start
+[8:23:26] stackerproductions: 30 percent armor nerf
+[8:23:26] Moobot: Join my Discord community! https://discord.gg/mes
+[8:23:54] stackerproductions: you know what every pvp dk wants to see u play dk in awc
+[8:24:04] gottacatsupemall: feels like transitioning from slands hpri to df hpri :)
+[8:24:33] avenueone: havent u given up on ur warr anyway
+[8:24:54] stackerproductions: Cheer1000
+[8:24:55] StreamElements: stackerproductions just cheered 1000 bits PogChamp
+[8:25:35] stackerproductions: dude most r1 players are actually rude as hell
+[8:25:44] stackerproductions: youre the peoples champ
+[8:25:48] avenueone: mes is definitely rude as hell
+[8:25:50] avenueone: !ave
+[8:25:50] Nightbot: fuck u ave
+[8:26:23] stackerproductions: !ave
+[8:26:24] Nightbot: fuck u ave
+[8:26:24] wyldeshock: !ave
+[8:26:32] wyldeshock: WOW
+[8:26:37] wyldeshock: UNREAL
+[8:27:01] dimitridq: wow my heals were doing nothing ther LOL
+[8:27:11] stackerproductions: you used to mess me up on your paladin that shit sucked hahahah
+[8:27:11] dimitridq: was spamming at the end
+[8:27:17] stackerproductions: then i beat your dk once in 3s!
+[8:27:38] avenueone: history?
+[8:27:39] avenueone: !ave
+[8:27:39] Nightbot: fuck u ave
+[8:27:57] stackerproductions: !ave
+[8:27:57] Nightbot: fuck u ave
+[8:28:13] avenueone: !ave2
+[8:28:13] Nightbot: jk
+[8:28:15] wyldeshock: @stackerproductions mes’s community is top notch
+[8:28:27] stackerproductions: nah dude i always root for u in awc whether you play or not
+[8:28:43] wyldeshock: the subathon did make someone a little rude but it’s ok
+[8:28:47] stackerproductions: i played with awc guys and some of these top guys are actually rude
+[8:29:03] gnatking: why is 1800mmr cancer for fdk
+[8:29:08] gnatking: good lord
+[8:30:01] Yanzoh: because blizzard doesnt care to rework fdk :(
+[8:30:46] Neriakied: wow is baby playground compared to league toxicity
+[8:30:50] avenueone: lol is that even a real question
+[8:30:55] Neriakied: especially at the top
+[8:31:05] avenueone: isnt league renowned for its toxicity
+[8:31:06] gnatking: never played league but played smite. that was insane toxicity
+[8:31:06] wyldeshock: wow is probably more toxic but I see it more frequently in league
+[8:31:33] wyldeshock: so many elitists in wow. keys, arenas, rbgs, even raiding
+[8:31:46] dimitridq: solo is a different breed
+[8:31:51] gnatking: I think blitz will fail if goes rated. thought the same about shuffle but blitz is different.
+[8:31:54] dimitridq: wow anarchy
+[8:32:03] Evershade: Even classic and SoD is toxic as hell
+[8:32:11] Yoskexz: thats like the main reason i dont like qn it, wait 30 min for a pool of toxicity lol
+[8:32:19] stackerproductions: oh yea
+[8:32:32] stackerproductions: people would make characters on your battlegroup just to take u out
+[8:32:35] gnatking: cata was mw2 lobbies after school for us 90s kids lol
+[8:32:39] stackerproductions: and it felt like life or death
+[8:32:47] wyldeshock: it’s really hard to not get upset when someone is playing like garbage.
+[8:32:59] Neriakied: league has had 15 years of solo q to rot peoples brains down
+[8:32:59] dimitridq: lmao
+[8:33:12] gottacatsupemall: internet was wild in the 2000s
+[8:33:30] dimitridq: i think wow players forget how complex the game is and that by those standards 99% of players are playing like "garbage"
+[8:33:43] dimitridq: you just have to do what you can
+[8:33:58] Yanzoh: i dont mind new players that dont know, there is a hell of a learning curb for pvp, but if i queue with someone who is 2k + and they play like a new player i get pissed
+[8:34:18] wyldeshock: getting upset is like drinking poison hoping the other person gets sick
+[8:34:25] Neriakied: its a legit skill making people not rage in solo q games so u have a higher chance of winning
+[8:34:40] SUPER_MEGA_T_REX: I think people are too quick to criticise other people’s mistakes - chances are you’re not playing perfectly either
+[8:35:19] dimitridq: solo is 6 rounds for a reason
+[8:35:44] honsou2: solo queue is just silly in lol and wow both. they are team games
+[8:38:56] honsou2: @dimitridq imo the 6 rounds make it more toxic than if it was just regular queueing solo
+[8:39:05] Axesmittayyy: if I ever play with mes I just do the complete opposite of what he says just incase lol jk jk
+[8:39:08] wyldeshock: fellas i do not play mage but imma gear one. should i just play fire or arcane?
+[8:39:18] wyldeshock: arcane looks more fun
+[8:39:35] wyldeshock: @axesmittayyy toxic
+[8:39:46] SUPER_MEGA_T_REX: arcane is more fun but that’s because I hate combustion
+[8:40:13] RinzlerXII: whats the new secret tech after the changes?
+[8:40:17] honsou2: i would probably start with fire if it was me, arcane doesent do the most damage so its not very forgiving
+[8:40:35] dimitridq: @honsou2 6 rounds gives people a chance to learn from their mistakes, if it wasnt no way half the player base would be able to climb
+[8:41:22] honsou2: @dimitridq you never play the same comp twice anyway, so what are you learning that you dont learn in regular queues one game at a time
+[8:41:33] wyldeshock: probably just need to learn how to do damage control during combust and kite outside of it aye?
+[8:42:18] SUPER_MEGA_T_REX: pretty much and when you get the mythical lobby where you’re left alone you just go ham with flame cannon
+[8:43:04] ahmopasha: Hi all
+[8:46:31] DrWarz: sick autodmg
+[8:46:31] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[8:46:45] honsou2: damn that cocoon got smoked
+[8:46:47] dimitridq: @honsou2 how to focus and adjust to the comps you are playing and how the players you are playing play
+[8:46:53] dimitridq: cant do that in any other game mode
+[8:47:07] dimitridq: mes that ad scared the shit out of me lol
+[8:47:16] dimitridq: youre lucky we lived
+[8:47:20] honsou2: @dimitridq yes you can thats what you do in normal arena too
+[8:47:44] bxrgle: @notmes what build do you like to play
+[8:47:54] dimitridq: @honsou2 not back to back like in solo though
+[8:48:46] honsou2: well youre not adjusting to the comps back to back in shuffle because the comps change just like in regular queueing session
+[8:48:57] dimitridq: not the same consistency that allows for improvement of strategy in real time
+[8:49:56] dimitridq: if you fuck up twice and then focus up you can still get a win if you sweep, in arena if you fuck around you just straight lose
+[8:49:57] honsou2: disagree, allows for less improvement because improvement of strategy isnt a reactionary decision which is all you have time for when youre playing at an mmr thats stressful IE a place where you need to improve
+[8:50:02] alltimer1986: @notmes hey what’s up !
+[8:50:46] alltimer1986: @notmes are you allowed to play tank in AWC ?
+[8:51:14] dimitridq: i highly disagree that you have to play entirely reactionary in solo, and if you are, you are probably losing if youre not putting thought into it
+[8:51:32] alltimer1986: recraft everything to haste will get you there probably
+[8:51:55] wyldeshock: @alltimer1986 last ssn a team played arms brewmaster fistweaver
+[8:51:57] dimitridq: example being the pres dk team switched up their strat but it took 3 games they had to q in order to do it, when they wouldve adjusted much faster in a solo
+[8:52:05] mule0_0: why u speed is 17% any item enchat?
+[8:52:12] mule0_0: enhance
+[8:53:48] Mortifiedwow: I quit playing retail cause gather profs don't make any gold and I couldn't craft gear for all my alts but watching retail streams makes me wanna play so bad D:
+[8:54:39] DBMezzy: @Mortifiedwow u cant craft 4-5k items? thats why u stop?
+[8:54:40] DBMezzy: nice
+[8:55:18] akadhtwq: enchants and crafted is way more than 4-5k gold
+[8:55:32] Mortifiedwow: I mean when it's 4-5k for every item and I had 5-6 chars plus gems and enchants
+[8:56:23] melbu2423: you can make 4k just vendoring trash after farming something for an hour.
+[8:56:25] Mortifiedwow: But yea. I would rather just play wrath pve and sod than waste 6 hrs farming ore for 6k
+[8:56:28] DBMezzy: @Mortifiedwow u cant make 20k gold in month and u stop?
+[8:56:39] DBMezzy: man u talk shit
+[8:56:53] Mortifiedwow: Huh
+[8:56:58] DBMezzy: stop cause cant afford craft items, most bullshit
+[8:57:12] melbu2423: some worlds quests ven give you 900g
+[8:57:28] DBMezzy: u can make gold in an 1-2 hours for all ur gear and u telling shit to chat
+[8:57:54] stockbridge10: gl
+[8:57:58] melbu2423: you dont have to be that mean @DBMezzy but yeah, making gold is so easy right now
+[8:58:15] DBMezzy: @melbu2423 u dont have to lie to chat for no reason
+[8:58:23] DBMezzy: and misslead people
+[8:58:35] Mortifiedwow: O.o
+[8:58:38] Mortifiedwow: Lmao
+[8:58:42] dimitridq: yeah ofc
+[8:58:44] dimitridq: go ahead
+[8:58:51] honsou2: high vers not the play?
+[8:59:02] dimitridq: I think he just doesnt like that style of gold farming bud
+[8:59:03] Freddiefletch: do you feel like paper against physical now?
+[8:59:07] dimitridq: which is fair
+[9:00:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[9:00:04] thunderstud25: morning everyone
+[9:00:10] dimitridq: @Freddiefletch feels like paper to me lol
+[9:00:33] nikthevoker: ez
+[9:01:37] dimitridq: @Freddiefletch was taking 75k dps last round into dh
+[9:01:49] dimitridq: ww feels even worse being 100% phys
+[9:02:30] Szain3: DinoDance
+[9:03:01] nikthevoker: howd the Bdk vs Unh go
+[9:03:58] kursiidd: Paladin best class
+[9:04:22] wyldeshock: paladin is a cool class
+[9:04:32] wyldeshock: dk is a cool class tho
+[9:04:44] wyldeshock: I’m glad I picked it back up this ssn
+[9:05:07] alltimer1986: wait you can just recraft the items to other status ?
+[9:05:23] dimitridq: sad we dont see the holy mesidan much anymore
+[9:05:29] kursiidd: I'd like a dk alt tbh just make em the dk version of my palidan
+[9:05:30] melbu2423: @alltimer1986 yes
+[9:05:53] melbu2423: you can recraft evrytthing to somethingf new on it if you want
+[9:06:22] melbu2423: oh a GM Mes! lol
+[9:06:55] alltimer1986: hmmmm
+[9:06:55] Moobot: Join my Discord community! https://discord.gg/mes
+[9:07:17] alltimer1986: I learned something new … I though you need a new spark thing
+[9:07:42] alltimer1986: what about items from last season ?
+[9:08:13] melbu2423: just add an updated spark to it
+[9:08:32] melbu2423: ingenuity .> shadowflame > dream spark
+[9:10:00] thunderstud25: we experimenting something new? or just optimizing?
+[9:10:27] dimitridq: ty mes for the games, gotta hit the hay
+[9:11:22] nikthevoker: what spec did you like more
+[9:13:45] thunderstud25: that’s interesting
+[9:14:08] abne41c: Haste the new meta?
+[9:15:18] stoneagecs: hey mes
+[9:15:22] stoneagecs: stone here
+[9:15:37] stoneagecs: if you'd like to test your haste build with shammy
+[9:16:00] Solushun: some pumpers signed up haha
+[9:16:12] wyldeshock: what is your favorite healing spec to play with in 2s oh UH
+[9:16:30] stoneagecs: kk sounds good
+[9:17:09] Solushun: LOL thats great i never seen that before
+[9:17:16] Solushun: only the front page signs up LOL
+[9:17:19] thunderstud25: haha prob not pushing much higher in 2s for now, the damp games are ehhhh lol I played a bit more after we stopped and just basically still at 2150 , it’s all damp games
+[9:17:38] thunderstud25: so ima start finally leaning into 3s a bit I think
+[9:17:49] Snikz_tv: !drops
+[9:17:49] StreamElements: https://worldofwarcraft.blizzard.com/en-us/news/23999066/dragonflight-twitch-drops-get-the-dashing-buccaneers-slops-transmog-now
+[9:18:01] Devcomz: 3s feel real damp too though
+[9:18:08] Devcomz: all my games are 5 min or longer
+[9:18:12] nikthevoker: i liked Unh/hpal/dev was nice
+[9:18:37] Devcomz: My comps are Rogue/lock healer and TSG
+[9:18:43] Devcomz: in 3s
+[9:18:50] Solushun: Rogue Lock Hpal is good
+[9:18:51] thunderstud25: I think there are some mixed comps that work well , but I agree the wizard comps feel best so far
+[9:19:02] Solushun: thats been good even when hpal was poop
+[9:19:10] petkicklol: 31% haste sounds like the most fun
+[9:19:15] nikthevoker: thats what i played with my ukraine friends during the day no comms, and farmed majority of teams
+[9:19:44] thunderstud25: was playing a little boomy demo hpal which was interesting
+[9:20:19] bxrgle: !addons
+[9:20:19] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[9:20:24] Devcomz: Is there a 3s comp that isnt damp?
+[9:20:27] petkicklol: swear clawing with high haste does work
+[9:20:30] Devcomz: I dont like the new changes
+[9:21:44] thunderstud25: it’s a different kind of dampening games as hpal in 2s rather than 3s I find. in 2s hpal will just get trained to prevent mana efficiency, 3s with the extra peels it’s almost not worth focusing hpal
+[9:21:57] gelatokush: the lego scale wit hhaste too now
+[9:22:00] gelatokush: and dots
+[9:22:11] thunderstud25: especially in a caster cleave matchup where you are back lining
+[9:22:36] abne41c: @petkicklol have you tried it bud?
+[9:22:58] Szain3: :D
+[9:23:49] petkicklol: na I’m in the process of trying no 4 piece rn
+[9:24:05] petkicklol: seemed good
+[9:24:41] abne41c: Ok tyy
+[9:24:52] gelatokush: dk still owns dragons :D
+[9:25:39] nikthevoker: crit mast tho
+[9:25:45] plebcake_: noob question: does haste increase the rate of your diseases??
+[9:27:09] petkicklol: magus does scale insanely well with haste ya
+[9:27:09] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[9:27:16] petkicklol: @plebcake_ no it doesn’t
+[9:28:07] petkicklol: commander with high haste may be the play
+[9:28:12] plebcake_: so then what’s the argument for haste > mastery, faster globals for ramp up? @petkicklol
+[9:28:27] yourKnightmaare: @petkicklol need some more streams brother man 😁
+[9:28:34] petkicklol: just way smoother more fun too
+[9:28:53] petkicklol: magus would be ur top dam
+[9:28:56] petkicklol: with high haste
+[9:29:04] petkicklol: @yourknightmaare eventually…
+[9:29:35] yourKnightmaare: Always entertaining my dude @petkicklol
+[9:29:45] petkicklol: =)
+[9:30:07] Sunehx: haste vers better than mastery/vers or vers/mastery?
+[9:30:10] yourKnightmaare: @petkicklol what haste you recommend with commander?
+[9:30:13] eenton: petkick has always the best music
+[9:30:40] petkicklol: prob would want 30%
+[9:30:52] petkicklol: @eenton =)
+[9:30:55] wyldeshock: sounds like heavy mastery isn’t the play
+[9:31:30] gelatokush: alot of spec are like this like dh all top pvper run full mastery no haste, no crit and its very good, same with dev, same with bm alot of spec atm in pvp in meta build is just full mastery but i feel its not always the way
+[9:32:42] gelatokush: ret is a good example to in pvp alot go most mastery in pve mastery is the least desired spec
+[9:32:46] gelatokush: stat
+[9:33:15] plebcake_: a full haste pet build could be something I try out
+[9:33:24] plebcake_: I agree that full mastery feels really clunky
+[9:35:35] abne41c: It actually feels like you have 500ms
+[9:35:40] yourKnightmaare: I still think raise abom should have been baseline in PVP scenarios over aotd
+[9:36:47] yourKnightmaare: Should have a pvp version of details. Because the cleave and stuff sounds pve af
+[9:38:36] yourKnightmaare: Do you think it would be smart to auto change aotd to raise abom in PVP, mes?
+[9:38:43] yourKnightmaare: Like a good change
+[9:38:56] petkicklol: would be a net buff ya
+[9:39:03] petkicklol: more magus due to shorter cd
+[9:39:46] petkicklol: I was trying a 90% mastery build I didn’t rly notice that big of a numbers
+[9:40:10] yourKnightmaare: I just hate aotd in PVP
+[9:41:33] petkicklol: I was playing like 35 Vers/66 mastery in those games last night
+[9:41:37] petkicklol: 20% haste too
+[9:43:35] petkicklol: yea that’s odd has to be festermight
+[9:43:35] nasxsy: do u use threat plates?
+[9:43:56] gelatokush: its cuz all the weird pvp modifiers i bet
+[9:44:24] nasxsy: !addons
+[9:44:24] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[9:44:40] abne41c: A pet build with haste would be so cool too
+[9:45:06] petkicklol: @abne41c Magus dam would be disgusting
+[9:45:16] gelatokush: we have enough pet build in the game ill pass
+[9:45:27] petkicklol: but it’s hard to get UA & commander
+[9:45:46] abne41c: True ye
+[9:46:13] petkicklol: & at that point is it rly worth to drop superstrain
+[9:46:55] wyldeshock: ngl pres does not feel good in 2s. maybe if you can spam a lot of dam
+[9:47:14] petkicklol: pres is super meh in 2s ya
+[9:47:14] Moobot: Join my Discord community! https://discord.gg/mes
+[9:47:22] im_nandy: hows dk feel with that much haste @notmes?
+[9:47:27] Roseqt: gg
+[9:48:41] petkicklol: aotd ghouls do the most
+[9:48:45] petkicklol: with commander
+[9:50:34] abne41c: Would bargain be bad in a pet build? Because you dont summon as many magus? But you summon them faster with the tier
+[9:51:10] petkicklol: you summon the same amount of magus just no ghouls during apoc
+[9:51:29] abne41c: Ahh ok ty
+[9:51:42] petkicklol: have to give up an honor talent for it so idk & like I said apoc ghouls do THE most with commander
+[9:51:54] petkicklol: but idk would have to test both
+[9:52:12] abne41c: Too many things to try out
+[9:52:31] petkicklol: yea but that’s the fun of it imo
+[9:53:29] abne41c: Yes the game feels les restrictive
+[9:53:39] petkicklol: problem is you gotta drop sores too if you keep ua
+[9:57:19] stockbridge10: gl
+[9:57:21] stockbridge10: silly locks
+[9:57:29] nasxsy: @mex  can u link ur plater profil pls ?
+[9:57:44] nasxsy: mes*
+[9:57:53] notmes: !nameplates
+[9:57:53] StreamElements: Download Plater + use this profile: https://wago.io/2iWqxZtWW (DF) or https://wago.io/CQ5u1hps1 (WoTLK) || Import into Plater not WeakAuras
+[9:58:11] petkicklol: try bargain a bit maybe for more magus
+[9:58:55] nasxsy: thx
+[9:59:04] abne41c: Yes pls
+[9:59:40] petkicklol: strang value kinda meh in 2s anyways imo
+[10:01:04] petkicklol: clawing without high haste is so awk
+[10:01:12] petkicklol: kinda hate playing it
+[10:01:51] petkicklol: yea just 20 & no I haven’t
+[10:03:38] petkicklol: show uptime of 4 piece buff
+[10:04:02] petkicklol: I swear it’s randomly less the past few days for some reason
+[10:04:34] petkicklol: it used to be like 70-80 I swear weird
+[10:05:10] abne41c: lol how come
+[10:06:36] happyheals: how is everyone this morning?
+[10:08:39] happyheals: doing well, I am driving home. stopped to grab a drink
+[10:08:39] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[10:08:49] petkicklol: lower hits I guess
+[10:08:57] petkicklol: that seems relatively the same though
+[10:09:58] petkicklol: festermight value seems insane
+[10:10:10] happyheals: maybe grab crit
+[10:10:24] petkicklol: even while nerfed it’s insane
+[10:10:29] nasxsy: how much mastery u wanna hit?
+[10:10:31] easybola: VoHiYo
+[10:10:38] petkicklol: are you still gonna use boots?
+[10:10:38] happyheals: my bad, was thinking of blood dk lol
+[10:10:40] goatskull123: the only thing I want in the world is blizzard making this sword available again
+[10:10:47] TiltTeamGG: 2020Snacking
+[10:10:55] petkicklol: I’ve been testing double verdant conduit recently
+[10:10:59] nasxsy: i was 80%+  but idk :D   some haste is nice too
+[10:11:07] happyheals: mastery for druids start diminishing at 20
+[10:11:22] happyheals: dunno about dk
+[10:11:44] nasxsy: dont know what to play after nerv... tanked 200 mmr in soloq :D
+[10:11:47] gelatokush: even un druid depends on the spec
+[10:12:54] honsou2: @nasxsy dh Kappa
+[10:13:19] xiliketurtlex: are you running 4 sets rn?
+[10:16:16] worstboomkinna: is it worth using death sentence on arms to prevent being kited so much?
+[10:17:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[10:17:34] abne41c: you are talking about off pieces right?
+[10:17:46] abne41c: oh wow
+[10:18:58] atoker: I'm gonna get engi helm and bracers on my uhdk
+[10:19:10] gelatokush: i eman u sim both builds def not the most accurate picture for pvp but it will show u how both builds perform in st with max uptime
+[10:19:35] deno65: Isnt dmg too low vs all this mastery? or u think it doesnt matter
+[10:20:06] petkicklol: imagine if Festermight wasn’t nerfed
+[10:21:26] yourKnightmaare: @petkicklol I think I'll test commander with high haste
+[10:21:30] DBMezzy: @petkicklol how does attack power work on dk? just testing bdk
+[10:21:38] xiliketurtlex: so how much haste are you talking about??
+[10:21:48] petkicklol: I don’t know anything about blood
+[10:21:54] DBMezzy: thinking is it better to have 37 vers and 50 mastery, or 30 vers and way more mastery
+[10:22:21] petkicklol: you want like 35 Vers at least
+[10:22:25] petkicklol: ye
+[10:22:37] DBMezzy: @petkicklol its for bdk
+[10:22:43] DBMezzy: so thinking about it
+[10:22:48] Xcyyted: just came in, are u testing more haste build with clawing?:P
+[10:23:03] DBMezzy: so better 35 vers at least
+[10:23:04] gelatokush: cdew  with 19% vers on evoker QQ
+[10:23:04] DBMezzy: ?
+[10:23:06] Xcyyted: i see
+[10:23:12] wyldeshock: can you use the legendary on TR?
+[10:25:59] SoraSkyforge: :(
+[10:28:08] gits94: got anny good build for solo shuffle ret pala?
+[10:29:39] SoraSkyforge: Mes could you tell me what addon was the one to check stats etc?
+[10:29:39] Moobot: Join my Discord community! https://discord.gg/mes
+[10:29:46] SoraSkyforge: also are u running high haste?
+[10:29:58] SoraSkyforge: thank you
+[10:30:03] fullsendingsince96: lets get a super sweaty mog lol
+[10:30:24] petkicklol: maybe try sores
+[10:30:27] petkicklol: with pb
+[10:30:34] petkicklol: swear ebon is just so boring
+[10:30:54] petkicklol: yea I haven’t been playing it at all
+[10:31:12] SoraSkyforge: playing ebon feels boring af to me too xD @petkicklol
+[10:31:27] petkicklol: ya beyond boring
+[10:36:55] aant02: that go where the shaman dipped to like 2% would have been a kill with an extra crit
+[10:37:41] SoraSkyforge: cya mes
+[10:38:08] Moai: whats the fastets way to casually cap conquest?
+[10:39:24] heymomimonttv: @moai no conquest cap currently. grind 2s
+[10:39:34] rudeleface: rudeleface subscribed with Prime. They've subscribed for 5 months! 
+[10:39:35] StreamElements: rudeleface just subscribed for 5 months in a row mesDad mesDad mesWeckso
+[10:39:45] gelatokush: not alot of casual left in pvp
+[10:45:20] wyldeshock: do you feel prepared on ele?
+[10:45:28] Moai: is ther any weak aura that show offensive and defensive cd running on enemy nameplates?
+[10:46:18] happyheals: platr
+[10:46:27] happyheals: plater
+[10:46:54] Moai: I use default nameplates, I had a weak aura in s1 but lost it
+[10:47:32] simszszy: PogChamp
+[10:51:13] wyldeshock: where is weckso
+[10:51:13] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[10:53:09] gelatokush: i just had a 1500 opposing healer leave round 5 of ss to save his mmr ofc -_-
+[10:58:09] osara_op: When start the awc
+[11:00:13] wyldeshock: wednesday
+[11:10:23] Deaddoomx: :(
+[11:11:49] Chillinar: u quit bdk?
+[11:12:08] Solushun: bdk 2s? lol
+[11:12:55] Jankenz: how were the blood games Mes?  tournament viable?
+[11:13:40] Jankenz: ah, bummer
+[11:14:06] plebcake_: i've been afk - are you chanigng your gear to haste? or what testing now
+[11:14:45] bornbetter: why don't you just sim it?
+[11:15:25] waitimdesyncd: sadly no
+[11:15:33] nargonisttv: Ih aven't heard of one
+[11:15:41] bornbetter: hmm I guess the nerfs are a good point, but I generally use Add Cleave or Heavy Movement sims
+[11:15:54] plebcake_: what % of UH damage is shadow vs physical/magic?
+[11:16:25] bornbetter: Yeah that's a good point
+[11:16:27] plebcake_: not sure how to calculate that via my details
+[11:16:28] Blaze150000: 195%>180%
+[11:17:10] bornbetter: damn I wish raidbots adjusted for pvp buffs now
+[11:17:34] Toiarc: New youtube videos, when?
+[11:17:42] bornbetter: Usually I just baseline the talents that I generally know that I want, and run from there
+[11:17:57] bornbetter: I need to check drustvar now for the active nerfs/buffs
+[11:17:58] bornbetter: ugh
+[11:18:37] waitimdesyncd: @bornbetter  its rather useless. even your big army cds ruin the sim so much the data becomes useless for pvp
+[11:19:54] plebcake_: have you tried full haste pet build with 4 set? @notmes
+[11:19:56] waitimdesyncd: cap
+[11:20:01] waitimdesyncd: you have wows best voice
+[11:20:06] Yukimes: just need to find someone to gather clips and edit for u
+[11:20:10] bornbetter: @waitimdesyncd Yeah for DK that might be the case, but I need to go back and check the other DPS classes that I've simmed w
+[11:20:18] waitimdesyncd: and youre very wise and a authority in your classes
+[11:21:17] waitimdesyncd: A wow creator doesnt have to be right 100% of the time. You need to be in the know and share the info with us, and you def know things
+[11:21:19] sunileif: bonus conq this week
+[11:21:48] honsou2: those glad mounts in bag :(
+[11:22:25] sunileif: is it not this week?
+[11:22:37] waitimdesyncd: conq is buffed this week yes
+[11:22:45] mavy123456: @notmes nerf frost dk
+[11:22:53] UltraKaos: just popped in, what we doing? trying haste?
+[11:23:05] UltraKaos: ok cool
+[11:24:15] sunileif: so blood fisty didnt pan out?
+[11:24:31] sunileif: ya you see that 143 conq?
+[11:25:00] sunileif: the gem?
+[11:25:23] sunileif: gotta use an insight to guarantee it 3 star
+[11:25:32] sunileif: 5k is the going rate for the insight
+[11:25:33] SoraSkyforge: Yo mes do u think the Miestro is a character?
+[11:26:56] waitimdesyncd: @SoraSkyforge  He grew up in not the best of homies and has likely taken a bit of damage from it. If you jump down that rabbithole you might come to find, that its very serious and its proof kids need a good familiy to become compatible with the world
+[11:27:01] waitimdesyncd: homes*
+[11:27:04] nargonisttv: Pizza rolls for breakfast gents. We living the bachelor life for serious.
+[11:27:18] waitimdesyncd: @nargonisttv  bon appetite!!
+[11:27:54] SoraSkyforge: BM vs dk
+[11:27:56] SoraSkyforge: Enjoy
+[11:28:00] SoraSkyforge: The obligeration
+[11:28:06] SoraSkyforge: Obliteration*
+[11:28:58] waitimdesyncd: Did you call non-fistweaver a "away monk"? LUL
+[11:29:22] waitimdesyncd: maybe my brain heard what it wanted to hear, but imma call it away monks from now on
+[11:29:25] petetoe: LIZUN
+[11:29:31] Mortifiedwow: Not to be confused with a home monk
+[11:29:54] waitimdesyncd: dont pick a fight with a in-your-face-monk
+[11:30:10] honsou2: p sure he said crane monk
+[11:30:22] DjRio: I came here for blood dk content and got unholy dk content sadge
+[11:30:31] waitimdesyncd: I heard crane monk be said right after for sure LUL
+[11:30:51] waitimdesyncd: @DjRio  we cant be blessed every day Sadge they are keeping the bdk meta hidden from us Sadge
+[11:31:17] aant02: Sadge
+[11:31:27] fullsendingsince96: i dont understand shuffle win 5 lose rating
+[11:31:27] Moobot: Join my Discord community! https://discord.gg/mes
+[11:31:32] honsou2: away monk good name never know what to call them
+[11:31:42] nargonisttv: @waitimdesyncd bone apple tea
+[11:31:42] fullsendingsince96: im never gunna climb
+[11:32:03] waitimdesyncd: @nargonisttv  thank you good sir
+[11:32:14] Triangulum: !followage
+[11:32:15] StreamElements: @Triangulum, triangulum has been following notmes for  9 years 5 months 7 days 12 hours
+[11:32:15] Moobot: @Triangulum Triangulum has been following Mes for 9y 5mo. BTTV users can type /followed
+[11:32:45] waitimdesyncd: triangulums 10 year anniversary coming up
+[11:33:12] Vendrek: That is why I craft a lot of my own gear
+[11:33:21] wyldeshock: !followage
+[11:33:21] Moobot: @wyldeshock wyldeshock has been following Mes for 3y 2mo. BTTV users can type /followed
+[11:33:21] StreamElements: @wyldeshock, wyldeshock has been following notmes for  3 years 2 months 23 days 6 hours
+[11:33:23] Triangulum: very close
+[11:33:26] UltraKaos: soooo, all this haste/vers stuff should be applicable to blood too ye...... no?
+[11:33:32] xiliketurtlex: how does 30 haste feel vs high mastery with 20 haste
+[11:33:33] DjRio: !followage
+[11:33:34] StreamElements: @DjRio, djrio has been following notmes for  6 years 6 months 10 days 5 hours
+[11:33:51] wyldeshock: I think I’ve been subbed since I first followed.
+[11:34:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[11:34:13] wyldeshock: mes I’ve always played wow since 04 but never watched streamers until you
+[11:34:16] honsou2: cardio build
+[11:34:33] Triangulum: I'd love to try DK but I could never really understand the runes, I've played all classes but dk
+[11:34:33] wyldeshock: somehow you got me into it
+[11:34:49] tigerslap_ow: is that this recent glad mount?
+[11:34:51] Mortifiedwow: !followage
+[11:34:52] Moobot: @Mortifiedwow Mortifiedwow has been following Mes for 9y 1wk. BTTV users can type /followed
+[11:34:52] StreamElements: @Mortifiedwow, mortifiedwow has been following notmes for  9 years 8 days 10 hours
+[11:35:08] Mortifiedwow: 9 yrs seeesh
+[11:35:31] DjRio: mes how young are you
+[11:35:35] honsou2: time is scary
+[11:35:35] DjRio: im turning 30 this year man
+[11:35:38] DjRio: shit scary
+[11:35:38] Mortifiedwow: How long you been streaming full time mes?
+[11:35:39] Triangulum: 7 months til my 10 years
+[11:35:48] Triangulum: isn't it crazy how we've all grown up around twitch
+[11:36:06] UltraKaos: UltraKaos subscribed with Prime. They've subscribed for 14 months, currently on a 1 month streak! there we go
+[11:36:06] StreamElements: UltraKaos just subscribed for 14 months in a row mesDad mesDad mesWeckso
+[11:36:20] honsou2: old man video game
+[11:36:21] jlaw_89: Unholy looks fun
+[11:36:34] SoraSkyforge: @notmes is Aquaniqua the best DK you've ever seen?
+[11:37:05] artsskeit: not playing blood in 2s for maximum toxicity?
+[11:37:11] Gushingcoom: wouldnt you need another set for normal mw build
+[11:39:34] jfachal: @artsskeit I do 😂
+[11:39:45] opnr: hi, i just resubbed to wow after some time and im having trouble deciding what class to play, any suggestions? i enjoy mainly pvp content but wouldnt mind some pve content also. whatever help/advice is appreciated (:
+[11:40:00] Chillinar: play hunter. no bias here ofc
+[11:40:16] opnr: im loaded onto my bm hunter as i sent that, pretty funny lol
+[11:40:48] Zzekz: morning mes
+[11:40:53] blindwolfofficial: bro im trying to get gear why do i have to verus uuuuuu
+[11:40:56] fullsendingsince96: when is the season over
+[11:41:06] twinkieruler95: yeah i started a dh on monday
+[11:41:09] twinkieruler95: and already 488
+[11:41:10] captainbeckzz: What comp do you play in 3s?
+[11:41:13] opnr: @fullsendingsince96 lol i like ur name
+[11:41:17] twinkieruler95: pvp ilvl
+[11:41:22] opnr: @twinkieruler95 jesus how are u gearing so fast? just bg spams?
+[11:41:25] Chillinar: if you want to learn more about the hunters pets and where to get them you can look here https://www.wow-petopia.com/abilities.php @opnr for pvp you want a mortal strike pet
+[11:41:25] fullsendingsince96: thx
+[11:41:37] Chillinar: err mortal wounds
+[11:41:43] Begasaur: morning
+[11:41:52] Triangulum: mornin
+[11:41:58] Chillinar: howdy
+[11:42:00] Begasaur: not to bad, sore but could be worse
+[11:42:06] opnr: @Chillinar i used to use this website as a kid alllll the time, right now i have a bone raptor but i cant get over the spirit beasts. loque'nahak is my favourite looking pet by faaar
+[11:42:15] Begasaur: its oozing alot but its better
+[11:42:43] Begasaur: so today is my day to gear my shaman for phase 2 in sod
+[11:42:56] Chillinar: @opnr it took me 5 days to get that spirit beast lol. back then when sever hop addon was a thing. good old time
+[11:43:12] Chillinar: since that day I haven't seen it anymore
+[11:43:31] opnr: @Chillinar dude the first time i got that pet i was like 8 and my dad asked me to go on a mining route while he went to work and along that route i found it and caught and surprised my dad loool
+[11:43:48] Chillinar: LOL
+[11:44:07] opnr: thinking back to it my dad had a kid to min max his wow gold production...
+[11:44:08] Chillinar: that's good childhood memory!
+[11:44:09] opnr: what a goat.
+[11:44:23] Chillinar: lol same I was the farm bot of my dad lmao
+[11:44:26] Chillinar: herbs, mining, pvp
+[11:44:28] Chillinar: everything
+[11:44:28] Chillinar: xd
+[11:44:41] artsskeit: so what youre saying is no one should bot but just have some kids
+[11:44:47] opnr: yes
+[11:44:47] Chillinar: I got him all the consumes for this raid days lol
+[11:44:51] artsskeit: probably at least 4 to rotate
+[11:45:02] Chillinar: that's the only reason to have kids wdym
+[11:45:06] artsskeit: sounds like rosie needs some siblings
+[11:45:07] judgerages: kids are tos bots
+[11:45:15] opnr: TOS BOTS LOOOL
+[11:45:16] Chillinar: that's how I got my monthly payment from my parents lol
+[11:45:32] Chillinar: was only 5€ but man I was proud of that
+[11:45:51] opnr: hey thats 5€ u didnt have before :p
+[11:45:54] petetoe: LIZUN
+[11:46:00] Chillinar: exactly!
+[11:46:34] opnr: mes makes dk look like a lot of fun, maybe i main that class
+[11:46:39] plebcake_: @notmes how would you rework Frost? what kind of archetype?
+[11:46:49] opnr: ive also watched a few partywafflesx videos n he puuumps
+[11:48:29] plebcake_: @opnr most classes can pump, just depends on how you want to play
+[11:49:08] opnr: @plebcake_ i love a big bursty class that can one shot :p
+[11:49:20] opnr: i also dont miiind bleeds and ramp up dmg but id prefer burst
+[11:49:33] aant02: holy shit they are rotting
+[11:50:49] plebcake_: @opnr UH has ramp and rot. Frost can be very bursty. If you're playing hunter I'd suggest MM - one of the best bursts in game atm
+[11:51:01] opnr: @plebcake_ i also like only play melee, im really bad at spell casters
+[11:51:14] opnr: @plebcake_ maybe its time i learn frost mage
+[11:51:16] wyldeshock: I’m going to have every class geared this season. and socketed. im kind of a freak
+[11:52:03] ChrisMahoney: @notmes Is there any class you didn't get 1800 tmog from next season's tmog rerelease?
+[11:52:04] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[11:52:49] artsskeit: kind of a freak?  so a normal wow player
+[11:53:22] Chillinar: I wish I had the motivation to gear ny chars.. I haven't played in 3 weeks xd
+[11:53:34] madFinall: yeah thats great
+[11:53:38] opnr: how does windwalker feel this xpac? they seem pretty cool
+[11:53:41] wyldeshock: it’s fun. I think I’ve learned the game better by playing more classes
+[11:53:59] wowsuomi: Alot of toons like mes druid
+[11:54:07] opnr: yaaa leg sweep is kinda iffy
+[11:54:28] ZealotryTV: gearing for alts shouldnt be a thing. i should just be able to login in play. i dont wanna do the grind more than once
+[11:54:49] wyldeshock: would you be interested in playing some enh after awc? always thought it would be fun to watch
+[11:55:13] artsskeit: that priest just kicked a puppy
+[11:55:26] opnr: ok that dmg is insane ive made up my mind
+[11:55:28] opnr: unh dk it is
+[11:55:31] UltraKaos: must feel so smooth with all that haste
+[11:55:47] Snappzx1: !wa
+[11:55:47] StreamElements: Dragonflight: https://wago.io/pjH2s0KV3
+[11:55:50] xiliketurtlex: whats your haste inside of arena
+[11:56:24] UltraKaos: ima try it for sure, cant stand the slow globals anyways
+[11:56:26] opnr: !talents
+[11:56:26] StreamElements: BwPA/gf1fDREKLfAcG9Z2HkF/BAiEhIHItIRSkIRIikIJAAAAAAAAAgCJRSikkGAAhUSkkkgE
+[11:56:30] ZealotryTV: @Chillinar Chillinar last online 5 months ago big Sadge
+[11:56:48] anmusallam: why the low mastery?
+[11:57:16] Chillinar: @ZealotryTV well that's my 2nd account
+[11:57:30] Chillinar: Chilar is still pretty uhhh alive
+[11:57:43] ZealotryTV: come back :(
+[11:58:38] Chillinar: I don't have time to play on two accounts D:
+[11:59:21] Zhann: !addons
+[11:59:21] StreamElements: DF: Advanced Interface Options, BigDebuffs, ClassicNumbers, Details, Easy Frames, !castbars, MySlot, OmniCC, Plater, sArena Updated, Talent Tree Tweaks, WeakAuras
+[11:59:55] ZealotryTV: you just said you havent played in 3 weeks 4head
+[12:00:17] Chillinar: I said pretty much alive not alive alive.
+[12:00:31] wyldeshock: are you preparing anything else for awc or just mainly dk
+[12:00:52] ZealotryTV: ohhhh
+[12:04:17] gelatokush: so liek on pvp dummy with all modifiers up i ca nhit 400k expel harm dmg
+[12:04:31] gelatokush: but in duel vs mes its 50k
+[12:04:38] Alerothan: @notmes Is it worth dropping pvp pieces for pve pieces to get get less vers?
+[12:04:40] waitimdesyncd: people think im not smart but they dont know i got dozens and dozens of iq points Sadge
+[12:05:10] Chillinar: how much could u afford with those dozen and dozens of iq points?
+[12:05:18] Chillinar: at least two big macs?
+[12:05:21] xiliketurtlex: wouldnt clawing work better with high haste?
+[12:05:27] waitimdesyncd: @Chillinar  at least
+[12:05:37] Chillinar: @waitimdesyncd I'm proud of you
+[12:05:40] nikthevoker: use the engi hellm
+[12:05:42] nikthevoker: all haste
+[12:05:50] waitimdesyncd: @Chillinar  thank you, you get me
+[12:05:57] Chillinar: NODDERS
+[12:06:00] artsskeit: inflation.  probably just the one big mac
+[12:06:04] artsskeit: and no extra sauce
+[12:06:12] Chillinar: no extra sauce how cruel D:
+[12:06:24] Chillinar: I'm getting a happy meal later OwO
+[12:06:36] Chillinar: gotta spoil myself on this special day
+[12:07:04] nikthevoker: my bro got me mcd big breakfast
+[12:07:06] harleyjaymes: nothing like being a healer and mes beating your ass
+[12:07:08] opnr: @Chillinar burger or nuggets.
+[12:07:11] artsskeit: happy birthday?
+[12:07:33] Alerothan: @nikthevoker You think its worth dropping any vers on Dev?
+[12:07:34] Mortifiedwow: @petkicklol arise, champion.
+[12:07:51] Chillinar: Thank youu! @artsskeit
+[12:08:46] nikthevoker: @Alerothan i have, trying to decide bettween pure mast or some critm, if i crit during any 30sec go they dead
+[12:09:15] artsskeit: woo lucky guess
+[12:09:16] Alerothan: @nikthevoker Yea I was toying around with the raid ring that has 1400 haste on it lol
+[12:09:51] artsskeit: gotta gamble on your birthday
+[12:09:55] artsskeit: !gamble all
+[12:09:55] StreamElements: artsskeit went all in and lost every single one of their 2149488777 runes LUL
+[12:10:00] Chillinar: !gamble all
+[12:10:00] StreamElements: Chillinar went all in and lost every single one of their 1155 runes LUL
+[12:10:03] artsskeit: fk
+[12:10:06] Solushun: !slots all
+[12:10:06] StreamElements: @Solushun you got PogChamp | PogChamp | PogChamp and won 120300 runes PogChamp //
+[12:10:08] Chillinar: damn no luck on my bady how cruel
+[12:10:12] Solushun: LETS GO
+[12:10:13] Chillinar: wtf sol
+[12:10:15] Chillinar: this is rigged
+[12:10:16] gelatokush: less then caster :D
+[12:10:17] Chillinar: where id my luck go
+[12:10:20] Chillinar: HUHH
+[12:10:26] notmes: !addpoints all 2m
+[12:10:27] StreamElements: @notmes, successfully added 2000000 runes to 559 users.
+[12:10:31] Chillinar: !gamble all
+[12:10:31] wyldeshock: you said 40% vers yea?
+[12:10:31] StreamElements: PogChamp Chillinar went all in and won 2000000 runes PogChamp they now have 4000000 runes FeelsGoodMan
+[12:10:31] gelatokush: my mage has 45% haste :D
+[12:10:32] AngryStapler: !gamble all
+[12:10:32] StreamElements: AngryStapler went all in and lost every single one of their 4014250 runes LUL
+[12:10:35] AngryStapler: Madge
+[12:10:36] nikthevoker: i got 10% haste from execute staff
+[12:10:44] Chillinar: Birthday luck!
+[12:10:51] petkicklol: was afk 37% haste huh LMAO
+[12:10:52] jalanea: !gamble all
+[12:10:52] StreamElements: jalanea went all in and lost every single one of their 2000015 runes LUL
+[12:10:54] waitimdesyncd: does that build make 2x blue silk better?
+[12:10:57] petkicklol: is the no mastery onticeable
+[12:11:12] Begasaur: at that point you have DR for haste right?
+[12:11:14] Chillinar: what happens if you have too much haste?
+[12:11:16] Begasaur: its over 30%
+[12:11:31] gelatokush: you cant have too mucch haste
+[12:11:54] artsskeit: Eminem: happy birthday to you happy birthday to you happy birthday to youuuuuuuuuuuuuuuu
+[12:12:13] Chillinar: LUL
+[12:12:13] Moobot: Join my Discord community! https://discord.gg/mes
+[12:12:14] fwankey: vioWOKEGE
+[12:12:16] waitimdesyncd: no was chill for us LUL
+[12:12:29] waitimdesyncd: just a very discant ai voice
+[12:12:38] artsskeit: !slots all
+[12:12:39] StreamElements: @artsskeit you got 4Head | 4Head | OpieOP and lost your 2000015 runes LUL
+[12:12:51] artsskeit: worst birthday ever
+[12:13:03] Chillinar: you also have birthday???
+[12:13:22] artsskeit: no im living vicariously
+[12:13:26] nikthevoker: birthday club!
+[12:13:26] Chillinar: lmao
+[12:13:27] c0jaK: happy birthday mes
+[12:14:09] artsskeit: i should be sleeping but somehow youtube algorithm thinks i like poilievre
+[12:14:11] sunileif: wooo chilli's b-day the best day!
+[12:14:45] Chillinar: I just had the best carrot cake ever
+[12:14:56] nikthevoker: that mcd big breakfast my only bday present LUL
+[12:14:56] wyldeshock: Crusader’s title is Hosting AWC Tryouts.. rofl! imagine gathering a team that way and doing well. would be epic
+[12:15:14] Alerothan: Megan: beeeeeeaaaaaaaaaaaan beeeeeeeeeeeaaaaaaaaaan, ughughughughughughughughughughughugh, beeeeeeeeeeaaaaaaannnnnnn. Happy Birthday
+[12:15:15] nikthevoker: @wyldeshock hes in FG
+[12:15:16] nikthevoker: LFG
+[12:15:34] wyldeshock: sheeeesh
+[12:15:46] tekn077: warr <<DK??
+[12:15:48] Chillinar: what was that LOL
+[12:16:52] wyldeshock: I’m so bored chat
+[12:17:08] Chillinar: read a book or clean your room
+[12:18:22] wyldeshock: do you see my name? shock - I’m a shaman main. I can’t read
+[12:18:37] sunileif: its true shamans cant read
+[12:18:47] sunileif: illiteracy is very high with them
+[12:18:47] Chillinar: oh yeah I forgot about that
+[12:18:49] Chillinar: then uhh
+[12:19:00] Chillinar: go clean your room mister!
+[12:19:18] huntart: what do you think about blood dks?
+[12:19:27] artsskeit: tauren shamans can read.  a kinder, gentler breed
+[12:19:35] sunileif: ya clean your altar to the earth goddess
+[12:19:56] wyldeshock: I’ll be home later been in the hospital with nothing to do
+[12:20:01] Alerothan: @nikthevoker 23% crit, 19% haste, 42% mastery, 25% vers. Thoughts? OMEGALUL
+[12:20:13] artsskeit: not speaking from experience.  orc master race zugzug
+[12:20:13] wyldeshock: I have a switch but that new Pokemon game is garbage
+[12:20:37] artsskeit: palworld awaits
+[12:21:13] wyldeshock: who tryna teach me fistweaver
+[12:21:24] sunileif: mike's a fisty boy
+[12:21:34] Chillinar: mike is pretty good at fisting NODDERS
+[12:21:42] wowsuomi: That tree just fell over
+[12:21:44] Alerothan: HUH
+[12:21:50] AngryStapler: NODDERS @Chillinar
+[12:22:30] wyldeshock: can we trust someone named Mike though?
+[12:22:58] nasxsy: is haste the turn?
+[12:24:54] Chillinar: I said what I said. no regrets
+[12:26:27] ZealotryTV: healing shuffle is so fun. 3-3 for 5 rating. huge
+[12:26:40] nikthevoker: @Alerothan how much you hit for with that low mast? that would be my concern
+[12:27:06] nikthevoker: mike fister
+[12:27:18] nikthevoker: 100p trustworthy
+[12:27:23] Alerothan: @nikthevoker I'm kinda in a weird spot with the recent stam changes. Before it felt like rounds didnt go long enough to reliably get 2 DRs, now it feels like they do so idk
+[12:28:34] sebbelurichan: dh/dk whats the best healer for that?
+[12:28:46] ZealotryTV: This pally just press light of dawn Yikers
+[12:28:49] petkicklol: @sebbelurichan rsham/dragon
+[12:29:07] ZealotryTV: or was that the blind?
+[12:29:10] ZallKlos: Wouldn't bs/cs be better with high haste
+[12:29:19] sebbelurichan: kk ty!
+[12:29:28] nikthevoker: blind has same animation
+[12:29:53] sebbelurichan: why is pres better than the others? any particular reason?
+[12:30:31] nikthevoker: @Alerothan i feel like with a good kick or good cc even dr ed at right time can 100-0 every 30sec LUL
+[12:31:29] americanmoses18: slanering kklonks name? shame @artsskeit
+[12:32:12] happyheals: New keyboard check
+[12:33:00] Alerothan: @nikthevoker Do you feel like 25% vers is way too low though?
+[12:33:00] Moobot: Tshirts, hoodies, and mugs available now! https://merch.streamelements.com/notmes
+[12:33:50] nikthevoker: ya that seems a bit low
+[12:34:08] stackerproductions: brothren
+[12:34:17] artsskeit: woah censorship
+[12:34:23] nikthevoker: migh have to offheal yourself more
+[12:34:37] stackerproductions: i fell asleep watching your stream and woke up a dk god
+[12:34:52] kklinker: !ban notmes
+[12:35:01] kklinker: You cannot ban the broadcaster.
+[12:35:03] kklinker: I call bullshit
+[12:35:14] Solushun: yeah u can
+[12:35:17] Chillinar: why klink so mean today?
+[12:35:20] nikthevoker: ony jeff can do ha
+[12:35:47] wyldeshock: I remember when klinker pvp’d. I was just a wee lad.
+[12:35:56] kklinker: It was when Mes liked me.
+[12:36:04] kklinker: He turned his back on me
+[12:36:05] artsskeit: tyrants out of control
+[12:36:07] kklinker: and I becam the Villan.
+[12:36:18] sunileif: !ban kklinker
+[12:36:20] Solushun: mes was so power hungry for blessing of summer
+[12:36:28] Solushun: i never seen such corruption take place so quickly
+[12:36:34] Solushun: and thats catching the tail end of Bfa too btw
+[12:36:35] sunileif: @kklinker Saususge RainTime
+[12:36:37] Chillinar: klink in his villain arc?
+[12:36:42] nikthevoker: kkllinkers back, time for Bdk
+[12:37:02] sunileif: mes klink said he'd heal as prot pal if you went bdk
+[12:37:03] wyldeshock: summer changed mes
+[12:37:17] kklinker: Suni
+[12:37:21] LichbornHQ: with this much haste sudden doom not worth ?
+[12:37:29] wyldeshock: someone is trying to cover up Mes’s tbag allegations
+[12:37:31] sunileif: klinki
+[12:37:33] nikthevoker: no kkllink should fister or aug with him LUL
+[12:37:34] wyldeshock: I smell collusion
+[12:37:53] sunileif: oh thats right klink has secretly leveled a fisty klink
+[12:37:56] kklinker: I hope your left foots toes get gangrene
+[12:37:56] nikthevoker: fister aug bdk
+[12:38:19] sunileif: i hope you are in good health
+[12:38:26] sunileif: savage
+[12:38:41] kklinker: Just your toes.
+[12:39:00] sunileif: at least youd no longer ask for feet pics?
+[12:39:05] artsskeit: gangrene just falls right off nbd
+[12:39:09] sunileif: or would that increase the demand?
+[12:39:36] timmah25: jesus every time you touched him at the end he would lose 20%+
+[12:39:54] kklinker: Can't impede on my lucrative business of selling Cholli's socks and feet pics
+[12:40:01] kklinker: She needs the money for chili chips
+[12:40:09] nikthevoker: it looks like youre spamming coil
+[12:40:26] Lontartv: 541 raiders from Lontartv have joined! 
+[12:40:26] StreamElements: Lontartv just raided the channel with 541 viewers PogChamp
+[12:40:27] Chillinar: did you just insult my business?
+[12:40:34] kklinker: My business.
+[12:40:35] AstralScare: lontarJAM lontarJAM lontarJAM lontarJAM lontarJAM lontarJAM
+[12:40:36] Kikrino: savixBino savixBino savixBino
+[12:40:42] nikthevoker: wouuld rotten touch be good?
+[12:40:45] Chillinar: Lontar Pog
+[12:40:52] aframpp: lontarPET lontarPET lontarPET lontarPET lontarPET
+[12:40:57] maybethistimepls: lontarJAM lontarJAM lontarJAM lontarJAM lontarJAM
+[12:41:29] kyleuselton: @notmes you ready for awc bossman
+[12:41:31] wyldeshock: Lontar my boy
+[12:41:32] Diviniumz: this reminds me of the time in corrupted season when people realized haste and vers amps were better than gushing
+[12:43:51] americanmoses18: in before feral dies and tonyferal makes a tweet about it
+[12:44:39] gelatokush: kek that rsham almlost killed me
+[12:44:46] Qdubbz: lmfaooo
+[12:45:53] Panaxx: what does blood dk feel strong into?
+[12:46:05] Bwrecker: haste with dot build?
+[12:47:32] abne41c: can you show last arena details please?
+[12:47:39] gelatokush: i wish i had the execute staff 489 on my FW :(
+[12:47:41] bigbicepps: heyo, im thinking about returing to wow and i mostly play pvp, in what spot is arms currently? especially in 2s
+[12:48:31] abne41c: hows that possible
+[12:48:52] fullsendingsince96: mes you be streaming some big hours i respect the dedication gamer
+[12:49:35] LichbornHQ: you can transform wrist to give mastery haste instead haste vers with catalyst
+[12:49:39] Fragssgaming: you trying out haste dot build?
+[12:50:07] nikthevoker: what about engi helm
+[12:51:02] Diviniumz: while you have to make sure your gems align, i've been enjoying lariat this season at ~375 stat of my choice at 33% uptime
+[12:51:03] TeamLiquid: Looking to take your gameplay to the next level? Learning a new class and would like some pointers? Head on over to our discord go.adv.gg/S0oICP to schedule a coaching session with your favorite Team Liquid raider!
+[12:52:18] Catharsus: lariat is still badass, but you 'need' 5 gems at least to make it 'viable' at top tier
+[12:53:27] Defeatlool: wow
+[12:53:27] Moobot: Join my Discord community! https://discord.gg/mes
+[12:53:50] Catharsus: aye, that pvp 'nerf' sucks and i bet some necks beat it for pvp
+[12:54:32] gelatokush: the armor nerf for plate had biggest impact on FW my dmg gets amplified by 250% when fw
+[12:56:39] Zzekz: take it easy mes, ggs
+[12:56:57] simszszy: PogChamp
+[12:57:58] americanmoses18: ggs mes
+[12:58:39] Dacendaren: mesAFK mesAFK mesAFK
+[12:59:06] Dacendaren: Dacendaren is gifting 5 Tier 1 Subs to notmes's community! They've gifted a total of 95 in the channel! 
+[12:59:07] Dacendaren: Dacendaren gifted a Tier 1 sub to bigmancamx! 
+[12:59:07] Dacendaren: Dacendaren gifted a Tier 1 sub to LootdaddyTV! 
+[12:59:07] Dacendaren: Dacendaren gifted a Tier 1 sub to Samurayny! 
+[12:59:07] Dacendaren: Dacendaren gifted a Tier 1 sub to GnRHDota2! 
+[12:59:07] Dacendaren: Dacendaren gifted a Tier 1 sub to XwraethX! 
+[12:59:07] StreamElements: bigmancamx just subscribed mesDad mesDad mesWeckso
+[12:59:07] StreamElements: LootdaddyTV just subscribed mesDad mesDad mesWeckso
+[12:59:08] StreamElements: Samurayny just subscribed mesDad mesDad mesWeckso
+[12:59:08] StreamElements: GnRHDota2 just subscribed mesDad mesDad mesWeckso
+[12:59:09] StreamElements: XwraethX just subscribed mesDad mesDad mesWeckso
+[12:59:11] unsccessful: :"(
+[12:59:36] Dacendaren: its all good ive been lurkin
+[13:02:45] Bersolgens: morning

@@ -1,0 +1,712 @@
+[0:00:13] StreamElements: jdotb is now live! Streaming World of Warcraft: druid keys (push week lmao)
+[0:01:50] ren0m: Good morning
+[0:13:46] skyepan78: Good morning JB
+[0:14:21] frazlord: Did you see Meg's tweet about engi rez backfiring and being unusable for 6 hours in game?
+[0:18:07] Grasshoppa117: !ui
+[0:18:07] StreamElements: addons: https://controlc.com/c491c8fd weakauras: https://wago.io/p/jdotb elvui: type !elvui
+[0:18:31] Grasshoppa117: argh 404 lol
+[0:18:45] ren0m: Ye, the link has been acting up lately
+[0:18:50] HopeThePriest: Morning J
+[0:19:11] frazlord: Yooo you finally got a Suncaller trinket
+[0:19:22] ren0m: It's BigWigs for dungeons, OmniCD and OmniCC, and I can't remember the rest
+[0:19:51] Grasshoppa117: jst wana knw what WA JB using for dungeon pack etc feel like my screen is so cluttered
+[0:20:55] ren0m: That I have no idea
+[0:21:37] Grasshoppa117: thx guy
+[0:23:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[0:24:51] xAntdoggy: xAntdoggy watched 3 consecutive streams this month and sparked a watch streak! 
+[0:24:56] ren0m: Look at that happy face. This is what that trinket does to a man
+[0:24:57] Grasshoppa117: u able to shed some light plz mr jb on the dungeon WA u usin ?
+[0:25:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[0:25:09] walkinginyourshoes: Jb, do you ever use Nature Swiftness? It didn't went on Cd when you did Battle res.
+[0:25:18] jdotb: https://wago.io/dfdungeons/112
+[0:25:25] Grasshoppa117: oh ty vm sir and good day to ya
+[0:26:52] RagingFungus: gotta remember its mainstat vs secondary too
+[0:26:54] FazzAzzle: can you upen talents so i can screenshot <3
+[0:26:56] Grasshoppa117: cant run both?
+[0:27:31] Possitiviti: Hows trinket working for you? :)
+[0:28:08] AlsoZen: Any alternatives to the fyrakk one?
+[0:28:18] AlsoZen: In combination with Belor that is
+[0:28:28] Grasshoppa117: my other question mr jb if u dnt mind ... which dungeons is the extra dispel talent required on plz
+[0:28:50] walkinginyourshoes: oh i see, it's tranquil mind instead of swiftness
+[0:29:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[0:29:15] Grasshoppa117: i think its poison and curse talent or somethin i knw WCM is one
+[0:29:43] Wiseved: sup jb
+[0:32:22] Grasshoppa117: can anyone else answer this ? which dungeons is the extra dispel talent required on plz
+[0:32:35] RosaBerry__: 148 raiders from RosaBerry__ have joined! 
+[0:33:13] RosaBerry__: rosabe3RAID rosabe3RAID rosabe3RAID rosabe3RAID rosabe3Letterhype rosabe3Letterhype rosabe3Letterhype PogChamp PogChamp PogChamp PogChamp PogChamp
+[0:33:15] walkinginyourshoes: @Grasshoppa117 You can google "Dragonflight s3 dispels" and there is a thread in reddit with link to all debuffs spreadsheet, you can plan accordingly
+[0:33:16] Wiseved: for what class
+[0:33:27] RosaBerry__: Good luck in the keys guys!! And happy sunday :D
+[0:34:27] Grasshoppa117: oh yeh found that thx just still not sure which dungons to run it on haha
+[0:34:46] Wiseved: what spec u playing dude
+[0:35:04] walkinginyourshoes: @Grasshoppa117 it's divided by dungeon, so you can check on your class what takes additional talens, like curses for example, and see do you need that in one you're aiming for or not
+[0:35:31] xAntdoggy: how important is healer dps this season
+[0:35:37] Grasshoppa117: gotcha yeh figured that was the pro way to do it thought there might jst be an ez answer for resto druid for example
+[0:36:08] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[0:36:19] walkinginyourshoes: @Grasshoppa117 there are build per dungeon in resto druid guide on wowhead
+[0:36:57] Grasshoppa117: ok thanks sir
+[0:39:05] Yoky57: whats the kind of damage rotation for rdruid in m+? new to it
+[0:39:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[0:44:27] Wiseved: Now do it on 31 forti YEP
+[0:47:28] walkinginyourshoes: @Yoky57 you renew moonfire, sunfire, and if you catweave - put your dots and debuffs when everybody safe
+[0:48:45] walkinginyourshoes: @walkinginyourshoes theoretically you can use bite finisher, but at that time sombody will step in poop or something else and you need to shift out :D
+[0:49:26] walkinginyourshoes: @walkinginyourshoes also push Hearth of the wild before a cat dps window
+[0:51:36] Possitiviti: how many dmg events are during the crush 3 or 4?
+[0:53:49] antirace: !ui
+[0:53:49] StreamElements: addons: https://controlc.com/c491c8fd weakauras: https://wago.io/p/jdotb elvui: type !elvui
+[0:56:27] Grasshoppa117: ouch haha
+[0:56:32] walkinginyourshoes: :D
+[0:56:35] Grasshoppa117: rekt
+[1:01:10] Nico_vdM: Hi @jdotb and chat
+[1:01:36] Possitiviti: vers flask?
+[1:02:37] heygadzie: why u would use more mastery? is not mastery helping with groove guardians healing?
+[1:02:43] heygadzie: or is vers for surviving one shots
+[1:03:46] flawlesslykun: @heygadzie vers is objectively a better stat for m+ as healer
+[1:03:58] flawlesslykun: as druid healer i should say (even tho most of them like it)
+[1:04:12] flawlesslykun: it does damage, it does healing, and like u said, helps u surviving one shots
+[1:05:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[1:05:37] flawlesslykun: that being said tho, i have a fuckload of mastery pieces on my druid KEKW so i'm playing with what i have. and it's not bad to have mastery, it just doesn't do nothing for your damage
+[1:07:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[1:14:51] RemwayTV: we pull it through door
+[1:29:03] m3tabee_: dont yell, get better
+[1:29:15] Piaggio: hey guys i just tuned in hows it goi... oh
+[1:33:09] rooneycs: ez key jdot
+[1:45:16] HeIIaAverage: The stack clearing always scares the crap out of me on that fight
+[1:45:27] HeIIaAverage: Goliath
+[1:46:24] ren0m: jdotbDontYell
+[1:55:07] adalexxx: how did the tott go earlier missed it
+[1:55:41] ren0m: I only listened to it and there was a lot of yelling
+[2:00:46] Hiea: So this is what high key gameplay looks like
+[2:01:03] Dreamscytherqt: LUL
+[2:01:14] Hiea: Saw another stream where tank was dancing him on the fountain
+[2:05:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:05:13] devilhawk83: chrysCry
+[2:05:14] flawlesslykun: rough day or ? Sadge
+[2:05:35] Whitewolf1441: how did dh die there?
+[2:06:21] FinkTV: FinkTV watched 5 consecutive streams this month and sparked a watch streak! finktvSHEESH2
+[2:07:35] synthoxxxx: Dh brain probably
+[2:12:49] Naloc: damn the tank is taking a beating
+[2:24:05] CryJK: !pc
+[2:24:05] StreamElements: Ryzen 7800x3d, AMD 7900 XTX, Gigabyte X670, G.Skill DDR 5 6000 30CL RAM, Samsung 980 Pro, Corsair 850W
+[2:25:04] m3tabee_: jb do you ever play preservation
+[2:30:05] flawlesslykun: @m3tabee_ he did in dragonflight beta. not so much nowadays which i find kinda Sadge
+[2:30:34] flawlesslykun: but gotta ride the resto druid meta hype train ofc GIGATON plus it's his fav spec
+[2:30:56] CyonDru: morning JB
+[2:32:43] easymeld: what is was for lady casts?
+[2:33:07] easymeld: wa*
+[2:34:19] Grasshoppa117: do we jst rip flourish on cd these days?
+[2:35:05] happyheals: yeah
+[2:36:19] BigPatty123: wuddup jb
+[2:36:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[2:37:57] BigPatty123: lol i didnt know you posted the streams to youtube too, ive just been watching it from twitch after i get off work
+[2:40:20] Whitewolf1441: breaks are for the weak
+[2:40:25] CyonDru: ez key
+[2:41:14] turfjitsu: last week i started hearing something "new to me"  ethical dps    when i hear streamers say it constantly its like stfu lol  (not you jdot) just making random chat
+[2:42:18] happyheals: I feel like 30 mins is like 3/4 of a heroic run
+[2:42:19] Yoky57: how do u do damage as resto any tips
+[2:42:32] Grasshoppa117: playin mdi JB?
+[2:45:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:48:45] Celynae: Talent peek? sir?
+[2:49:18] Celynae: Thankyou sir
+[2:50:04] ren0m: What are we cooking?
+[2:50:41] cheesey_oce: can you explain why tranq?
+[2:51:15] CyonDru: KEKL
+[2:51:18] cheesey_oce: where is it good? i havent seen it ran
+[2:51:20] Waradin24: hows tree feel in m+?
+[2:51:36] Celynae: I was personally wondering why Invigorate, I imagine for trees?
+[2:52:08] Waradin24: second boss dam
+[2:52:21] doomester: you only use invigorate in specific dungones or all in general?
+[2:52:44] ren0m: How would one adjust your WAs to be useable in other, non-healer specs? The one with CDs showing.
+[2:52:53] Celynae: I've been running stonebark for thorns healing, been questioning that too
+[2:53:11] cheesey_oce: healing top level keys looks like a nightmare with the near one-shots
+[2:53:48] croptopkaren: Hiiiii. I've just gotten into M+ again, I'm a pvper... Should I just be using treants on CD? Usually in PVP we just use them after Tree of Life to reset CD but I run Convoke in M+ so Im not really sure when i should use them
+[2:54:00] croptopkaren: obv when damage is high im mashing everything but what about otherwise
+[2:54:42] croptopkaren: Got it!! <3 Thank you
+[2:55:08] D1ZE: @croptopkaren I always put out two and have the third for panic
+[2:55:15] Waradin24: i bind it to spawn 1 every time i swiftmend
+[2:55:15] Arisolo: watching andy and speed cook in 30 tyr throne for an hour and a half on one boss makes me know i'm not meant for high keys
+[2:55:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[2:55:41] croptopkaren: @D1ZE Thank you - that's what I will do  as well probably
+[2:56:26] doomester: which one?
+[2:56:52] c0jaK: might be an improvement
+[2:56:58] Phatori: id prefer no cam
+[2:57:03] c0jaK: get yourself a cat avatar
+[2:57:05] Xarotic: Any tips or forums to find an M+ team?
+[2:57:25] Orgabism: Kafkaesque
+[2:57:47] croptopkaren: croptopkaren subscribed at Tier 1. 
+[2:58:25] Whitewolf1441: btw im curious what those twinkly lights behind you are
+[2:59:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[2:59:20] alerian1127: Might not be a bad idea to get those reflector panel things that photographers have for doing photo shoots to do the thing you are essentially using the ceiling for
+[2:59:34] Celynae: @Xarotic Pug until you lose the will to live, then settle for whoever doesn't call you names :P
+[2:59:35] Whitewolf1441: it looks really good, thanks shanna
+[2:59:37] czajnatown: u dont feel aug is kinda MEH ?
+[2:59:42] inspirox: @xar find 1-2 people you want to play with and go from there, adamantly try to schedule times to play together
+[3:00:03] czajnatown: they give surv for sure but all tyra bosses is so longgg
+[3:00:14] Skittlebeast: @Celynae right LUL
+[3:00:22] inspirox: aug enables the tank to pull more = more dmg
+[3:01:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[3:03:15] Skittlebeast: mines a few years old now but have the msi optix mag341cq and it's been nice
+[3:03:16] flawlesslykun: @jdotb i know you're a streamer and probably can afford one, but honestly your current sony one is also a banger. especialy for the price u paid for
+[3:03:22] maenkins: is it a must to have xavius not get apocalyptic empowerment? or is it inevitable?
+[3:03:32] Drafoo: 183 raiders from Drafoo have joined! 
+[3:04:23] Sokchoy: good morning Mr Joseph dot Bentley any AWC watch partying today
+[3:05:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[3:07:22] Skittlebeast: Skittlebeast subscribed with Prime. They've subscribed for 3 months, currently on a 1 month streak! 
+[3:07:48] Piaggio: please reset details, im a meter addict PepeHands
+[3:08:32] Orgabism: What, they only pulled the caster from the miniboss pack??
+[3:12:28] MrHoffo: !talent
+[3:12:44] jesustakethewheels: Are you not doing MDI this year?
+[3:12:52] MrHoffo: !talents
+[3:23:22] Bronkel: rdruid bursting healing is decent
+[3:31:13] realfatness: !raiderio
+[3:31:13] StreamElements: https://raider.io/characters/eu/tarren-mill/Jdotb
+[3:32:03] DONGAMAN: (push week lmao)
+[3:32:10] fundersaam: ASS MADE IN USA
+[3:33:12] ottomr1990: why do you taunt there?
+[3:33:16] recede_: evoker afk?
+[3:33:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[3:34:06] fundersaam: You're kinda insane managing to pump over 200k dps and healing that in a 30 my teams just fall over in 26-27s
+[3:35:35] Malicone: sick heal gg
+[3:36:00] Loudnezz: !hardware
+[3:38:10] ottomr1990: oh that's sick. will have to go look back at the vod for that
+[3:38:29] ridder30: 160k overall dmg is insane
+[3:38:47] BigPatty123: your cat W/A is literally my cat henry, especially in high healing moments during keys when he owns my keyboard
+[3:38:53] treavorthenusance: @ridder30 its good but tbf the last boss has a big dmg amp
+[3:39:04] treavorthenusance: but he's still cookin on dmg
+[3:39:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[3:39:16] ridder30: yea but the most ive done as rsham is 90k and i was pumping
+[3:39:38] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[3:40:01] treavorthenusance: yea rdruid has the best single target but shaman does really good aoe. their survivabilty is just too low for anything over 29's on most keys unfort
+[3:40:33] Zhiovanni: Clearly not :P
+[3:45:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[3:46:23] Hambull: Your healing is CRAZY
+[3:47:09] Lara_TV_: Casually going for another R1 world key huh
+[3:47:15] Driney: i will never play hpal again if you time this key
+[3:48:05] Grasshoppa117: this is my worst dungeon this pool by far 2nd 3rd and 4th boss all brutal for healling
+[3:49:25] Grasshoppa117: too much
+[3:49:55] Whitewolf1441: lmao
+[3:50:04] smflakes: do you give your self lifebloom ? @jdotb
+[3:50:05] waelrick: LUL
+[3:50:08] Driney: dude i looked away for 2m why are you outside
+[3:51:31] smflakes: and hi
+[3:52:06] JayPain: @smflakes yes
+[3:52:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[3:54:07] ottomr1990: that bee patrol is an actual terrorist
+[4:04:13] GingerWrath: does jb have a plater import or setup description somewhere?
+[4:05:26] NeuroTheGamer: jb vibing
+[4:05:34] NeuroTheGamer: naguuraJAM naguuraJAM naguuraJAM
+[4:07:36] TBouse: 3rd boss monkaEyes
+[4:08:11] dragona92: @GingerWrath It's not plater, it's threatplates
+[4:08:25] dragona92: !threatplates
+[4:08:25] StreamElements: https://controlc.com/2cd8ce90
+[4:11:17] GingerWrath: oh really
+[4:11:37] GingerWrath: link dead rip
+[4:12:55] dragona92: FeelsBadMan maybe strimer fixes after key
+[4:15:35] Lara_TV_: Is the extra grey bar absorb on your frames a WA?
+[4:15:52] GingerWrath: its nbd ill fkin find dis shit somehow
+[4:16:07] nixar1: @Lara_TV_ it's elvui
+[4:16:39] Lara_TV_: ah damn
+[4:17:32] TBouse: this is super tight
+[4:17:44] BigPatty123: ahj the casual in game drink and irl drink at the same time
+[4:17:52] Lara_TV_: With no deaths they prolly got it with lust on pull
+[4:18:03] TBouse: they have very good dps so probably fine
+[4:18:07] TBouse: fight is like 6:30
+[4:18:12] Lara_TV_: yeah
+[4:18:34] Lara_TV_: Idk I assume aug comps are slightly worse at dealing with the adds?
+[4:19:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[4:19:26] Whitewolf1441: @Lara_TV_ lmao the bot thought you were talking about stream ads haha
+[4:19:51] Lara_TV_: LUL
+[4:21:22] lasercontrol: they don't have bl for this boss?
+[4:21:51] nixar1: they did at the start
+[4:21:58] BigPatty123: this stress kinda reminds my of the snek boss in bfa xD
+[4:22:12] lasercontrol: in sethralis?
+[4:22:16] BigPatty123: yeah lmfao
+[4:22:28] BigPatty123: minus the mana issue
+[4:22:28] lasercontrol: the last one or the second boss?
+[4:22:35] Arisolo: they can only afford to kill one more add
+[4:22:56] Arisolo: have to combust into boss next or they'lll wipe to timer
+[4:22:58] BigPatty123: @lasercontrol the 2nd last boss before orb maze
+[4:23:03] TBouse: i think it's RIP
+[4:23:06] TBouse: this add lived so fkn long
+[4:23:07] Lara_TV_: Yeah this boss is just stupid on Tyran, it double dips with scaling because of the add HP and how the damage amp worls
+[4:23:16] lasercontrol: these boss hp are ridiculous
+[4:23:23] BigPatty123: CUMBOOOOOOOST
+[4:23:30] Lara_TV_: works*
+[4:23:53] Arisolo: rip
+[4:23:55] TBouse: sick boss :(
+[4:24:04] Disgrountled: rip :(
+[4:24:11] Perry_TP: Guys I think I'm being gaslit. Does the tree boss in WM dmg done buff affect the fire when resetting or just the melee swinga
+[4:24:13] tabxzer: :(
+[4:24:15] BigPatty123: NUUUUUUUUUU
+[4:24:16] Perry_TP: Swings*
+[4:24:27] tabxzer: @Perry_TP only melee swings
+[4:24:36] Fraantic: big time
+[4:24:38] Fraantic: i agree
+[4:24:41] Perry_TP: Yeah thought so, ty
+[4:24:41] Lara_TV_: Pretty sure the fire ticks more times though
+[4:24:42] Lara_TV_: no?
+[4:24:47] warlegend123: did he time it?
+[4:24:49] tabxzer: @Lara_TV_ nope
+[4:24:56] Fraantic: did it on my monk 14 times this week from the range of 28 to 23
+[4:24:58] Lara_TV_: Interesting
+[4:25:02] Fraantic: fck this place
+[4:25:06] Hayotal: What dungeon superpack WA do you use JB? looks way better than the one i have x)
+[4:25:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[4:25:12] GingerWrath: jb you got a link for your threatplate setup?
+[4:25:14] Snaaade: Was that 7 min on last ? :O
+[4:25:18] GingerWrath: the one on the bot is brokeded
+[4:25:54] Fraantic: and 5 seconds to res him
+[4:26:17] GingerWrath: thank you very much homie
+[4:26:21] TBouse: top 29 tyran over 2 mins left, fuckin wild
+[4:26:51] jdotb: !command edit !threatplates https://controlc.com/b7e635fa
+[4:26:51] StreamElements: @jdotb, successfully updated command threatplates.
+[4:27:11] lasercontrol: I remember doing some 7 minutes devos 25 or 26 tyrannical, because the uptime on her was so bad
+[4:29:57] TBouse: that's pretty gigachad of you to do 29 before 28 is timed
+[4:30:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[4:30:53] Lara_TV_: did you lust 2nd amp phase here? or 2nd boss?
+[4:30:54] CrerisRs: @lasercontrol remember last boss of Siege?
+[4:31:21] lasercontrol: @CrerisRs I just cried a bit
+[4:31:40] TBouse: boomy comp probably has more overall damage which means you'd want another healer though
+[4:31:48] Lara_TV_: yeah that's real good
+[4:33:08] BigPatty123: yes say that again jb, feelsgoodman
+[4:33:41] TBouse: wild charge angle Kappa
+[4:34:04] treavorthenusance: yea just gotta go boomie  and throw a wrath or 2 lol
+[4:34:07] Snaaade: What trinket setup are you refering too? Fyrakk and pip?
+[4:34:19] TBouse: i like to flourish > tree > flourish for the 3 boss phase
+[4:35:30] Lara_TV_: What does your ST damage breakdown look like?
+[4:35:54] treavorthenusance: rip uptime will be like 30% of dmg probably
+[4:36:01] TBouse: would this ever be a MS angle with how these bosses work
+[4:36:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[4:36:12] Lara_TV_: Ok yeah, was wondering how big kitty damage was
+[4:36:14] Lara_TV_: Tyy
+[4:36:24] Hayotal: What dungeon pack WA are you using? looks way cleaner than the one i have :D
+[4:36:38] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[4:37:18] TBouse: it's probably not the play, just the ego boss overall play lol
+[4:37:38] jdotb: https://wago.io/dfdungeons/112
+[4:37:53] Hayotal: Thanks <3
+[4:38:15] marsico02: @jd
+[4:38:31] marsico02: @jdotb do you play convoke in the high key level your at?
+[4:39:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[4:40:39] marsico02: @jdotb what would you recommend for someone  breaking into 20s on there alt rdruid i play convoke should i switch to tree build? Never tried it
+[4:41:05] somethineuw: so true
+[4:41:14] somethineuw: depresses me literally the point system
+[4:41:58] Arodion_DK: Hey man hows life!
+[4:42:09] face2face: So whats the deal with tranq
+[4:42:17] Ckraigfriend: what kind of route are this people doing in 23 everbloom on mdi to do it in 10 mins
+[4:42:19] face2face: Have you considered dropping WG conduit instead of mastery stacks
+[4:43:11] Lara_TV_: I think 1st season was a big problem with the over time scores out of getting high keys from SMB, but they could implement a rapidly decaying factor after the "base" timer, so you still have to complete keys in a "reasonable" time to get any score
+[4:43:37] socrates529: is there something you do to manage healing on 2nd boss fall, i seem to struggle at times on 28/29 tyran
+[4:43:41] Snaaade: How do you like morchie this week? Im kinda new and too me most of yesterday to pug rise 22 😳😫 restodruid aswell
+[4:43:43] Kemplore: Remember when people were shitting on rdruids who were running tree. Now they run tree
+[4:45:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[4:47:14] TBouse: all you need is mass and one other aoe cc
+[4:47:22] ren0m: How do we do that?
+[4:47:26] ren0m: Or did I miss the explanation
+[4:47:29] dithrica: morchie makes me think i should get my eyes checked cause even with nameplates off i can't find her for shit lol
+[4:47:46] Jaz_HS: How do you weave in Cenarion Ward? All logs I see show its healing to be pretty minimal.
+[4:47:49] ren0m: @dithrica you're not alone
+[4:48:37] GingerWrath: how do i get these bitches at the npc's feet instead of above the head tho
+[4:48:43] GingerWrath: what setting am i lookin for
+[4:49:03] nixar1: !base
+[4:49:03] StreamElements: /script SetCVar( "nameplateOtherAtBase", 2 )
+[4:49:37] Snaaade: I use mass roots in there, but if it breaks or whatever i get 1 shot in 21-22s.. but yea i might wanna turn my glasses upside down next time aswell xD
+[4:49:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[4:49:53] ren0m: JB do you have any mouseover trinket macros? I can't seem to get Leaf of the Ancient Protectors to work with mouseover.
+[4:50:01] Hambull: Nature's swiftness not worthy?
+[4:50:13] ren0m: Unless I mouseover the char instead of VuhDo plate
+[4:50:55] ren0m: Thank you I need to try it
+[4:52:04] Snaaade: Can you actually use ironfur, or is it just a must have ?
+[4:52:48] yarpx: wtf
+[4:52:54] yarpx: 7.5mil crit
+[4:53:09] yarpx: ya just still sounds crazy hearing it
+[4:53:18] rawrcain: and he still takes forever
+[4:53:22] TBouse: i mean that would just make it a bit over 4 minute boss lol
+[4:53:26] Lara_TV_: soon to be TWW numbers
+[4:53:46] Hambull: 2.5M on a trinket is still insane lol
+[4:53:58] rawrcain: jb you are NA based but play on eu?
+[4:55:07] Perry_TP: @tabxzer thinn we're wrong, fire is increased by stacks from the looks of it in the logs
+[4:55:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[4:55:26] ItsYent: is the ping difference not hard for you?
+[4:55:29] ren0m: Does anyone else in your family play WoW?
+[4:56:12] rawrcain: that makes quite a bit of sense
+[4:56:21] rawrcain: moved to eu and killin it
+[4:57:21] TBouse: there are honestly more good players on EU too
+[4:59:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[5:02:02] Lara_TV_: There's also just more total players
+[5:02:47] fundersaam: mr JB do you have any contact with darkee and the rest of the og legion team?
+[5:02:47] TBouse: woah what is this self hate
+[5:03:40] somethineuw: wasnt naowh in that one
+[5:03:55] ren0m: Isn't EU just better than NA across most esports titles
+[5:04:07] ren0m: At least those games both regions play
+[5:04:24] TBouse: yeah that's the case in most eSports, NA imports from everywhere
+[5:04:58] somethineuw: what tf is a kilometer 🦅 🦅 🦅 🦅
+[5:05:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[5:06:04] ripbossqt: as a MW, is vivify spam a good way to big aoe heal, once hots are out?
+[5:06:21] TBouse: PUG THE EVERBLOOM
+[5:07:34] TBouse: do you think mw is objectively easier than rdruid atm
+[5:07:47] FuruF: FuruF subscribed at Tier 1. They've subscribed for 2 months! UwU
+[5:08:01] ripbossqt: yeah im asking as outside cds and when i call behind with RSK, was wondering if its a good solution
+[5:08:33] ren0m: What does "lower keys" mean? 10s? low 20s?
+[5:08:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[5:09:17] Skittlebeast: celestial for caccoons gg
+[5:09:32] Ok_Kingston: how do you make the note that tells you what to do in raid?
+[5:09:49] trevorm5: grow up
+[5:10:32] DKSCP_Rogers_x: yoo
+[5:10:45] aiiir_strikes: Feels great
+[5:11:02] DKSCP_Rogers_x: what rotation do you use for mythic+
+[5:11:43] DKSCP_Rogers_x: for just standard fights what hots etc prio and then burst healingh
+[5:11:50] DKSCP_Rogers_x: sorry dumb question
+[5:12:45] DKSCP_Rogers_x: i copied your skills from raider io
+[5:12:52] ren0m: Swarm WA - https://wago.io/00n8BOIH8
+[5:12:53] DKSCP_Rogers_x: and you didnt have swarm cenarion lol
+[5:13:10] Snaaade: Is it still 1 lifebloom on self always?
+[5:13:11] Pjablo2904: What talents you running for keys?
+[5:13:40] DKSCP_Rogers_x: can you copy it into stream for me please
+[5:13:48] jdotb: BkGAORarfDaLt4uMx8TYOtl8G0IJ0ISSKSJJCShmWaJBAAAAAAAAAAAAEESiggESQSkkcgApBAAAAAgIAAIJ
+[5:13:56] DKSCP_Rogers_x: thank you
+[5:14:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[5:15:35] nixar1: does efflo itself count as a hot?
+[5:15:52] Snaaade: Can you tell examples of when you meld? Ive had some bad experiences on first boss in atal lately
+[5:15:55] ImjustBatin: yeah healing makes me want to start taking Xanax but I have mad respect for healers
+[5:16:24] witty95: fkn tyr is so stupid omg eb above 27 is just not possilbe am so mad
+[5:16:34] somethineuw: im a healer and I have taken xanax so checks out xdd
+[5:16:42] quasarrrt: https://wago.io/rrpdSXxwI can use this
+[5:17:44] flawlesslykun: @witty95 it is possible, just loot avoidance 4Head azuna the fire mage has 20% avoidance this patch, or close to it. Be mad about rng KEKW
+[5:18:09] Snaaade: Wtf.. why does my meld fail every time on first boss atal? Dinosaur.. does swarm fuck it up or something?
+[5:18:11] flawlesslykun: oh shit i shouldn't have said that, jb is gonna be jelly KEKW
+[5:19:00] Lara_TV_: I've done like 150 keys and have received exactly 0 avoidance pieces
+[5:19:03] Lara_TV_: It's so dumb
+[5:19:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[5:19:10] flawlesslykun: oh i didn't even think about that ye. your crew are chads too
+[5:19:12] pichuux: @w4dafak u have to wait for the pursue to start
+[5:19:15] KrissyWissy6: @w4dafak you have to do it after the purusit completely casts andhe starts walking
+[5:19:15] pichuux: then meld
+[5:19:50] Snaaade: Omg.. ty so much
+[5:20:01] ImjustBatin: damn jdot got that hoe mog kalamaziIon
+[5:20:13] Xenorphz: just remove tertiaries already
+[5:20:25] flawlesslykun: YEP fuck em, racials too YEP
+[5:20:36] dango0n: you should be able to buy a thing with merit tokens to add those stats to your gear
+[5:20:41] Swizzy06: it would be cool to buy a tertiary enchant from the vendor with the same vault tokens as you buy socket
+[5:20:47] Zircons: socketed trinkets
+[5:20:50] Zircons: insane
+[5:21:11] ImjustBatin: socket was worth like how many ilvls? 10 or more?
+[5:23:43] TBouse: Jack is playing a different game with his stats
+[5:24:46] DeVocalize: good afternoon
+[5:25:07] ImjustBatin: what is the fucking point of of tertiaries being added? just remove them. it’s feelsbadman material
+[5:25:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[5:25:57] asuna_qt: !keys
+[5:25:59] Snaaade: Wanst there a expansion where you could roll a stat ln items yourself? The on jayna was last boss in some raid
+[5:26:00] lordpalantir: flawed game ....
+[5:26:04] asuna_qt: oops
+[5:26:06] asuna_qt: !talents
+[5:26:11] DeVocalize: bro what
+[5:26:23] Xenorphz: what we eating
+[5:26:24] asuna_qt: im about to heal a 26 dht and im scared i need a talent build
+[5:26:25] Xenorphz: OpieOP
+[5:26:28] zamow1994: just let us trade vault tokens for tertiary upgrades
+[5:26:30] zamow1994: ez fix
+[5:26:30] branphd: @w4dafak there used to be reforging a long time ago
+[5:26:37] DeVocalize: hows your day going?
+[5:26:49] asuna_qt: SC'D THANK YOU
+[5:26:59] niza2325: gow much crit whut you get
+[5:27:02] flawlesslykun: i was just talking about you 20% avoidance @asuna_qt EZ
+[5:27:05] niza2325: howø
+[5:27:15] zamow1994: @asuna_qt where is the healer stream
+[5:27:15] fundersaam: mr JB do you have any contact with darkee and the rest of the og legion team?
+[5:27:36] jdotb: BkGAORarfDaLt4uMx8TYOtl8G0IJ0ISSKSLJgUolWaJBAAAAAAAAAAAAEESiggkIBJRSyBApBAAAAAgIAAIJ
+[5:27:37] Snaaade: @branphd yea thats right. Forgot the name, and wasnt sure i didnt mix it with D3 xD
+[5:27:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[5:28:52] asuna_qt: NOTED
+[5:29:14] noobe_wow: can you talk about how you use flourish?
+[5:30:10] asuna_qt: how do you use invigorate this shit looks like genesis from wod
+[5:30:30] branphd: ben is poe god now
+[5:30:31] niza2325: how much crit whut you get
+[5:30:45] branphd: well he always has been lol
+[5:30:54] fundersaam: The legion team had such vibes
+[5:31:08] flawlesslykun: @asuna_qt it is KEKW
+[5:32:00] whitewolfstarcraft: Hi jb question is this a good season to return in your opinion playing wow agen ?
+[5:32:05] face2face: What is this build for and why drop NS when you pick something like this
+[5:32:12] asuna_qt: okok
+[5:32:19] TBouse: invigorate feels very scuffed and clunky to use
+[5:32:41] KrissyWissy6: Does Nourish from grove guardians count as a hot for mastery?
+[5:32:48] TBouse: even on waycrest tree boss, you dont really want your lifebloom to fall off immediately just for some burst healing imo
+[5:33:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[5:33:26] justbeachi: hey jb, just starting a druid for this season, can you explain the treant healing to me? I feel like it does nothing rn lol
+[5:34:25] justbeachi: you can hover cast it? feel like between that and convoke there's quite a bit of rng
+[5:34:51] psych0914: which healer would you refer to a new healer wanting to push keys
+[5:34:57] offworld__: It's sorta like Healing Stream Totem. It sits in the background and heals people up.
+[5:35:40] Diisplaced: @jdotb how do you overall feel about this season? do you think the dungeons are where they should be, or should there be some nerfs?
+[5:36:08] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[5:36:27] pichuux: just looted belor, swaped a 98 ilv trinket for the roll xD
+[5:36:33] pichuux: rolled 99
+[5:36:36] pichuux: lol
+[5:37:11] Snaaade: Wait. So 1 grove Guardian heals more than one target? I have it as a mouse over, and use 2 if i feel 2 different players is dropping low.. but one could maybe do it ?
+[5:37:13] Webchika: Out of Curiosity do you like the Echo'ing Tyrstone? For me it feels like a stronger option for my Shaman with her direct heals to load it vs Druid hots... I'm debating chasing a combo of Pips / Sea Star / Blood (From EB) instead for druid
+[5:37:28] zoide123: hi wanna heal rise 28 :D
+[5:37:44] flawlesslykun: agreed. i feel like fall bosses are fucking insane compared to every other boss on the dungeon pool this patch OMEGALUL
+[5:39:07] kondelol: @flawlesslykun I think they are on the same level as eb bosses
+[5:39:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[5:39:27] flawlesslykun: btw jb i'm still playing the leaf trinket (the one that puts a shield on ppl). it does kinda feel nice along with cen ward and bark
+[5:39:46] TBouse: do you self bloom or bloom two others for verdancy on tree boss?
+[5:40:01] flawlesslykun: @kondelol eb bosses are just dumb. shit hits too hard. fall bosses are legit dificult
+[5:40:15] flawlesslykun: i'm just playing what i looted. ofc i'd love  rageheart :)
+[5:41:21] hemingway_gv: Hey bro, im disc main, do u recommend me play druid? is easier than disc or harder?¿
+[5:41:27] canademon: What embelsihments are you playing with?
+[5:41:54] justbeachi: I personally find rdruid harder than disc because of weaving in cat damage
+[5:42:48] hunterzx: on dummies if i plant i have 100% uptime on bender
+[5:45:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[5:45:21] Snaaade: Why is rejuvenation on your class WA? Counting stacks on raids or something ?
+[5:45:25] Pinslate: really slow day
+[5:45:34] Pinslate: even down 25-27
+[5:45:52] Snaaade: Ohh xD
+[5:46:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[5:46:47] sawako07: i saw seraphine use verdant infusion in waycrest - thoughts?
+[5:47:52] Pjablo2904: What stats you prefer on crafted gear? Haste/vers?
+[5:48:25] TBouse: it's better on fort imo
+[5:48:47] drunkenbobdole: Makes Cen Ward do a ton of healing
+[5:49:20] consumeeee: Nah its shit
+[5:49:50] fallb4me: maybe it's pre hotting for thorns but idk if it makes sense
+[5:50:27] TBouse: i think it saves you globals on fort
+[5:51:57] sawako07: yeah only reason i could think of was thorns healing
+[5:52:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[5:52:27] vanchacha: What's y our graphic settings?
+[5:53:38] TBouse: LUL
+[5:53:48] flawlesslykun: classic game design
+[5:54:17] flawlesslykun: kinda reminds me how rets were happy when ppl died KEKW do it again bro KEKW
+[5:54:52] vickmantwo: 89 raiders from vickmantwo have joined! 
+[5:55:56] myteuz: which dungeon u wanna play tree ?
+[5:56:20] vickmantwo: How are keys going?
+[5:58:17] matchdo: also no one has timed a 30 tyr anyways
+[5:58:43] flawlesslykun: @matchdo ngl, avoidance is probably the dif to do that on a 30
+[5:58:45] matchdo: it needs a slight nerf on last two bosses
+[5:58:49] justbeachi: I'm surprised that even after the nerfs no ones timed a 30 of it
+[5:58:50] flawlesslykun: everbloom i mean
+[5:58:51] socrates529: @jdotb is taking NS worth it in general or just in here?
+[5:58:53] Diisplaced: have you heard of the effective health weakaura for S3?
+[5:59:08] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[5:59:08] Diisplaced: during bosses (idk about trash) itll let you know if you are safe / about to be one shot
+[6:00:06] TBouse: OMEGALUL
+[6:00:35] flawlesslykun: LOL
+[6:00:38] YdenTV: Man that effective health WA was bis in legion. You didn't time big keys without it.
+[6:01:07] socrates529: @jdotb is taking NS worth it in general or just in here?
+[6:01:33] SwegglesQT: jdotb — Yesterday at 7:27 PM guys I did the #2 key in the world today but it didn't make me feel anything
+[6:01:35] TBouse: as Ion intended
+[6:01:38] SwegglesQT: what did you mean by this
+[6:05:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[6:05:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[6:08:15] MicHawkh: LUL LUL LUL LUL LUL LUL LUL
+[6:11:44] KrissyWissy6: what is the shadowmeld trick on last boss? Do you need 2 or 3 melds to make it work?
+[6:12:24] KrissyWissy6: ill watch yall do it :D
+[6:21:29] vickmantwo: @KrissyWissy6 It's 2 as we spoke about before
+[6:21:50] xXFlow29Xx: roar or bump
+[6:22:28] asuna_qt: jb dude
+[6:22:31] asuna_qt: i depletedd by 10 seconds.....
+[6:22:36] asuna_qt: but i didnt get heal checked
+[6:24:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[6:25:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[6:25:53] sergentjugs: chat what lets him see the amount he is gonna heal on his healing frames?
+[6:26:37] flawlesslykun: @asuna_qt catweave more billy Madge
+[6:30:38] TBouse: damn, being called "healer" so cold
+[6:36:44] michpecs300: guys do you know what is the weakaura to track party crowd controls that jdotb is using?
+[6:38:57] flawlesslykun: Sadge
+[6:39:01] flawlesslykun: was tight af already tho
+[6:39:40] TBouse: this isnt tight at all lol
+[6:39:59] flawlesslykun: LOL nvm fucking 720 p dude
+[6:44:28] Niroggo: Clap
+[6:44:33] offworld__: Do you guys normally lust P2 there?
+[6:44:37] thoromyr19: nice
+[6:44:45] TBouse: jb how does the bolt targeting work in p1? can the same person get it every other time
+[6:44:55] error44040: "u gona do FALL"
+[6:45:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[6:45:34] Diabetelicious: 2nd boss fall is the most humbling experience
+[6:46:09] TBouse: so it's like throne 1st boss in a sense?
+[6:46:39] thoromyr19: hey jb can we see your spell break down for that last key?
+[6:46:50] sergentjugs: @jdotb whats the gray bar at the end of full heatlh bars on your raid fraimes?
+[6:47:15] HanSch93: that’s good to know. I was always stressing myself out to top the person after the hit because I thought they can get hit again
+[6:47:46] HanSch93: @sergentjugs absorb shield
+[6:48:09] dannyggxd: dannyggxd subscribed at Tier 1. They've subscribed for 76 months, currently on a 76 month streak! I’m gay
+[6:48:29] sergentjugs: @HanSch93 how are they getting it?
+[6:49:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[6:49:29] HanSch93: mage mass barrier for example or evoker breath of eons
+[6:50:28] sergentjugs: oh okay i though he was doing it thanks
+[6:51:08] palthis: Is there a cheat sheet as to when to use Improved Nature's Cure (like which specific dungeons)?
+[6:58:59] offworld__: @palthis All dungeons on afflicted weeks. WM, DHT, EB
+[6:59:16] stiefbruderrr: oef 400k hps
+[7:00:27] palthis: @offworld__ Ty much!
+[7:03:39] flawlesslykun: does heart of the wild affect the trinket btw ?
+[7:03:55] flawlesslykun: that would be GIGATON mate
+[7:04:03] offworld__: @flawlesslykun hotw only affects your direct abilities
+[7:04:17] flawlesslykun: yy i was just curious since he looted it yesterday
+[7:04:28] flawlesslykun: would be giga tho
+[7:05:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[7:08:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[7:11:20] Waradin24: @jdotb pots!
+[7:11:42] ChewwChewwKaHoo: Get some Pots
+[7:12:05] flawlesslykun: no balls Clueless
+[7:12:16] TBouse: run voodoo totem so you dont need to use any globals on chromie Pog
+[7:12:22] Snaaade: is boomkin forms effect wokring for the duration if you apply monfire and sunfire and shift out? or will it only matter for starfire ? as resto
+[7:12:27] Freyeth: Hello, I am slowly getting into 25s and I was curios if its worth to drop Harmonios Blooming for Tranq and Improved Regrowth. I just run the talents which murloc io reccomanded but noticed you only use regrowth and not rejuv, rejuv to weak in higher keys? Hope my question makes sense @jdotb
+[7:12:28] flawlesslykun: KEKW
+[7:14:37] flawlesslykun: @Freyeth i don't even know that website, but u don't press rejuv in keys. nor do u take tranquility (unless u trying to get your cd's back faster in really high keys like jb is doing)
+[7:15:11] flawlesslykun: u also don't play treeform under 28's, so just go convoke
+[7:15:20] Freyeth: @flawlesslykun Ah so I could probably drop Cultivation
+[7:15:39] Robert_US: lower again lol
+[7:17:09] Freyeth: @flawlesslykun Why no Tree form under 28s?
+[7:17:36] flawlesslykun: @Freyeth i'm also kinda new to resto druid so i don't know the talents by name, but i heard jb say several times, the right side of the tree (talents that empower rejuv) get rid of them. play budding leaves, flourish, convoke (for damage and heal)
+[7:17:50] Goaliemanftw: i saw u were solely barkskinning the stonecracker barrage, do you live that naturally even without bear in +30's? i typically up for a skin+ reforestation which i see might be an overcommittment in +28s
+[7:18:03] Goaliemanftw: opt*
+[7:18:24] flawlesslykun: because there's no need for it @Freyeth u only need treeform for long periods of sustained aoe dmg done to your group
+[7:21:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[7:28:06] Freyeth: @flawlesslykun Ah i mixed sth up, ye running Convoke and Reforestation
+[7:30:07] flawlesslykun: @Freyeth i mean u can run treeform if u really used to healing with it, but convoke is higher damage (in theory, i find that in practice during pugs ppl just love to cuck your damage)
+[7:35:15] Berriesqt: wait are you spec-ed into tranq?
+[7:37:09] flawlesslykun: @Berriesqt it's a way to get your cd's back up faster during really high keys that's why u seeing it
+[7:37:54] Im_anDe: gj, jb. you're doing great
+[7:37:57] siaulerandom: yeah thats some kind of raid healing
+[7:37:59] Robert_US: I hate that boss too
+[7:38:00] Berriesqt: thats insane then.
+[7:38:42] zamow1994: it is pretty dumb that you can meld/invis the debuff, shitty design
+[7:39:20] flawlesslykun: @zamow1994 YEP makes me miss arcane torrent aoe interrupt back in legion days, that's how broken meld has become YEP
+[7:39:35] zamow1994: yea this is worse lol
+[7:39:41] zamow1994: or maybe the same idk
+[7:39:51] Lokkar: Lokkar watched 3 consecutive streams this month and sparked a watch streak! 
+[7:40:07] zamow1994: just make the boss recast it you invis it
+[7:40:10] zamow1994: and nerf the damage
+[7:40:15] zamow1994: would be a way better boss
+[7:40:24] flawlesslykun: nah this is worse. there's mecanics that for instance as a mage, you can't avoid even using invisibility, but you can with shadowmeld
+[7:40:38] StreamElements: restreaming live every day to https://www.youtube.com/@jdotb
+[7:40:40] flawlesslykun: shit is just straight up OP for 2 expacs or more now
+[7:41:07] zamow1994: i kinda like having decently strong racials
+[7:41:16] zamow1994: but not this much better than other stuff
+[7:41:23] Goaliemanftw: lol of all the abilities, yeah, sure. lets say shadowmeld is op...
+[7:41:39] neetisTV: it'S push week, what u pushing bud :D
+[7:41:44] bowlpad: jesus that tick dmg is high
+[7:41:51] aarseths: wow should release a new set of dungeons every 4 weeks
+[7:42:17] DKSCP_Rogers_x: what ui you using? blizzard or elvui?
+[7:42:26] zamow1994: this is elvui
+[7:42:27] flawlesslykun: @Goaliemanftw don't get me wrong, i hate racials are a thing. they should be cosmetic only. That being said, shadowmeld is OP. Dwarf racial is OP. when compared to all other racials
+[7:43:01] aarseths: @flawlesslykun i thought you said "dont get me wrong, racists are a thing" and was expecting something completely different xd
+[7:43:09] flawlesslykun: xdd
+[7:44:41] flawlesslykun: i do miss old arcane torrent tho Sadge ofc every1 stacking blood elfs in legion was probably too much hence why they nerfed it, but i actualy enjoyed that gameplay. was much more pug friendly (since ppl still can't press a interrupt in 2024)
+[7:45:06] zamow1994: people just all interrupt the same casts for the most part
+[7:45:51] neetisTV: on this key lvl its a raid boss kek
+[7:46:08] StreamElements: fresh youtube shorts going up 3x a week on https://www.youtube.com/@jdotb
+[7:46:16] zamow1994: yea the shield mechanic doesnt really work with tyran
+[7:46:17] shmmeker: @flawlesslykun they are just so unbalanced the racials
+[7:46:35] flawlesslykun: NOOOOOOOO DUDE
+[7:46:44] flawlesslykun: OK RECOVERABLE
+[7:46:53] flawlesslykun: Prayge
+[7:47:53] shmmeker: rip :(
+[7:48:26] Lara_TV_: sadge
+[7:48:28] siaulerandom: sucha long fight kinda bs :D
+[7:48:44] vF_owen: care affix
+[7:48:47] Toadcop: on 31 it's like 10 mins?
+[7:48:49] unxpctd_q: damnnn
+[7:48:50] shmmeker: this affix is so annoying
+[7:49:05] T0shiba: why dont send BL jB?
+[7:49:05] shmmeker: when u have to stand still and spam casts
+[7:49:06] vF_owen: unlucko ResidentSleeper
+[7:49:11] DKSCP_Rogers_x: you got a profile for this elvui ?
+[7:49:11] isi_quinn_isi: that earthsurge phase sucks
+[7:49:14] unxpctd_q: i wish i had your mental lmao
+[7:49:14] Seakorv: what a shit boss
+[7:49:24] Berriesqt: ok like - u managed your mana SO well there. what the hell lol. i find myself ooming after like 3 shields and u were chilling at 60% mana. how? lol
+[7:49:26] bowlpad: nice try tho
+[7:49:27] justbeachi: you want BL for the last phase
+[7:49:35] devilhawk83: yep @seakorv
+[7:49:38] TanaseDragos: jb can you pls show talents for this 31 tyra i am curious:d
+[7:49:52] Soularnova: that boss at that level prob needs like 10 minutes dang
+[7:49:59] Goaliemanftw: @Berriesqt check ur rejuv usage
+[7:50:07] unxpctd_q: we go agane
+[7:50:16] flawlesslykun: @justbeachi idk about that tbh. I guess things change depending if u have a aug in the group or not in this boss, especialy in tyrannical.
+[7:50:23] flawlesslykun: but ye was close jb Clap
+[7:50:26] Goaliemanftw: @Berriesqt its incredibly inefficient to cast rejuv and usually causes most mana problems
+[7:50:28] DKSCP_Rogers_x: you using mouse over heals ?
+[7:50:35] squirebdd: @DKSCP_Rogers_x LUL
+[7:50:39] Berriesqt: @Goaliemanftw you think? ok ill be mindful of it
+[7:51:12] Goaliemanftw: im not sure without seeing logs but its something that i changed and have been teaching people to start doing in order to avoid mana waste
+[7:51:34] Goaliemanftw: if u need the mastery stacks, its ok. but most of the time, it wont heal for any meaningful amount
+[7:51:47] shortsniperxbt: arent you US player , you are playing on EU also?
+[7:52:15] DKSCP_Rogers_x: big/little wigs or dbm?
+[7:54:48] Freyeth: What talents are you dropping to run tranq?
+[7:55:36] Thoreya: awc is crazy
+[7:58:34] loeamagicy: Hi
+[8:01:42] Snaaade: whos the dane ?
+[8:02:13] Freyeth: Thank you, I am sorry but I was wondering what hormonius blooming actually does, I dont quet understand that talent
+[8:07:07] Jogiboio: thats rough
+[8:08:05] MangoMafioso: at what key level does one wipe typically mean it's GG, like 28/29?
+[8:08:46] Celissah: Hey man! I'm having troubles healing 2nd boss in EB with my druid. Any tips? Feels like every spell casted is heal on that boss.
+[8:10:56] MangoMafioso: A lot of EB boss 2 comes down to interrupts which as a druid is tough
+[8:11:04] MangoMafioso: Because you can't help with it a ton
+[8:17:17] MangoMafioso: Yea bloom is way over tuned
+[8:17:27] MangoMafioso: Makes this segment awful
+[8:19:34] Sokchoy: cant believe we are watching the same 8 keys again instead of awc
+[8:21:18] pichuux: triple dragon, how to inflict pain on yourself xD
+[8:21:37] iJura: hi jb can you share your skin care? im serious
+[8:21:40] iJura: your skin look clean af
+[8:21:59] pichuux: diet my man
+[8:22:02] pichuux: xD
+[8:22:51] shmmeker: dr jart quality
+[8:24:24] pichuux: that was insane xD
+[8:24:30] pichuux: well done ^^
+[8:26:07] teqlamage: JB GOT A TEAM, LETS GO
+[8:32:11] fartypartysenior: you miss ocunt
+[8:32:15] skraghh: % Missed
+[8:32:17] majestictaco0: 1 count oof
+[8:35:16] neetisTV: some bloobers missed
+[8:36:08] akatmai: oh shit, rare tranq sighting?
+[8:40:13] pichuux: count
+[8:40:14] majestictaco0: count streamer
+[8:40:16] SsoulZ1: jdot %
+[8:40:42] akatmai: what did you give up for tranq?
+[8:40:45] SsoulZ1: big healer
+[8:41:15] SsoulZ1: I GOT THE BELOR TOO BROO
+[8:41:15] error44040: !followage
+[8:45:08] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[8:46:25] fartypartysenior: would be nice for raid as well
+[8:47:24] caradea_: can you leave the group, use drums, and get invited back in
+[8:49:40] Abyssal_Sloth: walk out key start drums to debuff your self., your group lust on first pull and your in only missing 5 sec of start
+[8:50:07] Abyssal_Sloth: then u would have to make sure to drums your self again before groups lust comes off cd for second boss
+[8:50:55] Abyssal_Sloth: just not sure if that 10min debuff will be in the time u want for tripple dragon
+[8:51:37] Dargnh: you dont play NS?
+[8:56:23] Dargnh: this comp feels short on kicks, no?
+[8:58:26] DadBodGeoff: DH Can carry CC's and kicks. This dungeon isnt terrible for lack of kicks
+[8:58:41] Dargnh: sigil just doesnt work on that boss tho i mean
+[8:58:43] Dargnh: right
+[8:58:52] Dargnh: for trash ya sure DH carries kicks ofc
+[8:58:53] DadBodGeoff: ah yeah good point first boss kinda sucks
+[8:58:55] DadBodGeoff: after that ok
+[8:59:11] DadBodGeoff: but you never kick boss who your attking, he only cast on tank
+[9:00:51] DadBodGeoff: are you guys lusting 2nd witch? didnt see the run
+[9:00:59] DadBodGeoff: seems to be the new play but im only on 27/28s
+[9:01:47] DadBodGeoff: or sister I should say, not witch
+[9:02:48] DadBodGeoff: after nerfs to rise my least fav prob goes EB/TOTT/.Rise rest I dont really hate
+[9:03:15] DadBodGeoff: LMAo
+[9:03:17] Gaemer: good answer
+[9:10:34] Naowh: @DadBodGeoff i agree i like rise
+[9:11:25] vadda87: @Naowh DansGame
+[9:17:04] Lara_TV_: 3 chest angle?
+[9:21:41] Lara_TV_: I hate those glaives so much, just make them more visible pls
+[9:22:24] Lara_TV_: yeah baiting them to the edge is giga
+[9:26:11] czajnatown: can u show detaild HPS ? :D
+[9:27:12] czajnatown: thanks <3
+[9:27:17] KinarPT: Yo JB waddup all good? How's keys going with the group tonight?
+[9:30:07] KinarPT: At work no more keys today haha
+[9:30:49] KinarPT: Had some yesterday with a great rusky group, like... You those will oiled groups were everything looks easy
+[9:31:01] KinarPT: Today was a total S... Show
+[9:31:10] KinarPT: **well oiled
+[9:35:04] hopiums: Hey dude, just found out about hero talents for the war within, have you heard about them/have any input on how druid might perform?
+[9:37:05] czajnatown: sick
+[9:37:06] czajnatown: :D
+[9:37:21] czajnatown: cant compare to my 26 pug runs xD
+[9:42:01] Sonikz13: !threatplates
+[9:43:11] tabxzer: @hopiums bro plz
+[9:48:19] imbatiivel: whats is the addon that talk about what will happen?
+[9:48:37] tabxzer: angwy
+[9:49:09] lolplix: the evoker pointed the blade right to him lol
+[9:52:02] tabxzer: what talents do u play in here?
+[9:52:22] megalodong96: you guys are professionals in BRH
+[9:54:45] Snaaade: any way to get your omnicd? the link on discord says links to "private page" on wago xD
+[9:56:26] slimicc: mdi teaches you, you dont need a healer Kappa
+[9:59:33] imbatiivel: insane
+[10:00:04] ultideath: j.b in his yoda saga

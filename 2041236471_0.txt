@@ -1,0 +1,679 @@
+[0:01:56] shadowfold3: going incarn for it?
+[0:02:26] s_dawg1: Are you excited to run with ret pallys next week
+[0:06:12] TheAntih: are buffs live?
+[0:09:24] s_dawg1: Stamdpeding roar?
+[0:16:26] Wiseved: sup jb RareParrot
+[0:19:45] Ckraigfriend: prot pala not a good single target tank?
+[0:23:44] xxjameskingxx71: does healer damage even matter for keys within the 18-20 range?
+[0:24:05] iJura: nothing matters
+[0:24:07] Reilinkz: @xxjameskingxx71 nope never should or will matter
+[0:24:45] bloomiqt: @xxjameskingxx71 Matter? No. Does it help? Yes ofc.
+[0:26:59] xxjameskingxx71: @bloomiqt i just feel like it helps more if you mainly focus on keeping people alive and to handle the "healer only" affixs
+[0:27:41] xxjameskingxx71: at least as far as pugs are concerned
+[0:27:55] brewteafulgaming: morning /afternoon all
+[0:28:17] bloomiqt: @xxjameskingxx71 There's not as much to pay attention in those levels of keys. You do a lot of the group if you play kick or stops for example alongside contributing damage to a mob with higher prio.
+[0:28:30] bloomiqt: do a lot for the group*
+[0:28:44] JayPuppa: @xxjameskingxx71 just having solid uptime from healer DOTs will shave 1-2 mins off a timer. figure 1-3 GCDs each pack/pull and refresh as needed, and youre helping far more than not doing so.
+[0:29:36] JayPuppa: disc/MW/druid are able to shave 2-3+mins off a timer with their DOTs and direct damage. its all relative though with your group and key level.
+[0:33:36] xxjameskingxx71: @puppa24 yeah i do agree it just feels like healers are expected to balance so many plates meanwhile dps just use kick every now and then and smash rotation
+[0:34:28] anaya909: there isn't all that much difference between dps hitting training dummies in valdrakken, and playing keys
+[0:35:13] EmElw: is ele secret op on this fight?
+[0:35:17] JayPuppa: @anaya909 lol
+[0:35:30] anaya909: pretty crazy if you think about it lol
+[0:38:06] JayPuppa: 60m SOM is a nice QOL
+[0:38:52] xxjameskingxx71: meanwhile in most pug groups healers are expected to help with kicks, help with dps, and 9 times out of 10 handle the 3rd affix by themselves such as afflicted/incorp/bursting and so on
+[0:39:29] JayPuppa: @xxjameskingxx71 what healer do you play?
+[0:39:55] xxjameskingxx71: @puppa24 Druid,MW,and holy pally
+[0:39:59] kelly_mac06: @xxjameskingxx71 i always handle incorp in pugs bc i dont trust ppl and don't heal. but yea afflicted and bursting- those do get put on to healers
+[0:40:41] EmElw: is this io?
+[0:41:20] Vilaye: take my energy
+[0:41:34] JayPuppa: yeah imo some affixes are frustrating - they should be universally handled by every class (ex; entangling, volcanic, storming, etc.) instead of selective based on talents/abilities (incorp, afflicted, bursting, etc.)
+[0:42:29] xxjameskingxx71: @puppa24 as someone who pugs all my keys i agree completely
+[0:42:36] JayPuppa: but, the competitive side of me appreciates the challenge and its one of the reasons i choose to heal, and love being the glue to my group.
+[0:42:40] treavorthenusance: it is amazing that warriors are given like no utility and cannot help with any affixes but blizz is like yeah thats good design lol
+[0:43:01] Arvakr: @treavorthenusance still funny how they cant even lust
+[0:43:49] JayPuppa: ive been saying for months that Rally should be a raid wide immunity..
+[0:44:05] YdenTV: I WAS HERE
+[0:45:39] JayPuppa: that call on the orb swap needs to be 2 seconds sooner
+[0:45:54] Maichup: that 2 death
+[0:45:56] kelly_mac06: noooooooooo
+[0:46:03] kelly_mac06: fuck that was so close
+[0:46:21] YdenTV: FUCK
+[0:46:26] YdenTV: in the last 5 seconds
+[0:46:30] Rampo123: thats why i refuse to do m+ for io other than 20 weeklies
+[0:46:55] xenshea: its always the evokers pepelaugh
+[0:46:56] s_dawg1: Thats rough
+[0:47:00] tr1plus: IF they guy didn't die it's 5 seconds + his damage is probably 1 second
+[0:47:07] CyonDru: morning JB
+[0:47:08] rony166: 7 min weekly reset !!!!! :D
+[0:47:09] tr1plus: so that call probably just came a tad late
+[0:47:33] 하울잭: !ui
+[0:47:35] 하울잭: ui!
+[0:47:39] tr1plus: but I don't think anyone is to blame, it's a tought key and needs to go quite perfectly
+[0:50:20] kelly_mac06: that key was super close
+[0:50:21] rony166: @jdotb go open vault :D
+[0:50:25] kelly_mac06: sorry yall didn't get it
+[0:50:30] CyonDru: @rony166 he is on eu
+[0:50:40] CyonDru: and reset on na is in an hr
+[0:50:58] holako11: which flask you are using ?
+[0:51:00] CyonDru: morning @kelly_mac06 !
+[0:51:56] Ninjian: morning all
+[0:52:15] CyonDru: @ninjian jdotbComfy
+[0:52:16] kelly_mac06: @CyonDru morning friend!
+[0:52:22] YdenTV: You can dragonride here now
+[0:52:28] nixar1: nixar1 watched 50 consecutive streams this month and sparked a watch streak! goal is 69
+[0:52:28] Ninjian: @CyonDru slootCozy
+[0:52:28] kelly_mac06: @Ninjian morning!
+[0:52:32] FuruF: :O Smoking
+[0:52:52] Ninjian: so glad this affix rotation is over. time to gaslight myself that this week will be better
+[0:53:03] YdenTV: Even slow dragonriding in teh old world is SO Fast because the distance isn't as far.
+[0:53:14] FuruF: Every week will be better Kappa
+[0:53:17] CyonDru: @ninjian what are we getting this week? I didn’t even check
+[0:53:30] Purgatus_: Fortified Incorporeal Sanguine
+[0:53:31] YdenTV: Bursting / Incorp I thin
+[0:53:32] kelly_mac06: fort sanguine and incorp
+[0:53:35] kelly_mac06: so easy
+[0:53:37] CyonDru: @ydentv I thought they buffed the speed back up in the old world
+[0:53:37] YdenTV: Sanguine incorp?
+[0:53:43] kelly_mac06: @YdenTV yes
+[0:53:57] YdenTV: @CyonDru It's a little bit slower, like 85% or something. Still fast as hell.
+[0:54:03] Ninjian: itll be better until im reminded of sanguine in Waycrest Sadge
+[0:54:07] CyonDru: I did not notice at all
+[0:54:14] YdenTV: They had is way slower, but buffed it back up
+[0:54:34] kelly_mac06: yea im super happy they buffed it back up
+[0:54:40] kelly_mac06: it feels good
+[0:55:05] kelly_mac06: @YdenTV  this is what i use to follow affixes https://mythicpl.us/
+[0:56:24] YdenTV: Yea, I was thinking about the next Tyrannical, and crossed up the affixes. I use that too
+[0:56:36] kelly_mac06: it's a handy little website
+[0:56:51] YdenTV: They need to get rid of some of the useless shit, but yea, it's pretty good.
+[0:58:23] tr1plus: https://wowaffixes.info/ this one is pretty no shit to the point
+[0:59:21] CyonDru: every week is push week. whatcha pushin bud
+[0:59:23] YdenTV: @tr1plus Well, you're not wrong. LOL.
+[0:59:31] CyonDru: channeling my inner Gromnack
+[0:59:49] Nel_28: wait I thought he said he was a fire mage
+[1:00:19] YdenTV: Get pushed outta the guild
+[1:00:47] CyonDru: @ydentv jdotbFeelsgoodman
+[1:05:38] Whitewolf1441: how do you tell if an aug is performing well
+[1:05:57] Ninjian: @Whitewolf1441 everyone else is big number
+[1:06:11] Whitewolf1441: hmm i see
+[1:06:29] Ninjian: also details has a feint second bar ontop of the aug's to show rough total contribution
+[1:06:37] kelly_mac06: they also have a little brown poop looking symbol next to their name
+[1:06:38] tr1plus: look at ebon might uptime on his extended bar
+[1:06:42] tr1plus: & presience
+[1:06:52] CyonDru: @whitewolf1441 ideally through a log
+[1:07:01] yarpx: @Whitewolf1441 look at ebon might/pres buff uptime too
+[1:07:01] Ninjian: ^
+[1:07:08] CyonDru: @kelly_mac06 because Aug is poop
+[1:07:10] CyonDru: jdotbComfy
+[1:07:32] Ninjian: @CyonDru reminds me of when Jak answered "how to fix pres to be meta" with "delete aug"
+[1:07:46] CyonDru: true and real
+[1:08:27] D3MO_lition: whoa, what was that leaf animation on the affix?
+[1:09:40] dragona92: It's when your tree nourishes xD
+[1:15:12] erlenddddddd: resto druids have some crazy dps
+[1:16:25] justbeachi: do you think the rsham buffs are enough to make it into the top tier?
+[1:16:31] justbeachi: trying to decide if i want an rsham alt
+[1:17:49] eph_eph: just play better and u can be top tier
+[1:22:11] asphyxiiaTV: am i blind or i cant see the timer
+[1:22:23] DevobotOCE: why is demo lock so much better than destro nowadays
+[1:22:27] somethineuw: @asphyxiiaTV they have 13 mins left
+[1:22:27] DevobotOCE: @asphyxiiaTV blind
+[1:22:30] DevobotOCE: its top right
+[1:26:38] camshreds: new healer strat unlocked for this room haha
+[1:26:45] camshreds: unless..
+[1:26:56] asphyxiiaTV: @DevobotOCE HAHAHA my bad dude
+[1:26:56] shmmeker: ''safe spot'' LUL
+[1:27:08] justbeachi: i've seen people jump on the statue for the true safe spot
+[1:27:16] justbeachi: ledge then onto statue
+[1:28:11] Darkelment: LUL
+[1:34:39] justbeachi: jb you think shaman will be top tier with these small buffs? debating pushing on it
+[1:34:56] tsumai: tsumai subscribed with Prime. They've subscribed for 31 months! Whoop
+[1:34:59] seamonkie26: I Was gonna ask if your gonna stream your alts but looks like thats a yes lol
+[1:36:08] seamonkie26: I used to be an altaholic but i realized if i play a bunch of toons i end up not being good at any lmao
+[1:36:41] ren0m: Good morning
+[1:37:01] seamonkie26: Everbloom is toxic af
+[1:38:56] somethineuw: xD
+[1:39:08] shmmeker: mw is fun
+[1:39:41] ren0m: Is it the "get the vault" kind of a day?
+[1:39:42] erlenddddddd: i hate everbloom as preservation
+[1:40:19] sly20193: incorp sanguine  this week :(
+[1:41:08] cbaprod: Sup JB
+[1:42:16] ren0m: Have you always healed or were you a tank/dps before?
+[1:42:26] nixar1: pepeLaugh
+[1:42:32] dragona92: pepeLaugh
+[1:42:43] somethineuw: KEKL
+[1:42:57] Ninjian: free monk content pepeLaugh
+[1:42:57] cbaprod: Btw, JB could you answer me a question. But what the fuck did you do online at 3 in the morning server time
+[1:43:07] cbaprod: Yeeted through Valdrakken and saw your Priest
+[1:43:17] Whitewolf1441: lol
+[1:44:28] kelly_mac06: lol yea
+[1:44:29] YdenTV: welcome to 20 keys
+[1:45:38] erlenddddddd: is it possible to stop the barrier on that pull?
+[1:46:01] jeppsont: what weakaura is that for charge cds?
+[1:46:06] Toofurp: BoLsTeRiNg
+[1:47:10] JayPuppa: @jeppsont its the S3 M+ Mega WA
+[1:47:33] jeppsont: @puppa24 thank you kind soul
+[1:47:35] JayPuppa: @erlenddddddd the cast is called Mantle to interrupt the barrier form casting
+[1:47:51] melkboer_: As a beginning MW here, do you ever press essence font, zen pulse or chi tornado?
+[1:50:06] Tfos: i think he means chi torpedo but u go roll
+[1:50:19] melkboer_: i meant chi burst lol
+[1:51:10] melkboer_: so situationaly. okay thanks
+[1:51:40] melkboer_: I just felt like i got a million buttons to potentially press
+[1:51:51] Tfos: you know pack dies fast dont want to throw jade but still want ancient teaching then u essence font
+[1:52:18] Tfos: i dont even have chi burst on my spell bar fk that shit
+[1:52:54] YdenTV: chi burst fucks a lil in AoE
+[1:53:58] twitchcaneatmycheeks: I dont have chi burst on my bar either.. shits ass
+[1:54:21] shmmeker: new animation of
+[1:54:26] shmmeker: nighfae is cringe
+[1:54:27] Tfos: ugh need to do 1 presvoker weekly not rly looking forward playing it
+[1:54:29] ren0m: Don't worry, the same thing happened in my +4
+[1:54:29] twitchcaneatmycheeks: I also never essence font in M+.. unless maybe were running to an new pack and i cant heal atm
+[1:58:57] Tfos: feign wrecking pain is kinda asshole move LUL
+[1:59:22] JukeboxHey: JukeboxHey watched 3 consecutive streams this month and sparked a watch streak! Hey what is the dungeon port addon/ weakaura
+[1:59:30] YdenTV: do 2 more, won't regret it
+[1:59:42] jdotb: https://wago.io/ta0H8fHbk/17
+[1:59:44] YdenTV: 2nd piece gonna be a 489 iridal
+[1:59:49] ren0m: Might be a stupid question, but what do you have to do with this boss?
+[2:00:21] Tfos: you dont enjoy MW this season on no time to invest in it?
+[2:02:37] YdenTV: The soulrend adds also Soul Link and cause you to take damage as they take damage. Don't ToD or staff or beacon those adds. lol.
+[2:02:49] Troniin: Making wracking pain uninterruptible was not a good decision imo
+[2:05:04] poisonkinglord: What changes are coming tomorrow
+[2:06:01] twitchcaneatmycheeks: Tank can only do so much though sometimes.. depends on hos well your grp is doing with the drops as well
+[2:07:37] ren0m: Thank you; this helps a lot. I couldn't understand shit from watching guides; this makes much more sense.
+[2:08:19] poisonkinglord: I'm wondering what changes are coming tomorrow
+[2:08:38] dabbyqq: any take on avoid vs leech on healers?
+[2:10:47] flawlesslykun: they need to make crests more enjoyable to farm dude... want to play a alt seriously ? just go farm 50 dungeons... insane logic to me
+[2:11:28] q8play: jdotbTOS
+[2:11:32] JackOfAllApocalypses: yeah...crests are brutal
+[2:11:40] JackOfAllApocalypses: for alts
+[2:11:43] poisonkinglord: I'm gonna play a warlock or mage worgen  when I get back
+[2:11:48] q8play: jdotbComfy
+[2:13:36] eyeoin: @JackOfAllApocalypses its annoying for mains why do I need to do 15-20 solely to upgrade hero gear. OR drop my aspect crests?
+[2:14:23] Troniin: I got half of the keys to 27 and the other half at 26 on both tyran and fort only pugging. Those 27 tyran keys are spicy in pugs
+[2:14:45] Lara_TV_: With the season max continuing  to increase, they should increase the amount of crests you get per key instead imo
+[2:14:48] flawlesslykun: they didn't do that on the 2 previous seasons so, even tho i'd like that very much, i don't see it happen
+[2:14:51] flawlesslykun: maybe on s4 idk
+[2:14:54] Vitaraptor: U just need a mail wearer now ^^
+[2:14:55] JackOfAllApocalypses: @eyeoin yeah, true, it's also annoying to run things you don't want to because the crests aren't lined up properly
+[2:14:57] flawlesslykun: y it's insane
+[2:15:18] twitchcaneatmycheeks: I think flight stones are more annoying
+[2:15:21] dabbyqq: my bdk is the same way has so much 1/4 myth gear feelsbad :(
+[2:15:46] flawlesslykun: YEP
+[2:15:59] nixar1: no affixes in raids this time
+[2:17:30] Imorteus: hey at least its half of season 1
+[2:17:34] suras1331: they need to drop the cost involved in recrafting 486 too. 10k worth of mats if you buy them all is icky for alts, so they likely won’t have embelishments beyond 476 (if you do dream questline) and no other crafted gear
+[2:17:36] Imorteus: to craft
+[2:18:14] ren0m: It is making me emotional
+[2:20:12] sarpogne: Whats your honest thoughts on hpal…
+[2:20:15] ren0m: LUL
+[2:20:32] ren0m: And please don't be biased
+[2:20:36] eyeoin: you're with big HPAL and we all know it
+[2:20:53] aftershockzzzz: what is the addon to show classes in the group finder?
+[2:20:53] sarpogne: dont hold
+[2:21:01] sarpogne: speak the truth haha
+[2:21:10] eyeoin: @aftershockzzzz elvui windtools
+[2:21:14] konzzxd: ad at worst time, while he was explaining, i was listening
+[2:21:16] ren0m: I think he's holding back a bit
+[2:21:19] ren0m: Let it all out
+[2:21:35] aftershockzzzz: @eyeoin thanks!
+[2:21:44] sarpogne: ok just hold it for 1 min… ads haha
+[2:21:55] sarpogne: than unleash
+[2:21:56] ChestHairNibbler: yo jb can you stop running in circles in the same directions for hours on end? at least change the direction every few turns, watching you for 2 minutes makes me dizzy
+[2:22:02] Whitewolf1441: @sarpogne LOL
+[2:22:36] Whitewolf1441: jb what expansion was best for resto druid in term of fun
+[2:22:37] Minigamer911: I feel like the problem was they capitulated to the people begging for it to be ranged
+[2:22:47] poisonkinglord: Give me resto over Pali or holy priest
+[2:22:54] konzzxd: @Minigamer911 but they did it in a bad way, so what's the point?
+[2:22:56] sarpogne: can you recap since we had ads…
+[2:24:50] flawlesslykun: @sarpogne just watch the vod dude
+[2:25:06] poisonkinglord: I love shamen and warlock
+[2:27:15] Ninjian: they're trying to make CDs feel impactful. but its hard to make them feel that way without feeling useless outside those windows
+[2:27:25] big___jim: thats great with preservation i feel like. lots of short cd buttons with big impact
+[2:28:19] Tfos: if you could move while charging spell that would be awsome
+[2:28:32] YdenTV: verdant embrace moving you across the screen sucks
+[2:28:33] extracuter1: what makes pres feel awkward for you?
+[2:29:09] flawlesslykun: oh god a tank pulling rightside corridor KEKW
+[2:29:44] flawlesslykun: he's actualy going for it KEKW
+[2:30:56] simplyhebi: obligatory comment about stream title and coming here to see hpal
+[2:31:26] kelly_mac06: @flawlesslykun i mean it's a 20, so not really a big deal. just more pain lolol
+[2:31:35] simplyhebi: do we still maintain our prevoker or is that class just lobbed?
+[2:31:46] yuchutje: it's totally fine in pugs considering bolstering this week
+[2:32:11] flawlesslykun: @kelly_mac06 ik u can still time it ofc, but yes it is unnecessary pain xdd
+[2:32:22] yuchutje: half of left side trash abilities will insta kill when bolstered
+[2:32:33] kelly_mac06: @kelly_mac06 oh yea agreed but it's a pug, what can you do? pug brain goes zugzug
+[2:32:38] kelly_mac06: no thought only kill lol
+[2:33:07] simplyhebi: I guess we still havent reached the key level where it matters yet
+[2:33:26] nixar1: aug is also good in groups with pi
+[2:34:02] OllisBollis: will aug be played in mdi
+[2:35:04] flawlesslykun: @OllisBollis honestly, idk. I am even curious if we're gonna see legendary classes stacked or not
+[2:35:24] bleeppblorpp: nothing beats a hunter standing at max range
+[2:35:38] flawlesslykun: ppl saying priest / mage / boomie even... there's a lot of meta talk in the air atm
+[2:36:12] flawlesslykun: YEP unless u have a vengeance DH god at the helm
+[2:36:17] yuchutje: boomie takes too long to ramp probably
+[2:37:18] JMaC727: rdruid keys yumytvSus
+[2:37:54] MicHawkh: @JMaC727 jdot got the most baited viewers on twitch plaatform
+[2:38:26] JMaC727: the master baiter
+[2:38:45] cab_draguvan: Moonkin on Mists first boss x)
+[2:38:54] flawlesslykun: i honestly hate this affix in pugs
+[2:39:12] flawlesslykun: same with incorporeal even tho that one ppl seem to be more predisposed to press a cc
+[2:40:25] thestromus: Got in arguments all last week if its the healers job to dispell and Heal a Afflicted to full. At keys in the 20+ range am i wrong to expect dps to dispell?
+[2:40:44] Darkelment: if boss has dispel mechanic then no
+[2:41:31] flawlesslykun: bro just watching u heal this boss on a 20, even with being cucked by this dog affix, i feel they nerfed holy pala a bit too much
+[2:41:41] flawlesslykun: or maybe it was just straight up broken last season
+[2:41:56] thestromus: wurd
+[2:42:21] Sokchoy: is it push week in NA (sanguine fort incorp)
+[2:42:33] Blackgoose25: 3rd boss in throne and 2nd boss in fall for example
+[2:42:49] Darkelment: like 2nd boss of AD
+[2:42:51] OffBeatOddity: tott
+[2:43:06] OffBeatOddity: flame shock + afflicted is fun
+[2:43:25] thestromus: Thanks bro, makes me feel like i was correct all week.
+[2:43:45] Whitewolf1441: you can dispell both afflicteds because the cast lasts longer than the cd, assuming theres nothing else to dispell
+[2:44:07] Ochowie: affliction is by far the worst affix blizz has come up with. i'm still not sure how they look at these dungeons and think another dispel mechanic is the right thing
+[2:44:12] supzfly: if they're capable, they should be helping. no question. a lost global from a dps never wiped a group, a lost global from a healer however... may do just that
+[2:46:17] OffBeatOddity: that’s a lot of burple
+[2:46:36] Bearlocked: Bearlocked subscribed with Prime. 
+[2:46:54] Sokchoy: Jb very important question is it push week on NA fort sanguine incorp
+[2:47:09] Bearlocked: x6laspHogan
+[2:47:22] flawlesslykun: sanguine and push week in the same sentence KEKW
+[2:47:23] flawlesslykun: sanguine and push week in the same sentence KEKW 󠀀
+[2:47:25] flawlesslykun: sanguine and push week in the same sentence KEKW
+[2:47:29] Sokchoy: lets go
+[2:48:07] asphyxiiaTV: ngl, next week's affix is kinda crazy
+[2:48:30] Sokchoy: think im gonna push my key up  to a 20 this week
+[2:48:37] Sokchoy: glad to hear i can
+[2:48:57] asphyxiiaTV: sang, fort IS CRAZY on like a +19 to 25
+[2:49:34] flawlesslykun: OMEGALUL
+[2:51:10] YdenTV: They literally call the person and have the person on the other end click a button.
+[2:51:16] supzfly: pretty much
+[2:51:17] Imorteus: a shaman
+[2:51:33] Imorteus: you didnt know the internet is magic?
+[2:52:08] supzfly: when i got fibre to my house the engineer didn't even understand the difference between wifi and internet. i showed him it wasn't working on my media pc downstairs and he insisted i connect my phone to the router to prove it wasn't working
+[2:52:45] flawlesslykun: bro with your luck ? since i met u in legion u are married now, u one of the luckiest dudes i know
+[2:52:47] flawlesslykun: EZ
+[3:00:03] Swizzy06: JB, on fyrakk. Are you having any trouble getting Sfiend back off CD on time?
+[3:00:40] ren0m: Now for BGs
+[3:00:55] TBouse: paid for pilot
+[3:01:00] YdenTV: And finding out that your buddies paid the bar tab.
+[3:01:04] ren0m: Like finding out it's only Saturday, when it's Sunday?
+[3:01:20] ren0m: you think*
+[3:02:46] YdenTV: you know the website, jb?
+[3:02:49] YdenTV: to check other servers?
+[3:03:03] Sykeasaurus: how much do you value crit as rdruid? i'm pretty much stacking haste/vers exclusively
+[3:03:09] Sykeasaurus: m+ to be clear
+[3:04:12] Blackgoose25: does crit increase damage by a good amount?
+[3:04:25] Sykeasaurus: hm ok. yeah we're relatively same on haste/vers, but you have way more crit than me, mine went into mastery
+[3:04:28] Sykeasaurus: ty
+[3:05:43] Imorteus: idk why they dont make some dmg amp effect on healers mastery like they do tanks
+[3:06:19] bornbetter: wheres mastery?
+[3:06:30] Imorteus: mastery is 0 dps for healers xd
+[3:06:31] bornbetter: oh i guess mastery wouldnt make sense
+[3:06:32] bornbetter: ytea
+[3:07:40] TBouse: feels bad losing so much secondary stats
+[3:08:18] simplepathjg: last boss trinket?
+[3:08:29] YdenTV: you have rune on?
+[3:10:37] lady_buzzkill: Can you show your talent tree please? Learning rdruid for keys
+[3:10:54] lady_buzzkill: Ope you swapped lol
+[3:11:56] lady_buzzkill: Thank you!
+[3:12:30] DONGAMAN: can you give us a big smile you always look mad
+[3:13:03] Ozaxx: smiling is not on brand
+[3:13:16] DONGAMAN: like the twitch profile pic
+[3:13:17] Ozaxx: only mike
+[3:13:17] ren0m: Those who don't heal
+[3:13:18] ren0m: yes
+[3:13:22] nixar1: I feel like Zmok is always laughing
+[3:13:34] Whitewolf1441: other streamers laugh 30% of the time, you on the other hand maybe 1%
+[3:13:35] mogaman_: Jak smiles a decent amount
+[3:13:57] DONGAMAN: monkaHmm
+[3:13:57] hewjck: and there you go
+[3:14:14] YdenTV: I laugh at your tweets.
+[3:14:25] Whitewolf1441: yes please
+[3:14:29] Zircons: do it
+[3:14:31] dr_shnake: the delivery of the stoic straight face is the highest tier of humor
+[3:14:33] DONGAMAN: what were you laughing at in your twitch profile picture
+[3:14:44] DONGAMAN: or smiling about
+[3:14:53] Whitewolf1441: you cast?????????
+[3:15:15] smoothlol: waiting for JB to cast AWC
+[3:15:21] zani_eu: I hope the one who died is better now
+[3:15:23] smoothlol: Kappa Kappa
+[3:15:31] kelly_mac06: way back in the day
+[3:15:35] kelly_mac06: a lot of hair ago
+[3:15:55] ren0m: I think they would /roll on it
+[3:16:01] Nocturne118: Gingiret would be back
+[3:16:22] smoothlol: 120 fps in valdrakken? what graphics settings do you play on?
+[3:16:59] DONGAMAN: Kapp
+[3:17:04] smoothlol: yeah i might have to upgrade my 3700X sadly
+[3:17:36] ren0m: So you're saying AMD is better than Intel? Be honest
+[3:17:45] yuchutje: got a 3700x as well, great cpu but looking to upgrade soonish
+[3:18:08] smoothlol: got a 7800XT recently, but i think my 3700X is bottle-necking me at times
+[3:18:12] Sokchoy: 🤓
+[3:19:13] YdenTV: I have a 13900K, 4090 and I'm 100 ish fps in valdrakken
+[3:19:25] kelly_mac06: #AD
+[3:19:26] ren0m: So GPU has no impact on Valdrakken fps?
+[3:19:36] ren0m: I would swap to AMD, but I have to buy a new MOBO
+[3:19:54] hipposlam: so youre saying i shouldnt be playing on max settings?
+[3:20:05] Blackgoose25: 14900k and 7900 xtx and i get over 100 in val
+[3:20:23] ren0m: I get about 80 ish with low.medium graphic settings and i7 11gen
+[3:21:06] ren0m: I'm not sure about FPS in dungeons
+[3:22:20] lazylad02: evening Jb GoldPLZ
+[3:24:18] smoothlol: smoothlol subscribed with Prime. They've subscribed for 7 months, currently on a 2 month streak! can i get some commission for driving this AMD discussion #AD LUL
+[3:24:37] ren0m: My computer is at a point where it's good enough but not great. So should I be spending +€1k to get 30 fps? Probably not
+[3:24:52] ren0m: With GPU prices, make it +2l
+[3:24:53] caradea_: last time i upgraded my rig, gfx cards were stupid expensive so i'm still rocking a 1060
+[3:24:53] ren0m: k
+[3:25:42] smoothlol: yeah i feel you, just jumped from a gtx1080 to 7800xt, but an upgrade from my 3700X may need to happen soon
+[3:26:47] caradea_: yeah my cpu is nice
+[3:27:14] ren0m: What's the CPU you are saying I should buy?
+[3:27:14] ScapeeJ: flask
+[3:27:19] zeltii: yeah as long as you have all am5 components lol
+[3:27:22] ren0m: Something 7k something
+[3:27:36] i_Static: about 400 now
+[3:27:49] ren0m: !cpu
+[3:27:53] ren0m: !amd
+[3:27:56] ren0m: I tried
+[3:28:11] IlkoBG89: is the tank streaming
+[3:28:23] i_Static: 7800x3d
+[3:28:26] i_Static: @ren0m
+[3:28:38] ren0m: Thank you
+[3:29:08] YdenTV: Do you lose your socket if you recraft an item?
+[3:29:08] smoothlol: what's the most recent/best CPU that works on AM4?
+[3:29:21] ren0m: €500 for CPU and another €200-300 for MOBO
+[3:29:30] ren0m: Isn't too bad
+[3:29:36] i_Static: it might be 7900 that jdot has but it's that series
+[3:30:05] ren0m: AMD 7900 goes up to €800
+[3:30:51] smoothlol: 7800x3d is am5 :( too lazy to upgrade my mobo
+[3:30:59] Tfos: any meaningful upgrade from 5600X without need to change other components
+[3:31:09] madderwort: AM4 - 5800X3D
+[3:31:48] smoothlol: @madderwort thanks
+[3:32:38] madderwort: 5700X3D should come out relatively soon. It will be a bit slower but even more power efficient.
+[3:33:05] ren0m: Do you have any mouse/keyboard sponsorships? @jdotb
+[3:33:56] Little__G__: inb4 blaming healer
+[3:37:19] smoothlol: @madderwort any reason to go with the 5700x3d over the 5800X3D ? except price obviously
+[3:37:26] i_Static: wonder what the difference would be between 5800x3d and 7800x3d for WoW
+[3:38:32] caradea_: i'm running a 3700x and performance in m+ is perfect, raids also (apart from tindral roots)... it's not exactly modern graphics
+[3:38:34] supzfly: so how do you deal with big damage ST healing or big aoe on the druid? gearing mine after not playing it in years and regrowth seems soooo weak compared to other healer's main heal
+[3:39:06] Ninjian: @supzfly convoke, cry, pray
+[3:39:27] caradea_: @Ninjian works best if you close your eyes during the channel
+[3:39:27] madderwort: @smoothlol In terms of performance, no. If it is any similar to non-X3D, it will basically be 3% slower while consuming 15-20% less power.
+[3:39:38] supzfly: pretty much what im doing then :D
+[3:39:42] yarpx: why do you like convoke over tree of life?
+[3:39:43] supzfly: cheers
+[3:39:57] alexxheartless: if im equally skilled in both disc and holy priest, is there ever a reason to play holy over disc? other than just finding holy more fun?
+[3:40:01] yarpx: ya thats what I figured
+[3:40:08] Ninjian: @Ninjian true. when you open your eyes its solved. either everyone lived, or everyone died. same result tbh
+[3:40:08] supzfly: @Ninjian 100% relate to this
+[3:40:20] Rypick: best form to use convoke.
+[3:40:37] supzfly: Schrödinger's convoke
+[3:41:46] JimjimIII: I like tree convoke. Not because it's good. But because it looks funny.
+[3:42:03] supzfly: coming from a monk where i can just use gift or pally where i can daybreak/toll and chunk everyone up, druid doesn't feel like it has those tools. but it does well, so i dunno, maybe when i get gear it'll be fine
+[3:42:13] Ninjian: @JimjimIII fair and valid. treeman go brrr
+[3:44:00] ren0m: I'm fairly new to M+ - do we have to hate on aug evokers?
+[3:44:44] supzfly: tier set does look like it'll help a lot. ickle druids only 435 atm as i only started playing it yesterday. will see how it goes :)
+[3:45:35] Dayoka: can I peep talents rq jb?
+[3:46:42] Sykeasaurus: maybe a dumb question but any reason you run crit flask instead of vers flask?
+[3:47:01] Dayoka: thank you <3
+[3:47:50] Sykeasaurus: damn its 10% for DR? im at 12% with mark up already, no flask on D:
+[3:48:19] Sykeasaurus: ahh
+[3:48:21] warlegend123: is 40% hast over cap?
+[3:48:42] fat_european0: @Sykeasaurus Only rating gets DR'd. Mark is a flat amount of vers gain so it has no impact on the DR
+[3:49:13] fat_european0: it's why haste doesn't get DR'd like crazy when you pop lust
+[3:49:23] Xastin3: addon true stat values will show dr
+[3:49:26] Xastin3: on every class
+[3:50:39] Sykeasaurus: @fat_european0 ty
+[3:50:57] Rypick: whats your view on the changes to druid coming for you tomorrow
+[3:53:08] Xastin3: raiding druid needs vigil buffed back to not useless
+[3:55:19] deflatted: drops are live
+[4:00:53] redlegs19: this looks so stressful
+[4:03:47] supzfly: saving that for 2nd :D
+[4:03:56] ihradrone: ihradrone subscribed with Prime. They've subscribed for 30 months! J dot fu*** B <3  Somewhere some scaly content? ;)
+[4:04:55] Whitewolf1441: 2 bosses back to back is so problematic because youre out of cds
+[4:08:31] ihradrone: i swear so hard to find any good evo streamers (or good streames playing evo)   might do it myself aswell at this point xD
+[4:09:59] Vinotteglie: prev or aug?
+[4:12:29] nixar1: @Squishei IS THAT.... MYTHIC+ TUNING?!?!?!?!?!
+[4:12:35] nixar1: monkaHmm
+[4:14:03] flawlesslykun: well fuck
+[4:14:08] Whitewolf1441: this boss hates you
+[4:14:13] kelly_mac06: sadness
+[4:14:14] Icytroll: :S
+[4:14:16] kelly_mac06: much sadness
+[4:14:22] Icytroll: depression
+[4:14:23] yctnm: tragedy
+[4:14:23] Vinotteglie: that went 180 in a hearthbeat, jesus
+[4:14:28] redlegs19: just gonna try to squeeze some damage in here… ☠️
+[4:14:37] JoshuaTree6969: JoshuaTree6969 watched 3 consecutive streams this month and sparked a watch streak! 
+[4:14:45] ghantous: cause he hits like a truck when totem is out and they panic
+[4:15:41] RocketMan23: aside from tree boss and deios its the hardest hitting tank boss
+[4:16:05] nixar1: "Looks like a pretty sizeable hammer to DOTI: Murozond's Rise. Health and damage affected."
+[4:17:05] nixar1: Squishei
+[4:17:37] Whitewolf1441: they dont care about us?
+[4:18:53] Whitewolf1441: warlocks can dispell????
+[4:19:03] Ninjian: @Whitewolf1441 imp dispell
+[4:19:05] yctnm: imp gaming chad
+[4:19:29] Whitewolf1441: @Ninjian all those warlocks were lying to me
+[4:19:59] Ninjian: @Ninjian if they were demo locks, they arent lying KEKW
+[4:23:28] sgtshellshocka: just got avoidance tier hands in vault, sitting at a fat 18% avoidance for raiding
+[4:23:33] Sheepamig: changed UI?
+[4:23:40] Yatori343: From where does he know that rise is getting nerft?
+[4:23:45] sgtshellshocka: blizzard wont give me any leech gear, but all the avoidance gear is mine though
+[4:24:09] nixar1: @Yatori343 @Squishei twitter
+[4:24:51] Yatori343: @nixar1 Thx
+[4:25:59] sgtshellshocka: yea i got 18% avoidance now
+[4:26:03] sgtshellshocka: kinda cracked
+[4:26:35] uftimmy: You said earlier that you always have LB on yourself. You put the other on whoever needs healing?
+[4:27:17] Sheepamig: \do you always have LB on yourself?
+[4:27:38] Helfist: Helfist subscribed with Prime. 
+[4:28:44] sukalitebalevitu: got any good tip or trick for AD last boss on tyran? kinda struggling with 21-22s on my druid but my 470pala have such an easy time
+[4:28:50] uftimmy: Do you pretty much keep up LB on those two people 24/7, or do you not worry about them in periods of low damage?
+[4:30:03] Teedle: Dont play rdruid much but when i do feels like you are reapplying lifebloom constantly, does that bug you or is it something you just get use to
+[4:30:28] siaulerandom: what do u think about holy priests damage buff ? OpieOP
+[4:30:57] Imorteus: budding leaves?
+[4:31:52] Sheepamig: Is wildgrowth worth using or is it not very good?
+[4:32:11] theBroHam: Wild growth for big AOE damage
+[4:32:16] erlenddddddd: most healers do have some ramp , at least preservation
+[4:32:18] flawlesslykun: @jdotb i find that the biggest challenge for me atm is min-maxing dmg on resto druid, without letting ppl die KEKW
+[4:32:39] flawlesslykun: in keys ofc. in raid im a potato that presses rejuv way too much
+[4:33:40] flawlesslykun: YEP
+[4:33:52] flawlesslykun: i get so mad when im counting on ppl to press interrupt and they don't
+[4:33:57] flawlesslykun: there goes heart of the wild i guess
+[4:34:45] sukalitebalevitu: how do you deal with the dot on AD last boss? u dont have alot of time to pre hot people so i struggle alot with that boss
+[4:34:52] Imorteus: get that one group finder addon and you can filter groups that dont need you
+[4:35:42] sukalitebalevitu: or do u just Throw full hots on everyone before the dot is coming every time ?
+[4:36:59] Impulsionz: Impulsionz subscribed with Prime. 
+[4:41:26] Rypick: Mythic+ Hotfixes on January 23rd, 2024 - Murazond's Rise Nerfed
+[4:41:32] YdenTV: JB JB JB, Rise is nerfed. Peep those hotfixes.
+[4:43:33] Imorteus: it really should be % based timing
+[4:43:51] Imorteus: youll way less often get that extra shield yeah
+[4:44:14] Imorteus: 3min on a 24 6 min on a 25
+[4:44:15] Imorteus: classic
+[4:45:22] theBroHam: Serrated axe still blows
+[4:46:54] Imorteus: rather they just make the tyr shield not a shield, but an immune phase where you "dance" the mechanic or something
+[4:47:27] Ninjian: @jdotb they know you love DOTI, so thats a nerf in prep for us running it again in s4
+[4:47:30] Imorteus: put more dmg into the dot part not the inital yeah
+[4:49:32] Imorteus: today is alt weekly day
+[4:49:53] suinetel: Tried bear tanking in +11 to just get crests. God damn its awful.
+[4:51:19] ren0m: Join a key that has "+28, +29 after"
+[4:51:27] spicykekw: how a known guy like u dont have a team to push keys and have go to puglandia like us common mortals
+[4:51:35] kondelol: Any tips to not oom on these tyrannical bosses?
+[4:51:48] thephilberry: how big of an adjustment is it when teams go from live key/tgp style to trying out mdi?
+[4:51:49] suinetel: Bachelor evening means... farming LFG simulator looking for 29s?!
+[4:52:05] gnarrizard: 24 hour stream. wife’s away cat will play!!!
+[4:52:40] Imorteus: but i love to press rejuv :( its how i fell in love with the class. now i summon trees :(
+[4:52:45] Roiben_: 179 raiders from Roiben_ have joined! 
+[4:52:51] kondelol: Yea it might be rejuv
+[4:52:53] Whitewolf1441: @Imorteus ^
+[4:53:24] theBroHam: I saw there are some minor mana changes to some abilities that should also help?
+[4:53:55] Imorteus: Imorteus subscribed at Tier 1. They've subscribed for 2 months! jdotbRNG
+[4:55:36] redlegs19: does that trinket you use from fyrak only drop from guardian loot table?
+[4:58:12] Imorteus: the biggest classic is people going inside instance and complaining about people being slow
+[5:00:39] RandomCasual: what loot system does your guild use?
+[5:00:45] Ckraigfriend: do you think  we will see 31 from rise after the nerf
+[5:02:08] Sokchoy: sup streamer you are my campfire drop background stream of choice congrats
+[5:02:13] EppatTV: they timed 1 +30
+[5:02:21] Whitewolf1441: @Sokchoy ^
+[5:02:22] EppatTV: andy team
+[5:03:06] theBroHam: Yeah Andy's team did it at 35 min
+[5:03:33] EppatTV: highest tyra is a +29
+[5:03:57] MicHawkh: Meme team
+[5:04:07] Ckraigfriend: yeah fort is 30 tyr is 29
+[5:04:24] theBroHam: Might get a 31 since  this week is fort
+[5:04:56] Tombah: pally wild now?
+[5:05:05] redlegs19: double ret is the answer
+[5:05:09] flawlesslykun: Prayge this is THE throne chat Prayge
+[5:05:13] Tombah: that ret utility sheee
+[5:05:16] Ninjian: @Tombah hes EU, so ret buffs not in yet
+[5:05:24] theBroHam: My group runs double ret since we both have lego haha
+[5:05:41] theBroHam: With buffs it will be noice
+[5:06:32] Imorteus: whats scary here? chain lightning and?
+[5:06:56] theBroHam: depths
+[5:07:04] Darkelment: jumpers, crushing
+[5:07:34] TBouse: i mean your verdant was right on the mage
+[5:10:01] Gerrardfan1: JB Zmok said take care of the healer affix please
+[5:10:04] Gerrardfan1: Kappa
+[5:10:09] shadowkattey: what is that grey at the end of the unit frame ? just wondering
+[5:10:21] nixar1: @shadowkattey shield
+[5:10:24] EppatTV: @shadowkattey absorbs
+[5:10:31] shadowkattey: ok
+[5:12:09] theBroHam: Tell Naowh to do more damage ;p
+[5:13:14] toastbam: jb did you see the rise nerfs
+[5:14:58] Elvenbane: Elvenbane subscribed with Prime. 
+[5:17:30] MicHawkh: @toastbam link pls
+[5:19:07] fremen14: bro u washed? /s
+[5:19:07] mereen: PopNemo
+[5:19:40] EmElw: when does this checkpoint unlock exactly?
+[5:20:41] theBroHam: when the other party members get back downstairs
+[5:22:02] EmElw: u sure its not like when you click the elevator? idk if tripwire checkpoints really exist
+[5:22:14] EmElw: all other i know of are either npc dialogue or boss death
+[5:23:34] dknamey: !mdi
+[5:24:44] TBouse: other than having a destro lock it doesnt get much easier than this comp for this fight
+[5:24:50] kuroohigee: Man healing this with afflicted is so fucking disgusting
+[5:25:07] EmElw: holy look at the ret utility
+[5:26:29] Darkelment: pog mage alters
+[5:26:31] smoothlol: lets goo, 1 more boss
+[5:26:48] EmElw: wdym afflicted does nothing to the healer on this fight
+[5:26:50] EmElw: if it does you die
+[5:27:07] Imorteus: do other ppl find it annoying you cant use mouseover macros on mouse keybinds
+[5:27:11] kuroohigee: its okay cause having a group that can dispell is not bad
+[5:27:20] kuroohigee: but if you only have 1 person besides the healer
+[5:27:21] Waradin24: double ret pally lol
+[5:27:22] kuroohigee: its impossible
+[5:27:26] darlingdollx: if you're lacking dispels its definitely not easy lol
+[5:27:27] EmElw: exactly
+[5:27:28] kuroohigee: it's okay cause of their comp
+[5:27:32] darlingdollx: ^
+[5:27:33] EmElw: and if something is impossible you could say its ver yeasy
+[5:27:45] Imorteus: surely wariors are good in tott as well
+[5:27:46] EmElw: you just go next or alt f4, both are pretty easy
+[5:27:53] smoothlol: check shield of vengeance casts after
+[5:27:53] darlingdollx: its a difficult boss on tyran in general
+[5:28:06] kuroohigee: it's just a horrible boss IMO
+[5:28:11] kuroohigee: tanking it is so horrendous as well
+[5:28:22] kuroohigee: the damage during totem is insane on high keys
+[5:28:33] EmElw: idk i play vdh i just press fel dev
+[5:28:40] kuroohigee: ye man
+[5:28:43] kuroohigee: lol i played on vdh
+[5:28:45] kuroohigee: its a joke
+[5:28:48] kuroohigee: as a pala im sweating
+[5:28:55] kuroohigee: thinking what to use for mit
+[5:28:56] darlingdollx: ive had so many prot pallies just not press anything
+[5:29:10] kuroohigee: to be fair it's really the worst tank class on that boss
+[5:29:39] kuroohigee: but vdh fel dev go brrr
+[5:30:33] smoothlol: YOU GOT THIS
+[5:32:04] Tobo: 102 raiders from Tobo have joined! 
+[5:33:53] drall743: inb4 "I was here"
+[5:33:53] smoothlol: POG
+[5:34:00] shadowfold3: Pog
+[5:34:01] EmElw: io injection Pog
+[5:34:01] smoothlol: 1 week later
+[5:34:06] TBouse: cant use trinket on last phase or you get clapped
+[5:34:16] theBroHam: ggs!
+[5:34:44] Sheepamig: gg bro
+[5:34:50] Tobo: gg glhf
+[5:34:51] EmElw: dawg
+[5:34:52] yatanrp: why it dropped 3 items? they buffed this reset?
+[5:34:56] smoothlol: ggs finally
+[5:35:02] gripps22: 3700 gaming
+[5:35:06] kuroohigee: @yatanrp higher keys drop more loots
+[5:35:08] Tobo: im a bit sick so ill peace it quickly but enjoy
+[5:35:27] SeanTKE: ya 20% per level above 20
+[5:36:41] Tvvm: Why do you play eu?
+[5:36:50] theBroHam: !eu
+[5:36:51] Tvvm: Live here or?
+[5:37:17] theBroHam: he lives NA but plays EU for streaming
+[5:37:53] Tvvm: sorta figured that but i just wanted to hear EU>NA
+[5:37:55] Tvvm: KEKW
+[5:39:35] Imorteus: @SeanTKE does it stop at 100% 3 on 25 or is 27 40% chance of 4 etc. if you know
+[5:41:32] Whitewolf1441: jb do you have a favourite tank to heal
+[5:41:36] Imorteus: what addon is it doing those announcements of like "dodge" "pull" etc
+[5:41:53] Imorteus: tanks need healing? 4Head
+[5:42:02] lolislawl5: BDKS always pog never have to touchem
+[5:42:02] jdotb: https://wago.io/dfdungeons/109
+[5:42:20] Imorteus: is it edited at all? pretty sure ive used that
+[5:42:29] SalmiraMH: vortex is useless
+[5:42:37] SalmiraMH: You have to be so far away
+[5:43:02] Whitewolf1441: !wa
+[5:45:04] Lottinius: naowh OMEGALUL
+[5:48:28] theBroHam: Pretty sure Stream Elements is taking a nap right now lol
+[5:49:33] Whitewolf1441: !uptime
+[5:49:39] Whitewolf1441: i think youre right
+[5:54:10] Imorteus: weird how that boss has like the only lava in the game that insta ticks
+[6:00:13] SpunkyExcursions: Hey dere :)
+[6:00:42] Imorteus: yo
+[6:00:46] therealborko: for tomorrow if you're interested:  https://wago.io/Incorporeal
+[6:01:10] codatv: !stats
+[6:11:43] Tvvm: !ui
+[6:13:27] befek: for real
+[6:13:32] LumeyTV: very edge it looked like
+[6:13:39] theBroHam: still timed! ggs
+[6:13:51] Demazia: Still remember last time this happened
+[6:15:18] theBroHam: Nice to know Robin panics too
+[6:15:18] Imorteus: its fine. dungeon wasnt close Kappa
+[6:16:18] Zircons: preview of tomorrow pepeLaugh
+[6:16:32] theBroHam: I main ret so I'm excited to do keys
+[6:16:33] Tvvm: is there any way to get that efflo WA that follows your cursor?
+[6:16:56] frazlord: !wa
+[6:17:07] ercki89: How big is avoidance? I got 483 ilvl wrist with avoidance but is it better than 489 ilvl wrist without?
+[6:17:08] theBroHam: @jdotb Stream Elements stopped working
+[6:17:11] therealborko: rip streamelements
+[6:17:41] Imorteus: wife and children can wait
+[6:20:14] flawlesslykun: !nameplates
+[6:20:34] jdotb: !wa
+[6:20:39] TBouse: do you run hibernate on incorporeal
+[6:20:56] flawlesslykun: @jdotb what's the script for nameplates on the bottom again ?
+[6:20:56] Tvvm: gotcha
+[6:21:10] therealborko: https://wago.io/zITKj3dNT
+[6:21:17] therealborko: ^ jb's rdruid pack
+[6:21:43] DogShitPaladin: prot war gonna be the meta now, buckle in boys
+[6:22:02] flawlesslykun: !tp
+[6:22:26] siaulerandom: prot warr holy priest meta lets go
+[6:22:40] flawlesslykun: i think it's this but im not sure if the number is correct btw /script SetCVar( "nameplateOtherAtBase", 2 )
+[6:22:43] ren0m: and feral jdotbHmm
+[6:23:35] flawlesslykun: ye i just tested it it's correct
+[6:24:19] DogShitPaladin: @flawlesslykun whats this do?
+[6:25:50] flawlesslykun: what jb said @DogShitPaladin ^^ i yoinked dorki's nameplates yesterday so i'm trying plater now (hopefuly it doesn't brick my PC more)
+[6:26:26] Whitewolf1441: lol
+[6:26:42] Whitewolf1441: so are you streaming tomorrow or watching the kids
+[6:26:46] Hoxyro: !headphone
+[6:26:50] Hoxyro: !headset
+[6:27:29] clerkeddd: my rageheart over seastar @jdotb
+[6:27:35] illenw: Whats ur IEMs brand/model?
+[6:27:55] jdotb: shuoer s12s
+[6:28:06] clerkeddd: why*^
+[6:28:53] dinohhhh_: seastar with leech or pips without no tertiary?
+[6:29:51] Whitewolf1441: why lol
+[6:30:02] sw0ngs: its the players... not the class xD
+[6:30:03] Tvvm: Bring the player not the class ehj
+[6:30:11] simon11111987: just seen the dawn nerfs, decent
+[6:30:15] ren0m: Palas need their moments at least once/season
+[6:30:28] colt149: ret is op in dungeons
+[6:31:12] colt149: triple ret gets you to 31s
+[6:33:03] Perry_TP: triple ret gets you bitches
+[6:35:08] gartsky: lol what is this group Naowh and Zmok ret pumping
+[6:36:53] welshkinly: got a heroic pips on my Pres and myth sea star on my spriest. best vault I’ve ever had
+[6:37:10] theBroHam: new MDI team Kappa
+[6:37:45] cajovysacok: how it is  called potion what decrese dmg taken
+[6:42:19] Demazia: kekw
+[6:42:20] Maplewindz: :D
+[6:43:21] theBroHam: ty for stream
+[6:43:26] Boetjeuh: 2.5 gbit internet? how mutch devices do you have online?
+[6:43:50] Boetjeuh: "D
+[6:43:54] Whitewolf1441: ty for stream
+[6:44:03] Boetjeuh: thats the only valid reason, brag rights
+[6:44:11] TazeMeh: It's only good if your personal PC can use it though

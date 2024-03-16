@@ -1,0 +1,2778 @@
+[0:00:35] StreamElements: Swifty is now live! Streaming Call of Duty: Modern Warfare 2: Swifty Hunter Prepatch Survival (making ultimate spec)
+[0:01:14] rainraira: Hola
+[0:02:03] NYCFinest718: Whats up SWIFTY
+[0:03:39] mistermoonknight: We here
+[0:05:00] darthterac: glad to be back, you got this swifty
+[0:06:09] mistermoonknight: Working :(
+[0:06:20] darthterac: im ok, a few beers in gona lay back a lurk
+[0:06:49] lolitseddy: do new  accounts have to make go through bfa?
+[0:06:50] Sqwabbles: nice to hear gaming house version 4
+[0:06:53] darthterac: cheers
+[0:06:57] cyberduude: Dang another ad
+[0:07:12] C0m3b4cK: who can i see the skill tree of your ret in wotlk ?
+[0:08:03] Sqwabbles: so like a gaming office?
+[0:08:13] PretzelRocks: Now Playing: Robot Uprising by Abstraction -> https://prtzl.io/KbHYOWYYy6YL14UW
+[0:08:24] mistermoonknight: That would be really sick though!
+[0:08:28] Macfaiden: mjellow SWIFTY
+[0:09:23] Sqwabbles: survival is nice because it works in ranged and melee
+[0:09:27] KamenArt: 45% of epicness
+[0:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:10:01] Kunxion: Call of Duty has totally changed
+[0:10:11] mistermoonknight: Do you have an import link for your UI?
+[0:10:44] stabbity13: you're streaming in the COD folder
+[0:10:51] Kunxion: @Swifty why have you lowered yourself to playing Hunter ?
+[0:11:08] Galdrena: oops
+[0:11:20] mistermoonknight: You just go to where you select the profile, and click share, copy to clipboard
+[0:11:31] bluefire9292: hey, hows it
+[0:11:46] stabbity13: happy to help lol
+[0:11:49] mistermoonknight: Under edit mode
+[0:12:11] mistermoonknight: Drop down arrow top left
+[0:12:20] RiPTide: Layout
+[0:12:22] Gelendrill: the layout drop down
+[0:12:28] JamesKravan: Layout
+[0:12:28] kevo_k: i think do the drop down where it says layout
+[0:12:31] Swifty: 0 30 0 0 1 7 7 UIParent 0.0 45.0 -1 ##$$%/&.'%)$+# 0 1 0 4 4 UIParent 0.0 -443.8 -1 ##$$%/&.'%(#,$ 0 2 0 7 1 MultiBarBottomLeft -13.3 4.0 -1 ##$$%/&&'%(#,$ 0 3 1 5 5 UIParent -5.0 -77.0 -1 #$$$%/&('%(#,$ 0 4 1 2 0 MultiBarRight -5.0 0.0 -1 #$$$%/&('%(#,$ 0 5 0 6 6 UIParent 24.0 36.7 -1 ##$$%/&('%(#,$ 0 6 1 1 7 MultiBar5 0.0 0.0 -1 ##$$%/&('%(#,$ 0 7 1 1 7 MultiBar6 0.0 0.0 -1 ##$$%/&('%(#,$ 0 10 0 7 1 MultiBarBottomLeft -309.2 4.0 -1 ##$$&('% 0 11 0 6 6 UIParent 242.1 102.0 -1 ##$$&('%,# 0 12 1
+[0:12:36] Swifty: 0 30 0 0 1 7 7 UIParent 0.0 45.0 -1 ##$$%/&.'%)$+# 0 1 0 4 4 UIParent 0.0 -443.8 -1 ##$$%/&.'%(#,$ 0 2 0 7 1 MultiBarBottomLeft -13.3 4.0 -1 ##$$%/&&'%(#,$ 0 3 1 5 5 UIParent -5.0 -77.0 -1 #$$$%/&('%(#,$ 0 4 1 2 0 MultiBarRight -5.0 0.0 -1 #$$$%/&('%(#,$ 0 5 0 6 6 UIParent 24.0 36.7 -1 ##$$%/&('%(#,$ 0 6 1 1 7 MultiBar5 0.0 0.0 -1 ##$$%/&('%(#,$ 0 7 1 1 7 MultiBar6 0.0 0.0 -1 ##$$%/&('%(#,$ 0 10 0 7 1 MultiBarBottomLeft -309.2 4.0 -1 ##$$&('% 0 11 0 6 6 UIParent 242.1 102.0 -1 ##$$&('%,# 0 12 1
+[0:12:38] Galdrena: omg
+[0:12:53] mistermoonknight: Nice thanks!
+[0:13:36] nidda: s
+[0:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[0:14:44] mythiix888: hi swifty i have not been playing retail since they made the pvp gear useless in legion, have they changed that now?
+[0:14:52] ggwp_wws: @Swifty whats up Johny
+[0:14:56] ggwp_wws: HeyGuys
+[0:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:15:14] jaromerogue: Sup swifty
+[0:15:25] Rathamus: There's a face I haven't seen in a few years.
+[0:15:33] PretzelRocks: Now Playing: San Fransyntho by Harris Heller -> https://prtzl.io/AOHQbZe6a8YYvDIp
+[0:15:48] jaromerogue: Do they still have that tijauana flats near you with all those sauces
+[0:15:57] nidda: e
+[0:15:58] flawfull94: Cool background @Swifty
+[0:16:01] Rathamus: How have you been Swifty?
+[0:16:05] jamesip87: What’s the best warrior spec atm?
+[0:16:06] Macfaiden: yeah one of the worst blizzard did was gear score :S
+[0:16:10] ggwp_wws: @Swifty what do you play? what is the name of the game? PogChamp where is Wrath Lich King ???
+[0:16:33] Digmadness: YO!
+[0:16:47] Kunxion: you do more dmg at ranged without using a bow/gun?
+[0:16:48] Digmadness: How was your halloween bro
+[0:17:22] Evil_Befall: LUL
+[0:17:30] kzeelol: its on assist not on passive
+[0:17:38] balancetycon: i cant decide what i want to play for dragonflight, so many fun classes and specs NotLikeThis
+[0:18:07] Kunxion: so aer you a melee dps hunter ?
+[0:18:17] invoketheshell: Don't worry John I made it!  I am here.
+[0:18:17] mistermoonknight: @balancetycon Honestly same. Leaning towards Prot Warrior though
+[0:18:24] PretzelRocks: Now Playing: You and Me by Afilion -> https://prtzl.io/jDHGnZkWJ939g2U1
+[0:18:27] NocturnalDragon: when can you play as the dragon this month?
+[0:18:38] IncinerateGaming: High guys FeelsGoodMan
+[0:18:51] pademanu: @markmiso 28
+[0:18:58] recordboredom: If you’re that close to melee you’re toast
+[0:19:26] RiPTide: @markmiso November 15th
+[0:19:40] StreamElements: Type !points to see how many points you have!
+[0:20:00] invoketheshell: The talent trees are so big now
+[0:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:20:16] tron3kk: new talents NotLikeThis
+[0:20:24] Kunxion: are the talent tree OTT now ?
+[0:20:30] invoketheshell: Wait..... are you trying get hunters nerfed?
+[0:20:39] patrok25: Howdy swifty
+[0:20:54] RiPTide: They already nerfed BM Hunters this morning ripCry
+[0:21:14] tiggz_: Pet should learn feint death as well
+[0:21:24] RiPTide: But tbh we needed it. War Orders+Dire Beast legendary+Kill Command was OP
+[0:21:28] Digmadness: swiftyALLIANCE swiftyCRISP swiftyALLIANCE swiftyCRISP HSCheers
+[0:21:28] imoxyr6: Hey swifty n chat
+[0:21:30] PretzelRocks: Now Playing: Don't Follow by Afilion -> https://prtzl.io/7GHYQwnkm716BVc9
+[0:22:07] mistermoonknight: Didn't Mistweaver just get nerfed also BibleThump
+[0:22:08] RiPTide: @tiggz_ You can teach your pets "Play Dead". A vendor in Trueshot Lodge sells it to you.
+[0:22:15] xJPMx: it's channeled
+[0:22:58] xJPMx: lol
+[0:23:39] Murvan91: swifty you own
+[0:23:46] okok28: Swifty you hated these new talent trees at first now I love watching you theory craft with them
+[0:24:06] kotchy91: @swifty  did you try your monk?
+[0:24:10] tron3kk: games in 2005 gamesin 2022 mkoTech
+[0:24:25] RiPTide: Not having those extra Dragonflight talent points is handicapping potential
+[0:24:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[0:24:42] DishChi: New talent  system fast and cool
+[0:24:55] Hartmannmann: highmountain
+[0:25:03] PretzelRocks: Now Playing: Cryomorph by zircon -> https://prtzl.io/JbHVaNJQdKYpZOso
+[0:25:10] RiPTide: Legion - The Hunter class hall
+[0:25:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:26:26] DishChi: Soundtrack reminds me Mass Effect game
+[0:26:27] JamesKravan: Legion area for hunters
+[0:26:41] JamesKravan: Highmountain
+[0:26:47] lolitseddy: highmountain
+[0:26:51] RiPTide: Go to new Dalaran then talk to the Highmountain Tauren
+[0:26:53] lolitseddy: azeroth
+[0:26:58] Gelendrill: new dalaran
+[0:27:00] Cyenna: azeroth
+[0:27:03] darkpaladin01: broken hiles
+[0:27:16] darkpaladin01: broken isles
+[0:27:22] Buckleberry: legion is the broken isles on the world map
+[0:27:32] tiggz_: !points
+[0:27:33] StreamElements: @tiggz_, tiggz_ has 8248 points and is rank 7241/329449 on the leaderboard.
+[0:27:38] Gelendrill: if the hunter was boosted you wont have the hearth
+[0:27:58] tiggz_: !gamble 1000
+[0:27:58] StreamElements: tiggz_ lost 1000 points in roulette and now has 7248 points! FeelsBadMan
+[0:28:16] NYCFinest718: NYCFinest718 subscribed with Prime. They've subscribed for 48 months! 
+[0:28:17] StreamElements: NYCFinest718 just subscribed for 48 months in a row PogChamp
+[0:28:35] tiggz_: !gamble 2500
+[0:28:35] StreamElements: tiggz_ won 2500 points in roulette and now has 9748 points! FeelsGoodMan
+[0:28:43] PretzelRocks: Now Playing: Divine Nation by Harris Heller -> https://prtzl.io/xyHQnN8aXwgZbPTE
+[0:28:51] Mikegoesbananas: !gamble all
+[0:28:51] StreamElements: PogChamp Mikegoesbananas went all in and won 1170 points PogChamp he now has 2340 points FeelsGoodMan
+[0:29:00] Gelendrill: the azuna portal
+[0:29:19] FrankieNOR: @Swifty How did you remove the gryphons on the action bar?
+[0:29:36] gangstabeatzat: Swifty Rules!
+[0:29:38] RiPTide: You might have to do the intro quests to get access to Trueshot Lodge.
+[0:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:29:53] newkingcody: HI SWIFTY swiftyDerp
+[0:29:55] homewrecker101: @FrankieNOR its an option
+[0:30:00] Gelendrill: you need to go to dalaran now to start the questline
+[0:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[0:30:28] usefulidiotgg: I think there's a quest way in the east that you can pick up to start the zone
+[0:30:40] Gelendrill: you get access to the true lodge from the artifact quests
+[0:30:42] PretzelRocks: Now Playing: Terminate by F1NG3RS -> https://prtzl.io/mLHGMgK4dokjOOC3
+[0:30:43] usefulidiotgg: on the border with stormheim
+[0:30:51] aBadOtter: its in highmountain you can just fly there
+[0:30:58] Gelendrill: the start of all the artifact quests are in dalaran
+[0:31:43] DaemonRage82: crouse82 subscribed with Prime. They've subscribed for 2 months, currently on a 1 month streak! 
+[0:31:44] tiggz_: Are artifacts still a thing in retail now?
+[0:31:44] StreamElements: crouse82 just subscribed for 2 months in a row PogChamp
+[0:32:14] Buckleberry: the bird
+[0:32:16] Buckleberry: has the quest
+[0:32:18] usefulidiotgg: it's that bird, he has the quest
+[0:32:22] JamesKravan: should at the flight master
+[0:32:22] altkix1: The bird
+[0:32:23] RiPTide: I have a Feign Death+Play Dead macro named "wife aggro" for when I was married and would get hounded to do something quickly.
+[0:32:27] usefulidiotgg: the one behind you
+[0:32:33] Arcuul: You need to unlock your class hall to get the play dead
+[0:32:37] Buckleberry: behind you lol
+[0:32:39] Emmanuelxt12: Swifty  MVGame
+[0:32:52] Gieboli: lul
+[0:32:52] Diraiko: Swifty Que tal!!? <3
+[0:32:55] Oxijjen: Swifty how are you dude?
+[0:32:56] stabbity13: lol
+[0:33:03] stabbity13: the bird flying around by your pet
+[0:33:09] zerisor: lol
+[0:33:11] canlauer: canlauer subscribed with Prime. They've subscribed for 2 months! 
+[0:33:11] StreamElements: canlauer just subscribed for 2 months in a row PogChamp
+[0:33:19] usefulidiotgg: LUL
+[0:33:39] xjeey: AHahahahaha
+[0:33:41] tiggz_: Bird
+[0:33:46] Gelendrill: it is a quest chain
+[0:34:20] Oxijjen: Why the sream is bad some times
+[0:34:22] Arcuul: First time through legion Swifty? lol
+[0:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[0:34:47] Oxijjen: Legion
+[0:34:55] Oxijjen: Is this Legion
+[0:35:10] StreamElements: Type !points to see how many points you have!
+[0:35:18] PretzelRocks: Now Playing: All Around Us by Afilion -> https://prtzl.io/9GHY2kzyv5a3QgH9
+[0:35:19] bulkswe: Swifty what classes you play in wotlk atm? swiftySTARE
+[0:35:22] wizzock: how are you good and bad at same time
+[0:35:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:35:47] kenjinn13: kenjinn13 subscribed with Prime. 
+[0:35:48] StreamElements: kenjinn13 just subscribed PogChamp
+[0:36:02] coconust1: ah yesss ty @swifty for coming online
+[0:36:13] coconust1: now I can stay awake at work
+[0:36:22] t_e_n_b: the warrior does not cause damage - did you decide to play for the hunter?
+[0:36:26] RiPTide: IMO, the entire class hall quest line for Hunter is worth it. Awesome mount, weapon transmogs, etc. It's a lot of work though
+[0:37:06] BigJustin26: same. It's one of the artifact appearances I don't have. and ya Talonclaw is the Eagle Spear that Huln Highmountain used in that back in time quest in the Highmountain story line
+[0:37:09] mistermoonknight: All of the Class Quests are S tier for sure
+[0:37:10] Arcuul: You get the class hall after you get your weapon.
+[0:37:24] Bowjoey: !followage
+[0:37:24] StreamElements: @Bowjoey, bowjoey has been following swifty for  8 years 9 months 27 days 18 hours
+[0:37:50] Cyenna: play rogue
+[0:38:05] JuK3s: my poor enhance...
+[0:38:13] Macfaiden: shaman
+[0:38:13] mistermoonknight: Windwalker is deadly
+[0:38:14] BigJustin26: I really enjoy how smooth WW monk feels with the changes
+[0:38:38] PretzelRocks: Now Playing: Tandoori Beats by zircon -> https://prtzl.io/OZHvaJWZ8bpa8WTv
+[0:38:46] invoketheshell: DK?
+[0:38:52] theofficialmattia: Hey Swifty! Long time fan! My friend just reached out to you regarding a headset he won back in the day. The video in which he won the prize is called "Swifty Mists of Pandaria Priests (gameplay/commentary)." The winner called sweguy yeya never got the e-mail you sent. He tried to reach out to you but nothing happened. If you check all the details regarding the prize you will find that you never got a reply. Perhaps it was sent to the wrong e-mail or smth. Appreciate it if you could check it
+[0:38:54] NocturnalDragon: WW Monk for real
+[0:39:07] RiPTide: I haven't PvPed on Hunter in a long time but I know the Feign Death used to cause players to lose target. I wonder if that works with pets to. If it also takes you out of combat in PvP I wonder if Camoflauge would be a sick combo
+[0:39:17] RiPTide: too*
+[0:39:34] BigJustin26: enhance shammy also feelin strong
+[0:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:40:20] radixmalorum: @Swifty Whats your most favorite and least favorite class to play and did you tried out your monk yet?
+[0:40:25] BigJustin26: you can't use them outside of Shadowlands zones I thought
+[0:40:30] JuK3s: @BigJustin26 just got 25% dmg nerf overall
+[0:40:31] xJPMx: me too
+[0:40:49] Chrimz_: You done with wotlk for a bit Swifty?
+[0:40:50] PretzelRocks: Now Playing: Neon Renegade by Harris Heller -> https://prtzl.io/W1Hy7ojNx5KZ7mFw
+[0:41:06] mikroleree: Everytime i watch your stream, there is more stuff in the background OWL2019eyes
+[0:41:09] theofficialmattia: Did you see my previous message?
+[0:41:58] Tordrek_: what a weird thing to say LUL
+[0:42:01] munrack_gaming: I miss your dk streams. why you abandon the dk?
+[0:42:33] corruptReality: where the dragon heads
+[0:42:43] PretzelRocks: Now Playing: Freelancer by Harris Heller -> https://prtzl.io/5zHemEyY5M6opjHB
+[0:42:46] theofficialmattia: I'm actually fully serious. I would appreciate it if you could check it out!
+[0:42:52] Tordrek_: he'll probably play loads of classes in dragonflight. its more alt friendly
+[0:43:39] Galdrena: Why wait so long to ask about it too?
+[0:43:41] coconust1: bring what in chat ?
+[0:43:49] felmonn: swifty not on the warrior am i okay
+[0:43:59] Digmadness: Yeah some trolls always say that i got my razer
+[0:44:00] theofficialmattia: Should I forward the mail to a mod or to you directly?
+[0:44:08] Tordrek_: ill wait 10 years to come back in here. so odd
+[0:44:09] Mikegoesbananas: lol @theofficialmattia hahaha Sure thing :D
+[0:44:22] LazyPaladin2: damn trolls :P
+[0:44:34] Sunglassestony: Yeaaaa, there should be a time frame  to actually respond for said prize.
+[0:44:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[0:44:47] HitmanGSMike: 10 years to late
+[0:44:48] NorthernRC: @Swifty I've not played WoW for years... is the new expansion worth coming back for?
+[0:44:49] coconust1: giff me graphic card @swifty  I am poor lol
+[0:44:49] tron_80: i waited 15 years to have a spectral tiger and now I dont even like it that much
+[0:44:53] RiPTide: I tried that at Subway last week but it didn't work. I really wanted extra meat on that sub 8 years ago.
+[0:44:54] BigJustin26: still checking that tracking number everyday for 10 years xD
+[0:44:59] NocturnalDragon: 10 years ago, now they are bringing it up?? LUL
+[0:45:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:45:12] Oxijjen: Swifty remember 10 years ago hahahaha that's funny!
+[0:45:33] BigJustin26: the wall of pog
+[0:45:40] Digmadness: swiftyALLIANCE swiftyALLIANCE swiftyALLIANCE swiftyALLIANCE
+[0:45:51] Tekku_TV: !gamble all
+[0:45:52] StreamElements: Tekku_TV went all in and lost every single one of his 1449 points LUL
+[0:45:58] PretzelRocks: Now Playing: Diamond Conundrum by Abstraction -> https://prtzl.io/AOHQb4gv75pOxBsp
+[0:46:00] Tordrek_: You said you'd buy me a house when we were younger. If you become famous on twitch. Now I'm back, and you seem to be doing alright LUL
+[0:46:09] Oxijjen: Why don't you play mage or lok for a change
+[0:46:12] electricloud: !gamble all
+[0:46:12] StreamElements: electricloud went all in and lost every single one of his 69 points LUL
+[0:46:25] electricloud: KEKW
+[0:46:25] RiPTide: So I just read that you can Play Dead your pet when it's becoming poly'd and it'll cancel the spell ripLULL
+[0:46:31] theofficialmattia: @Galdrena Can't whisper you
+[0:46:34] Galdrena: LOL
+[0:46:34] Fairlena2015: !gamble all
+[0:46:34] StreamElements: Fairlena2015 went all in and lost every single one of his 1668 points LUL
+[0:46:35] BigJustin26: you can't use covenant abilities at all unless you're in the shadowlands
+[0:46:38] NocturnalDragon: !gamble all
+[0:46:44] Sunglassestony: lol
+[0:46:59] Cyenna: dont worry about it swifty
+[0:47:02] Chrimz_: Just ban em bro. No need for your attention
+[0:47:02] stabbity13: you once told me you would officiate my wedding, well the big day is coming up man
+[0:47:06] Galdrena: @theofficialmattia I can't whisper you either.
+[0:47:07] theofficialmattia: Could you enable it so I can send the e-mail?
+[0:47:07] darkpaladin01: remember that one time at band camp 10 years ago
+[0:47:15] NocturnalDragon: !gamble 100
+[0:47:15] StreamElements: markmiso lost 100 points in roulette and now has 1391 points! FeelsBadMan
+[0:47:16] Oxijjen: They need to ban the IP :D
+[0:47:29] grimji92: i have my letter from swifty when i go the razer braclets back in the day!. kids have lost the braclets XD
+[0:47:44] Galdrena: I can't whisper you @theofficialmattia you have whispers blocked.
+[0:47:47] tron3kk: LUL
+[0:47:49] Oxijjen: Ban him :D
+[0:48:12] Digmadness: KILL DA HORDE!
+[0:48:33] BigJustin26: follow da monsta
+[0:48:46] PretzelRocks: Now Playing: Banhammer by Harris Heller -> https://prtzl.io/9GHY2kKQJdw77OT9
+[0:48:54] Galdrena: if anything someone probably stole it lol
+[0:49:10] tron3kk: damn whispers LUL
+[0:49:10] okok28: @theofficialmattia you must have won something huge to inconvenience everyone this long later...
+[0:49:30] aratz95: do you stop war for DF ?
+[0:49:30] theofficialmattia: @Galdrena you should be able to whisper me now. I'm unable to whisper you still
+[0:49:40] StreamElements: Type !points to see how many points you have!
+[0:49:48] stabbity13: flare it
+[0:50:00] yoichinoyumi: some of the mobs hit you exact damage as your armor
+[0:50:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:50:40] yoichinoyumi: some mobs in hyjal for example, you have to remove armors to tame it OMEGALUL
+[0:50:40] Sunglassestony: How do you like the new UI? @Swifty
+[0:50:57] PretzelRocks: Now Playing: Lust by Harris Heller -> https://prtzl.io/xyHQnNJVX3wDbGiE
+[0:51:19] fuzzypickle45: swifty can you throw out the first pitch at my sons little league game?
+[0:51:30] GreysonHaskell: been a classic enjoyer, but i have high hopes for DF
+[0:51:42] yoichinoyumi: ui looks older than the vanilla one
+[0:51:54] dragoonz2262: you can make it go back to how it was befor perpach
+[0:52:05] tron3kk: @yoichinoyumi LUL
+[0:52:07] Cyenna: can you tame mecha pets?
+[0:52:17] Sunglassestony: @yoichinoyumi That's what I thought to
+[0:52:18] Oxijjen: :D
+[0:52:41] theofficialmattia: Thank you for looking into it Swifty! I've just sent the info to Galdrena
+[0:53:00] GreysonHaskell: the ONLY thing i dont like is that you cant increase the size of the bags and spellbook, character, etc. ui
+[0:53:02] xJPMx: it used to be 3 steps
+[0:53:19] Oxijjen: dude stop spaming pls
+[0:53:36] PretzelRocks: Now Playing: Death by Doctor Vox -> https://prtzl.io/6DHo88jGy6QwE9s9
+[0:54:00] RiPTide: Now that you've almost obtained Play Dead, all you have to do now is spend a few hours farming Undead/Mech/Bloodbeast pet tomes Kappa
+[0:54:03] felmonn: yo swifty why are you not on warrior?
+[0:54:10] xJPMx: he might've just gotten messaged by a scammer lol
+[0:54:15] jeizor: Basically sending something to South Africa, will never get here lol
+[0:54:20] MichaelDanmark: i didnt get it swifty
+[0:54:39] darkpaladin01: can i pay for free stuff lol
+[0:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[0:54:44] MichaelDanmark: the spectral tiger
+[0:54:48] RiPTide: The vendor is in the main building.
+[0:55:00] Goodfellowxx: Ever hearing from Mercader?
+[0:55:02] Arcuul: I think you can go now
+[0:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:55:11] Arcuul: The vendor should be inside
+[0:55:25] tron3kk: so wow retail is free BatChest
+[0:55:27] jobas91: !gamble all
+[0:55:27] StreamElements: PogChamp jobas91 went all in and won 48 points PogChamp he now has 96 points FeelsGoodMan
+[0:56:01] RiPTide: Sentinel Owl is going to be OP in arenas. Pillar humpers
+[0:56:23] stabbity13: thats the number you see on the ability
+[0:56:53] dj_djustice: wasup swifty HeyGuys
+[0:57:23] loki_van_primal: the big grey thing
+[0:57:23] stabbity13: the giant eagle statue
+[0:57:26] dokruteny: eagle statue is close the hill
+[0:57:29] Jaegermeistermaschine: the eagle !
+[0:57:29] recordboredom: That’s not a statue
+[0:57:32] loki_van_primal: next to you
+[0:57:36] Macfaiden: swift the giant green statue
+[0:57:37] dokruteny: the eagle statue cant be bigger
+[0:57:41] borislav0103: statue
+[0:57:52] recordboredom: I can’t with you sometimes 🤣😂😅
+[0:58:36] PretzelRocks: Now Playing: Hengsha by Miracle Of Sound -> https://prtzl.io/1kH7LLXMv7BvNwSY
+[0:58:37] OteroGaming: Yo swifty
+[0:58:55] MichaelDanmark: where i the one shot macro swiftyyyy
+[0:59:16] stabbity13: fetch is pet looting
+[0:59:36] linsenseur: threre it is dude ? too much watching asmon ?? xD
+[0:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[0:59:46] usefulidiotgg: RIP
+[0:59:46] GreysonHaskell: nah he dead dead LUL
+[0:59:52] MichaelDanmark: damn u killed it man
+[0:59:53] jeizor: he dieded :<
+[0:59:57] grimji92: tell it to follow u swifty lol
+[0:59:58] stabbity13: lazy bones
+[0:59:59] Morricone33: Pet actually gave up xD
+[1:00:02] Kowwen: have to hit the macro again
+[1:00:03] RiPTide: GG. Makes enemy players stop casting against your pet. Screw poly/hex.
+[1:00:06] mufasu13: you need the spell to wake him
+[1:00:08] grimji92: rip
+[1:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[1:00:10] dokruteny: you need to wake him up
+[1:00:11] SixPines: Playin dead
+[1:00:11] jackphilipsen: Pet not playing games
+[1:00:11] RiPTide: Haha, you gotta hit "Wake Up"
+[1:00:12] ZenoahTV: revive
+[1:00:13] NocturnalDragon: you killed it swifty! LUL
+[1:00:14] Galdrena: what did you do to him? :O
+[1:00:14] dokruteny: the same button
+[1:00:18] tolginyoo: lal
+[1:00:18] DoYouSeeOk: you would have to  type Feign death for pet a second time in macro
+[1:00:21] darkpaladin01: hit the play dead button again
+[1:00:27] tron3kk: vilonce speed scremetnum machosRoar
+[1:00:30] fefedohartke: HISDED
+[1:00:33] DoYouSeeOk: gotta type pet feign death a second time in macro
+[1:00:50] younglettuc: battistuta157 subscribed with Prime. They've subscribed for 9 months, currently on a 3 month streak! Yeah boo
+[1:00:50] StreamElements: battistuta157 just subscribed for 9 months in a row PogChamp
+[1:00:51] Tordrek_: just macro it into a attack
+[1:00:59] MichaelDanmark: type feighn death in macro
+[1:01:01] MichaelDanmark: do it
+[1:01:05] loki_van_primal: how you skill so far with your Hunter ?
+[1:01:06] fefedohartke: why noone plays with worgen anymore
+[1:01:14] SixPines: I've played dead to drop agro in boss fights and I forget to press it again. It can tank your dps. lol
+[1:01:16] stronggamers: swiftyyyyyyyyyyyyyy
+[1:01:38] NocturnalDragon: Yayayayaya
+[1:01:41] PretzelRocks: Now Playing: Sunsets and No Regrets (Sydney City) by Big Giant Circles -> https://prtzl.io/MbHBvv1Yge28d8I9
+[1:01:41] unorth0dox: lol
+[1:01:50] fefedohartke: @Swifty be carefull switfty! they will ban you lol
+[1:01:51] Natoki9221: why haven't u just bought it in the ah?^^
+[1:01:55] MichaelDanmark: i dont get those
+[1:01:58] Needdaann: aftoon Swifty and all
+[1:02:21] felmonn: swifty why are you on the hunter and not the warrior?
+[1:02:44] MichaelDanmark: he is hunter now
+[1:03:04] Natoki9221: yea, o bought it today, srry was too Late to tell u
+[1:03:11] DoYouSeeOk: get the polearm
+[1:04:12] radixmalorum: RAAAAUUUL
+[1:04:29] MichaelDanmark: do arena just and win
+[1:04:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[1:05:10] StreamElements: Type !points to see how many points you have!
+[1:05:13] PretzelRocks: Now Playing: Wayfarer by Harris Heller -> https://prtzl.io/QbHvgg4gMv6EkGtG
+[1:05:35] DoYouSeeOk: you can still have spear head with kill command and you can add bombs
+[1:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:06:59] DoYouSeeOk: 2 sec lemme log on real quick cause you can add the wildfire unfusion
+[1:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[1:07:26] PretzelRocks: Now Playing: Minus One by Harris Heller -> https://prtzl.io/dAHv11EGAaY2ABfp
+[1:07:48] DoYouSeeOk: you would lose explo shot and keep coordinated but replace explo shot with wild fire infusion wich is the 3 differwent bombs
+[1:08:12] daggarrd: Go to *** for specs, Swifty
+[1:08:18] grolimin: Hola Swifty. Hows you day?
+[1:08:20] MichaelDanmark: looks pretty cool
+[1:08:26] scottbur13: this is too much
+[1:08:32] MichaelDanmark: surv huntard
+[1:08:39] Gulltherizul: swiftyDerp
+[1:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:09:49] MichaelDanmark: revive
+[1:09:52] TacticalFuzz: under pet utility
+[1:09:54] stabbity13: thats an ez macro
+[1:09:58] woodb_: under pet util
+[1:09:59] Macfaiden: pet utility
+[1:10:03] JamesKravan: pet utility
+[1:10:05] DJNickyCaps: PET UTILITY
+[1:10:11] rocalol25: pet utility
+[1:10:20] viggoz123: pet utilit
+[1:10:21] PretzelRocks: Now Playing: Embrace by Afilion -> https://prtzl.io/jDHGnnXdb2bENBu1
+[1:10:33] rocalol25: in the spellbok :D
+[1:10:36] MichaelDanmark: this was the worst that could happen
+[1:10:40] rocalol25: pet utility in the spellbook :D
+[1:10:42] woodb_: normal hunter paw icon
+[1:11:03] woodb_: LUL
+[1:11:12] Galdrena: LUL
+[1:11:14] rocalol25: no it still turns into heal, look now
+[1:11:17] TacticalFuzz: LOL
+[1:11:37] Jmpxg: LUL
+[1:11:41] Goodfellowxx: Huntard.... Need to say more? Kappa
+[1:11:45] MichaelDanmark: what happen i didnt see
+[1:11:52] ArukuGaming: !gamble 100%
+[1:11:52] StreamElements: ArukuGaming went all in and lost every single one of his 930 points LUL
+[1:11:56] TacticalFuzz: He's on assist mode, put him on passive if you want him to only attack when you tell him
+[1:12:09] MichaelDanmark: @gamble all
+[1:12:13] MichaelDanmark: !gamble all
+[1:12:13] StreamElements: MichaelDanmark went all in and lost every single one of his 986 points LUL
+[1:12:19] MichaelDanmark: !gamble 100%
+[1:12:24] MichaelDanmark: ...
+[1:12:32] Galdrena: gamble is on a cd
+[1:12:34] TacticalFuzz: Yeah passive he only attacks when you tell him
+[1:13:08] Sacredspir1t: !gamble 50%
+[1:13:08] StreamElements: Sacredspir1t lost 14794 points in roulette and now has 14795 points! FeelsBadMan
+[1:13:42] reinreb212: !gamble 100%
+[1:13:42] StreamElements: reinreb212 went all in and lost every single one of his 21662 points LUL
+[1:13:59] PretzelRocks: Now Playing: Sea of Change by Afilion, Megan Levine -> https://prtzl.io/X1HyYYLQJbov5MTA
+[1:14:27] MichaelDanmark: man hunter sucks
+[1:14:28] alejandroramone: OMG! Mr swifty, I didn't know you did streaming, I have seen your videos on youtube, great advices for warrior
+[1:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[1:15:06] Sacredspir1t: !gamble 100%
+[1:15:06] StreamElements: Sacredspir1t went all in and lost every single one of his 14795 points LUL
+[1:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:15:18] sneakyxshaco: Orgullo boricua saludos swifty pana
+[1:15:19] karrderri: !song name
+[1:15:22] karrderri: !song
+[1:15:43] Galdrena: Sea of Change by Afilion, Megan Levine @karrderri
+[1:15:58] Nougat_V: a talent if you selected it
+[1:16:07] TacticalFuzz: Yeah, petstun is called Intimidate
+[1:16:28] alejandroramone: is it the survival hunter?
+[1:16:30] TacticalFuzz: I think it's a selectable talent if i'm not mistaken?
+[1:16:32] karrderri: @Galdrena ty
+[1:16:32] legendarism: pvp rn is just silly
+[1:16:36] legendarism: lock is too op
+[1:16:39] Galdrena: you're welcome
+[1:16:51] jeizor: intimidate isnt it?
+[1:16:59] flyingfishrobe: how is Mr. fluff the dog?
+[1:17:32] TacticalFuzz: lol, get up ya lazy pet :D
+[1:17:57] tron3kk: wow retails looks dope amiloE1 amiloE1
+[1:17:58] Cybernytez: lolol
+[1:18:15] PretzelRocks: Now Playing: Hover by Helen Tess, Icehunt -> https://prtzl.io/b4HyAAd3gvaBmBuO
+[1:18:24] physiczx1: did they reset the solo shuffle ratings?
+[1:18:26] MichaelDanmark: huntard swiftyyyy
+[1:18:31] MichaelDanmark: is it even good surv
+[1:18:41] reinreb212: swiftySTARE_TK
+[1:19:25] imoxyr6: swiftyPeanut  i diz obey u
+[1:19:40] StreamElements: Type !points to see how many points you have!
+[1:19:45] ibamoose: Ur pet is back on assist and not passive , Everytime u die it’ll reset to assist u less u enter the BG with pet on passive
+[1:19:49] alejandroramone: yeah I have only tried MM
+[1:20:05] legendarism: i saw a druid did 8 m too
+[1:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:20:18] jeizor: they prob had the orb most of the abttle
+[1:20:24] alejandroramone: DH's got super buffed at this patch
+[1:20:27] TacticalFuzz: Probably the eyebeam in a cluster of enemies
+[1:20:28] OteroGaming: do u do epic bgs?
+[1:20:47] jeizor: man is a pumper :D
+[1:20:51] MichaelDanmark: dh is op
+[1:20:55] MichaelDanmark: like monk
+[1:20:58] tyler2tall89: Nerfs will come. They just nerfed Enh shammy pretty hard
+[1:21:05] tyler2tall89: and monk
+[1:21:24] MichaelDanmark: monk still op
+[1:21:25] shale93: 25% overall dmg reduction for enha
+[1:21:31] alejandroramone: yeah, like monks that got super buffed too
+[1:21:32] homewrecker101: 25% nerf for enchance shammys
+[1:22:16] Cybernytez: enhance shammy oneshotted me yesterday like 5 times in solo shuffle, like literal oneshot from 100 to zero instant
+[1:22:17] Nougat_V: heal and ress are the same
+[1:22:22] PretzelRocks: Now Playing: The Startup by Harris Heller -> https://prtzl.io/zyH9LXl21P2v4pFz
+[1:23:03] tyler2tall89: yup yup
+[1:23:06] Galdrena: I was just reading about that lol
+[1:23:09] tyler2tall89: the Grrloc is pretty cool
+[1:23:10] Robchew: I already boujght it lol
+[1:23:41] Shukat_: 
+[1:23:52] MichaelDanmark: the frog mount is cool
+[1:24:02] MichaelDanmark: or what it is
+[1:24:04] tron3kk: january NotLikeThis
+[1:24:05] Robchew: Smart move
+[1:24:07] MichaelDanmark: 1 year yeah, is alot
+[1:24:19] darthterac: 20
+[1:24:22] Tordrek_: if you play the game for 12 months. whats the difference. its cheaper than paying month by month
+[1:24:23] Galdrena: 6 months yes but not 1 year lol
+[1:24:27] recordboredom: I’m down for that
+[1:24:28] shawnquesty: once I get my first pay I will get 12 sub
+[1:24:28] Lazzius: KITTY!!!!
+[1:24:29] alejandroramone: yeah I was like "idk if I'm gonna play wow the whole year"
+[1:24:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[1:24:43] PretzelRocks: Now Playing: Honestly by Afilion -> https://prtzl.io/GjHVkaj5lxXAk7HD
+[1:24:51] MoxleyCat: i just got two cats they are so fun and adorable!
+[1:24:55] Tordrek_: they did a 12 month at the end of wod going into MoP
+[1:25:00] Cybernytez: xdddd kittyyy <3
+[1:25:08] Galdrena: did they @Tordrek_ ?
+[1:25:10] Lazzius: peepoHappy
+[1:25:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:25:24] shale93: dont worry she will knock
+[1:25:26] shawnquesty: MoP was before WoD
+[1:25:33] Lazzius: casually bringing back 1-2 mices
+[1:25:53] ibamoose: She’s enjoying that Florida weather
+[1:26:02] Vengaal: wait waaaat?
+[1:26:07] TheCornRatsss: greenscreen room delux? :D
+[1:26:23] Vengaal: hmmmm what dark magic is this
+[1:26:34] Galdrena: it's not a green screen
+[1:26:34] Vengaal: you see
+[1:27:05] TheCornRatsss: roflmao
+[1:27:07] Shukat_: @Swifty are you going to have Feldrake drops?
+[1:27:27] MichaelDanmark: where is ur wife swifty
+[1:27:37] Needdaann: updating my wa swifty LUL
+[1:27:55] PretzelRocks: Now Playing: Serenity - Instrumental by Afilion -> https://prtzl.io/GjHVkaaPXOazQ4FD
+[1:27:59] cuban3121: what does she do for work?
+[1:28:02] Grouwdi: Stay At Home Gamer Daddy
+[1:28:05] MichaelDanmark: Congratz!
+[1:28:06] TheCornRatsss: Grats! :D
+[1:28:13] OteroGaming: Gratz man
+[1:28:13] sheytanab: Eyyy grats man!!
+[1:28:14] TheCornRatsss: Your gonna be an amazing dad.
+[1:28:14] abolick888: congrats dude
+[1:28:16] arixsammy: which hunter spec is better??
+[1:28:17] heartc0r: CONGRATZ swifty!
+[1:28:20] MichaelDanmark: well played
+[1:28:23] abolick888: you're going to be a good dad
+[1:28:24] Needdaann: Swifty I am your father Keepo
+[1:28:27] m4dd1ct3d: Gratz Swifty!
+[1:28:29] ibamoose: Congrats swifty
+[1:28:32] Lazzius: congrats! Is he gonna heal you later?
+[1:28:34] MoxleyCat: so happy for you man
+[1:28:34] NBK_Sethus: so happy for you John, all the best to you and your lovely family
+[1:28:36] imoxyr6: she hard carry u
+[1:28:37] tron3kk: streams prevyshsss LUL
+[1:28:40] imoxyr6: swiftyPeanut
+[1:28:42] grimji92: oh my another warrior god on the way :P
+[1:28:43] DaemonRage82: Congrats!!!
+[1:28:43] Vengaal: GRATZ DOOD
+[1:28:43] Lazzius: Sorry he/she
+[1:28:53] MichaelDanmark: So im guessing she will roll warrrior too?
+[1:28:59] Needdaann: Shield wall to protect the baby DansGame
+[1:29:03] 80sHairMetalFan: Are you gonna name the baby Peanut?
+[1:29:05] angmaster: she/he gonna be pocket healer for sure
+[1:29:14] ArukuGaming: 4D? lol
+[1:29:34] ibamoose: My wife is pregnant aswell she’s 10 weeks we might be due pretty close to same time
+[1:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:29:47] killswiitch: You’ll be a great father,  you’re entertaining and fun.
+[1:30:04] mikeybolton: mine is due 19th Jan :)
+[1:30:04] tron3kk: nice for my boy swifty BatChest
+[1:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[1:30:29] martinsprey: u da provida!
+[1:30:33] Needdaann: pickels and ice cream?
+[1:30:49] ehugo90: döner
+[1:30:50] Lazzius: LUL
+[1:30:55] killswiitch: swiftyFacepalm
+[1:30:56] imoxyr6: i never get tired when swifty doing Sasha impression it's so accurate lol
+[1:31:04] PretzelRocks: Now Playing: Now or Never by Afilion -> https://prtzl.io/vyHLVZmNNzJa9ySy
+[1:31:15] MichaelDanmark: your daughter will main warrior too?
+[1:31:23] Needdaann: eggs
+[1:31:36] Vengaal: be on the ball
+[1:31:46] MichaelDanmark: swiftyALLIANCE_SG
+[1:31:59] yoichinoyumi: small indie company designer made it
+[1:32:24] Maex: @Swifty  how did you fix the drop frames on the epic bgs?
+[1:32:27] alejandroramone: you speak Spanish right swifty? I remember I heard you speak Spanish in one of your YouTube videos
+[1:32:56] MichaelDanmark: yeah make it like all together
+[1:32:58] OteroGaming: Swifity do u like Churros and chocolate
+[1:33:01] MichaelDanmark: like a omelet
+[1:33:23] Sfeans: swiftyALLIANCE_SG SWIFTYYYYY COMO ESTAS PANAAAAA TE SIGO DESDE AÑOOOOOSSS NO CAMBIESSS
+[1:33:32] Lazzius: gachiGASM
+[1:34:02] ibamoose: You knowing u put tomatoes last and only for a little makes u know u cook well hahhaa
+[1:34:21] GreysonHaskell: you like pastele?
+[1:34:21] OteroGaming: U gotta try spanish version
+[1:34:23] ibamoose: Or else the tomato gets mushy and that’s where a lot of people mess up
+[1:34:29] Vengaal: HMMMungry now
+[1:34:34] PretzelRocks: Now Playing: 88 MPH Disco by Harris Heller -> https://prtzl.io/KbHYOGj7gadE4PtW
+[1:34:40] cabroporfiao: HOLA Swifty Saludos desde Chile, te queremos mucho WEON
+[1:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[1:34:45] yoichinoyumi: have u tried baklava in turkish restaurant yesterday :D
+[1:34:56] OteroGaming: Spanish do skinny ones
+[1:35:00] Lazzius: Baklava is so S tier
+[1:35:10] StreamElements: Type !points to see how many points you have!
+[1:35:12] coconust1: Have you tried indian sweets @swifty
+[1:35:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:35:45] alejandroramone: ah entonces sí mi compadre swifty un abrazo enorme desde México SeriousSloth SeriousSloth SeriousSloth
+[1:36:28] OteroGaming: Im half spanish but need to learn to speak spanish xD
+[1:36:32] JuK3s: got to see that 1v1 in person lol
+[1:36:47] PretzelRocks: Now Playing: Avarice by Harris Heller -> https://prtzl.io/3nHepvBVjLAdn7uZ
+[1:36:54] feliixl: yo Swifty! you got the Dragons yet?
+[1:37:14] Grouwdi: did DH get nerfed more in this xPac ?
+[1:37:26] Gorillagrip: @Swifty why dont you have them yet?
+[1:38:33] PretzelRocks: Now Playing: Touch the Sky by Martin Hilton, Adam Huxley, Oliver Peters -> https://prtzl.io/wyHP3kdyenob18tV
+[1:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:39:47] andrine42: andrine42 subscribed at Tier 2. They've subscribed for 65 months, currently on a 57 month streak! 
+[1:39:48] StreamElements: andrine42 just subscribed for 65 months in a row PogChamp
+[1:39:49] OteroGaming: Oh man yogcast
+[1:39:52] OteroGaming: use to watch them alot
+[1:40:27] andrine42: andrine42 is gifting 10 Tier 1 Subs to Swifty's community! They've gifted a total of 1345 in the channel! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to silleye_! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to ooseven! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to TimbahWulf! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to cuban3121! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to Sunglassestony! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to djvKEK! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to dreadeye18! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to Kaetheras! 
+[1:40:28] andrine42: andrine42 gifted a Tier 1 sub to ShockaQuan! 
+[1:40:28] StreamElements: silleye_ just subscribed for 2 months in a row PogChamp
+[1:40:29] StreamElements: TimbahWulf just subscribed for 2 months in a row PogChamp
+[1:40:29] StreamElements: cuban3121 just subscribed for 2 months in a row PogChamp
+[1:40:29] StreamElements: ooseven just subscribed for 3 months in a row PogChamp
+[1:40:29] andrine42: andrine42 gifted a Tier 1 sub to luckypuppy67! 
+[1:40:29] StreamElements: Sunglassestony just subscribed for 8 months in a row PogChamp
+[1:40:29] StreamElements: djvKEK just subscribed PogChamp
+[1:40:30] StreamElements: dreadeye18 just subscribed for 15 months in a row PogChamp
+[1:40:30] StreamElements: ShockaQuan just subscribed for 4 months in a row PogChamp
+[1:40:30] StreamElements: Kaetheras just subscribed PogChamp
+[1:40:30] StreamElements: luckypuppy67 just subscribed for 2 months in a row PogChamp
+[1:41:11] Nyleif: :( :(
+[1:41:21] blowkew: m00
+[1:41:29] snuffles_80: i actually like playing survival hunter
+[1:41:30] PretzelRocks: Now Playing: Iso by Harris Heller -> https://prtzl.io/W1Hy7lVW7OmzQBcw
+[1:41:33] Sunglassestony: @andrine42 Thanks for sub, very generous PogChamp
+[1:41:42] NYCFinest718: You can customize BM how u want
+[1:42:14] northern_druid: intimidate
+[1:42:17] yoichinoyumi: it was indimidation
+[1:42:18] solsaver12: intimadation?
+[1:42:18] Darmonevil: intimidation
+[1:42:28] northern_druid: intimidation yes
+[1:42:29] plaidface: intimidation its where scatter is
+[1:42:38] infectedorphan2: Yeah intimidation
+[1:42:38] plaidface: have to select it over scatter
+[1:42:47] iSPEN97: i can't be the only one thinking the text looks weird after the patch?
+[1:42:52] blowkew: ouch
+[1:43:13] yoichinoyumi: but if binding shot is again a stun, it would be better choice since intimidation can get dodged
+[1:43:28] protokol21: hmm
+[1:43:44] blowkew: lol
+[1:43:50] protokol21: that rexxar background looks cool
+[1:44:03] PretzelRocks: Now Playing: Welcome Anarchy by Harris Heller -> https://prtzl.io/1kH7LvkJkBKn8kuY
+[1:44:17] xxshinoxxx: in 1 o 1 i guess a trade from 2% krit to a stun seems a fair trade
+[1:44:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[1:44:43] yoichinoyumi: OMEGALUL
+[1:44:50] imoxyr6: best phone cover ever
+[1:44:50] yoichinoyumi: great case :D
+[1:44:54] alejandroramone: LoL
+[1:44:58] alejandroramone: LUL LUL LUL LUL LUL LUL
+[1:45:00] protokol21: is kat your dog
+[1:45:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:45:11] imoxyr6: spot on
+[1:45:17] snuffles_80: i love that movie
+[1:45:26] Moist_Biscuitz: That case is perfection
+[1:45:30] LazyPaladin2: I love your Arnie expression xD
+[1:45:37] PretzelRocks: Now Playing: It's a Simulation by Harris Heller -> https://prtzl.io/9GHY2AGwALYQ25C9
+[1:46:54] murasuo: r ppl leaving the solo shuffles u que?
+[1:47:02] murasuo: its ao annoying man i dont even wanan q
+[1:47:04] murasuo: so*
+[1:47:05] ibamoose: Yes u can swifty
+[1:47:26] ibamoose: But I don’t think u can get both the pet and scatter stun
+[1:48:20] fandolinaa: DF>SL? Your opinion?
+[1:48:21] MichaelDanmark: swiftyyy i have a hangover
+[1:48:42] PretzelRocks: Now Playing: Try It by Afilion -> https://prtzl.io/OZHvaLlQQQM5Awhv
+[1:49:40] StreamElements: Type !points to see how many points you have!
+[1:50:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:52:27] PretzelRocks: Now Playing: Plasma Connection by Harris Heller -> https://prtzl.io/oLHZN8xL7aDn3Zsg
+[1:52:33] mohy101: did you got the title?
+[1:52:40] MichaelDanmark: <3
+[1:52:42] NOHITJEROME: hi swifty
+[1:52:52] MichaelDanmark: yeah im drinking water
+[1:53:09] NOHITJEROME: drinking water takes a few hours to rehydrate you so that makes sense
+[1:53:17] newkingcody: swifty dont forget kitty outside
+[1:53:20] coconust1: I always drink 2:1 ratio  of water and alcohol  u never get a hangover
+[1:53:22] grimji92: so when u drink alot u really should drink a tall glass of water before u go to sleep
+[1:53:25] c0diax: drink catcus
+[1:53:29] NOHITJEROME: that would help me a lot, i forget to drink water and i get headaches lol
+[1:53:31] coconust1: ORS solution is also really good
+[1:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[1:54:45] NOHITJEROME: LUL
+[1:54:51] tiggz_: Swifty we want to see peanut sing 😍😍
+[1:54:54] NOHITJEROME: hangovers are a no go for me, i get enough headaches as it is lol
+[1:54:58] imoxyr6: nah im still wacthing
+[1:55:02] PretzelRocks: Now Playing: Simplify by Afilion -> https://prtzl.io/9GHY25kVa8L8DvC9
+[1:55:03] TheEndIsNear777: it's not swifty its 10 man swifty
+[1:55:09] jonathanezt: i wish i knew u irl swifty lol XD
+[1:55:09] grimji92: sleep also helps lol
+[1:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:55:29] Needdaann: I am concerned
+[1:55:30] NOHITJEROME: what happens if you ragequit? interesting
+[1:55:34] tiggz_: Swifty we want to see peanut sing please 😍
+[1:55:35] NOHITJEROME: is there a leaver penalty
+[1:55:47] MoxasTV: dont forget the cat swifty !!!
+[1:55:53] imoxyr6: PRYME  TYME
+[1:55:59] Needdaann: They nerfed enhancement 25% accross the board Swifty LUL
+[1:56:07] jeebs420: lol
+[1:56:10] tyler2tall89: thats hows its been. even on illidan. Ive just been lvling alt
+[1:56:11] Captain_Crayolas: I want to be punished
+[1:56:16] sauce_hammer: What is the punishment?
+[1:56:19] heylexv: what dungeon is that behind you swifty?
+[1:56:24] tiggz_: Swifty please let peanut sing for us! ❤️
+[1:56:27] Captain_Crayolas: whips
+[1:56:29] Captain_Crayolas: and chains
+[1:56:30] NOHITJEROME: LUL
+[1:56:45] osbaa: EU has 6 min ques as DPS also
+[1:56:48] Captain_Crayolas: huwhips
+[1:57:02] captain69: is it true they nerf hunter to the ground?
+[1:57:09] tiggz_: Swifty I want to hear peanut sing please!!
+[1:57:09] Needdaann: I have had nothing all my life, just another day here LUL
+[1:57:13] mohy101: no they dont take the rating
+[1:57:18] imoxyr6: SANTA MARIA
+[1:57:58] FitzFlips: Hallo one question: dose the honor from solo Q now count and you can buy gear upgrades with that honor?
+[1:58:19] Wickerman87: fun and interactive
+[1:58:23] tiggz_: Swifty please I want to hear peanut sing !!
+[1:58:23] taxton007: go back to wotlk :)
+[1:58:27] Trixxyopvp: nobody plays this trash feature xd
+[1:58:50] Captain_Crayolas: a little twitch prime a little gifted sub in the lair
+[1:59:07] Tordrek_: its pre patch. no one is gearing up in pre patch
+[1:59:07] imoxyr6: new world is good now tbh lol
+[1:59:18] imoxyr6: i really like 3v3 arenas
+[1:59:21] xJPMx: people are playing it
+[1:59:21] Wickerman87: won 5 rounds and someone left last round and I got noting no rating no conquest sucks!
+[1:59:22] PretzelRocks: Now Playing: Beautiful Moments by JBZ99 -> https://prtzl.io/wyHP31bYg8zKKZUV
+[1:59:23] xJPMx: wym
+[1:59:25] tyler2tall89: @imoxyr6 I agree
+[1:59:32] Trixxyopvp: the problem is blizzard always do these stupid things .... i hope df will be good
+[1:59:35] FitzFlips: i qued and i won alot of matches but it always says i need to win one match at challenger1 or something. sry my english
+[1:59:38] OteroGaming: OMG i thought soomebody was knocking on my door. I said yeah come in
+[1:59:38] lothos93: bless
+[1:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[1:59:48] xJPMx: no wait but it's popping a lot
+[1:59:49] tiggz_: Swifty please I want to hear Peanut sing!!
+[1:59:51] tyler2tall89: @imoxyr6 Im looking forward to the fresh servers tomorrow
+[1:59:51] xJPMx: what?
+[1:59:56] imoxyr6: i mean it had problem but AGS really turn that game around
+[1:59:58] The_Master_Lich: test
+[2:00:07] imoxyr6: @tyler2tall89  same here,brother
+[2:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[2:00:12] reinreb212: focus
+[2:00:36] The_Master_Lich: Why can't we talk about fish?
+[2:00:45] The_Master_Lich: What is your fish ing skill?
+[2:00:46] BotoxGamingEU: *healer*
+[2:01:09] NOHITJEROME: gg
+[2:01:09] OteroGaming: @The_Master_Lich over 9000
+[2:01:13] NOHITJEROME: i could not LUL
+[2:01:38] OOseven: @andrine42 Thanks for the gifted sub! :)
+[2:01:38] imoxyr6: they watching your stream
+[2:02:25] franklinmvrd: retail the whole day baby
+[2:02:27] franklinmvrd: woooooooooo
+[2:02:36] PretzelRocks: Now Playing: Zero Expectations by Afilion -> https://prtzl.io/9GHY254PA2DOyzU9
+[2:03:00] NOHITJEROME: 2-0 with secret build
+[2:03:00] Rehok: Hey @Swifty he writing me back i have send you a dm to your discord abot the Light King Sword
+[2:03:11] NOHITJEROME: what is the secret
+[2:03:16] imoxyr6: what was that screaming sound? lol
+[2:03:23] crylol: haha keep owning bro
+[2:03:33] NOHITJEROME: dont tell me the secret blizzard is watching payoRage
+[2:03:35] imoxyr6: ohh lol
+[2:03:40] w1dowmak3r: hey @Swifty i got all valorous gear on my holy pala today :D
+[2:03:53] Needdaann: it is the most commonly used scream in movies
+[2:04:41] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[2:04:53] Metr1k: Wilhelm scream is public domain :)
+[2:05:10] StreamElements: Type !points to see how many points you have!
+[2:05:35] peocut_: that other paly just got melted xD
+[2:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:06:24] Teexxii: Hi Swifty!
+[2:06:35] jonathanezt: swifty carrying as always
+[2:06:43] NocturnalDragon: !gamble 400
+[2:06:44] StreamElements: markmiso won 400 points in roulette and now has 1615 points! FeelsGoodMan
+[2:06:44] peocut_: yeah, they are being a good sport with 69k hp
+[2:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[2:07:16] PretzelRocks: Now Playing: Quasar by Harris Heller -> https://prtzl.io/dAHv1jblJkY4dxCp
+[2:07:47] crylol: insane
+[2:07:50] Sunglassestony: pwnage
+[2:08:15] tiggz_: Swifty please I want to hear Peanut sing!!
+[2:08:15] w1dowmak3r: @Swifty  wheres that transmog
+[2:08:20] NOHITJEROME: can you have any pet on hunter? or do you need a specific pet like in classic
+[2:08:22] camille055: today I got only 15 conquests for my first win of the day, idk if it's normal when im at 1.6 rating
+[2:08:46] corruptReality: yeti
+[2:08:48] raver31: have you seen the mega nurfs
+[2:09:00] northern_druid: would love to see you play BM
+[2:09:04] w1dowmak3r: all classes u play
+[2:09:25] theJOATx: bm got a small nerf it wasnt that crazy
+[2:09:26] Maria_Neefay: 25% nerf for ele shamans
+[2:09:30] iroupr: it is for BM only
+[2:09:31] camille055: I'm playing ww monk, can't wait for tommorrow
+[2:09:32] Maria_Neefay: damage nerf**
+[2:09:34] tiggz_: Chat please tell him to put on peanut to sing!! He’s not reading my comments
+[2:09:40] MichaelDanmark: HUNTARD
+[2:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:09:52] Snaafu: @Maria_Bulgaria enhance
+[2:09:56] solsaver12: top
+[2:10:01] warriorlynx22: at the start
+[2:10:02] solsaver12: under MH
+[2:10:02] Galdrena: @tiggz_ please have some patience. Swifty can't read every message.
+[2:10:02] JamesKravan: you past it
+[2:10:03] theJOATx: ***
+[2:10:07] solsaver12: err DH
+[2:10:07] raver31: priest and monk and shaman
+[2:10:12] Maria_Neefay: enhanced yeah
+[2:10:20] toogoo: they are taking away the hunter you only play as the pet
+[2:10:21] corruptReality: you went past it
+[2:10:37] iroupr: iroupr subscribed with Prime. 
+[2:10:37] iroupr: iroupr subscribed with Prime. 
+[2:10:37] StreamElements: iroupr just subscribed PogChamp
+[2:10:37] tyler2tall89: @toogoo lol
+[2:10:42] PretzelRocks: Now Playing: Glide by Afilion -> https://prtzl.io/pLHab4p5MYVOGzs8
+[2:10:47] IPS_Abaddon: Yo
+[2:10:59] Maria_Neefay: shamans should've had this nerf 14 years ago
+[2:11:14] tiggz_: @galdrena I know I jus wanted to hear peanut 😂❤️ I love him
+[2:11:30] GilianoGVK: A KITTY!!!
+[2:11:55] NOHITJEROME: backscratcherrr LUL
+[2:12:04] NOHITJEROME: ya 6 feels like a lot
+[2:12:12] raver31: i cant get over how bad my monk got nerfed
+[2:12:16] recordboredom: He could have left. And you can’t win them all.
+[2:12:18] theJOATx: i think they should bring back legion pvp templates - at least for solo que
+[2:12:35] MichaelDanmark: monk is still op as hell
+[2:12:39] NOHITJEROME: maybe a little bonus for staying all the time
+[2:12:40] MichaelDanmark: in pvp
+[2:12:45] SilkeySmooth: remember you lose rating in solo shuffle even if you dc
+[2:12:54] tyler2tall89: ww monk or mw?
+[2:12:59] alucardwolf2: man i play woltk ws and lost 12 matches in a row, im lvl 61 dk and only bots and there is no pvp gear for dk i can get
+[2:13:04] MichaelDanmark: ww
+[2:13:11] raver31: ww
+[2:13:12] Winterz1: it needs to be 6 otherwise you wont get paired with all others players
+[2:13:18] NOHITJEROME: wow
+[2:13:40] MichaelDanmark: yes i was here , you lost 60 points
+[2:13:46] neverbornlucky: blizzard Nerfed Hunter its dead now
+[2:13:46] MichaelDanmark: per game
+[2:13:57] stronggamers: i love that transmog bro
+[2:14:20] PretzelRocks: Now Playing: Cloak and Dagger by Harris Heller -> https://prtzl.io/EaHbJax8825wkzsB
+[2:14:24] raver31: at least my destro made it past the nerf
+[2:14:25] warriorlynx22: mmo champions at the top
+[2:14:27] neverbornlucky: wow head
+[2:14:37] solsaver12: no the BM
+[2:14:37] NOHITJEROME: demon hunters, hunters, same thing LUL
+[2:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[2:14:49] MichaelDanmark: where guys
+[2:14:53] MichaelDanmark: ffs
+[2:14:56] MartittaXoXo: MartittaXoXo subscribed with Prime. They've subscribed for 4 months! Always a pleasure to watch learnt a lot from you over the years!
+[2:14:57] StreamElements: MartittaXoXo just subscribed for 4 months in a row PogChamp
+[2:15:08] solsaver12: class tuning
+[2:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:15:12] BagelSC: MM and beast master
+[2:15:12] danielheesch: bm and mm got nerfed
+[2:15:13] neverbornlucky: yes
+[2:15:13] NOHITJEROME: oh no
+[2:15:29] MichaelDanmark: surv is not touched
+[2:15:33] Owla007: 15% reduced aim shot :O
+[2:15:37] BagelSC: monk got btfo'd
+[2:15:52] raver31: look at my poor monk
+[2:15:55] MichaelDanmark: ww monk wow !!!
+[2:15:59] MichaelDanmark: its gonna be crap
+[2:16:06] torr0x: lol look at the monk list
+[2:16:09] torr0x: RiP
+[2:16:10] Partytime9: rogue gets buffed?
+[2:16:21] theJOATx: its not that big of a deal
+[2:16:21] Needdaann: ww monk is still okay
+[2:16:33] BagelSC: monks only get one season per expansion lol
+[2:16:49] NOHITJEROME: aimed shot did nothing wrong payoRage
+[2:16:52] neverbornlucky: aimed shot was the big one
+[2:17:17] BigGoon: @nohitjerome it's such a good day, swifty and jerome in one spot
+[2:17:17] raver31: shadow got buffed
+[2:17:28] NOHITJEROME: monk was too confusing for me im happy they got nerfed
+[2:17:31] w1dowmak3r: i think monks are still op
+[2:17:35] Owla007: meanwhile, warlocks are destroying everyone LUL
+[2:17:37] w1dowmak3r: even with the nerfs
+[2:17:44] snuffles_80: that thing they could do was over the top
+[2:17:48] PretzelRocks: Now Playing: Digital Milestones by Harris Heller -> https://prtzl.io/dAHv1MwbjbGWADIp
+[2:17:49] UndefinedMushrooms: LUL lol
+[2:18:01] UndefinedMushrooms: Rouges sneaking those buffs in, pun intended lolol
+[2:18:03] vincentvii6: I feel personally attacked by the enhance neft.
+[2:18:09] vincentvii6: nerf*
+[2:18:14] MichaelDanmark: leech
+[2:18:18] MichaelDanmark: poison
+[2:18:23] neverbornlucky: nooo Swifty tell the truth we know rogue is going to be op BECAUSE OF WAR STOMP
+[2:18:45] MichaelDanmark: yeah rogues will be
+[2:18:47] MichaelDanmark: always
+[2:18:48] torr0x: rogue always good in arena
+[2:18:51] MichaelDanmark: have to be good
+[2:19:01] SilkeySmooth: bm hunter is good now
+[2:19:22] scottehlol: who is swifty on the pvp ladder at  2990 rating?
+[2:19:29] blowkew: HANES GOOD COMPANY
+[2:19:30] vindy__: it's a triple dps spec class, there's always going to be at least 1 decent dps spec for any of those pure dps classes
+[2:19:34] Yesron1: enhancement rip
+[2:19:34] torr0x: HELLYEAH NO DK PATCH
+[2:19:34] ychroham: play shaman !
+[2:19:40] StreamElements: Type !points to see how many points you have!
+[2:19:41] MichaelDanmark: hahah how lame
+[2:19:41] neverbornlucky: warlock is OP but nobody wants to play it
+[2:19:52] Legend102t: Got my 2nd betrayer of humaNITY LAST night for my fury warrior =)
+[2:20:00] raver31: i remember then you got my frost dk nerfed in legion
+[2:20:07] SilkeySmooth: and they keep buffing warlocks...lol
+[2:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:20:12] MichaelDanmark: 20%!!!
+[2:20:14] luchion09: 1
+[2:20:15] MichaelDanmark: thats too much
+[2:20:15] JamesKravan: 1
+[2:20:17] Markusdaffu: 1
+[2:20:17] Runforge: 1
+[2:20:18] vindy__: 111111111111111111
+[2:20:18] Tarielo: 1
+[2:20:18] Rehok: 1
+[2:20:19] rubberduckie0_0: 2
+[2:20:20] Owla007: 1
+[2:20:21] cyberimmersion: 0
+[2:20:21] ychroham: 1
+[2:20:21] wendtybendy: 1
+[2:20:22] scottehlol: 1
+[2:20:22] shadcsm: 1
+[2:20:25] Syrinseh: 1
+[2:20:25] jonathanezt: 1
+[2:20:26] raver31: i love my destro
+[2:20:28] MOrrisona: 1111!!!
+[2:20:29] imoxyr6: 1
+[2:20:31] theJOATx: because they were underperforming on beta in pve
+[2:20:31] PretzelRocks: Now Playing: On the Edge by Afilion -> https://prtzl.io/GjHVkzj3ng8dvVUD
+[2:20:31] EliBourne: get to warrior
+[2:20:37] snuffles_80: they are always op
+[2:20:38] ronuard01: 1
+[2:20:39] Konvictz: 1
+[2:20:42] MichaelDanmark: thats insane numbers
+[2:20:43] Phantom_Plague_: Cuz we have no mobility
+[2:20:47] wendtybendy: rerolling lock I guess
+[2:20:54] GilianoGVK: YES DEMO!!!!
+[2:20:56] neverbornlucky: warlock got more damage and hunters got less healing win for the warlock
+[2:21:01] FitzFlips: its demonology warlock. the buff was needed and its not even enough
+[2:21:08] SilkeySmooth: all the devs must want to play ever lock spec...lol
+[2:21:08] FitzFlips: and destro buff is a joke
+[2:21:11] Owla007: dot dot fear drain life fear run away LUL
+[2:21:29] chuck180: isnt only affliction and destro op and demo is super garbage
+[2:21:38] Phantom_Plague_: Affliction is broken but not the other specs
+[2:21:38] Konvictz: so true
+[2:21:49] MichaelDanmark: yeh i guess demo was crap
+[2:21:49] Tarielo: swiftyUp
+[2:21:59] rubberduckie0_0: :)
+[2:22:03] raver31: thats soul burn healthstone
+[2:22:10] jonathanezt: all the warlock mains are laughing rn
+[2:22:17] SirDenarius: Dk unholy :D
+[2:22:21] neverbornlucky: Swifty the future Dragon Flight Warlock main
+[2:22:23] unorth0dox: What do you think is going to be a good healer for pvp?
+[2:22:25] SirDenarius: Pet build feell good
+[2:22:25] MichaelDanmark: swifty i need 30 day gametime can u hook me up
+[2:22:43] Phantom_Plague_: Dragonflight is alt friendly
+[2:22:44] gotchaO_o: Because of warlocks legendaries, in dragonfligth the Legos wont work and warlock loose sustainebility
+[2:22:47] Needdaann: I am playing them all Swifty LUL
+[2:22:47] SilkeySmooth: you can always stay in stealth in bad bgs
+[2:22:52] PretzelRocks: Now Playing: Odyssey by FLERO, Jonny Lemons -> https://prtzl.io/88HVlxAW2KKMegCA
+[2:22:54] raver31: have you played you lock yet
+[2:23:00] new_novelty: started a monk now and its been fun
+[2:23:05] MichaelDanmark: i might just level a toon
+[2:23:14] MichaelDanmark: honestly until patch
+[2:23:26] MichaelDanmark: palumors one shot
+[2:23:35] Oorgnid: Did the hot fixes take effect?  The 20% nerf to WW monks and 25% to enhance?
+[2:23:35] MichaelDanmark: but idk after those nerfs u cant one shot anymore
+[2:23:41] MichaelDanmark: but almost
+[2:23:43] raver31: no dont
+[2:24:05] dreymchairy: hi
+[2:24:13] rubberduckie0_0: are the new drakthyr casters?
+[2:24:17] celinesorbit: Test it out, see what talents you like the best
+[2:24:19] jonathanezt: man why are the animation so scuffed in retail XD
+[2:24:27] SilkeySmooth: bm hunter is pretty good
+[2:24:34] BagelSC: survival makes me so sad screw artic bola
+[2:24:37] Ceoilte: From what i understand all the builds are 'good for all content master of none' all rounder builds for newbies to learn classes with
+[2:24:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[2:24:45] Ceoilte: all blizz builds anyways
+[2:25:05] MichaelDanmark: yeah the cat knocking
+[2:25:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:25:13] shale93: yeah was knocking with the paw
+[2:25:15] dreymchairy: Nope but these shrooms are a1
+[2:25:20] neverbornlucky: Swifty house is haunted
+[2:25:23] Neitel: knock knock knocking on swiftys door
+[2:25:27] imoxyr6: 'I am the one who knocks;
+[2:25:54] pourafour_: Beast mastery is beast!! Go get some Core hounds from MC for your pets
+[2:25:57] MichaelDanmark: im on the toilet guys
+[2:26:05] chuck180: swifty reorganizing his bad and calls it content KEKW
+[2:26:11] chuck180: bar
+[2:26:32] Hupu_a: You need to get the pet with healing reduction debuff
+[2:26:46] MichaelDanmark: UI stream Kreygasm
+[2:26:53] PretzelRocks: Now Playing: Firestorm by F1NG3RS, Mintorment -> https://prtzl.io/NaHymA5n2wnw92Sm
+[2:26:54] Hupu_a: zombie raptors from last boss in kings rest for example
+[2:27:11] HamHoks: what kind of Hunter macros you run? pvp oriented or pve?
+[2:27:33] MichaelDanmark: he only uses one macro . The one shot macro @hamhoks
+[2:27:37] neverbornlucky: chat the only way to stream snipe Swifty on pvp when playing Hunter is to go vulp and get a Fox PET so you can chase swifty down as two foxes
+[2:27:42] BagelSC: you need undead taming for the don't you?
+[2:28:10] Hupu_a: yea but its fast to get if i remember right
+[2:28:34] MichaelDanmark: the good think about undead pet is that it doesnt have to eat anything
+[2:28:39] HamHoks: @MichaelDanmark coolios thanks @MichaelDanmark
+[2:28:49] BagelSC: yeah it's relatively fast
+[2:29:05] MichaelDanmark: @hamhoks :D
+[2:29:30] PretzelRocks: Now Playing: Faded Secrets by Harris Heller -> https://prtzl.io/pLHabJ9zG2aYYbu8
+[2:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:30:06] Hupu_a: @Swifty  does any of your pets have the mortal strike skill? or if not you should look into undead raptors
+[2:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[2:30:11] MichaelDanmark: just put some buttons on those bars swifty
+[2:30:39] MichaelDanmark: all raptors have i believe @Hupu_a
+[2:31:21] BagelSC: you need a ferocity pet you can grab nevermore too if your lazy for undead raptors
+[2:31:47] PretzelRocks: Now Playing: Orbit by Seth Austin -> https://prtzl.io/4JH5ba9JEE9LjjFO
+[2:32:09] Moisterised: Man. You have to find out what attack your pet attacks aswell and implemnt it all your dmg abilities
+[2:33:10] Hupu_a: Isnt undead raptor only one with CC removal + healing debuff or do all raptors have those 2
+[2:33:39] Moisterised: So if your pet uses claw you put claw into the macros. Otherwise there will be time inbetween the abilities where your pet doesn't do any dmg
+[2:34:07] BagelSC: just undead and one exotic I think but you don't need cc removal if your just dmg testing
+[2:34:25] MichaelDanmark: dont need tar trap
+[2:34:33] MichaelDanmark: just concussion
+[2:34:36] SaRoK121: sure last point in hunter tree steel trap
+[2:34:40] KennyBostaph: also no MD lol
+[2:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[2:34:48] BagelSC: cool thing about dead raptors is their non exotic
+[2:35:10] Markusdaffu: Won't we get more talent points at 70 tho which would be enoth for tar trap?
+[2:35:10] StreamElements: Type !points to see how many points you have!
+[2:35:16] MichaelDanmark: why undead raptors
+[2:35:24] MichaelDanmark: yeah we need an exotic one
+[2:35:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:35:43] SaRoK121: A Spirit beast are the best for self healing
+[2:35:48] PretzelRocks: Now Playing: Symmetry Pulse by Harris Heller -> https://prtzl.io/ZQHvp5KwPW2vWaIE
+[2:35:49] BagelSC: llust + mortal strike @michaeldanmark
+[2:36:03] MichaelDanmark: all raptors have it
+[2:36:04] neverbornlucky: Swifty wants to tar trap people in warsong
+[2:36:25] Markusdaffu: @SaRoK121 unless when you fight a spell stealer class which can spell steal it :D
+[2:36:25] MichaelDanmark: that one is just from isle of giants
+[2:36:51] daledobaack: man I used to love playing hunter, never played survival though, sounded like fun
+[2:37:09] MichaelDanmark: u need THOK from the raid
+[2:37:12] BagelSC: it's a ferocity pet NODDERS
+[2:37:48] MichaelDanmark: or the green t-rex from sholozar basin
+[2:37:57] MichaelDanmark: or oondasta
+[2:38:15] PretzelRocks: Now Playing: Looking Glass by zircon -> https://prtzl.io/4JH5baX7YoXO7GSO
+[2:38:16] HamHoks: ghost pets no longer a thing?
+[2:38:46] HamHoks: like the ghost crab that would pin as well as heal if I remember correct
+[2:38:52] TheTazzyBoy: talking about spirit beasts?
+[2:38:54] MichaelDanmark: u have many other abilities then those
+[2:39:25] MichaelDanmark: yeah cuz ghost pets are spirit beast
+[2:39:30] HamHoks: ya thats what they're called spirit beasts, I remember collecting them all before some were a real bugger to get...
+[2:39:38] MichaelDanmark: with an extra ability
+[2:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:40:02] MichaelDanmark: Loque
+[2:40:05] MichaelDanmark: nahak
+[2:40:06] daledobaack: wow that stinks, it took me forever to get some of those spirit beasts
+[2:40:07] HamHoks: oh boo... thanks for the info, will have to look then
+[2:40:20] Owla007: entrapment, 4 sec snare
+[2:40:23] neverbornlucky: what lvl does hunter get mutli shot again ?
+[2:41:39] MichaelDanmark: true swifty
+[2:41:40] TheTazzyBoy: @neverbornlucky when ever you spend the point to get it. not a default ability
+[2:42:28] MichaelDanmark: i might roll huntard in df
+[2:42:31] MichaelDanmark: actually
+[2:42:41] MichaelDanmark: yes ur missing abilities
+[2:42:53] FlippmoTV: Aspect of the TURTLE
+[2:42:59] Sacredspir1t: arcane shot
+[2:43:18] PretzelRocks: Now Playing: Spectre by Harris Heller -> https://prtzl.io/4JH5bx2lgnmkn2iO
+[2:43:32] FlippmoTV: Kick
+[2:43:37] MichaelDanmark: and the interupt ability ur missing
+[2:43:37] TheTazzyBoy: cobra is dump
+[2:43:40] MichaelDanmark: counter shot
+[2:43:46] SirDenarius: You dont use arcane most of the time
+[2:43:54] FlippmoTV: kick
+[2:44:00] newkingcody: YOU NEVER USE ARCANE SHOT AS BM
+[2:44:00] DramatiK800: swifty! hi my friend. I was telling my friends about the hilarious clip you have with Chinglish where you say Horde is bad! Can I find that somehwere to show them?
+[2:44:17] newkingcody: YOUR MAIN ATTACKS ARE KILL COMMAND, COBRA SHOT, BARBED SHOT, KILL SHOT
+[2:44:29] newkingcody: neve ruse arcane shot as bm, ur dump is cobra shot
+[2:44:35] Skycoh: hunter is going to be sick in dragonlands. im probably maining hunter.
+[2:44:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[2:45:05] MichaelDanmark: cobra shot doesnt dump
+[2:45:06] psychedelicthc: Swifty and chat, how do you feel when playing ret paladin on the retail :)
+[2:45:08] MichaelDanmark: it creates focus
+[2:45:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:45:30] PretzelRocks: Now Playing: Countdown to Infinity by Harris Heller -> https://prtzl.io/PDHy9gogZaepV9Im
+[2:45:33] solsaver12: lol
+[2:45:34] neverbornlucky: TURKEY
+[2:45:36] gsxr1000rrsam: eye roll :D
+[2:45:37] homewrecker101: lol
+[2:45:38] solsaver12: here we go
+[2:45:41] JamesKravan: lmao
+[2:45:48] corruptReality: big kid swifty
+[2:45:49] neverbornlucky: A giant Turkey to come down and Eat Swifty
+[2:45:52] MichaelDanmark: hahaha swifty owned , feelsbadman
+[2:45:54] recordboredom: No Christmas until after thanksgiving
+[2:45:56] newkingcody: ebay the wizard
+[2:45:57] X_SpoT: MercyWing1 swiftyPeanut MercyWing2
+[2:45:58] snuffles_80: no christmas things until december
+[2:46:05] BubleWeld: haha
+[2:46:11] SheezyOG: you ever get a house @Swifty ?
+[2:46:13] CrazyLocaTV: @Swifty its november 1st put the xmas tree back
+[2:46:15] netzer1900: netzer1900 subscribed with Prime. 
+[2:46:15] StreamElements: netzer1900 just subscribed PogChamp
+[2:46:18] Dimeric: We want a tree
+[2:46:19] mrpdnm: xaaxaxaxax
+[2:46:22] JuceAUS: Change the wizard to red and white
+[2:46:24] newkingcody: buy a talking turkey
+[2:46:26] JuceAUS: santa inspired
+[2:46:35] recordboredom: Nooooooooo
+[2:46:37] fonchocanario: bezparKEWK bezparKEWK bezparKEWK
+[2:46:41] imoxyr6: Sashaaa hi
+[2:46:44] corruptReality: we want a live turkey
+[2:46:45] gsxr1000rrsam: they started playing christmas songs on the radio today
+[2:46:52] neverbornlucky: Swifty you can get a Tree for Christmas but put Turkey all over the tree
+[2:46:52] zacky4200x: big tree
+[2:47:04] swedish97: Hola Swifty bro! como estas? cuando Un Swifty war vs Bajheera?
+[2:47:08] CrazyLocaTV: as a boricua and so as you we put our xmas tree on nov 1st @Swifty
+[2:47:19] newkingcody: kindred beasts lets you lust in arena @Swifty
+[2:47:31] MichaelDanmark: you are swedish @swedish97
+[2:47:39] Maria_Neefay: purecrisp
+[2:47:43] PretzelRocks: Now Playing: Ritual by Harris Heller -> https://prtzl.io/wyHP3VDMJzD5Z3IV
+[2:47:52] gsxr1000rrsam: are you danmark !
+[2:47:54] MichaelDanmark: No swifty he is from isle of giants
+[2:47:57] MichaelDanmark: lots of them there
+[2:48:04] swedish97: @MichaelDanmark no, spanish
+[2:48:08] raver31: ge thok from siege
+[2:48:23] newkingcody: spam kil command, dump focus with cobra shot
+[2:48:28] newkingcody: then barbed shot to increase haste buff
+[2:48:30] homewrecker101: get Thok the Bloodthirsty from seige
+[2:48:36] warriorlynx22: Wheres the cat?
+[2:48:55] 2mize: 2mize subscribed with Prime. 
+[2:48:55] StreamElements: 2mize just subscribed PogChamp
+[2:48:55] 2mize: 2mize subscribed with Prime. 
+[2:49:23] gsxr1000rrsam: tame the boss in the orc raid t rex in dreanor
+[2:49:23] SirDenarius: Plot twist you cant reach it
+[2:49:27] MichaelDanmark: not sure
+[2:49:28] FlippmoTV: not in a bg - too slow
+[2:49:30] batu_x96: U DOIN PVP BUILD OR PVE?
+[2:49:32] MichaelDanmark: havent tried it
+[2:49:40] StreamElements: Type !points to see how many points you have!
+[2:49:41] batu_x96: Call of the Wild is huge in pvp
+[2:49:54] PretzelRocks: Now Playing: Binary Groove by Harris Heller -> https://prtzl.io/V1HZ6lxo5KbBmLU5
+[2:50:05] mpmfrans: I tuned in for your pretty wife actually
+[2:50:09] SirDenarius: LUL
+[2:50:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:50:27] neverbornlucky: for the horde
+[2:50:30] MichaelDanmark: no 2 pets ??? :(
+[2:50:35] zacky4200x: @mpmfrans john is the pretty one
+[2:50:37] MichaelDanmark: i love many pets
+[2:50:44] gsxr1000rrsam: tame the T rex in siege or orgrimmar
+[2:51:06] techn1que: Sup Swifty
+[2:51:14] MichaelDanmark: alot of burst there
+[2:52:04] MichaelDanmark: lol someone already bought the 1 year sub
+[2:52:07] PretzelRocks: Now Playing: Out of the Refrigerator, Into the Icebox by zircon -> https://prtzl.io/dAHv1QVGDoBlkMUp
+[2:52:08] MichaelDanmark: he got the mount haha
+[2:52:48] MichaelDanmark: in ur bg
+[2:52:52] FlippmoTV: rogue eater got ate
+[2:52:54] PretzelRocks: Now Playing: Override by Big Giant Circles -> https://prtzl.io/DaHVbPkXXaknkmUL
+[2:53:33] Sunshine_KJ: Is there going to be a hunter tank spec or was that screenshot just weird
+[2:53:35] luchion09: track enemys on map to swifty
+[2:53:42] neverbornlucky: Swifty anyone can have a mount its called Blizzard's shop
+[2:54:06] ShinyBuffalo: why is the titel survival when he plays beast mastery ?
+[2:54:23] MichaelDanmark: he switched now
+[2:54:35] ShinyBuffalo: ah
+[2:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[2:54:51] MichaelDanmark: yeah
+[2:54:53] MichaelDanmark: that sucks
+[2:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[2:55:29] ShinyBuffalo: i doesnt worry me  i just wanted to ask ... ^^
+[2:55:35] shevek1337: I played BM today and burst was missing so much. Maybe my build is the reason idk
+[2:55:37] PretzelRocks: Now Playing: Because the Night by Harris Heller -> https://prtzl.io/mLHGM3GQ8JW4wGS3
+[2:55:46] MichaelDanmark: damn always 4 ppl on u
+[2:56:13] Reinswood: Hey @Swifty do you enjoy the new interface?
+[2:56:22] grimji92: 1v1 arena would be awesome
+[2:56:23] TheDiscoMole: oops wrong chat lol
+[2:56:32] MichaelDanmark: its not fantastic yeah
+[2:56:42] DauenhauerMate: Hy Stifty!
+[2:57:07] HamHoks: does pet speed affect cast time anymore?
+[2:57:12] Mulgush: Vietnam situation
+[2:57:15] HamHoks: just looking and not seeing anything indicating htat
+[2:57:19] au_chilli: You don’t have any alliance plates showing
+[2:57:40] hazardouds: is survival the best specc now for hunter?
+[2:57:57] neverbornlucky: I'm a hunter on thrall for the horde side  on retail so seeing dead alliance is a good thing
+[2:57:57] au_chilli: You can only see the enemy ones, hard to tell where your allies are
+[2:58:32] MichaelDanmark: friendly nameplayes
+[2:58:35] MichaelDanmark: yeah dont need it
+[2:58:39] PretzelRocks: Now Playing: TI-84 by Harris Heller -> https://prtzl.io/PDHy9glZwGpzwwhm
+[2:58:54] Emmanuelxt12: manLURK
+[2:59:02] MichaelDanmark: they can yeah
+[2:59:07] MichaelDanmark: and ret seems good too
+[2:59:08] tiggz_: Swifty have you tried warlock?
+[2:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:00:08] nahz86: SWIFTY! Been a fan for >15 years, so glad to see you still playing!
+[3:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[3:00:37] shawnquesty: were you get that pet?
+[3:00:38] raver31: you can make the gates instant cast
+[3:00:54] badkarma2030: :)
+[3:01:06] PretzelRocks: Now Playing: Odyssey - Instrumental by FLERO -> https://prtzl.io/PDHy9gaQXGx9oOtm
+[3:01:23] nahz86: Incredible warrior tricks is the OG GOAT video
+[3:01:30] badkarma2030: all good
+[3:01:33] sinestro0: swifty you should have been Derek Jeter for halloween
+[3:01:34] MichaelDanmark: cuz they change still
+[3:01:52] TheDiscoMole: stealth is just most feelgood utility
+[3:01:57] badkarma2030: moo
+[3:02:04] MichaelDanmark: swifty = warrior
+[3:02:06] neverbornlucky: Evoker, Demon Hunter, Hunter, druid, and maybe Death Knight I'm thinking
+[3:02:43] shawnquesty: beast mastery?
+[3:02:51] HamHoks: well gnite y'all, thanks for the info... got some looking to do afore I jump back in this stuff lol
+[3:03:03] coconust1: @swifty  how is it that you and Bajheera  have never played together ?
+[3:03:06] MichaelDanmark: just letting the pets eat some horde meat
+[3:04:20] Skrewtaype: Skrewtaype subscribed with Prime. 
+[3:04:20] StreamElements: Skrewtaype just subscribed PogChamp
+[3:04:27] neverbornlucky: Swifty already made someone on the horde mad
+[3:04:32] Skrewtaype: Quick question...do you use GSE?
+[3:04:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[3:04:42] ironmouse34: what's thing over your pet bar?
+[3:04:53] MichaelDanmark: gnomesequencer
+[3:04:56] MichaelDanmark: enhanced
+[3:04:58] MichaelDanmark: i use it
+[3:04:59] Skrewtaype: It is. But that is all I needed to know :)
+[3:05:07] PretzelRocks: Now Playing: Upside Down by Miracle Of Sound -> https://prtzl.io/9GHY27aA7J8ZnQi9
+[3:05:09] MichaelDanmark: i raided mythic with GSES
+[3:05:10] StreamElements: Type !points to see how many points you have!
+[3:05:14] MichaelDanmark: with 2 buttons lol
+[3:05:32] MichaelDanmark: no bs
+[3:05:33] badkarma2030: wp
+[3:05:37] MichaelDanmark: u can create macros with GSE
+[3:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:05:41] badkarma2030: 2 skills
+[3:05:42] endraax: Swifty wheres ragusalsa boomy
+[3:06:02] MichaelDanmark: gnomesequencer enhanced its called yes
+[3:06:03] benjarne1: Delered
+[3:06:04] jinksyttv: yeah its a cheating addon lol
+[3:06:06] benjarne1: Deleted***
+[3:06:08] MichaelDanmark: it lets you do macros u normally cant in wow
+[3:06:16] jinksyttv: basically setup a 1 button mash
+[3:06:28] sholland: @swifty The bar above that appears while in combat looks like Personal Resource Display if you dont like it
+[3:06:32] jinksyttv: its dumb
+[3:06:42] Sacredspir1t: !song
+[3:06:42] SilkeySmooth: i use gnome sequencer it makes life eaiser
+[3:07:00] MichaelDanmark: alot
+[3:07:08] MichaelDanmark: if u know how to use it
+[3:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[3:07:13] MichaelDanmark: and write macros well
+[3:07:17] northern_druid: you dont have killshot ?
+[3:07:23] badkarma2030: ello hun
+[3:07:45] Zenkel_TV: aggroooo xD
+[3:07:50] MichaelDanmark: i think kill shot is on the hidden actionbar to the right
+[3:08:03] au_chilli: Don’t forget you have cc with that trap
+[3:08:04] Dus7in: is this Mrs. Swifty?
+[3:08:08] dazsham: yo swifty! what should I main in dragonflight? ww or evoker. whatever you choose I'll lock in for the xpac
+[3:08:39] ChrisbBaconTTV: Swiftyman, my OCD is triggered by your target-frame being too far to the right
+[3:08:56] MichaelDanmark: swifty im 35 years old and im getting married too and getting my first child too
+[3:08:57] JeanClaudeVanDarnItAll: have you considered being a DK?
+[3:09:15] ChrisbBaconTTV: That explains :D
+[3:09:17] badkarma2030: can i see your t tree
+[3:09:18] MichaelDanmark: he means too far to the right
+[3:09:18] PretzelRocks: Now Playing: Trust by Afilion -> https://prtzl.io/W1Hy7LmzbVDXodIw
+[3:09:23] badkarma2030: spec
+[3:09:31] darkh0rst: try outlaw, its fun
+[3:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:09:50] MichaelDanmark: u havent tried MM hunter right
+[3:10:14] TheDiscoMole: assass is too many buttons for my brain >.<
+[3:10:22] MichaelDanmark: yeah its not very mobile
+[3:11:07] sifer007: LUL
+[3:11:22] badkarma2030: piller time
+[3:11:24] badkarma2030: :)
+[3:11:33] elsiefleur: you need to learn to juke lol
+[3:11:33] badkarma2030: juke
+[3:11:35] JamesKravan: change weapon
+[3:11:44] badkarma2030: ye i no
+[3:11:48] koikruzader: this classic
+[3:11:48] MichaelDanmark: weapon yes
+[3:11:48] sifer007: good times
+[3:11:50] koikruzader: ?
+[3:11:57] badkarma2030: we
+[3:11:59] badkarma2030: :(
+[3:12:00] NickDeli: in classic i always target the moonkins just standing there casting lmao
+[3:12:01] badkarma2030: (
+[3:12:07] MichaelDanmark: change weapon!
+[3:12:09] MichaelDanmark: swiftyy
+[3:12:12] Dus7in: NGL, Swifty's version of wrath is looking nice
+[3:12:27] PretzelRocks: Now Playing: Believe in the Unknown by Afilion -> https://prtzl.io/lLHGza3oDaK7ZkUN
+[3:12:39] badkarma2030: root
+[3:12:54] raver31: i really dont like the dps dragon play style
+[3:12:55] Maria_Neefay: they should make aimed shot a moveable cast imo
+[3:13:04] KodiakJedi: Have you decided on a main yet for DF?
+[3:13:14] spooooke1: what's the release date of dragonflight
+[3:13:16] AP6969696969696969696969: have u gotten used to the new interface yet?
+[3:13:19] skwwwy: its instant in wotlk
+[3:13:21] skwwwy: :P
+[3:13:30] mudbuttblast: funny how aimed is instant and ms in wrath
+[3:13:31] sifer007: LUL
+[3:13:38] LightKernel: @Swifty On your wrath warrior, what spells other than Charge and Hamstring do you leave Defensive Stance for?
+[3:13:40] Mulgush: angry cat
+[3:13:41] jinksyttv: if they do that then all games will be faster but horrible too haha
+[3:13:44] raver31: i was gunna main monk until today
+[3:13:47] pilot954: sweet
+[3:13:48] MichaelDanmark: its decent ilvl
+[3:13:49] AP6969696969696969696969: 79k for hunter is very low
+[3:13:51] MichaelDanmark: actually
+[3:13:57] elsiefleur: yeah ppl are like 305 now
+[3:14:04] AP6969696969696969696969: @MichaelDanmark 270 is not man
+[3:14:04] Dus7in: are you referring to stance dancing? @LightKernel
+[3:14:07] sifer007: LUL  󠀀
+[3:14:24] MichaelDanmark: ok maybe not lol
+[3:14:26] LightKernel: What stance are you normally in on your prot warrior?
+[3:14:28] lillwicher: Hello Swifty
+[3:14:28] DragonsLifeGaming: hello swifty
+[3:14:32] AP6969696969696969696969: id say at least 290 is good for arenas
+[3:14:40] BagelSC: serpent sting is meh tbh rather have the auto sting from mongoose talent and tip of the spear build
+[3:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[3:14:41] LightKernel: @Dus7in Yes
+[3:14:46] sifer007: LUL
+[3:14:53] solsaver12: pointless for me to do brs now being only 258 ilevel
+[3:14:53] MichaelDanmark: stream sniping
+[3:14:54] badkarma2030: FutureMan noraexGiggle
+[3:14:57] solsaver12: bgs*
+[3:15:04] hazardouds: hes always focus
+[3:15:08] au_chilli: There was 2 of you there but it was an ambush lol
+[3:15:09] badkarma2030: prob
+[3:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:15:16] LightKernel: @Swifty What stance are you normally in on your prot warrior in wrath?
+[3:15:17] AP6969696969696969696969: @solsaver12 how else are u gonna gear up hahaha
+[3:15:25] MichaelDanmark: i think ur build is not great
+[3:15:27] Skycoh: swifty getting singled out? no. never.
+[3:15:28] MichaelDanmark: tbh
+[3:15:33] ovidiucristian: maybe going rogue should be the move
+[3:15:33] PretzelRocks: Now Playing: Corridors by F1NG3RS -> https://prtzl.io/2AHOAyXNVXYe7BSk
+[3:15:51] MichaelDanmark: @apshensupport69 good question
+[3:15:55] LightKernel: Ugh, I'm subbed and watching four ads right now
+[3:15:56] au_chilli: I’m watching you on an iPad, without friendly nameplates, is hard to see where your team mates are 😂
+[3:15:57] MichaelDanmark: have to get owned a bit in bgs to gear up
+[3:16:12] KodiakJedi: I keep going back and forth on what I want to main for DF...I used to main Ret but went Havoc for the last 2 seasons...now I can't decide
+[3:16:33] coconust1: @swifty  what would be your all time BG tier list ? it could depend on design or how it feels to play etc
+[3:16:42] paulthecat: WAIT THEY TOOK FD???
+[3:16:42] KodiakJedi: Market
+[3:16:52] Dudutoolbox: did they remove feign death?
+[3:17:05] AP6969696969696969696969: @MichaelDanmark yea it sucks but u get a lot of honor in bgs
+[3:17:13] MichaelDanmark: its right there ffein death
+[3:17:41] badkarma2030: thay see u jake skully
+[3:17:54] MichaelDanmark: how did he know u were there
+[3:18:00] LightKernel: Am I supposed to see ads when I'm subbed?
+[3:18:07] PretzelRocks: Now Playing: Rush by Harris Heller -> https://prtzl.io/9GHY2gba7zdK6LU9
+[3:18:14] holyabuu: Swiftyyyy love you my man!❤️
+[3:18:16] au_chilli: You could try trapping some of these guys 😂
+[3:18:17] ZerFunk: was gonna type INVIS
+[3:18:22] CabiusMAX: hMMMMMMM...that sus flare right to your spot
+[3:18:24] ZerFunk: but hate those kinds of comments lol
+[3:18:48] MichaelDanmark: he knew where u are
+[3:18:51] holyabuu: !oneshot
+[3:18:51] StreamElements: Reprisal Legendary - All crit gear / Rotation 1. drop spear of bastion 2. Charge 3. Shield block 4. shield slam 5. Dragon Roar https://worldofwarcraft.com/en-us/character/us/stormrage/swiffy
+[3:18:54] ZerFunk: your camo fell, it has a duration
+[3:19:08] KodiakJedi: His hunter invis is on a timer though and just ran off
+[3:19:16] KodiakJedi: fell off
+[3:19:19] shadowghostytv: you love new retail pre pattch ;D
+[3:19:23] AP6969696969696969696969: @ZerFunk im sure he knows that haha
+[3:19:35] shadowghostytv: i had to take a break from classic after i leveled so much lol i got burned out
+[3:19:39] KodiakJedi: Then he threw the flare to make sure nobody else was over there like a Rogue
+[3:19:40] StreamElements: Type !points to see how many points you have!
+[3:19:40] sifer007: LUL
+[3:19:56] ZerFunk: @apshensupport69 he just said he got sniped lol
+[3:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:20:19] LightKernel: Okay chat help me out.  I confused Swifty.  I'm starting to play a Prot warrior in wrath.  Is it correct to stay mostly in Defensive stance or what?
+[3:20:25] Dudutoolbox: what do u think about arcane mages?
+[3:20:26] shadowghostytv: 7 80!
+[3:20:33] PretzelRocks: Now Playing: The Hydra by Harris Heller -> https://prtzl.io/OZHvaxLe9KjvYpFv
+[3:20:37] AP6969696969696969696969: 270 is very weak
+[3:20:57] TheDiscoMole: no my 240 rogue is fine in bgsd
+[3:21:06] badkarma2030: ;))
+[3:21:10] ironmouse34: they are very squishy...not the best defensive abilites
+[3:21:11] Pallyofhell: 270 isnt very weak
+[3:21:12] LightKernel: Thank you
+[3:21:22] Kingconn223: wrath was always my favorite expansion, and I was super excited for it, but the more I played it the more stale it got for me. I'm more excited for dragonflight cause its new, never thought I would say that
+[3:21:26] Pallyofhell: you barely see anyone over 300 ilvl
+[3:21:27] AP6969696969696969696969: @TheDiscoMole that must be a lie bro
+[3:21:32] Skycoh: i think WOTLK is where i watched you the most.
+[3:22:24] LightKernel: Stances
+[3:23:03] PretzelRocks: Now Playing: Sea of Change - Instrumental by Afilion -> https://prtzl.io/EaHbJ16dVwVLvdiB
+[3:23:06] LightKernel: I have macros for stances too
+[3:23:12] MichaelDanmark: why u not play hunter man
+[3:23:18] badkarma2030: ello
+[3:23:51] TheDiscoMole: holy so many macros 5Head
+[3:24:39] RodanQQ: Calm down
+[3:24:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[3:24:46] mixtapeX: mans got macros for macros
+[3:24:50] MichaelDanmark: but swifty why dont you revenge cleave
+[3:24:52] badkarma2030: jedi master swiffty
+[3:25:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:25:23] MichaelDanmark: Kappa
+[3:25:23] LightKernel: Helps a lot.  So after more armor pen, then stay in Battle Stance?
+[3:25:47] arixsammy: what does reset 10 mean?
+[3:25:53] arixsammy: on macro
+[3:25:54] mixtapeX: i thought it was AB
+[3:26:09] ovidiucristian: old UI fan too
+[3:26:10] LightKernel: You can have the old UI, stay in wrath :)
+[3:26:10] MichaelDanmark: means macro resets after 10 seconds
+[3:26:12] Maria_Neefay: I hate the new one
+[3:26:14] madmax84: The old is the best!!
+[3:26:14] rubberduckie0_0: i want my ui back BibleThump
+[3:26:18] MichaelDanmark: @arixsammy
+[3:26:21] levendizz: f the new UI
+[3:26:26] younglettuc: Dunno what the devs were thinking with the new uni tbh it’s pants
+[3:26:34] pilot954: ^^^^
+[3:26:36] raver31: give it time someone will make it and you will be able to import it
+[3:26:43] ironmouse34: not a fan of the unit frames but I like how customizable it is
+[3:26:44] badkarma2030: fel time
+[3:27:03] arixsammy: is that the cool down for the talent??
+[3:27:05] Karma_Kid007: he BG farming today?
+[3:27:08] MichaelDanmark: its just so stupid that blizz spends time on making something that nobody needs
+[3:27:09] NickDeli: my buddy said the new UI looks like a mobile game lol
+[3:27:15] badkarma2030: swiftyHORDE
+[3:27:18] MichaelDanmark: and then ppl need to use addons again
+[3:27:19] PretzelRocks: Now Playing: Track A-5 by Abstraction -> https://prtzl.io/5zHemn7mO63QB5tB
+[3:27:26] Maria_Neefay: I actually died cuz of the new UI
+[3:27:29] mingan_: swiftyDEAL_HF
+[3:27:39] MichaelDanmark: @arixsammy its just so that it goes back to use revenge after 10 seconds
+[3:27:40] legendarism: whats that green smoke?
+[3:27:43] mr_watter: swiftyHORDE
+[3:27:52] LightKernel: @Swifty so when you get the better armor pen, you stay in Battle Stance?
+[3:27:57] MichaelDanmark: @arixsammy otherwise it uses heroic strike
+[3:28:00] mr_watter: swiftyNom
+[3:28:11] Karma_Kid007: Watching swifty play LK again brings back the nostalgia of him in the youtube days playing it and man its glorious
+[3:28:12] MichaelDanmark: @arixsammy but i would prolly use a lower reset , like 3 seconds
+[3:28:20] mr_watter: swiftySTARE
+[3:28:23] Fythern: Hey Swifty and chat! Greetings from Finland! :)
+[3:28:25] ironmouse34: @MichaelDanmark uh, almost everyone uses a ui addon of osme kind.  This just eliminates the need for a lot of them
+[3:28:35] LightKernel: Gotcha.  Thanks for the help.
+[3:28:58] MichaelDanmark: @ironmouse34 yeah but many ppl hate the ui now still so
+[3:29:07] badkarma2030: :)
+[3:29:09] Asterisix: my tank has 565 resil is that good enough?
+[3:29:13] MichaelDanmark: the ui didnt rly change anything lol
+[3:29:21] hisec: hisec subscribed with Prime. 
+[3:29:21] StreamElements: hisec just subscribed PogChamp
+[3:29:22] badkarma2030: oops
+[3:29:27] Ohq__: its swifty get hiiim LOL
+[3:29:28] nate_dogg_lbc: exbcQw
+[3:29:33] PretzelRocks: Now Playing: Temptation by Afilion -> https://prtzl.io/QbHvg3ZA3nV8PQUG
+[3:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:29:41] daath144brainbox: destroyed
+[3:29:44] legendarism: miraaaaaaaaaa
+[3:29:52] ironmouse34: @MichaelDanmark well like most new things, it just takes time to get used to
+[3:29:58] legendarism: miralo
+[3:29:58] badkarma2030: stayed up long tho g
+[3:30:06] MichaelDanmark: oh this is how the build works swifty , i see Kappa
+[3:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[3:30:11] legendarism: !followage
+[3:30:12] StreamElements: @legendarism, legendarism has been following swifty for  3 years 10 months 16 days 21 hours
+[3:30:17] MichaelDanmark: @ironmouse34 i like it personally
+[3:30:21] Ohq__: @MichaelDanmark did u see cast bar and target frames
+[3:30:29] ironmouse34: @MichaelDanmark I think mostly what they put time into was the customization of it, not really the looks
+[3:30:32] raver31: he is showing you how to be a warrior haha
+[3:30:57] Tommytheman2: i saw someone sneak past to
+[3:30:58] ironmouse34: @MichaelDanmark same, although I prefer the classic unit frame look
+[3:30:59] badkarma2030: foo...k
+[3:31:15] MichaelDanmark: its just funny cuz they wanted to elimiate like dominos or bartender but u cant move xp bar
+[3:31:21] Angryer05: swiftyPthumb swiftyPthumb
+[3:31:24] ManaWood: Hey Swifty? If i wanted to Play WoW right now what do i need to play?
+[3:31:28] ManaWood: *pay
+[3:31:41] ironmouse34: yeah that is weird that you can't move everything lol
+[3:31:55] badkarma2030: bye the game
+[3:31:59] badkarma2030: by lol
+[3:32:01] Ohq__: just need a tick option to use old stuff like target frames and cast bar tbh
+[3:32:36] mcmaretina: @Swifty prot warior or prot pala for pvp ? :)
+[3:32:38] ironmouse34: I'm sure someone will create something
+[3:32:44] ManaWood: do i just sub and i can play or do i need to buy shadowlands or dragonflight will get me everything with a sub? confused.
+[3:33:07] badkarma2030: war allways
+[3:33:12] Milanesa_De_Pollo: Hola Swifty
+[3:33:20] badkarma2030: pala soso now
+[3:33:21] Karma_Kid007: @StaticSwayze depends if you want to play classic or retail
+[3:33:24] Nougat_V: i think i read shadowlands is in a sub now
+[3:33:34] ManaWood: Retail
+[3:33:34] PretzelRocks: Now Playing: Endless Cruise by F1NG3RS -> https://prtzl.io/zyH9Lz5jdl8pXaiz
+[3:33:43] stronggamers: it would be such an honour to die by swiftys sword haha
+[3:33:47] Herzenliegen: @StaticSwayze you will have to buy DF is you want to play in phase 2 which is the 115th
+[3:33:48] MichaelDanmark: you just buy the game
+[3:33:53] MichaelDanmark: and then pay the subscription
+[3:33:56] Herzenliegen: 15th
+[3:33:57] stronggamers: i wouldnt even be mad
+[3:34:25] ManaWood: so i buy Dragon flight and pay for a sub
+[3:34:27] badkarma2030: ooh
+[3:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[3:34:47] Herzenliegen: @StaticSwayze yes
+[3:34:49] MichaelDanmark: yes @StaticSwayze
+[3:34:54] badkarma2030: heal noob
+[3:35:01] ManaWood: okay thanks bruh
+[3:35:10] StreamElements: Type !points to see how many points you have!
+[3:35:14] badkarma2030: ye pug
+[3:35:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:35:46] MichaelDanmark: there was no revenge there bruh
+[3:35:58] MichaelDanmark: he meant sub to wow lol @Swifty
+[3:36:02] NickDeli: maximize an underdog spec
+[3:36:05] badkarma2030: run
+[3:36:05] ovidiucristian: why not play a healer ?
+[3:36:49] badkarma2030: healers are fun
+[3:36:49] shtoltc2478: swiftyHORDE_HF
+[3:37:01] badkarma2030: but mr swift is a war
+[3:37:04] NickDeli: what the
+[3:37:13] yoichinoyumi: roar of sacrifice maybe
+[3:37:15] MichaelDanmark: u have to pre pop it
+[3:37:15] badkarma2030: swiftyHORDE
+[3:37:20] MichaelDanmark: if ur pro
+[3:37:34] w1dowmak3r: wintergrasp is up for EU
+[3:37:36] MichaelDanmark: lol
+[3:37:48] shtoltc2478: swiftyUp_HF
+[3:37:55] MichaelDanmark: yeah i was in palumors stream , great plays
+[3:37:59] MichaelDanmark: one shotting ppl
+[3:38:06] PretzelRocks: Now Playing: Motion of the Edge by Harris Heller -> https://prtzl.io/kDHokNLkPkvOWace
+[3:38:36] xxSoulVortex: xxSoulVortex subscribed with Prime. 
+[3:38:36] StreamElements: xxSoulVortex just subscribed PogChamp
+[3:39:07] MichaelDanmark: Do you like chicken thighs swifty?
+[3:39:35] MichaelDanmark: yeah xuen the monk talked about that too , to know upfront
+[3:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:39:59] Karma_Kid007: @Swifty The room has come along nicely! whats the green in the back?
+[3:40:20] broomstick69420666: 🫡
+[3:40:28] PretzelRocks: Now Playing: Solitude by Afilion -> https://prtzl.io/5zHemkaJyBMV78uB
+[3:40:40] insomniac8600: Swifty do u know in Skill capped movie guides still give ur burst macro for examples for insane dmg burst :D :D :D
+[3:41:06] Frames_Janco_Twitch: i 100% agree
+[3:41:10] Ohq__: 3 sec rule
+[3:41:10] grimji92: Twix has stayed the same Kappa
+[3:41:11] solsaver12: lol
+[3:41:11] Atyeris: nobody saw that
+[3:41:12] flenbober: do it
+[3:41:12] MichaelDanmark: just eat it still
+[3:41:13] SteelrayneXXVI: 3 SEC RULE
+[3:41:13] madmax84: just eat it
+[3:41:14] flenbober: 5 second rule
+[3:41:14] nasargielcreep: eat that !! noooo
+[3:41:16] Fythern: Remember 5 second rule ;)
+[3:41:16] Tommytheman2: 10 second rule
+[3:41:19] MichaelDanmark: no worries
+[3:41:19] Un1Qe1: 5 sec rule
+[3:41:28] kirbz09: reeses almost burn your mouth itsr
+[3:41:30] crelin2442: eating it off camera
+[3:41:30] sobrevivitv: just blow on it it's all good
+[3:41:38] CrayonDeath: The Reese's Xmas Trees are my favorite
+[3:41:50] yettideuces: Frozen Reese’s are the best. Buy a big party bag and slap them in the freezer 🥶
+[3:41:54] buqkutusymwe: or just we love everything sweet when we were kids
+[3:41:57] badkarma2030: in ab
+[3:41:58] newkingcody: Those are the crappy little small ones swifty
+[3:42:03] Cowardpatty: You do realize that Reeses Cups are the most 'fresh-dependant' candy bar?  Like you can get a 'good' Reeses, or you can get a 'bad' Reeses, depending on what color the peanut butter is
+[3:42:03] newkingcody: The full size ones are great
+[3:42:15] WOOPsWOOP: Everything has gotten smaller, more expensive and lower quality
+[3:42:17] SteelrayneXXVI: full size ones are good
+[3:42:22] MichaelDanmark: its more chunky peanut butter maybe
+[3:42:33] terpvision420: @woopswoop facts
+[3:42:33] jamesip87: It’s not smooth anymore
+[3:42:33] Paddy05: U finished ur ultimate hunter spec?
+[3:42:34] newkingcody: You need the full size Reese’s
+[3:42:42] Tommytheman2: Where is Peanut
+[3:42:46] Onehiitter: it's the same as KFC was so good in the 90's now not so much
+[3:42:58] TheBeardedSmarmer: all of them taste bad now because they use palm oil now
+[3:42:59] Cowardpatty: You simply got an old Reeses where the peanut butter has dried out.  If you get a new fresh Reeses they are still amazing
+[3:43:04] KodiakJedi: Reeses still goated
+[3:43:06] MichaelDanmark: what about snickers
+[3:43:06] CrayonDeath: They make reese cups with potato chip crumbs in them
+[3:43:06] DamaSkull: You like the m&m's peanut butter ?
+[3:43:08] Karma_Kid007: KFC bucket use to hit different thats for sure lol
+[3:43:09] Lifestream7: how the gym workouts been
+[3:43:26] terpvision420: All hail swift in the log pog
+[3:43:38] SteelrayneXXVI: You need to buy the Full size reese bar from the store the small ones suck
+[3:43:42] baseborn73: yes, if you buy the holiday ones the penut butter is better because they havent been on the shelves for a year
+[3:43:57] Onehiitter: @Karma_Kid007  exactly
+[3:44:02] Cowardpatty: I'm telling you if I got to my 7/11 and buy 20 Reeses and cut them all in half, some will look orange on the inside and some will look beige.  Only the orange ones will taste good.
+[3:44:24] MichaelDanmark: body is lazy yes
+[3:44:33] KodiakJedi: I always pick up the pace the last 100 yards
+[3:44:34] ZepNius: FOR THE ALLIANCE!
+[3:44:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[3:44:45] Onehiitter: onehiitter subscribed with Prime. They've subscribed for 6 months! 
+[3:44:46] StreamElements: onehiitter just subscribed for 6 months in a row PogChamp
+[3:44:49] Atharions: Crush your enemies!
+[3:45:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:45:19] PretzelRocks: Now Playing: Ronin Desync by Harris Heller -> https://prtzl.io/lLHGz79jEOZwv6CN
+[3:45:29] seth878: how many miles a day should u run if ur tryna lose weight through mainly cardio?
+[3:46:31] KodiakJedi: @seth878 highly suggest the MyFitnessPal ap. You don't have to pay for special features buy you can track calories and put in workouts too
+[3:46:31] Krug_z: do you speak portuguese swifty?
+[3:46:56] deadvinas: Running alone does not solve the issue, you need to fix your diet
+[3:46:57] Treesy__: I would run 500 miles and I would run 500 more...
+[3:47:07] yoichinoyumi: swimming probably ?
+[3:47:09] jamesip87: Yea u do 🤣🤣🤣
+[3:47:13] Ohq__: fastest way to lose weight is eat cleanly
+[3:47:16] Krug_z: i thought so
+[3:47:23] Treesy__: Strve yourself. Fastest way to lose weight
+[3:47:28] KodiakJedi: Calories in = Calories out means stay the same...just make sure you are burning more calries than you take in
+[3:47:28] Blitzylive: you can say "the fastest way in my opinion"
+[3:47:33] PretzelRocks: Now Playing: Wheatley's Song by Miracle Of Sound -> https://prtzl.io/QbHvgQaP2azOwxSG
+[3:47:33] yettideuces: Calorie deficit
+[3:47:38] Blitzylive: calorie deficit. No exercise needed
+[3:47:47] DaIVIoose: <3
+[3:47:58] Ohq__: Then you lose so much muscle
+[3:48:06] OteroGaming: Im swiming for rehabilitation. Bad core
+[3:48:19] madmax84: it works for some, it works not for all
+[3:48:24] seth878: i usually jog around my town everday i just wanna know how many mles id have to do haha
+[3:48:33] javzilla: Its called anemic
+[3:48:33] seth878: cant afford gym membership rn
+[3:48:42] deadvinas: Man. training is only 15% cause of loosing weight, eating is 60% - 70% cause to lose weight
+[3:48:43] javzilla: iron deficiency
+[3:48:43] Treesy__: Exercise has more benefits than pure weight loss. Heavy resistance training improves your bone density and ligaments nad tendon strength
+[3:48:44] Ohq__: Just taking a 30m walk everyday will do amazing things for you
+[3:48:46] OteroGaming: Seth as much as u can xD
+[3:48:49] javzilla: inability to gain wegiht
+[3:48:58] DamaSkull: Hello o/ What weapon are good for prot war fast weapon or slow ? 🤔
+[3:49:15] instagib2: run 50 km a week, and you get tiny instantly
+[3:49:21] OteroGaming: Ive got IBD start losing weight but I rather not be skinny
+[3:49:40] StreamElements: Type !points to see how many points you have!
+[3:49:56] Milanesa_De_Pollo: Swifty, porque no jugas el solo suffle?
+[3:50:01] FlybyBilly: FlybyBilly subscribed with Prime. 
+[3:50:01] FlybyBilly: FlybyBilly subscribed with Prime. 
+[3:50:01] StreamElements: FlybyBilly just subscribed PogChamp
+[3:50:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:50:15] ShizGaming: nah we come to the gaming house to get gains!
+[3:50:20] Cowardpatty: I would have been like "You Fool!"
+[3:50:29] OteroGaming: My bowels are inflammed. been losing weight cos of it
+[3:50:42] big_lebowski_69: zyzz did it
+[3:51:09] PretzelRocks: Now Playing: The New Black Gold 2013 by Miracle Of Sound -> https://prtzl.io/DaHVb33yQ3OEQEsL
+[3:51:10] Treesy__: Ectomorph is the ones that find it hard to gain weight.
+[3:51:11] badkarma2030: i won my game gl
+[3:51:38] OteroGaming: my gym is a 15 min walk away aha
+[3:52:11] OteroGaming: im 30 next year. I want to get super fit
+[3:52:20] badkarma2030: bed with the gf
+[3:52:21] yoichinoyumi: i do 25 min freeletics with my phone at home
+[3:52:22] badkarma2030: only
+[3:52:28] thedonmac: yes,,.. lol but i wouldnt
+[3:52:43] badkarma2030: jaja#
+[3:52:49] OteroGaming: im so unfit atm. Biking is easy for me tho
+[3:53:05] shadowghostytv: im 115kg and i eat bad food and i feel bad veryday
+[3:53:07] shadowghostytv: everyday
+[3:53:15] OteroGaming: i run funny dunno why
+[3:53:24] shadowghostytv: I wish i could wake up and feel good man
+[3:53:28] shadowghostytv: do you have a sleeping schedule swifty
+[3:53:52] SteelrayneXXVI: Elf runners
+[3:53:58] badkarma2030: rip eazy too
+[3:53:59] OteroGaming: I have to wear boxed shoes aha
+[3:54:21] badkarma2030: ye prob the best
+[3:54:37] shadowghostytv: But do you sleep WHOLE night without waking up? i wake up 9 times per night
+[3:54:39] OteroGaming: ive been up till 5am last couple weeks. I find it hard resetting - ADHD ;D
+[3:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[3:55:00] OteroGaming: Shy thats not a good sign
+[3:55:03] OteroGaming: should see a doc
+[3:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:55:17] MichaelDanmark: i have crazy nausea right now
+[3:55:19] MichaelDanmark: for some reason
+[3:55:26] shadowghostytv: been like it for years
+[3:55:28] MartittaXoXo: Been enjoying my paladin @swifty but I’ve started a Tauren Druid my first horde ever lol swiftyHORDE swiftyHORDE
+[3:55:38] OteroGaming: I get nausea cos of IBD
+[3:55:46] badkarma2030: see your name
+[3:55:49] OteroGaming: Shy its probs cos u havent got a good sleep routine
+[3:55:49] PretzelRocks: Now Playing: Orbit by Doctor Vox -> https://prtzl.io/DaHVb3zdpVMljBfL
+[3:56:11] badkarma2030: beter if thay skilled /wave 1st
+[3:56:33] MichaelDanmark: @OteroGaming what?
+[3:56:59] shadowghostytv: yeah otoro i got to bedf at random times
+[3:57:06] shadowghostytv: maybe i should try to stick to a time
+[3:57:10] OteroGaming: @MichaelDanmark Inflammatory bowel disease
+[3:57:24] Ohq__: ahk lol
+[3:57:38] badkarma2030: ninja
+[3:57:41] OteroGaming: When I had an army lifestyl;e
+[3:57:44] StevenBonez: im in this game with you and we have no heals ddue lol
+[3:57:46] OteroGaming: getting up ect I felt good
+[3:58:00] MichaelDanmark: do you think i have it @OteroGaming
+[3:58:18] badkarma2030: ye u leave the groop not the same
+[3:58:21] OteroGaming: No Michael I was just saying XD
+[3:58:34] badkarma2030: uk
+[3:58:43] MichaelDanmark: lol
+[3:58:46] MichaelDanmark: ok
+[3:58:49] badkarma2030: miss the boy's
+[3:59:23] badkarma2030: x
+[3:59:24] OteroGaming: youll know Michael as symtoms occure when u need to use th toilet. espcially after eating late or alot
+[3:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[3:59:51] Thydiuz: @Swifty Hello . How we doing tonight ?
+[4:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[4:00:12] PretzelRocks: Now Playing: Inseparable by Afilion -> https://prtzl.io/9GHY2zxyJGKePMT9
+[4:00:19] MichaelDanmark: ok it doesnt for me , but sometimes nausea
+[4:00:37] S6Graves: Nice gear swifty
+[4:00:49] OteroGaming: Could be related to eyes or I dunno still see a doctore
+[4:01:03] badkarma2030: bk up mount
+[4:01:18] badkarma2030: kk sparta
+[4:01:35] shadowghostytv: you love the stream sniåes
+[4:01:36] OteroGaming: Stream sniping ey xD
+[4:01:37] shadowghostytv: snipes
+[4:01:52] OteroGaming: pew pew sniping
+[4:01:59] badkarma2030: i miss rbg
+[4:02:01] shadowghostytv: !reedeem mongo
+[4:02:04] shadowghostytv: !redeem mongo
+[4:02:04] StreamElements: @shyshuki, item not found, you can see all items here https://StreamElements.com/swifty/store  elementsS
+[4:02:19] badkarma2030: omw  only classic now
+[4:02:21] OteroGaming: !gamble all
+[4:02:21] StreamElements: PogChamp OteroGaming went all in and won 9098 points PogChamp he now has 18196 points FeelsGoodMan
+[4:02:34] shadowghostytv: !points
+[4:02:35] StreamElements: @shyshuki, shyshuki has 6483 points and is rank 9479/329954 on the leaderboard.
+[4:02:37] shadowghostytv: !gamble all
+[4:02:37] StreamElements: PogChamp shyshuki went all in and won 6483 points PogChamp he now has 12966 points FeelsGoodMan
+[4:02:51] shadowghostytv: thats luck
+[4:03:13] soeholttt: Hello Swifty
+[4:03:51] MichaelDanmark: why not retail swifty
+[4:04:09] PretzelRocks: Now Playing: Serenity by Afilion, Megan Levine -> https://prtzl.io/PDHy9mPj12wMAPHm
+[4:04:17] kobzorr: the stream snipe is real
+[4:04:21] OteroGaming: @ThatGurlTylerx Classic. its old bgs
+[4:04:25] kobzorr: i think
+[4:04:38] sdotpuff: not just A warrior...
+[4:04:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[4:04:45] MichaelDanmark: the anduin boys
+[4:04:45] Parsiburn: Parsiburn subscribed with Prime. 
+[4:04:46] Parsiburn: Parsiburn subscribed with Prime. 
+[4:04:46] StreamElements: Parsiburn just subscribed PogChamp
+[4:04:47] MichaelDanmark: lol
+[4:04:55] sdotpuff: THE warrior of warriors
+[4:05:10] StreamElements: Type !points to see how many points you have!
+[4:05:20] OteroGaming: i got munchies but I cant eat late D: its nearly 1asm
+[4:05:23] OteroGaming: am
+[4:05:29] OteroGaming: sorry 12am
+[4:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:05:50] OteroGaming: Im in the UK XD
+[4:05:54] shadowghostytv: how do i stop myself eating 9 times a day bad food
+[4:06:11] OteroGaming: I live 45 min drives from London
+[4:06:25] TheEndIsNear777: Put the cookie down now
+[4:06:30] TheEndIsNear777: Arnold voice lol
+[4:06:39] shadowghostytv: soft drink?
+[4:06:44] stormwindchill: step 1: only liquid you drink should be water
+[4:06:50] Ohq__: eat good stuff eggs and stuff that will fill you up
+[4:06:55] soeholttt: can't you change your som chars now
+[4:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[4:07:17] shadowghostytv: lol hey peanuyt
+[4:07:18] PretzelRocks: Now Playing: 2080 by Heartful, Ephixa -> https://prtzl.io/EaHbJbGa97MdlXFB
+[4:07:20] Saitamaqtx: tmmLol tmmLol tmmLol
+[4:07:25] Serner: coinfuKEK coinfuKEK coinfuKEK coinfuKEK coinfuKEK coinfuKEK
+[4:07:36] solsaver12: I hope so @soeholttt , havent checked yet tho.
+[4:07:37] Serner: LOL omg just drank a coke
+[4:07:42] shadowghostytv: nothing taste better then soda tho
+[4:07:45] shadowghostytv: i dont like tea :(
+[4:07:50] OteroGaming: Prefer my birtish hot tea XD
+[4:07:53] MichaelDanmark: tolW tolW tolW
+[4:07:53] greypilgrimz: lol
+[4:07:55] OteroGaming: British
+[4:07:55] stormwindchill: LOL iced tea is still so bad... lots of sugar
+[4:07:59] solsaver12: soda so bad for ya lol
+[4:08:02] guap0n: iced tea gives you kidney stones....talking from experience
+[4:08:06] Vendetta285: ice tea usually full of sugar too lol
+[4:08:09] R1ch3n: sorry peanut but iced tea isn't as good as sweet sweet coke
+[4:08:11] Kwixz: PURE CRISP!
+[4:08:12] Ohq__: black coffee and water like a chad
+[4:08:13] Serner: LOL half n half
+[4:08:29] sanitox: dude you have to eliminate the sugar
+[4:08:31] Legend102t: tea with lmon is the best
+[4:08:31] stormwindchill: a squeeze or lemon juice or lemonade?  lol
+[4:08:37] Ohq__: LUL
+[4:08:44] stormwindchill: @Ohq__ this
+[4:08:46] solsaver12: lol
+[4:08:47] Serner: hahahahaha that was legendary
+[4:08:52] Serner: swifty you a god streamer
+[4:08:55] solsaver12: hard to get rid of sugar tho
+[4:08:55] shadowghostytv: but i dont lice ice tea
+[4:08:58] Partytime9: Wise words!
+[4:08:58] lenustm: what about suger free soda
+[4:09:00] solsaver12: Its in everything
+[4:09:00] MartittaXoXo: !redeem flex
+[4:09:00] Skycoh: was that arnold schwarzenegger?
+[4:09:01] StreamElements: @MartittaXoXo, you successfully redeemed flex for 100 points. elementsOkay
+[4:09:09] TheEndIsNear777: Swollfty
+[4:09:33] FartBoxThumper: kicking soda is huge, hard for some.
+[4:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:09:41] shadowghostytv: @Swifty BUT I dont like ice tea, waht else can i drink?
+[4:09:57] solsaver12: water
+[4:10:02] coconust1: the only way I could stop smoking tobacco was cold turkey
+[4:10:02] Serner: ya i eat pretty bad and love soda. def would be more happy if i lost 20ish lbs
+[4:10:04] shadowghostytv: ahh
+[4:10:07] Asterisix: coffee with heavy cream ftw all day long
+[4:10:10] Skycoh: DIET OR ZERO SUGAR SODA
+[4:10:11] MichaelDanmark: vodka
+[4:10:18] solsaver12: I like flavor water
+[4:10:19] shadowghostytv: what about pepsi max?
+[4:10:21] shadowghostytv: it doesnt have sugar?
+[4:10:33] florez: carbonated water?
+[4:10:36] MichaelDanmark: its still unhealthy
+[4:10:38] andreasdagen: pepsi max has zero calories
+[4:10:38] MichaelDanmark: as hell
+[4:10:42] Ohq__: apstertame is just as bad as sugar even tho u lose weight
+[4:10:47] shadowghostytv: but can i drink pepsi max?
+[4:10:48] andreasdagen: @MichaelDanmark not true
+[4:10:49] solsaver12: Diet/zero sugar soda is bad bad for ya
+[4:10:54] andreasdagen: @Ohq__ fake news
+[4:10:55] big_arik: alot of other stuff tho like food coloring chemicals etc
+[4:10:58] andreasdagen: @shyshuki yes
+[4:11:05] big_arik: its not just no sugar? oh then its fine
+[4:11:09] MichaelDanmark: yes cuz sweeterners
+[4:11:12] shadowghostytv: and still lose weight?
+[4:11:13] andreasdagen: @shyshuki pepsi max can cause bloating (gas in stomach), but it wont make u gain weight
+[4:11:15] MichaelDanmark: and extra crap too
+[4:11:19] Ohq__: @andreasdagen tell me about that in 10 years
+[4:11:20] instagib2: aspartam is not bad as sugar, but aspartam make you hungry so u eat more if you drink it
+[4:11:21] andreasdagen: yes
+[4:11:25] shadowghostytv: oh
+[4:11:27] andreasdagen: calories is what matters for losing weight
+[4:11:30] kobzorr: 40K monkaS
+[4:11:31] shadowghostytv: so all good then?
+[4:11:52] andreasdagen: u just gotta limit the amount of calories
+[4:11:53] TheEndIsNear777: Big crits D:
+[4:11:58] johngalang6: sometimes you just gotta say goodbye to food and drinks you like if you want to achieve a chad physique
+[4:12:01] MichaelDanmark: if u just wanna lose weight sure its calories but if u drink that stuff its still unhealthy
+[4:12:07] shadowghostytv: but there isnt calories in pepsi max?
+[4:12:19] shadowghostytv: alot of people in real life say that pepsi max is bad
+[4:12:23] PretzelRocks: Now Playing: The Grid by Harris Heller -> https://prtzl.io/V1HZ6Z85myLxo7I5
+[4:12:34] andreasdagen: @shyshuki it's a myth that it is unhealthy
+[4:12:39] andreasdagen: @shyshuki but it is still bad for your teeth
+[4:12:40] shadowghostytv: soda and candy = bad
+[4:12:42] sluckyslaw7: i quit soda went to unsweet tea
+[4:12:47] OteroGaming: Stick to natural sugars in fruit
+[4:13:00] shadowghostytv: my teeth got extracted cus it was bad
+[4:13:00] Ohq__: @andreasdagen LUL pls stop spreading misinfo if youre not 100%
+[4:13:02] Vendetta285: @shyshuki doesnt matter. theyre wrong. calories is all that counts whenever you wanna drop weight
+[4:13:03] Shaggy19931: HeyGuys HeyGuys
+[4:13:16] coconust1: @swifty  I guess Soda and processed food would be the first two things to kick to get healthy
+[4:13:16] terpvision420: Switch to brisk lemon tea to start half the sugar and calories
+[4:13:17] andreasdagen: @Ohq__ I am 100%
+[4:13:21] terpvision420: That’s what I’ve done
+[4:13:25] terpvision420: Taste great
+[4:13:25] shadowghostytv: So pepsi max is ok to drink everyday just to confirm this?
+[4:13:36] andreasdagen: yes
+[4:13:39] MichaelDanmark: no
+[4:13:45] sluckyslaw7: drink tea
+[4:13:47] andreasdagen: if weight is what ur concerned about
+[4:13:48] Skycoh: as a coach, the first thing i recommend is...start out by eating foods that occur naturally in the world.
+[4:13:51] Ohq__: @andreasdagen thats how i know youre not lmfao
+[4:13:52] andreasdagen: when pepsi max is equivilent to water
+[4:13:55] Vendetta285: its zero calories, it wont matter
+[4:14:14] Ohq__: @andreasdagen pls dont tell me you actually think that
+[4:14:15] GeneralGoodGuy: hey ho
+[4:14:15] OteroGaming: @andreasdagen No
+[4:14:28] andreasdagen: @Ohq__ 2 calories per liter
+[4:14:40] andreasdagen: @Ohq__ it wont make u gain weight, its not magic
+[4:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[4:14:44] instagib2: the aspartam in pepsimax makes your brain more hungry for food, and you eat more and gain waight
+[4:14:46] sluckyslaw7: i just add 2 splenda
+[4:14:48] OteroGaming: still not good for u lol
+[4:14:51] Ohq__: @andreasdagen its not just about calories though, please read up
+[4:14:53] MichaelDanmark: even if its low calories its still unhealthy as hell
+[4:14:53] The_Crafty_DM: publix has the best iced tea
+[4:15:00] PretzelRocks: Now Playing: Retaliation by F1NG3RS -> https://prtzl.io/dAHv1v1vDvQxE5Tp
+[4:15:00] MichaelDanmark: there are like a thousands ingredients in that
+[4:15:06] andreasdagen: @Lecter22 that is a big concern yea
+[4:15:10] DaIVIoose: damn you crit ever 1/3 hits?! insane
+[4:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:15:11] Noxalis20: Any Soda drink, no sugar, no calories  are bad, i used to drink 6 710 ml of diet coke a day, just from not drinking soda anymore, over 2 years, dropped 25 pounds, soda pop, any color is bad
+[4:15:34] terpvision420: @noxalis20 facts
+[4:15:59] shadowghostytv: but why do pepsi max say it has no sugar tho
+[4:16:13] kooler1991: we were made to move
+[4:16:13] andreasdagen: @shyshuki cause it has no sugar
+[4:16:18] daveydudester: you really gotta sell the head movement for that one though
+[4:16:24] MichaelDanmark: cuz it jus has other things
+[4:16:27] coconust1: @swifty  every tried Marijuana?  xD  you seem so high all the time lol
+[4:16:30] solsaver12: lol shyshuki ask pepsi company that
+[4:16:34] MichaelDanmark: the calories are in the sugar
+[4:16:41] shadowghostytv: how is it bad then?:P
+[4:16:47] OteroGaming: @coconust1 No drug talk here
+[4:16:53] andreasdagen: @shyshuki it's not bad
+[4:16:54] solsaver12: sugar sells...thats why its in everything
+[4:16:56] MichaelDanmark: cuz it contains other things
+[4:17:00] MichaelDanmark: than sugar
+[4:17:11] shadowghostytv: oh
+[4:17:14] Ohq__: @OteroGaming drug? LOL
+[4:17:16] shadowghostytv: thats gonna gainw eigth?
+[4:17:26] andreasdagen: no
+[4:17:33] PretzelRocks: Now Playing: Magnitude Moments by Afilion -> https://prtzl.io/pLHabaOoeB9e6ks8
+[4:17:35] OteroGaming: @Ohq__ Im a medical user. Still is.
+[4:17:35] Shaggy19931: you need a pocket healer
+[4:17:41] andreasdagen: people are just scared of it because they think it's too good to be true
+[4:17:42] instagib2: @shyshuki Pepsi maX makes you eat more food, even if itself has no calories
+[4:18:00] shadowghostytv: how does it make me eat more food tho
+[4:18:05] GeneralGoodGuy: i tought i dont play retail. but i saw now the talents. read all of them and arms sounds the best of all LUL i wanna play arms now
+[4:18:20] Noxalis20: Drinking large amounts of Soda, is like Crack
+[4:18:35] Ohq__: @OteroGaming Medicine is drugs, canna is just a plant with psychoactive properties
+[4:18:44] instagib2: @shyshuki The Aspartam in PepsiMax makes your brain hungry for food
+[4:18:59] Basstez: @shyshuki i guess it is about the appetite and how full you feel, for some people coffee or tea works great to feel "full" even if they don't eat anything for hours
+[4:19:03] shadowghostytv: ohhhhh
+[4:19:03] OteroGaming: @Ohq__ The term drug means anything thaty alters the mind. shush.
+[4:19:14] rexxie4: To hard to watch streams no 8 30seconds ads
+[4:19:16] rexxie4: Gg
+[4:19:28] Noxalis20: If i do decide to have a soda, it would be a A&W root beer, has sugar cane
+[4:19:41] StreamElements: Type !points to see how many points you have!
+[4:19:52] Ohq__: @OteroGaming so we cant talk about caffeine either, nice
+[4:20:01] rubberduckie0_0: and their are other ways TheIlluminati
+[4:20:08] eshonxv: twitch is what made me finally download an adblock after 20 years not bothering with adblock lol
+[4:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:20:19] OteroGaming: @Ohq__ Dude i agree. but swift's rules lol
+[4:20:19] MikeSergiu: bon apetit
+[4:20:22] Shaggy19931: that loks good
+[4:20:25] Shaggy19931: looks
+[4:20:26] badkarma2030: yum yum
+[4:20:46] MichaelDanmark: give her a kiss
+[4:20:50] shadowghostytv: @Swifty u nee to make mods moderate, people talking about drugs mate
+[4:20:57] Ohq__: @OteroGaming yea no biggie
+[4:21:06] hightonemob: best time to be a fish is when you get a hook like that.. looks good
+[4:21:25] OteroGaming: @shyshuki we have been for awhile. Sugar and caffine.
+[4:21:31] Wadobii: Wadobii subscribed at Tier 1. They've subscribed for 105 months, currently on a 105 month streak! Just a few months
+[4:21:31] StreamElements: Wadobii just subscribed for 105 months in a row PogChamp
+[4:21:32] MichaelDanmark: there is no censoring in here
+[4:21:39] shadowghostytv: nah the other guy
+[4:21:40] shadowghostytv: earlier
+[4:21:45] PretzelRocks: Now Playing: Into the Night by Harris Heller -> https://prtzl.io/PDHy9yWZDxBZ8pum
+[4:22:08] MichaelDanmark: love retail
+[4:22:17] rubberduckie0_0: LUL
+[4:22:25] OteroGaming: can be senstive for some people. espcially if proper stuff gets talked about
+[4:22:32] blastibator: Remember when you got the Arcanite Reaper
+[4:22:46] shadowghostytv: how is your mum doing?
+[4:22:51] headlocks000: Mom-erating?
+[4:22:55] GeneralGoodGuy: @Wadobii 7,75 years. holy dude :D
+[4:22:56] shadowghostytv: whats your mum twitch name?
+[4:23:29] Wadobii: @GeneralGoodGuy wadobiFAB
+[4:23:30] kadburry: kadburry subscribed with Prime. They've subscribed for 28 months! 
+[4:23:31] StreamElements: kadburry just subscribed for 28 months in a row PogChamp
+[4:23:40] OteroGaming: Swifty, still have the gaming house ect and people stay?
+[4:23:45] coconust1: @swifty  u gotta watch this Kannada movie ( south indian) called Kanthara. got 9.2 imdb
+[4:23:58] OteroGaming: ah I wanted to visit one day
+[4:24:01] PretzelRocks: Now Playing: Codename: Indigo by Harris Heller -> https://prtzl.io/Y1HyVyMYGOej8LfW
+[4:24:02] OteroGaming: hall of famer
+[4:24:29] PsychoWarren: marveloBOOM marveloBOOM marveloBOOM marveloBOOM
+[4:24:34] shadowghostytv: @Ohq__ Why couldnt you just say this in the chat instead of insulting me on pm?
+[4:24:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[4:24:46] MichaelDanmark: i feel all classes should be able to self heal somehow
+[4:24:52] MichaelDanmark: otherwise it feels bad in bg
+[4:25:00] OteroGaming: Dont fight guys
+[4:25:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:25:42] meady: can you get gear from battlegrounds in retail nor no?
+[4:26:04] EvoCyberNation: Saying thank you to your wife means a bunch to her. My mother said she loves it when my father thanks her for stuff.
+[4:26:06] OteroGaming: @meady Yes
+[4:26:07] justjoshingyo: rbg swift? and where do us plebs  find a sasha!!!
+[4:26:16] StreamElements: shyshuki just tipped $1.00 PogChamp
+[4:26:36] OteroGaming: @EvoCyberNation Just polite innit
+[4:26:49] meady: @OteroGaming is there a vendor i can buy it from ive come back to my paladin and hes not very geared but im capped on honor
+[4:26:50] MichaelDanmark: also should give her a treat @EvoCyberNation
+[4:26:53] PretzelRocks: Now Playing: Lazer Runner by Harris Heller -> https://prtzl.io/pLHabayMvdOZj7H8
+[4:27:00] chrystyano7: u still lifting wights?
+[4:27:12] OteroGaming: @meady In oribos
+[4:27:41] meady: @OteroGaming your a super star much appreciated
+[4:27:54] jacobt92: i wont lie no ones talking about it, but affliction kinda slaps on retail
+[4:28:02] MichaelDanmark: @meady go to outlands
+[4:29:04] Robet24: Damn, Swifty did the same thing as me... We gettin' to old to see the hotkeys so he made them bigger! <3
+[4:29:13] PretzelRocks: Now Playing: Reverse the Geometry by Harris Heller -> https://prtzl.io/BOHYbYwe2a21gkSK
+[4:29:19] mind_reader26: hello everyone
+[4:29:34] Skullomat: false advertisement, this ain't wotlk
+[4:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:29:59] badkarma2030: ret soso now
+[4:30:01] Kyrioz: swifty you amazing soul you! bajP1 bajLG bajP2
+[4:30:05] MichaelDanmark: yes it is @PyroMeloniac
+[4:30:08] OteroGaming: @Swifty Title mate XD
+[4:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[4:30:14] badkarma2030: na
+[4:30:25] mind_reader26: SWIFTY WE LOVE YOU MAN! <3
+[4:30:26] justjoshingyo: link talents?
+[4:30:43] badkarma2030: in classic oopsy ye my bad playin classic
+[4:30:47] badkarma2030: hehe
+[4:30:48] badkarma2030: #
+[4:30:50] Skullomat: Holy leaps
+[4:30:59] badkarma2030: xx
+[4:31:53] PretzelRocks: Now Playing: Cyberpunk by Perhopes -> https://prtzl.io/zyH9L9wbDkWwnQUz
+[4:32:14] MichaelDanmark: hitting for 20k hits without cds
+[4:32:18] MichaelDanmark: pretty nice
+[4:32:22] Skullomat: funny how warrior went from being one of the least mobile classes in classes to having mobility for days in current wow
+[4:32:29] Encarved: Sup swifty!
+[4:32:33] mind_reader26: is arms gonna be better than fury in dragonflight?
+[4:33:24] justjoshingyo: remember when berserker rage was 30.....😒
+[4:33:28] justjoshingyo: seconds
+[4:33:36] LoboSoldier: did you play more COD? that was fun last stream!
+[4:33:48] HeIlraiser_: lol
+[4:33:57] GeneralGoodGuy: elfieLEWD
+[4:34:13] HeIlraiser_: this is not WOTLK
+[4:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[4:35:07] MichaelDanmark: yes it is @HeIlraiser_
+[4:35:10] StreamElements: Type !points to see how many points you have!
+[4:35:11] PretzelRocks: Now Playing: See Past It by Afilion -> https://prtzl.io/lLHGzyXz8kBmbncN
+[4:35:21] EvoCyberNation: Sasha and Swifty are having a kid. That's awesome  :D
+[4:35:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:35:56] MichaelDanmark: and you know what that means
+[4:36:13] EvoCyberNation: A mini-swifty?
+[4:36:24] mind_reader26: lmao
+[4:36:31] MichaelDanmark: it means they did the thing
+[4:36:53] EvoCyberNation: They just stared into each others eyes?
+[4:36:59] EvoCyberNation: don't go further  lol
+[4:37:02] EvoCyberNation: I know what that means
+[4:37:24] greypilgrimz: is the background green screen?
+[4:37:36] MichaelDanmark: lol
+[4:37:39] MichaelDanmark: nothing swifty
+[4:37:41] BlitzcominTwitch: does bladestorm do damage again? or no. :/
+[4:38:11] mind_reader26: at what days u stream john?
+[4:38:32] sneakingbisontv: rip89Itsprettytrash rip89Itsprettytrash rip89Itsprettytrash rip89Itsprettytrash rip89Itsprettytrash
+[4:38:34] moa285: LUL
+[4:38:47] mind_reader26: awesome
+[4:38:53] PretzelRocks: Now Playing: Paranoid Empire by Doctor Vox -> https://prtzl.io/pLHabo2K55JnKAh8
+[4:38:56] coconust1: @swifty  what do you do on days that u  do nit stream ?
+[4:38:57] GeneralGoodGuy: hahahaha LUL so nice
+[4:39:22] blastibator: The good old days
+[4:39:31] sharmzy_: Man I love this new talent tree
+[4:39:33] TheEndIsNear777: it's not swifty its a 10 Man swifty!
+[4:39:36] temptedone: go back to priest. that was your best choice :)
+[4:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:40:02] TheEndIsNear777: it's not swifty, its raid boss swifty!
+[4:40:12] TheSoloDice: TheSoloDice subscribed with Prime. 
+[4:40:12] StreamElements: TheSoloDice just subscribed PogChamp
+[4:40:13] temptedone: ooof 7 ads....
+[4:40:30] jacobt92: it hurts my soul a little the way you say that
+[4:40:53] jacobt92: anihlator
+[4:41:03] MichaelDanmark: anniliate
+[4:41:16] mr_ocx: same add always though
+[4:41:25] mr_ocx: the dragonflight add
+[4:41:32] hoewy97: Ipoints
+[4:41:34] mr_ocx: ad
+[4:42:21] sausagebeast1: SWITFY!!!!!!!!!!
+[4:42:33] mind_reader26: for sure man i play fury all the time thats my main but when we got this new talents idk fury feels so weird to me now it feels different and thats one of the reasons imma be trying arms T-T hate it!
+[4:42:45] PretzelRocks: Now Playing: The Stage Is Set by Afilion -> https://prtzl.io/EaHbJXJyVV4B3GFB
+[4:42:49] Eunit: Eunit subscribed with Prime. They've subscribed for 6 months, currently on a 1 month streak! keeping a close eye on this expac
+[4:42:50] StreamElements: Eunit just subscribed for 6 months in a row PogChamp
+[4:43:21] desmodus88: ***
+[4:44:32] desmodus88: do u know this guy swifty?
+[4:44:40] MichaelDanmark: how are you clicking the buttons swifty
+[4:44:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[4:44:41] sharmzy_: lots of big numbers - seems ok
+[4:44:46] High_Exalted: what addon do you use to get your damage numbers to look like that?
+[4:44:48] MichaelDanmark: cuz it looks like one big macro
+[4:45:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:45:27] mind_reader26: is it true we getting this feldrake starting on the 28th by watching streams?
+[4:45:45] MichaelDanmark: yes
+[4:45:47] au_chilli: Omg, these moderation settings @swifty , killing me
+[4:45:56] R0dimes: I think you had your loot spec to prot @Swifty
+[4:46:01] R0dimes: rip
+[4:46:11] Kyrioz: those tokens are good for sockets
+[4:46:16] L1as: two feeted bootrs SeemsGood
+[4:46:21] PretzelRocks: Now Playing: Hand In Hand by  -> https://prtzl.io/b4HyA6EvZ3kzBNsO
+[4:46:32] Kyrioz: i just bought 4 of them rofl
+[4:46:34] levendizz: play rogue swift
+[4:46:37] AnitaGrnKard: I bought 3 yesterday
+[4:46:38] Kyrioz: on my pally
+[4:46:41] bigwurm79: do you already have all your sockets?
+[4:47:05] au_chilli: The 3 drops are fel drake, a pet or a toy
+[4:47:19] MichaelDanmark: i think its a personal thing to you swifty from blizz
+[4:47:42] Slayer_Eagleone: swifty why did you quit classic? did it get boring alrdy?
+[4:47:50] MichaelDanmark: from ion to you
+[4:48:03] IncinerateGaming: My cat's breath smells like cat food FeelsBadMan
+[4:48:37] queefersutherlan: what add on was that?
+[4:48:42] MichaelDanmark: dont tongue kiss ur cat man its gross @IncinerateGaming
+[4:48:44] Sallow: Cool swords t-mog
+[4:48:51] High_Exalted: is orc still best race for PVP horde? @chat
+[4:49:07] IncinerateGaming: @MichaelDanmark FeelsBadMan
+[4:49:21] PretzelRocks: Now Playing: Occam's Razor by Harris Heller -> https://prtzl.io/4JH5bj38y7mdkkfO
+[4:49:41] StreamElements: Type !points to see how many points you have!
+[4:49:51] MichaelDanmark: the reason everybody targets u swifty is cuz of that glow on those swords
+[4:50:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:50:20] coffee24h: bro retail is fun really for warriors
+[4:50:23] Slayer_Eagleone: swifty why did you quit classic? did it get boring alrdy or are you waiting for ICC for the scourge wpn?
+[4:50:52] Talason: swifty is dragonflight worth?
+[4:51:01] coffee24h: dangeritoo is continuing the Gift Sub they got from Stinketuna! 
+[4:51:33] au_chilli: Love how you can leap away and come back
+[4:51:45] BilidanRO: swifty ulduar or icc?
+[4:51:45] PretzelRocks: Now Playing: Mindful Vortex by Harris Heller -> https://prtzl.io/JbHVaZ9wa36zpAso
+[4:52:19] Talason: does bloodthirt still get you out of snares?
+[4:52:42] Anicary_: Arms all the way
+[4:53:44] meady: It sucks you have to your renown up to upgrade pvp gear 😔
+[4:53:44] au_chilli: 😂
+[4:53:57] W_I_C_C_A: bye
+[4:54:01] pourafour_: Those heroic leaps are totally worth being fury for lol
+[4:54:04] adarius11: wow, that's nice
+[4:54:06] au_chilli: Flag caps should be fast
+[4:54:11] PretzelRocks: Now Playing: Mixer Effect by Harris Heller -> https://prtzl.io/pLHaboBM7ljB1at8
+[4:54:20] MichaelDanmark: flag caps yeah
+[4:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[4:54:48] pourafour_: Do you only have 1 move to get out of roots
+[4:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:55:12] mind_reader26: O_O damn all that dmg
+[4:55:41] mind_reader26: GOOOLASOOOOOOOO
+[4:56:07] KhyrisEidan: Druid and DK my main classes.
+[4:56:08] MartittaXoXo: Retail seems so anime now a days
+[4:56:09] LightKernel: Don't mean to be negative but I don't miss retail at all
+[4:56:11] Goldmanthe1st: is it still worth gearing a new pvp char in retail before dragonflight?
+[4:56:11] Montsubu: he had 110k hp so probs just geared right
+[4:56:11] au_chilli: I haven’t played retail forever, no idea what anything does anymore 🤣
+[4:56:35] PretzelRocks: Now Playing: Feedback by Afilion -> https://prtzl.io/2AHOAP3MygepPbik
+[4:57:04] thegrimmmz: This is retail wow?
+[4:57:25] Nathanonfire: @thegrimmmz no this is a wendys
+[4:57:27] LightKernel: I would play retail if Classic didn't exist, but it does, thankfully.
+[4:57:36] au_chilli: 😂
+[4:57:52] Partytime9: That was awesome
+[4:57:54] Armndeadly: good   lord that should  be unfair @Swifty
+[4:58:00] thegrimmmz: @nathanonfire no this is Patrick
+[4:58:16] Nathanonfire: @thegrimmmz YAS
+[4:58:21] au_chilli: Death by dot
+[4:58:35] Anicary_: Love your back ground Swifty
+[4:58:36] mind_reader26: swifty doing them dirty lol
+[4:59:09] Maria_Neefay: massive KD ratio Kappa
+[4:59:18] mind_reader26: me too lol he's like in a dungeon looks cool tho
+[4:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[4:59:41] kaizikoru: lol
+[4:59:42] au_chilli: Lmao
+[4:59:47] kio_el_finans: Hide N Seek
+[5:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[5:00:17] Montsubu: i miss my fury warrior lol
+[5:00:19] PretzelRocks: Now Playing: Vault Hunter by Popskyy -> https://prtzl.io/5zHemD44GOZ6WvtB
+[5:00:34] MartittaXoXo: Since when was warrior damage so fast?? I’d like to see how fast a rogue is in retail! @swifty
+[5:01:17] LightKernel: @PretzelRocks Do you know how to turn off ads for me (I'm subbed)?
+[5:01:18] Maria_Neefay: swifty, any cod later? :P
+[5:01:25] Blutkessel: !addons
+[5:01:25] StreamElements: Swifty uses the following addons on Shadowlands: Bartendar4, Healers Have to Die (H.H.T.D), BattlegroundEnemies, GladiatorLOSSA, ClassicNumbers, Coordinates, Gladius, Handynotes, PVPSound, MonkeySpeed, WeakAuras, Zereth Mortis Puzzle Helper -- For BCC addons !classic
+[5:01:26] Talason: they teabag me
+[5:01:35] Supergoatz: is arms or fury better in retail pvp?
+[5:01:47] Armndeadly: It's 5 to 1  and they are still not winning lol
+[5:01:49] Talason: no
+[5:01:56] Talason: sup maria
+[5:02:03] Blutkessel: !classic
+[5:02:03] StreamElements: Swifty uses the following addons for BCC: Auctionator (Burning Crusade Classic Fix), BrightleafNameplateClassColors, ClssicCodex, Details! Damage Meter,  LFG Bulletin Board, Reputable (BCC), sArena, WeakAuras, Deadly Boss Mods
+[5:02:42] Monoultra: monks man they just dont die
+[5:03:02] sendludezxdd: it makes me sad that fury doesnt get bladestorm now :(
+[5:03:09] au_chilli: That looks huge fun
+[5:03:27] Partytime9: Fury def looks fun
+[5:03:54] PretzelRocks: Now Playing: Always by My Side by Afilion -> https://prtzl.io/wyHP37JaPXDbMXHV
+[5:03:55] Monoultra: That looked straight out of diablo 32
+[5:04:29] mind_reader26: SWIFTY can u say hello to my son his name is cesar :)!! me and my son are watching you
+[5:04:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[5:04:53] BilidanRO: swifty calsic pvp or reateli
+[5:04:55] sendludezxdd: i would still rather habve bladestorm
+[5:05:01] Raithnarok: Pvp in this game is literal hemorrhoids. Like what can you do when someone has 5 people healing them.
+[5:05:10] StreamElements: Type !points to see how many points you have!
+[5:05:19] SubiiWReX: SubiiWReX subscribed with Prime. 
+[5:05:19] SubiiWReX: SubiiWReX subscribed with Prime. 
+[5:05:19] StreamElements: SubiiWReX just subscribed PogChamp
+[5:05:22] vanhimmelman: Do you need Frenzied Flurry with this build?
+[5:05:33] MichaelDanmark: learn to love to die
+[5:05:35] jackelizer_x: @Swifty you have single minded fury
+[5:05:36] SubiiWReX: <3
+[5:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:05:56] jackelizer_x: @Swifty go for raging blow talents
+[5:07:03] jackelizer_x: @Swifty the ones on the right
+[5:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[5:07:21] twistedspinach: what do you think about the pre patch?
+[5:07:28] jackelizer_x: @Swifty and Reckless Abandon makes your raging blow to charge to your target...to charge those mages
+[5:07:28] Hellreaperwow: type raging blow in the search bar and it will tell you all the points that have to deal with it
+[5:07:48] PretzelRocks: Now Playing: Hazel's Comet by Harris Heller -> https://prtzl.io/OZHvaK4YaAmgQ8Fv
+[5:08:18] gilmore_happy27: are you still trying that monk?
+[5:08:24] blastibator: I decided to go Prot this season, and use my DK alt as my DPS :D Not sure on the new war dps talents
+[5:09:03] blastibator: You've got me interested in this fury build though :P
+[5:09:18] desmodus88: can u use that points for another character and make hierfull gear?
+[5:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:10:04] PretzelRocks: Now Playing: Smooth by Afilion -> https://prtzl.io/DaHVbm11j2pGVaTL
+[5:10:10] MichaelDanmark: mongoose
+[5:11:09] Sinsteel: doesnt look like wrath ><
+[5:11:38] MichaelDanmark: it is
+[5:11:43] jackelizer_x: @Swifty instead of anger management you can go reckless abandon to make your raging blow  charge 10 yards
+[5:11:54] Sinsteel: jebaited
+[5:11:58] PsychoWarren: LUL LUL
+[5:13:04] mind_reader26: swifty have u ever got to glad beeing fury before?
+[5:14:03] blastibator: damn look at that head lol
+[5:14:09] blastibator: head armor OP
+[5:14:30] Nathanonfire: tanks were absolutely broken in BFA
+[5:14:40] blastibator: sick mount
+[5:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[5:14:42] instagib2: what is the name of that mount?
+[5:14:53] PretzelRocks: Now Playing: Breath of Anything by Harris Heller -> https://prtzl.io/mLHGMLb4Ov3m9Dh3
+[5:14:58] blastibator: WAHLOCK
+[5:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:15:11] Slayer_Eagleone: thats one tanky SHOO SHOO LUL
+[5:15:22] blastibator: you got this
+[5:15:32] au_chilli: Let’s do it
+[5:15:41] redsigntv: hello
+[5:15:57] dandell94: It depends on your rating, if you're above 1.6k you need to win 3 at least to not lose rating
+[5:16:01] mind_reader26: SWIFTY POWAAA!!
+[5:16:11] redsigntv: ohh sword and board clappin i see
+[5:16:32] High_Exalted: does swifty use gladiusex ? @chat
+[5:16:38] au_chilli: Is the fps slow
+[5:17:27] mind_reader26: OHHHHHH GOLASOOOO
+[5:17:28] PretzelRocks: Now Playing: Sunny Day Part 2 by Miracle Of Sound -> https://prtzl.io/mLHGMLEZ7xdj86u3
+[5:17:52] Sallow: No stance?
+[5:18:21] MichaelDanmark: swifty it takes ressources to change that talent text you know for blizzard . So it can be expected in next patch for the text to change
+[5:19:01] blastibator: unlimited wahlock potential
+[5:19:03] blastibator: XD
+[5:19:09] Nathanonfire: the patch notes that came on on the most recent post today didnt have anything for warriors on it
+[5:19:10] dandell94: That poor arms warrior lol
+[5:19:26] PretzelRocks: Now Playing: Shadow by F1NG3RS -> https://prtzl.io/7GHYQ2pDGkvxdZI9
+[5:19:40] StreamElements: Type !points to see how many points you have!
+[5:19:49] blastibator: ez pz
+[5:19:54] mind_reader26: how do i get swiftys armor transmog???
+[5:19:56] Druzial: holy hell. swifty!, used to watch ur youtube videos on vanilla pvp, glad to see u still at it. cheers mate.
+[5:19:57] au_chilli: 2 locks on 1 guy, he was toast
+[5:20:00] cy4nerd: dude use your stance
+[5:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:20:23] mind_reader26: O-O damn ill never get it lmao
+[5:20:24] HazyWings: nice crit OG
+[5:20:48] segui_fr: LUL
+[5:20:49] au_chilli: HS lol
+[5:21:00] blastibator: wait no stance?
+[5:21:03] blastibator: xD
+[5:21:10] aspectgamin: what is this
+[5:21:12] Slayer_Eagleone: thats a tanky SHOO SHOO LUL
+[5:21:22] MichaelDanmark: u didnt use stance yes
+[5:21:46] bleeding17: Yo Swifty, Have you had problems with mouse keybinds in retail?
+[5:21:47] au_chilli: Yes, stances help
+[5:22:14] blastibator: damn now i wanna try solo shuffle as prot war LOL
+[5:22:20] blastibator: this looks fun
+[5:22:24] PretzelRocks: Now Playing: Orbit by James Scholes, Martin Hilton, Adam Huxley, Oliver Peters -> https://prtzl.io/xyHQnZX7zMaXEjTE
+[5:23:14] jackelizer_x: @Swifty Reckless Abandon will cause your raging blow to gain 10 yard range and charge to your target
+[5:23:19] MichaelDanmark: it was rigth there
+[5:23:21] MichaelDanmark: lol
+[5:23:25] jackelizer_x: @Swifty whenever you use Recklessness
+[5:23:26] MichaelDanmark: you hovered over it for like 5 seoncs
+[5:23:38] MichaelDanmark: you dont take anger management
+[5:23:46] MichaelDanmark: so u get charge when u raging blow
+[5:24:03] EliBourne: its passive
+[5:24:18] aspectgamin: is this live right now or a beta thing?
+[5:24:19] jackelizer_x: @Swifty yes, use it on a target dummy
+[5:24:37] jackelizer_x: @Swifty yes yes, it charges to your target if it's in 10 yd range
+[5:24:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[5:24:45] electricfeel93: @aspectgamin it’s live
+[5:25:01] jackelizer_x: @Swifty yes but you have a chance when you rampage to pop recklessness
+[5:25:02] MichaelDanmark: its rly good swifty cuz u were stuck constantly
+[5:25:03] MichaelDanmark: in pvp
+[5:25:09] aspectgamin: @electricfeel93 ty!!
+[5:25:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:25:15] EliBourne: theres an enhanced execute that rushed forward 10 yards also
+[5:25:22] chumpz_tv: is there a ui scale setting now or no?
+[5:25:37] jackelizer_x: @Swifty It doesnt break snares but you got a PVP talent to break snares
+[5:25:40] darkpaladin01: would't hurt to try it out one time
+[5:25:58] jackelizer_x: there is a pvp talent to remove snares
+[5:26:06] PretzelRocks: Now Playing: Origins by Afilion -> https://prtzl.io/DaHVbmW8zzLxnmiL
+[5:26:09] UFO_iv: yea
+[5:26:14] electricfeel93: @aspectgamin np man
+[5:26:22] SpazzThrasher: I'm having fun leveling again, it feels like you get a little reward each level again, I'm leveling fury
+[5:26:31] mind_reader26: next expansion u going fury??
+[5:26:41] HeIlraiser_: wowhead employee
+[5:27:15] darkpaladin01: bet build not live patch
+[5:27:26] EliBourne: nerfs ?
+[5:27:40] TheEndIsNear777: Nerf swifty! Yea!
+[5:27:43] TheEndIsNear777: xd
+[5:27:45] darkpaladin01: nerfs are on the beta not the live servers
+[5:28:17] MichaelDanmark: lol
+[5:28:32] omnivous86: arms or fury what is your better opinion?
+[5:28:35] EliBourne: swifty thats beta
+[5:28:38] MichaelDanmark: swiftyyyyy
+[5:29:25] newkingcody: what is that little square under your camera @Swifty
+[5:29:39] omnivous86: swifty I don't know if you answered my question my video feed cut out
+[5:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:29:56] sifer007: LUL
+[5:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[5:30:33] PretzelRocks: Now Playing: Robot Uprising by Abstraction -> https://prtzl.io/vyHLV9QKyBl7NyUy
+[5:30:42] jackelizer_x: there is a PVP talent to remove snares btw ;)
+[5:30:46] Anicary_: OMG LOL!
+[5:30:50] GamingWithBazza: how many is that haha
+[5:30:51] blastnovaarea52: swiftyCRISP swiftyCRISP swiftyCRISP
+[5:30:52] MichaelDanmark: its like leap barb
+[5:30:54] ChrisbBaconTTV: Couple years away from retail, what the hell was that
+[5:30:56] EliBourne: lulz
+[5:31:10] tyzzomg: hola swfifty buenas noches crack
+[5:31:14] TheEndIsNear777: Hulk smash
+[5:31:16] EliBourne: there can be a lot of leaps depending
+[5:31:17] Gatsby_33: @TonNav XDD
+[5:31:17] aspectgamin: that leaping is broke
+[5:31:41] meady: And yet they give my ret pally 2 horse charges gg blizz
+[5:31:49] blastibator: PogChamp PogChamp PogChamp
+[5:31:50] theoriginalseth: @Swifty we wont be able to pvp as prot any more?
+[5:31:58] Astarus378: the other 5% leach its on prot warr
+[5:32:00] mind_reader26: swifty u gonna stream tomorrow??
+[5:32:01] MichaelDanmark: ITS TOO FUN REMOVE IT
+[5:32:12] ribelmoizant: Hey Swifty, I am new with warrior, how can you do Heroic Leap 6 times?
+[5:33:13] MichaelDanmark: intercept
+[5:33:43] justjoshingyo: basically prot warrior is useless ...but gurdian druid unkillable
+[5:33:58] justjoshingyo: in pvp
+[5:34:03] ovidiucristian: hammer time !
+[5:34:11] ghostshockzx: Swiftyyy
+[5:34:14] bleeding17: Yo Swifty, Have you had problems with mouse keybinds in retail?
+[5:34:32] mind_reader26: SWIFTY  u gonna stream tomorrow bro?
+[5:34:34] TheEndIsNear777: Hospital swifty, saving ppl 1 at a time!
+[5:34:36] Zectivus: have you tried havoc demon hunter?
+[5:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[5:35:10] StreamElements: Type !points to see how many points you have!
+[5:35:28] theoriginalseth: !points
+[5:35:28] StreamElements: @theoriginalseth, theoriginalseth has 661 points and is rank 73019/330142 on the leaderboard.
+[5:35:32] blastnovaarea52: smart to ask the wife
+[5:35:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:35:40] darkpaladin01: are you going to have the wow twitch drop on ?
+[5:35:58] spacereaper44: swifty sabe español OP🥵
+[5:36:06] darkpaladin01: starts on the 15th
+[5:36:35] FiveButtonss: Been watching you for years, glad to see ur still smashing
+[5:36:43] Kyusinx: link that patch note please
+[5:37:27] EliBourne: full circle lol
+[5:37:49] EliBourne: thatas what spell refelct used to do
+[5:37:53] PretzelRocks: Now Playing: Acid Rain by F1NG3RS -> https://prtzl.io/AOHQbM455OVmv8Tp
+[5:37:54] yesitssssssssss: the new twitch Recap is great
+[5:38:39] Anicary_: watch for 4 hours and receive the mount?
+[5:38:53] MichaelDanmark: yds
+[5:38:55] MichaelDanmark: yes
+[5:39:21] sifer007: man i want that
+[5:39:23] solsaver12: yup ugly pet lol
+[5:39:27] HeIlraiser_: who asked for that stuff lol
+[5:39:34] sifer007: gift me 2 subs swfity
+[5:39:34] MichaelDanmark: u just need to link up bnet to twitch
+[5:39:36] MichaelDanmark: thats it
+[5:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:39:55] meady: That is not adorable looks like something from a horror movie
+[5:40:00] Warpdancer_Live: omg that room
+[5:40:11] Warpdancer_Live: wheres the dobloones
+[5:40:22] HeIlraiser_: bet it does nothing
+[5:41:17] Xenoversss: what was that
+[5:41:41] PretzelRocks: Now Playing: Balancing Act by Afilion -> https://prtzl.io/4JH5b3NMWnmvXAUO
+[5:42:04] blastnovaarea52: PopCorn PopCorn PopCorn
+[5:42:10] Putcride: is he a Persian
+[5:42:11] Kyusinx: For the 12 month bonus mounts is it possible to redeem 12 tokens into Blizz-balance and buy 1 year or WoW with that?
+[5:42:42] Galdrena: you should be able to @Kyusinx
+[5:42:49] Galdrena: at least i don't see why not lol
+[5:43:24] ribelmoizant: I need one of those hahaa
+[5:43:44] ribelmoizant: o.o
+[5:44:03] AnitaGrnKard: @Kyusinx You need to have a recurring subscription for the mounts etc.
+[5:44:08] HeIlraiser_: do same thing with a broken aerial
+[5:44:09] gutsu13011: Is the gear upgrade has been fixed guys ?
+[5:44:21] Olcami_: PokLucario PokLucario
+[5:44:25] Kyusinx: @Galdrena I know if you redeem 6 tokens at once in game for WoW time it doesn't count as Subbing for 6 months. (no free mount) but I never tried converting 12 tokens into Balance and using that to "buy" the 1 year Sub
+[5:44:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[5:45:03] PretzelRocks: Now Playing: Don't Follow by Afilion -> https://prtzl.io/nLHGK44DdKvwV8TX
+[5:45:06] seth878: can i  show us ur characters mog thatuer wearing
+[5:45:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:45:40] lenustm: do you play that auto attack build ?
+[5:45:50] onesadkeanu: Prepatch is meh... waiting for evoker
+[5:46:10] onesadkeanu: too many broken things
+[5:46:44] LightKernel: Is  that mage wearing PLATE?
+[5:47:06] BilidanRO: did you play as retri pala on retail and if yes haw is it?
+[5:47:23] HeIlraiser_: thats wow
+[5:47:44] ovidiucristian: mage has been the warrior's mortal enemy since classic
+[5:48:11] ralticz: still boggles my mind that warriors are more squishy than people wearing rags >=/
+[5:48:36] PretzelRocks: Now Playing: Cryomorph by zircon -> https://prtzl.io/Y1HyVNYpKPgO4mHW
+[5:48:36] mythiix888: Hey swifty what do you enjoy more, retail or warth classic for pvp?
+[5:48:43] HeIlraiser_: its just terrible balance
+[5:48:54] Armndeadly: A priest was healing the mage
+[5:48:57] meady: Makes me laugh how mages out heal so called hybrid specs
+[5:49:18] itsangelbro: hey swifty :)
+[5:49:36] seth878: so do u think wrath is gonna be better than DF o_o
+[5:49:40] StreamElements: Type !points to see how many points you have!
+[5:49:42] Waffleewiizard: why showing the crit that big?
+[5:50:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:50:19] Kyusinx: For some reason the damage numbers in my game are way smaller (the actual font)
+[5:50:32] zafantomu: What's your favorite raid through out WOLTK?
+[5:51:12] Slayer_Eagleone: THATS A TANKY SHOO SHOO LUL
+[5:51:21] Sam4os3: could you show your talents pls
+[5:51:25] zafantomu: Naxx is my fav through vanilla and wotlk. Goat raid
+[5:51:29] colezii1: No wotlk for swifty?
+[5:51:54] jackelizer_x: don't forget to pop recklessness for raging blow 10 yard charge :D
+[5:52:10] itsangelbro: bro i remember watching you since mop you havent aged a bit lol
+[5:52:16] PretzelRocks: Now Playing: You and Me by Afilion -> https://prtzl.io/QbHvgJkweEL4E2fG
+[5:52:21] Garthd: Love this guy
+[5:52:39] meady: Don’t forget the cat swifty
+[5:52:41] RyanRocketTV: RyanoRocket subscribed with Prime. They've subscribed for 27 months, currently on a 2 month streak! Hey Swifty, thanks for the content, you rock man. I have been trying to get back into streaming. Do you have any advice to get new followers it has been tough starting again.
+[5:52:42] StreamElements: RyanoRocket just subscribed for 27 months in a row PogChamp
+[5:52:53] gutsu13011: Hey guys ! Does the gear upgrade has been fixed pls?
+[5:52:59] LightKernel: That mage thought he was going to own you
+[5:53:45] recordboredom: Have a schedule.
+[5:53:52] recordboredom: Interact with chat
+[5:53:54] blasticosz: hey @swifty 👋🏼
+[5:54:06] Galdrena: twitch has a new shoutout .. is it ok if i use it on him @Swifty ?
+[5:54:17] Malakai_OfficialTTV: Miss that OG Grand Marshall warrior set!
+[5:54:26] itsangelbro: yeah
+[5:54:30] Beastafied: Social media is just drama anyways
+[5:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[5:54:49] zafantomu: need social media to keep an audience, otherwise viewer base disappears
+[5:54:50] itsangelbro: swifty is an OG <3
+[5:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[5:55:13] Anicary_: It is , alot of Egirls are doing it
+[5:55:22] PretzelRocks: Now Playing: Divine Nation by Harris Heller -> https://prtzl.io/X1HyYp1BObAlzZCA
+[5:55:24] seth878: is it difficult to lvl 1-70 on wrath rn?
+[5:55:25] LightKernel: New efforts in Washington to ban Tiktok as of today
+[5:55:25] RyanRocketTV: Cool thanks for the information
+[5:55:36] RyanRocketTV: Im no Egirl Im just a dude
+[5:55:44] Galdrena: twitter and instagram
+[5:55:51] Waffleewiizard: whats that addon for horde players to show?
+[5:56:06] RyanRocketTV: !gamble 100
+[5:56:07] StreamElements: RyanoRocket lost 100 points in roulette and now has 2657 points! FeelsBadMan
+[5:56:55] gutsu13011: Hey guys ! Is the gear upgrade fixed in SL pls?
+[5:56:55] RyanRocketTV: !gamble 300
+[5:56:55] StreamElements: RyanoRocket lost 300 points in roulette and now has 2357 points! FeelsBadMan
+[5:56:58] Malakai_OfficialTTV: I remember back when Swifty used FRAPS
+[5:57:10] RyanRocketTV: !gamble 1000
+[5:57:10] StreamElements: RyanoRocket lost 1000 points in roulette and now has 1357 points! FeelsBadMan
+[5:57:16] Sam4os3: show ur build pls
+[5:57:20] gutsu13011: thx dude !
+[5:57:21] PretzelRocks: Now Playing: All Around Us by Afilion -> https://prtzl.io/mLHGMEZN1NOxP6C3
+[5:57:26] lenustm: show your build
+[5:57:31] Waffleewiizard: !gamble 300
+[5:57:31] StreamElements: @wafflewiizard, you only have 3 points.
+[5:57:31] RyanRocketTV: !gamble 500
+[5:57:36] KentcementTV: @Swifty Can you show builld for 5 sec?
+[5:57:43] Slayer_Eagleone: swifty are mages the tankiest class in WoW?
+[5:57:48] meady: I remember Fraps use to use that a lot
+[5:57:51] RyanRocketTV: !gamble 600
+[5:57:51] StreamElements: RyanoRocket lost 600 points in roulette and now has 757 points! FeelsBadMan
+[5:57:52] lenustm: !gamble all
+[5:58:05] thamysticog: Yo Swifty there is a New Game that you will like did you hear about it Dark and Darker
+[5:58:07] lenustm: !points
+[5:58:08] StreamElements: @lenustm, lenustm has 3997 points and is rank 14865/330198 on the leaderboard.
+[5:58:15] mythiix888: what class/spec that has the most burst damage in this preptch?
+[5:58:22] RyanRocketTV: !gamble all
+[5:58:22] StreamElements: PogChamp RyanoRocket went all in and won 757 points PogChamp he now has 1514 points FeelsGoodMan
+[5:58:31] Waffleewiizard: what are those searching signs for?
+[5:58:46] lenustm: !gamble 3997
+[5:58:46] StreamElements: lenustm went all in and lost every single one of his 3997 points LUL
+[5:58:46] RyanRocketTV: !gamble 500
+[5:59:12] StreamElements: lene_yo went all in and lost every single one of his 219 points LUL
+[5:59:13] RyanRocketTV: !gamble 501
+[5:59:29] RyanRocketTV: !gamble 300
+[5:59:29] StreamElements: RyanoRocket won 300 points in roulette and now has 1814 points! FeelsGoodMan
+[5:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:00:00] Vendetta285: !gamble all
+[6:00:00] StreamElements: PogChamp Vendetta285 went all in and won 4549 points PogChamp he now has 9098 points FeelsGoodMan
+[6:00:06] RyanRocketTV: !gamble 1
+[6:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[6:00:23] RyanRocketTV: !gamble 200
+[6:00:24] StreamElements: RyanoRocket lost 200 points in roulette and now has 1614 points! FeelsBadMan
+[6:00:40] ribelmoizant: my shattering throw does not break the pally bubble anymore
+[6:00:41] PretzelRocks: Now Playing: Step Back by Afilion -> https://prtzl.io/zyH9LebJpZ4g5xTz
+[6:00:44] RyanRocketTV: !gamble 500
+[6:00:44] StreamElements: RyanoRocket lost 500 points in roulette and now has 1144 points! FeelsBadMan
+[6:01:00] mustalammas1: Whats your arena rating in wotlk atm?
+[6:01:04] RyanRocketTV: !gamble 502
+[6:01:04] StreamElements: RyanoRocket won 502 points in roulette and now has 1646 points! FeelsGoodMan
+[6:01:34] RyanRocketTV: !gamble 235
+[6:01:35] StreamElements: RyanoRocket won 235 points in roulette and now has 1881 points! FeelsGoodMan
+[6:01:39] xsilentsnowmanx: ok problably a dumb question but havnt played in a while,  Why cant i get rid or the stupid frame thing around my main action bar??
+[6:02:02] RyanRocketTV: !gamble 123
+[6:02:03] StreamElements: RyanoRocket lost 123 points in roulette and now has 1758 points! FeelsBadMan
+[6:02:13] mustalammas1: !gamble 200
+[6:02:13] StreamElements: mustalammas1 won 200 points in roulette and now has 407 points! FeelsGoodMan
+[6:02:17] qroott: !gamble 2000
+[6:02:23] RyanRocketTV: !gamble 300
+[6:02:23] StreamElements: RyanoRocket lost 300 points in roulette and now has 1458 points! FeelsBadMan
+[6:02:36] solsaver12: Its under your bars to hide art
+[6:02:52] RyanRocketTV: !gamble 700
+[6:02:53] StreamElements: RyanoRocket won 700 points in roulette and now has 2158 points! FeelsGoodMan
+[6:02:54] xsilentsnowmanx: of course its a hidden option so dumd
+[6:03:00] mustalammas1: !gamble 400
+[6:03:01] Hyple: @xsilentsnowmanx it is an option for your action bar 1 only
+[6:03:27] TheyCallMeUncleBro: click action bar 1 and check the box "hide art"
+[6:03:29] bleeding17: swiftyNohealer
+[6:03:33] RyanRocketTV: !gamble 100
+[6:03:33] StreamElements: RyanoRocket lost 100 points in roulette and now has 2058 points! FeelsBadMan
+[6:03:34] solsaver12: bring up edit mode click on your bar and to side you see option to hide art, click that
+[6:03:39] bleeding17: swiftyPsad
+[6:03:40] xsilentsnowmanx: @solsaver12 thanks
+[6:03:54] RyanRocketTV: !gamble 400
+[6:03:54] StreamElements: RyanoRocket lost 400 points in roulette and now has 1658 points! FeelsBadMan
+[6:03:57] solsaver12: yw
+[6:04:20] RyanRocketTV: !gamble 631
+[6:04:20] StreamElements: RyanoRocket lost 631 points in roulette and now has 1027 points! FeelsBadMan
+[6:04:20] mustalammas1: !gamble 400
+[6:04:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[6:04:44] RyanRocketTV: !gamble 500
+[6:04:45] StreamElements: RyanoRocket won 500 points in roulette and now has 1527 points! FeelsGoodMan
+[6:04:51] mustalammas1: !gamble 200
+[6:05:10] StreamElements: Type !points to see how many points you have!
+[6:05:17] PretzelRocks: Now Playing: Tandoori Beats by zircon -> https://prtzl.io/MbHBvNDZb4yYgNs9
+[6:05:25] Malakai_OfficialTTV: The Massacre icon looks like the old Execute button
+[6:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:07:00] billybaroo1: do u have the thunderfury mog?
+[6:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[6:07:30] PretzelRocks: Now Playing: Freelancer by Harris Heller -> https://prtzl.io/X1HyYbgL6aYGNVIA
+[6:09:24] RyanRocketTV: !gamble 200
+[6:09:24] StreamElements: RyanoRocket won 200 points in roulette and now has 1727 points! FeelsGoodMan
+[6:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:09:43] Vinlandkk: yep you can
+[6:09:47] ccnn24: !gamble all
+[6:09:47] StreamElements: PogChamp ccnn24 went all in and won 51 points PogChamp he now has 102 points FeelsGoodMan
+[6:09:50] EliBourne: !gamble 25%
+[6:10:19] EliBourne: !gamble 24%
+[6:10:19] StreamElements: EliBourne lost 1807 points in roulette and now has 5723 points! FeelsBadMan
+[6:10:45] PretzelRocks: Now Playing: San Fransyntho by Harris Heller -> https://prtzl.io/yyHDPeNZzzX3LEtL
+[6:12:09] kobzorr: daaaamn
+[6:12:10] Vinlandkk: 0 dmg dk
+[6:12:34] pawliq: activate zerk stance, 15% autoattack dmg
+[6:12:54] soupman__: whats swifty dmg number addon?
+[6:12:56] EliBourne: told you guys fury was gonna be good
+[6:13:37] PretzelRocks: Now Playing: Diamond Conundrum by Abstraction -> https://prtzl.io/PDHy9WW3d7ve1Wtm
+[6:14:02] EliBourne: i only died 3 or 4 times in beta i usually die constantly
+[6:14:12] Malakai_OfficialTTV: The crit % is more favorable w/ GM 1H sword than Thunder fury magic dmg proc imo back then imo
+[6:14:35] itswilly_g: absorb absorb absorb absorb absorb absorb lmfao
+[6:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[6:14:42] itswilly_g: wow pvp is so broken haha
+[6:14:45] 3nKimi: Are your normal rotations spells not on ur actionbars?
+[6:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:15:47] EliBourne: @3nkimi swifty uses a lot of macros
+[6:16:25] PretzelRocks: Now Playing: Lust by Harris Heller -> https://prtzl.io/xyHQn9xMVwamLjIE
+[6:17:34] Pantteranova: Swifty you could look at MM hunt, they are great in 1v1
+[6:17:43] Malakai_OfficialTTV: LUL
+[6:19:04] PretzelRocks: Now Playing: Banhammer by Harris Heller -> https://prtzl.io/JbHVad4xy1gQ9xHo
+[6:19:41] StreamElements: Type !points to see how many points you have!
+[6:20:08] Slayer_Eagleone: SWIFTY its the new meta
+[6:20:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:20:12] newkingcody: swifty faction change to horde and go ORC
+[6:20:20] newkingcody: orc has great racials for pvp
+[6:20:23] RyanRocketTV: !gamble 123
+[6:20:24] StreamElements: RyanoRocket lost 123 points in roulette and now has 1634 points! FeelsBadMan
+[6:20:30] Malakai_OfficialTTV: What’s your all-time favorite two-handed weapon? :)
+[6:20:35] newkingcody: go horde !!!
+[6:20:44] billybaroo1: does it allow you to make the enemy bar bigger or do u have to use an addon?
+[6:20:47] terpvision420: Yo @swifty to all the guys talking about trying to quit soda earlier u have to try this thing it’s called “cirkul” look it up.
+[6:20:47] RyanRocketTV: !gamble 34
+[6:20:48] StreamElements: RyanoRocket lost 34 points in roulette and now has 1630 points! FeelsBadMan
+[6:20:48] newkingcody: tired of losing? go horde!!!
+[6:20:49] theoriginalseth: @Swifty My warlock is almost 60, we can pvp when i get the gear
+[6:21:13] RyanRocketTV: !gamble 300
+[6:21:13] StreamElements: RyanoRocket lost 300 points in roulette and now has 1330 points! FeelsBadMan
+[6:21:15] PretzelRocks: Now Playing: Neon Renegade by Harris Heller -> https://prtzl.io/a7HyjvXKWjpbG3C7
+[6:21:18] Modhnal: Do you like the new UI changes?
+[6:21:24] Slayer_Eagleone: swifty how come your alarm is always going off?
+[6:21:25] terpvision420: Yo swifty to all the guys talking about trying to quit soda earlier u have to try this thing it’s called “cirkul” look it up!
+[6:21:30] RyanRocketTV: !gamble 1001
+[6:21:30] StreamElements: RyanoRocket lost 1001 points in roulette and now has 329 points! FeelsBadMan
+[6:21:44] RyanRocketTV: !gamble all
+[6:21:53] Malakai_OfficialTTV: Yeahhh that’s right haha
+[6:22:05] newkingcody: @Swifty will you faction change and play orc or tauren ?
+[6:22:06] RyanRocketTV: !gamble 300
+[6:22:06] StreamElements: RyanoRocket won 300 points in roulette and now has 629 points! FeelsGoodMan
+[6:22:23] terpvision420: Yo @swifty to all the guys talking about trying to quit soda earlier u have to try this thing it’s called “cirkul” look it up I was driving earlier was wanting to tell u
+[6:22:39] recordboredom: Stop saying hey siri you’re setting off my speaker 🤣😅😂 my alarm went off
+[6:22:48] RyanRocketTV: !gamble 301
+[6:22:48] StreamElements: RyanoRocket lost 301 points in roulette and now has 328 points! FeelsBadMan
+[6:23:07] Slayer_Eagleone: why is swifty setting so many alarms LUL
+[6:23:08] PretzelRocks: Now Playing: Death by Doctor Vox -> https://prtzl.io/EaHbJdebA7Nx8oUB
+[6:23:24] RyanRocketTV: !gamble 200
+[6:23:24] StreamElements: RyanoRocket lost 200 points in roulette and now has 128 points! FeelsBadMan
+[6:23:58] nipslippers: hey swifty hows it going?
+[6:24:22] mariuccia92: !point
+[6:24:25] blacksabbath4242: exbcLetsgo PrideGasp
+[6:24:31] mariuccia92: !points
+[6:24:31] StreamElements: @mariuccia92, mariuccia92 has 10553 points and is rank 5617/330279 on the leaderboard.
+[6:24:34] blacksabbath4242: set up looks amazing
+[6:24:41] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[6:24:44] baldylocks80: !gamble 1000
+[6:24:44] StreamElements: baldylocks80 lost 1000 points in roulette and now has 7205 points! FeelsBadMan
+[6:25:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:25:11] Galdrena: i do
+[6:25:15] Galdrena: even my mouse mat LUL
+[6:25:17] mistermoonknight: Yes. Literally using the same mouse right now too lol
+[6:25:22] OteroGaming: i do as my razer naga started going funny
+[6:25:39] OteroGaming: in 90s? yeh
+[6:25:43] levendizz: hey swift!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[6:25:44] OteroGaming: i was young but yes
+[6:25:46] newkingcody: swifty faction change to horde
+[6:25:59] OteroGaming: the annoying balkl
+[6:26:01] OteroGaming: ball
+[6:26:03] Malakai_OfficialTTV: LUL LUL LUL
+[6:26:06] Slayer_Eagleone: DansGame ewwww
+[6:26:08] omnivous86: I remember
+[6:26:09] ribelmoizant: I remember those
+[6:26:18] Galdrena: i hated those lol
+[6:26:20] Slayer_Eagleone: was that a gaming mouse of the 90s?
+[6:26:28] OteroGaming: counterstrike with that mouse XD
+[6:26:29] levendizz: i remember that, back in my runescape days
+[6:26:32] Rarzakan: I feel old now
+[6:26:48] OteroGaming: @levendizz fite my wildy
+[6:26:54] Malakai_OfficialTTV: We had those and Plantronics headsets
+[6:26:59] OteroGaming: mr
+[6:27:06] levendizz: i had that too!
+[6:27:35] levendizz: haha feels
+[6:27:48] baldylocks80: those roller mouse were the worst.
+[6:28:02] FiveButtonss: Logitech G13 is the best
+[6:28:08] PretzelRocks: Now Playing: Sunsets and No Regrets (Sydney City) by Big Giant Circles -> https://prtzl.io/2AHOAmnzmYOpLzfk
+[6:28:31] pyrosince1985: I miss my Molten Razer Naga.
+[6:29:36] Malakai_OfficialTTV: LUL
+[6:29:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:30:01] justjoshingyo: i still have my molten raza naga like 20 buttons on the side lol
+[6:30:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[6:30:25] mr__drew: razer tartarus mouse is ccol
+[6:30:36] Slayer_Eagleone: chiqlet teef?
+[6:30:54] ottcan1: Looks like a laptop keyboard
+[6:31:38] Malakai_OfficialTTV: My first was DeathAdder V1 and then the Lachesis
+[6:31:44] PretzelRocks: Now Playing: Hengsha by Miracle Of Sound -> https://prtzl.io/LMHyOwVakWXP79HW
+[6:31:46] Rarzakan: I loved this mouse, had it for years
+[6:31:48] pyrosince1985: You didn't need any fancy software, you just flipped the switch on the bottom to change it from the number row to the numpad
+[6:31:56] Nosusee: Reminds me of my old WoW cata mouse
+[6:32:43] baldylocks80: baldylocks80 subscribed with Prime. They've subscribed for 5 months! Good luck in the BG, Swifty.
+[6:32:44] StreamElements: baldylocks80 just subscribed for 5 months in a row PogChamp
+[6:33:48] baldylocks80: That's why I LOVE fury. just a wrecking ball
+[6:34:29] PretzelRocks: Now Playing: Embrace by Afilion -> https://prtzl.io/mLHGMWMl6JMpLMC3
+[6:34:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[6:34:42] baldylocks80: hirukon mount from ZM
+[6:35:11] StreamElements: Type !points to see how many points you have!
+[6:35:41] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:37:38] Slayer_Eagleone: swifty ive done 10 bgs so far and ive lost 8. horde are insane tonight
+[6:38:06] PretzelRocks: Now Playing: Sea of Change by Afilion, Megan Levine -> https://prtzl.io/b4HyAVQ1e68GZxHO
+[6:38:13] Slayer_Eagleone: the horde just keep winning
+[6:38:30] BoricuaSJ: SO Monk Nerf hammer?? https://www.icy-veins.com/forums/topic/69328-dragonflight-1002-pre-patch-hotfixes-november-1st/
+[6:39:23] laito_: demon hunters and monks were one-shottin right?
+[6:39:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:39:47] newkingcody: FACTION CHANGE
+[6:40:04] newkingcody: ALLIANCE SUX AT PVP
+[6:40:07] Khlaro: That's me everytime I PvP. duckFB
+[6:40:11] Lazzius: Enhance nerf hammer hit harder, but probably warranted
+[6:40:55] theoriginalseth: @Swifty we are winning in the 50-59 bracket
+[6:40:56] laito_: not playing prot?
+[6:41:15] zante619: soon you will get honor lvl 500 mount pog
+[6:41:28] joshmello: Horde can fight as alliance and get the bonus
+[6:42:07] joshmello: Ahhh
+[6:42:09] joshmello: Dumb
+[6:42:23] PretzelRocks: Now Playing: Hover by Helen Tess, Icehunt -> https://prtzl.io/wyHP3aavjGkMwvcV
+[6:42:39] BoricuaSJ: last night in the BG I was, I was top alliance heals.. as a hunter.  lol we won too. :P
+[6:42:54] joshmello: Lol
+[6:42:56] laito_: U guys know if 40-49 is a good bracket? I don't wanna deal with shadowlands covenant stuff
+[6:44:17] Slayer_Eagleone: LUL
+[6:44:31] Slayer_Eagleone: swifty can you play the premade clip with chinglish?
+[6:44:36] Slayer_Eagleone: its so good
+[6:44:41] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[6:44:54] joshmello: Man I use to watch you non stop in Cata those were the good days time flies
+[6:45:04] EliBourne: death sentence : execute charges you up to 15 yards away
+[6:45:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:46:01] laito_: That ocular beam damage needs a nerf imo
+[6:46:30] PretzelRocks: Now Playing: Wayfarer by Harris Heller -> https://prtzl.io/vyHLVK3VaW5jVLty
+[6:47:18] Slayer_Eagleone: why does solo shuffle take so long for dps. the queues are too long
+[6:47:23] EliBourne: n o i have it right now
+[6:47:37] EliBourne: its a pvp talent
+[6:48:05] Mercesle: @Swifty  Is the game house still around?
+[6:48:25] joshmello: Damn
+[6:48:28] Mercesle: awww man D:
+[6:48:42] PretzelRocks: Now Playing: The Startup by Harris Heller -> https://prtzl.io/BOHYbMwdB21EEVSK
+[6:48:51] OteroGaming: an anyone reccomend a monitor? C
+[6:48:57] Galdrena: dang i've been around since WoD LOL
+[6:48:58] Mercesle: I was too young when it was around!
+[6:49:13] Velashen: Housing costs are outrageous.
+[6:49:15] SSD511_: Is retail fun now I didn’t play for months
+[6:49:40] StreamElements: Type !points to see how many points you have!
+[6:49:52] billybaroo1: can u always 1v1 a dh?
+[6:50:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:50:16] thamysticog: is hunter good markman/Surival
+[6:50:33] thamysticog: !gamble all
+[6:50:34] StreamElements: thamysticog went all in and lost every single one of his 22090 points LUL
+[6:51:04] PretzelRocks: Now Playing: Serenity - Instrumental by Afilion -> https://prtzl.io/DaHVb8ymn6apQGsL
+[6:51:04] baldylocks80: !gamble all
+[6:51:04] StreamElements: baldylocks80 went all in and lost every single one of his 7768 points LUL
+[6:54:12] PretzelRocks: Now Playing: Now or Never by Afilion -> https://prtzl.io/wyHP3NKPKEamjBiV
+[6:54:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[6:54:48] manly_mister_: Hey Swifty!
+[6:55:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:55:11] RyanRocketTV: ryanor2Workn
+[6:55:13] baldylocks80: time for chess?
+[6:55:23] loukatmie: !gamble all
+[6:55:24] StreamElements: daydream13 went all in and lost every single one of his 22972 points LUL
+[6:55:30] RyanRocketTV: ryanor2Kitty
+[6:55:50] RyanRocketTV: ryanor2Workn ryanor2Workn
+[6:56:00] ShadyClaws_: how solo shuffle estimated waiting 5 min? I really dont understand, just random 6 people not that much
+[6:56:20] RyanRocketTV: ryanor2GG
+[6:56:28] RyanRocketTV: Do you need a healer Swifty?
+[6:57:05] RyanRocketTV: what server are you on?
+[6:57:42] PretzelRocks: Now Playing: Minus One by Harris Heller -> https://prtzl.io/1kH7LZ1zl2OZMWTY
+[6:57:57] hickey7979: are you liking the new talent trees
+[6:58:07] R0dimes: stormrage? @Swifty
+[6:59:01] joshmello: Lmao
+[6:59:11] Slayer_Eagleone: D:
+[6:59:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[6:59:41] HakunaMaTony: FULCRUM COME IN
+[7:00:10] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[7:00:37] nosebleedlol: haha
+[7:00:37] PretzelRocks: Now Playing: Avarice by Harris Heller -> https://prtzl.io/pLHabEMDbbQNaOf8
+[7:01:37] EliBourne: better not
+[7:01:49] Robbathehutt: Tap the eye over and over.
+[7:01:59] EliBourne: its called SOLO for a reason
+[7:02:18] onesadkeanu: Solo shuffle is trash atm. You literally can leave, and you lose no rating.. I am at 1800 that is what people do when they are about to lose...
+[7:02:19] Robbathehutt: It will turn red.
+[7:02:22] PretzelRocks: Now Playing: Terminate by F1NG3RS -> https://prtzl.io/enHGJPJ88LYXxEHA
+[7:02:37] KIILLINIT: The fury and arms trees look pretty good
+[7:02:57] EliBourne: solo queue is broken
+[7:03:02] onesadkeanu: Not that I have seen...and i dont get rating as well
+[7:03:09] onesadkeanu: so i win 5 games
+[7:03:18] onesadkeanu: and they can leave i get nothing
+[7:04:01] BoricuaSJ: LOL Elon Musk https://twitter.com/elonmusk/status/1587498907336118274
+[7:04:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[7:05:10] StreamElements: Type !points to see how many points you have!
+[7:05:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:06:19] The_Master_Lich: why is that good or bad?
+[7:06:27] Praetekt: HeyGuys chat
+[7:06:58] PretzelRocks: Now Playing: 88 MPH Disco by Harris Heller -> https://prtzl.io/GjHVkpVDDpJZyDID
+[7:07:01] Slayer_Eagleone: F?
+[7:07:10] StreamElements: • No Sexual, Religious, Drug Related, Racist or Political Discussions/Topics • No Discussion of Private WoW Servers of any kind. • No Offensive Language or Sexual Innuendo. • No Advertising or Spamming. • No Links. • No Trolling in a Harmful Manner. • Please keep the negativity to a minimum • Be respectful of mods and viewers •
+[7:07:19] DarkKeatMasters: your music game leveled up so hard recently @Swifty
+[7:08:22] DarkKeatMasters: no no your music game as in the quality of it! its not too loud
+[7:08:40] atoker: can you use odyn's fury to activate avatar to get out of snares?
+[7:08:44] manly_mister_: He means your music is good haha
+[7:09:10] Rambuh: my man swifty, greetings from brazillll
+[7:09:11] EliBourne: he spent 44B for a 10B company lol
+[7:09:11] PretzelRocks: Now Playing: Welcome Anarchy by Harris Heller -> https://prtzl.io/2AHOAD8nmA5oaAIk
+[7:09:25] Slayer_Eagleone: DANNNG
+[7:09:34] Slayer_Eagleone: THATS A CRAZY DIP
+[7:09:40] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:09:44] Slayer_Eagleone: thats what you call a crash Swifty lol
+[7:09:47] recordboredom: Stocks are all about manipulation. It makes all the sense
+[7:10:01] FiveButtonss: DOGE is up like 147% this month
+[7:10:09] Rambuh: meta got a huge blow as well
+[7:10:33] FartMasterFlexx: check healthcare. Good place for growth rn
+[7:10:46] PretzelRocks: Now Playing: Iso by Harris Heller -> https://prtzl.io/X1HyYAAl38N8dbsA
+[7:11:04] FiveButtonss: cuz Zuch is dumping money in the metaverse
+[7:11:45] InsertFX: it just hit the previous low.. if it makes it, it's a nice buy, if it breaks the low, then nice sell.. Now, it's weird how Amazon has been doing I had stocks because I worked there and the split hit hard Amazon
+[7:11:49] FartMasterFlexx: UHC is up 9 perccent last six months.
+[7:12:29] sifer007: LUL
+[7:12:36] Macka39: quick, get swifty lol
+[7:12:45] 313thaamaznblue313: you are a monster !  gg
+[7:13:00] InsertFX: Before it was 3k
+[7:13:20] PretzelRocks: Now Playing: Try It by Afilion -> https://prtzl.io/oLHZNJ2JBQ3Mw5fg
+[7:13:44] ck_goblin: Hola Swifty! saludos desde Chile! <3
+[7:14:02] sluckyslaw7: go broke or go home
+[7:14:40] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[7:14:55] kekelsfloorpov: how many leaps was that lol
+[7:15:00] Macka39: WTH was that? lol
+[7:15:10] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:15:11] sluckyslaw7: wait that leap spam was cool
+[7:15:11] Kaetheras: @kofikoh 6
+[7:16:01] InsertFX: I like trading, I was doing great until the war... I lost like 16k in less than 3 months and I decided to stop haha. Not touching the markets until next year probably
+[7:16:07] Raxica: reminds me of leap build from diablo 3
+[7:16:08] Dethryl: Farming honor?
+[7:16:32] BoricuaSJ: Loving my BM hunter. shut down the healer. lol https://twitter.com/spacecpm/status/1587635398590726145
+[7:17:05] PretzelRocks: Now Playing: Touch the Sky by Martin Hilton, Adam Huxley, Oliver Peters -> https://prtzl.io/88HVl2Z34PYlW2cA
+[7:17:22] leftsideunder: ira
+[7:17:23] sluckyslaw7: buying an ira idk
+[7:17:25] baldylocks80: ira buting
+[7:17:26] BigHomieRodg: you bought an IRA for the first time
+[7:17:27] Demsy7: Stock market
+[7:17:29] baldylocks80: buying
+[7:18:24] Macka39: Solo shuffle is rough for new gearing right now lol
+[7:19:16] Demsy7: You know when you are down you just have to buy more. I am down 10k right now but coming off a jump of 25k from last year it balances itself out over the years
+[7:19:39] mrshowtyme: mrshowtyme subscribed with Prime. They've subscribed for 15 months! 
+[7:19:39] StreamElements: mrshowtyme just subscribed for 15 months in a row PogChamp
+[7:19:40] StreamElements: Type !points to see how many points you have!
+[7:19:55] Macka39: I was 272 and got whacked big time
+[7:20:02] PretzelRocks: Now Playing: Plasma Connection by Harris Heller -> https://prtzl.io/9GHY23evJjO791f9
+[7:20:08] OteroGaming: @Swifty When was the last time you played on EU?
+[7:20:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:21:13] omnivous86: do you use overwhelming rage?
+[7:21:23] SSD511_: I lost every solo shuffle because the people joining with green gear
+[7:22:27] lordzocke: Is there an option to have the old ui?
+[7:22:37] PretzelRocks: Now Playing: Honestly by Afilion -> https://prtzl.io/NaHymgQ9JdOE4Qum
+[7:23:00] 7thSaga: rellik4Gotem
+[7:23:14] TyGuyHunter: @Swifty how do to target swap in arenna? with TAB?
+[7:23:48] g00tchitson: @CrispyMarch happens to everyone so it balances out tbh. kill them when they're on the other team
+[7:24:41] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[7:25:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:25:26] killswiitch: Solo shuffle should be 2v2..
+[7:25:49] PretzelRocks: Now Playing: Beautiful Moments by JBZ99 -> https://prtzl.io/X1HyYz946VvNljUA
+[7:26:49] worldhealer: LUL
+[7:26:53] xsitdogx: hello I am classic player I'm thinking to buy dragonflight, worth to start retail rn?
+[7:27:28] OteroGaming: @xsitdogx next phase will be catch up event good time to come
+[7:28:18] xsitdogx: @oterogaming even if I never played retail? gskianPAPERABOOM
+[7:28:37] OteroGaming: Not got a max toon? u get a boost anyway
+[7:28:54] OteroGaming: 15th is an event for the xpac. U get good gear to catch up
+[7:29:02] PretzelRocks: Now Playing: Quasar by Harris Heller -> https://prtzl.io/b4HyAamxOeAZODcO
+[7:29:05] OteroGaming: and the new class is playable
+[7:29:06] xsitdogx: oh okay
+[7:29:26] OteroGaming: xp boost atm if u wawnted to play now and level toons
+[7:29:27] xsitdogx: thanks for info
+[7:29:33] OteroGaming: ive leveled 3 toons this week
+[7:29:35] g00tchitson: dont use a boost too fast, levelling to max in retail takes no time at all
+[7:29:41] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:29:45] g00tchitson: especially with current 50% xp bump
+[7:30:02] OteroGaming: might as well use it. dont matter when u use it I dont think
+[7:30:11] StreamElements: Subscribing: Removal of Twitch ads on Swifty's page, request songs no point cost,  Swifty's subscriber Icon, subscriber only chat and commands, Swifty's personal emotes, 500 points to use in redeeming prizes end enter giveaways (also rewarded on resub), up to 10x chances to win in giveaways, support to your favorite streamer. You can subscribe here: https://secure.twitch.tv/products/swifty/ticket
+[7:30:58] xsitdogx: feel confused about legendary stuffs
+[7:31:12] OteroGaming: talking about boost and the 15th of novermber event
+[7:31:16] g00tchitson: it's worth waiting so you know what you want to boost
+[7:31:28] OteroGaming: ah i guess
+[7:31:39] OteroGaming: i boosted my hunter elf. wanted dark elf so bad
+[7:31:48] OteroGaming: dark ranger
+[7:32:29] PretzelRocks: Now Playing: Zero Expectations by Afilion -> https://prtzl.io/3nHep3JdJ84ZJKhZ
+[7:32:56] OteroGaming: @Swifty When did u last play on EU
+[7:34:03] OteroGaming: itll be my first xpac since WoD that I stuck too. I was sorting my eye sight last few years. Look forward to raiding
+[7:34:41] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[7:34:49] OteroGaming: Think I told you. Was in hospital watching you often xD
+[7:35:04] ZoidBerg1984: ZoidBerg1984 subscribed at Tier 1. They've subscribed for 91 months! 
+[7:35:04] StreamElements: ZoidBerg1984 just subscribed for 91 months in a row PogChamp
+[7:35:11] StreamElements: Type !points to see how many points you have!
+[7:35:15] EliBourne: what exactly does one do to win a solo match ?
+[7:35:19] Sqwabbles: Swifty how is the diet going?
+[7:35:20] raycharlex95: is that gladius or a newer version that your using? @swifty
+[7:35:26] OteroGaming: yeh. corona haulted operations. Now getting stuff sorted
+[7:35:36] EliBourne: it seems RNG
+[7:35:39] ribelmoizant: someone knows if the shattering throw still breaks the pally bubbles?
+[7:35:41] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:35:54] Blackprint: estuvieron entretenidos esos encuentros (soy malena, la bruja xd)
+[7:36:15] cuttingedge2k: yeah battleground enemies showing up in arena along w/ gladius right now is super annoying
+[7:36:47] theoriginalseth: @Swifty Thanks for streaming today! Was fun to watch
+[7:36:58] denzel__washington__: did u try Arms ?
+[7:37:05] EliBourne: how do you get 6/6 if people in your group die ?
+[7:37:10] PretzelRocks: Now Playing: Cloak and Dagger by Harris Heller -> https://prtzl.io/QbHvgYNW8OwM4aCG
+[7:37:15] azatot_the_great: dk
+[7:37:53] EliBourne: bloodthrist
+[7:38:10] dangen86: it's because someone from your team is applying 25% mortal strike
+[7:38:15] MattAchuxD: its called slaughterhouse
+[7:38:21] dangen86: if that's in, then fury mortal wont apply until it falls
+[7:38:33] BoricuaSJ: what spec is your hunter?
+[7:39:03] BoricuaSJ: that is the worse. lol
+[7:39:22] MattAchuxD: swifty only time it overides is if its not 8 stacks if its 8 stacks of slaughterhouse it will not overide it btw
+[7:39:34] BoricuaSJ: BM hunter is better. I am at 57% mastery
+[7:39:41] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store
+[7:39:41] ERNO_MX: i havent played retail since legion i feel like i would be lost playing dragonflight
+[7:39:58] dangen86: yeah, if slaughterhouse is higher than 25% then it wont be overwritten
+[7:40:07] BoricuaSJ: my crit is 33%
+[7:40:30] BoricuaSJ: pve with some pvp
+[7:40:38] PretzelRocks: Now Playing: Digital Milestones by Harris Heller -> https://prtzl.io/nLHGK3YYgGZQBesX
+[7:41:07] TastyyBeverage: Hey sweet you're on Retail
+[7:42:39] BoricuaSJ: i have not yet
+[7:42:47] BoricuaSJ: just OW2 lol
+[7:43:21] PretzelRocks: Now Playing: On the Edge by Afilion -> https://prtzl.io/MbHBvMw6NaBdgLI9
+[7:44:05] MattAchuxD: it clogs your computer and have to delete clips alot or your drive gets full fast
+[7:44:08] OWhiteGaming: It works, its pretty handy
+[7:44:15] 1njectionz: thats for curseforge
+[7:44:17] TheCircusIsInTown: Overwolf
+[7:44:19] Not_maxpower13: Overwolf stuff
+[7:44:21] Ev0hz: looks like overwolf
+[7:44:24] Kromatik66: it comes with curse forge
+[7:44:25] 1njectionz: they put overwolf on it for being apart of curse forge
+[7:44:34] 1njectionz: trash app
+[7:44:41] StreamElements: Redeem Points at point store https://streamelements.com/swifty/store
+[7:44:44] Ev0hz: u gotta get the standalone curseforge app LUL
+[7:45:11] StreamElements: Viewers and Subscribers generate points! You can redeem them at store for on screen effects! https://streamelements.com/swifty/store

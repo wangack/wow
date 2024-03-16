@@ -1,0 +1,1054 @@
+[0:00:35] StreamElements: jdotb is now live! Streaming World of Warcraft: rdruid rising
+[0:01:22] WytherOK: agh my content drought is at an end
+[0:01:51] WytherOK: music loud or you're quiet
+[0:02:41] ihradrone: Are you playing with the bugged talent? :O
+[0:02:44] WytherOK: early for raid, just pugging?
+[0:02:53] ihradrone: or why does it show swarm?
+[0:03:19] ihradrone: AH ok saw it :)
+[0:04:00] TonyJhee: Mornin' JB
+[0:04:02] moth43: morning JB
+[0:04:14] TonyJhee: Looks like Resto druid gets the coveted 1:30 ramp spot
+[0:06:01] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[0:09:46] zooyep: lol
+[0:09:49] moonblast1215: What's your prepatch M+ talents jb
+[0:10:05] Dr_Jemon: Hey brother
+[0:10:08] Dr_Jemon: and good morning to you
+[0:10:08] zooyep: we're still kinda smug
+[0:11:41] LukouTV: !ui
+[0:11:41] StreamElements: Addons: https://pastebin.com/RBJ3FxXP WeakAuras: https://wago.io/p/jdotb Use !elvui for elvui imports
+[0:12:00] mc_killa8: for rdruid is there a better dps between feral and boomy or just whatever you're healing based on melee/ranged ?
+[0:12:54] zooyep: evangelism nerf was a bit much.. def feel that on big ramp frequency
+[0:14:31] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[0:14:41] Axiomu: all disc mains in shambles right now LUL
+[0:14:42] TonyJhee: Also, the apparent 40% increase to health and damage taken is an interesting change
+[0:14:46] TonyJhee: It makes sense though
+[0:14:54] TonyJhee: Health bars are moving too fast
+[0:15:21] TonyJhee: Smallpriest's 70k hps with 63% overheal
+[0:15:55] TLK___: or bring less healer
+[0:15:56] MacGregor3: wait 40% increased dmg taken?
+[0:16:17] TonyJhee: @MacGregor3 According to Max, yeah
+[0:16:32] TonyJhee: HP bars are 40% larger and mechanics from dungeons/raids do 40% more damage
+[0:16:48] MacGregor3: fuken hell
+[0:16:51] TonyJhee: So technically not 40% increased damage taken
+[0:17:01] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[0:17:10] TonyJhee: Which given how much damage people are doing one shotting people in PvP, also a welcome change for my arenas.
+[0:17:12] MacGregor3: yeah the other way is better, cus increased dmg taken is technically a more multi
+[0:17:34] holycashew: @MacGregor3 basically before you would take 50% of your helth from a hit and be almost instantly healed, now you still take 50% of your health in damage from the same hit but get healed slower
+[0:17:45] TonyJhee: I like the change
+[0:18:03] TonyJhee: Much better than moving towards the Legion type healing where everything hits and heals for 80% of your hp bar
+[0:18:10] MacGregor3: yeah agree
+[0:18:38] coweelissa: wait, isen't that just a straight up nerf to healing and making it harder to heal, and healthbar moves down the same pace?
+[0:18:48] TonyJhee: Technically, yes
+[0:18:51] MacGregor3: which healers benefit most from that style of healing u think? my pea dps brain is too dumb to think outside of 'leech gooder now'
+[0:18:53] Icycutes: KEKW
+[0:18:56] TonyJhee: But healers are doing so mcuh overhealing anyhow
+[0:18:57] astreamsobad: KEKW
+[0:18:58] holycashew: @TonyJhee I miss Legion Disc Priest, ultimate power in the palm of my hand. As long as I had mana xD
+[0:19:02] moth43: KEKW
+[0:19:08] GoodBoiTeddy: liddleLmao
+[0:19:19] TonyJhee: @MacGregor3 I mean, every healer is getting a benefit from it
+[0:19:29] tomacing: happens
+[0:19:43] Icycutes: bad parse, gotta try and reset. Respect
+[0:19:47] holycashew: imagine not taking wild charge in any content :)
+[0:20:00] Etherios_Prime: bruh
+[0:20:01] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[0:20:23] TonyJhee: I would have said Hpal would have gotten the biggest boon, but Hpal is now more of an HPS healer rather than a triage/spot healer
+[0:20:47] ESL_Awaiting: whatsup jb
+[0:20:50] inhale_my_fart_: !talents
+[0:20:50] StreamElements: BkGAGX1kx6Mci9Zl2t+S+sRoPCSSrVSkkgWSAC0SLJAAAAAAAAAAAAAKBhkACgESSwCiUQQCAAAAAAAA
+[0:20:55] Daddykyns: Daddykyns subscribed with Prime. They've subscribed for 23 months! 
+[0:21:16] jdotb: !command remove !talents
+[0:21:17] StreamElements: @jdotb, successfully removed command talents.
+[0:21:29] MacGregor3: wouldnt druid hots also gain more value than in a more burst heal format? because you can let them linger along with dps leech mechanics fx
+[0:22:44] capriccios: hello jb. you've already answered but why are you using kyr link with swarm?
+[0:22:46] Rypick: What are your thoughts with priest buff vs druid buff in the  healer position. Wit h the dps comparison of priest vs druid favoring druid would you lean more towards the priest for healer slot or do you think druid is just better dps still in the healer slot
+[0:23:28] TonyJhee: I think Rdruid would be net neutral (thought I am not certain). Their hots already match any rot damage that is happening. They currently move Hp bars from 90%-100%. With this change it's just them moving hp from 70%-80% with other healers spot healing.
+[0:24:18] BigComfyCouch: *monkey's paw curls*
+[0:24:27] TonyJhee: @Rypick I think we will still see double disc in RWF, but RDruid stonks are def rising.
+[0:24:34] TonyJhee: That said, boomkin still does the best spread out AoE in the game.
+[0:25:18] Rypick: @TonyJhee cheers
+[0:25:29] TonyJhee: Still highly likely we see a couple moonkins. That said, Shadow also has spread out AoE via Psychic link, so who knows.
+[0:25:38] capriccios: i mean, kyrian leggo still doesn't work with swarm right?
+[0:25:42] Qu_ad: balanced  FeelsStrongMan
+[0:25:55] Aggroboy: Balance FeelsStrongMan
+[0:26:01] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[0:26:10] MacGregor3: kekekeke
+[0:26:10] Etherios_Prime: got em
+[0:26:31] Qu_ad: senior moment
+[0:26:58] capriccios: oh i see now thanks
+[0:27:25] TonyJhee: Yo fellow healers in chat, who likes Caster Hpal? Wanna ask you what you like about it.
+[0:28:03] DevotiionR: plate tmogs
+[0:28:07] DevotiionR: thats litterely all
+[0:29:54] archangelazrael117: @TonyJhee i play caster pala
+[0:30:28] TonyJhee: @archangelazrael117 How you like it?
+[0:30:43] nixar1: grats
+[0:30:49] D0rk: lets go
+[0:30:52] Aggroboy: yo
+[0:31:01] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[0:31:03] archangelazrael117: @TonyJhee love it, my healing is not dependant on doing dps. i can do dps if i want to now instead of it being necessary.
+[0:31:32] scarwryn: thank god youre live this early.
+[0:31:51] laokung: yo jb what's your read on rdruid being every multiclass healers fav, do you also feel vindicated?
+[0:32:03] TonyJhee: @archangelazrael117 Is it fair to say you feel you have a grater sense of freedom? Do you feel like Holy light is clunky at all?
+[0:33:17] archangelazrael117: @TonyJhee put it like this: i abandoned my favorite spec in SL S1 because of the awful melee builds ( maraads was okay but still had to do some dps ) now it's i don't need to do a single point of damage whatsoever + holy light if talented correctly heals for a metric ton
+[0:33:41] zooyep: well its still early :)
+[0:33:48] greywolffa52: lol
+[0:33:51] Dr_Jemon: bro we never doubt you
+[0:33:53] laokung: can never win
+[0:33:59] ESL_Awaiting: look at this guy playing a F tier class Kappa
+[0:34:04] Allerion_SE: LUL
+[0:34:05] TonyJhee: @archangelazrael117 Do you ever find your Holy light healing is "sniped" as you are casting it? Like the target no longer needs healing and you feel like the cast is wasted?
+[0:34:06] Axiomu: Blizzard probably heard you were gonna multiclass and decided to make druid the go to class :)
+[0:34:31] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[0:34:49] archangelazrael117: @TonyJhee not really, because say if we are 2 melees 1 ranged me and tank, the melee will still get healed with the " cleave " talent which also makes it super good for mana efficiency
+[0:34:54] TonyJhee: Also @archangelazrael117 Do Barrier of Faith and/or Tyr's feel good?
+[0:35:17] zooyep: disc is also harder for most people
+[0:35:20] archangelazrael117: @TonyJhee they do feel really good but you want them at lvl 70 not now
+[0:35:23] laokung: have you given your read on evoker? would love to hear your general thoughts about how you might see it fitting it (talking more bout mplus) @jdotb
+[0:35:29] laokung: healer
+[0:35:35] archangelazrael117: @TonyJhee look up Kàlira on armory that is my holydin
+[0:35:42] TonyJhee: Lemme have a look
+[0:35:47] archangelazrael117: on silvermoon server tho
+[0:35:48] ESL_Awaiting: not sure how i feel about the crafting shit in df tho
+[0:35:53] sseijas: do you think mw going to be better with windwalker nerfs?
+[0:36:01] greywolffa52: Tuning before DF still a variable though
+[0:36:18] TonyJhee: @archangelazrael117 Is that EU?
+[0:36:22] Axiomu: No shot they are gonna make evoker not strong in their expansion
+[0:36:31] Arrupaka: I feel like there is no way its going to be bad.
+[0:36:35] archangelazrael117: @TonyJhee yeah
+[0:36:44] shoneshaman: theyre not gonna allow RWF to go without evoker thats for sure
+[0:36:48] archangelazrael117: @TonyJhee i can find the link and send it to you
+[0:37:03] Discpic: RDruid nerf when? FeelsGoodMan
+[0:37:04] mordekhuul: Hey chat - did he discuss the other night's nerfs yet?
+[0:37:15] TonyJhee: @archangelazrael117 Just pulled it up, ty
+[0:37:32] TonyJhee: @archangelazrael117 You using maraad's at all?
+[0:37:36] TonyJhee: Or is it too clunky?
+[0:37:38] sseijas: do you think mw going to be better with windwalker nerfs?
+[0:37:41] archangelazrael117: @TonyJhee nope
+[0:37:48] archangelazrael117: @TonyJhee not even as a leggo
+[0:38:10] TonyJhee: @archangelazrael117 You have a log at all? Would love to see your casts
+[0:38:26] archangelazrael117: @TonyJhee that im not sure about, you can try look it up
+[0:38:38] archangelazrael117: i do keys mostly
+[0:38:51] TonyJhee: Oh gotcha. So you haven't done much caster in raid?
+[0:39:07] TonyJhee: That's where most of my interest in caster Hpal lies.
+[0:39:19] archangelazrael117: did a 10/10 castle run last week as caster so can look for that? if it's not up then no one was logging
+[0:39:32] TonyJhee: lemme see
+[0:39:36] KeyboardDeath: When I play classes they do get nerfed :)
+[0:39:41] mordekhuul: Man MW feels good in prepatch with fistweaving and the odd insta-cast vivify cleave to shore things up
+[0:39:57] TonyJhee: @mordekhuul Yeah it does
+[0:40:06] TonyJhee: I do worry it wont scale well into higher keys though
+[0:41:14] TonyJhee: I think the biggest thing that will make MW feel good is proper use of Chi'ji
+[0:41:51] mordekhuul: Did you discuss the nerfs from other night yet? Disc etc :P
+[0:42:36] texaspanhandler: h priest going to be pog again going into DF S1 even after 5% nerfs methinks
+[0:43:28] Thrylos: @jdotb sorry to bother you and I’m sure you asked this. Can you give a quick recap on what you feel about rdruid? Specifically for m+? Do you think it will compete with hpriest?
+[0:43:39] Thrylos: Answered this*
+[0:43:48] Discpic: another season of Hpriest ResidentSleeper
+[0:44:29] zooyep: naw it will be fine in raids you'll still need 1 for prog.. or could use one
+[0:44:29] LessThanFreshPrinceOfBA: Feels fucking sad man. Disc has always been my baby and I just cant play it
+[0:44:54] mordekhuul: So just pray that boomies and guardian druid sucks (which it just got a sucky re-work, so...)
+[0:45:01] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[0:45:02] nixar1: thoughts on blizz giving tcg mount almost for free?
+[0:45:28] Thrylos: Are boomies pretty much a spot now though?
+[0:45:29] mordekhuul: I guess Evoker is the competition - maybe least likely to get nerfed since Blizz will want it to have a strong showing
+[0:46:01] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[0:46:13] the_pyke: lets be real ... druid dragon form will be a thing in DF :D
+[0:46:13] MacGregor3: rooster mount bis
+[0:46:16] mordekhuul: Yeah my Druid uses the glider mount
+[0:46:52] dihav4c: !talents
+[0:46:57] dihav4c: !talent
+[0:47:04] Dr_Jemon: AMEN BROTHER
+[0:47:07] Dr_Jemon: A FUCKING MEN
+[0:47:19] dihav4c: !build
+[0:47:25] jpettzzon: windwalker not dead Pog
+[0:47:31] Arrupaka: rdruid looks so fun. I might have to give it a try lol
+[0:47:58] Dr_Jemon: every one is like "why you use hippogriff" to me, and im like bith its small, delicate, and i can predict exactly where the mount lands when i jump
+[0:47:58] mc_killa8: currently giving it a try myself, def reccomend
+[0:48:02] texaspanhandler: @arrupaka It really is one of the most engaging healing specs imo
+[0:48:14] Thrylos: Yeah Druid looks fun. Do you not suggest any cat dps and prefer going spells for dps in keys?
+[0:48:55] Thrylos: Or Peter
+[0:48:57] texaspanhandler: @thrylos you can do a lot of boomie casting without switching forms which can save you a gcd. I’m not sure how the damage compares overall though
+[0:49:03] Thrylos: Prefer* Jesus lol
+[0:49:37] Thrylos: A lot of guides show going cat, at least dumping a lot points into cat
+[0:49:52] Thrylos: Wondering if it’s worth it over bookie casts
+[0:50:01] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[0:50:06] texaspanhandler: Go broke doing bookie casts
+[0:50:25] Thrylos: True
+[0:50:40] dihav4c: !Discord
+[0:50:40] StreamElements: https://discord.gg/jdotb
+[0:50:48] WytherOK: the lowest quality water will make it more transparent
+[0:51:12] WytherOK: WTF
+[0:51:15] Accalon_: The highest should definitely be more seethrough
+[0:51:16] WytherOK: LuL
+[0:51:20] Allerion_SE: Oh yea, the old 2004 look FeelsStrongMan
+[0:51:22] Accalon_: I dont know if there are thresholds though
+[0:51:27] texaspanhandler: @wytherok flint, MI is best place for underwater casting
+[0:51:34] Aggroboy: haven't heard much about resto shamans recently
+[0:52:03] texaspanhandler: @aggroboy slow, average. bottom of most tier lists in prepatch
+[0:53:10] nokeybindings: Resto dudu big dmg
+[0:54:08] iampicklerickxd: could you show talents after boss? :)
+[0:54:11] mordekhuul: I saw that too
+[0:54:25] aayla: back for all specs beside feral :<
+[0:54:31] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[0:54:45] LessThanFreshPrinceOfBA: rake stun is in live rn
+[0:54:58] JeckyLLGaming: !plater
+[0:54:58] StreamElements: Try !kui instead.
+[0:55:05] Accalon_: I think thats some weird dpell categorization thing i dont understand, the talent still exists for feral so i dont think theres any way its global. Ill check
+[0:55:30] jdotb: !command remove !plater
+[0:55:31] StreamElements: @jdotb, successfully removed command plater.
+[0:55:33] jdotb: !threatplates
+[0:55:33] StreamElements: https://controlc.com/ea127820
+[0:55:56] texaspanhandler: Do you have your talent builds on your discord?
+[0:56:04] JeckyLLGaming: sorry was just checking how to move nameplates to bottom XD
+[0:56:30] texaspanhandler: Or does anyone in chat know if jb’s talent builds are posted anywhere?
+[0:56:39] Lunau: !base
+[0:56:39] StreamElements: /script SetCVar( "nameplateOtherAtBase", 2 )
+[0:56:51] JeckyLLGaming: TY sir
+[0:57:56] Mantra_D: so moonkin over cat? Or just testing?
+[0:58:25] Aggroboy: hes doing both
+[0:58:29] mordekhuul: Boomie convoke not addin gmuch more dmg than having only cat talents seems like
+[0:59:01] mordekhuul: Yeah just not sure how much it adds - I've been taking the other cat talents ;)
+[0:59:01] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[1:00:39] dihav4c: @jdotb how can i get some of ur weak auras and macros?
+[1:00:48] mordekhuul: !wa
+[1:00:48] StreamElements: all my weakauras https://wago.io/p/jdotb
+[1:01:01] Accalon_: Wow. Rake does stun on beta, ok
+[1:01:04] WytherOK: okay my bad, highest setting of water has a more transparent look zubSAD
+[1:01:38] dracv: !io
+[1:01:40] dracv: !ui
+[1:01:40] StreamElements: Addons: https://pastebin.com/RBJ3FxXP WeakAuras: https://wago.io/p/jdotb Use !elvui for elvui imports
+[1:02:08] Arrupaka: tranq on par with emerald communion for evokers. I feel like tranq feels better
+[1:02:33] Zapharah: How bout that brutal Disc nerf eh?
+[1:02:59] UltraRareSHOOBER: i wonder if the changes they made are just for prepatch tho
+[1:03:09] UltraRareSHOOBER: bc apparently the enhance was just prepatch
+[1:03:31] zooyep: they will revert it that was a really terrible change
+[1:03:52] WytherOK: so you moonkin for convoke then just go cat?
+[1:05:26] BladeworxGG: Spamming rake on ST? That's gonna mess with my head for a while.
+[1:06:01] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[1:06:06] dracv: does convoke moonfire consume protector?
+[1:06:30] dracv: great 5 adds in a row after I ask a q :P
+[1:06:38] jdotb: dunno
+[1:09:08] TyHeals: @jdotb who you paying for Rdruid avoiding any nerf bats? :)
+[1:10:39] TyHeals: HAHAHA
+[1:10:40] WytherOK: zubCLUELESS
+[1:10:41] Arkrisen: Morning @jdotb
+[1:11:00] Wh1teRic3: i just dont want holy priest to be meta again
+[1:11:10] TyHeals: Excited that they are looking solid though. I don't want to play disc priest x.x
+[1:11:42] WytherOK: I have got to figure out professions
+[1:12:27] azmopazzo: hi I would need some advice on which healer to play for the next expansion I'm new to wow
+[1:12:36] Mantra_D: I don*t think the holy nerfs are that impactful for m+. The dmg is still very good and they have PI + other stuff like mindsoothe etc
+[1:12:49] Haur: @azmopazzo whatever yo uenjoy playing
+[1:12:56] iampicklerickxd: do you have an addon that groups up all addon minimap icons into 1 button?
+[1:13:01] paul1008_: Not Shaman KEKW
+[1:13:09] paul1008_: @impicklerickxd Minimap Button Bag is one that is good
+[1:13:38] der_nammer: I'm on TV :'D
+[1:14:18] azmopazzo: someone say that mistweaver monk gonna be broken
+[1:14:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[1:15:09] azmopazzo: i just want to heal a lot
+[1:15:24] Skojin897: enjoy that vers
+[1:15:35] Skojin897: i did that last night haha
+[1:15:38] Skojin897: knew as soon as you jumped
+[1:15:44] Reeze88: Reeze88 subscribed with Prime. They've subscribed for 35 months! almost 3 years!
+[1:15:44] Reeze88: allmost 3 years!
+[1:16:22] Joschi174: enh shaman after this nerf? sus KappaCool
+[1:17:48] Ioldoink: gm JB how we doin
+[1:17:51] Haur: dont stand in water KEKW
+[1:19:04] ck_rossonero: !talents
+[1:19:11] ck_rossonero: !armory
+[1:19:11] StreamElements: Located under the stream
+[1:19:13] Ioldoink: that was nice
+[1:20:02] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[1:20:03] lansing71: !talents
+[1:21:27] cerai_: are you back on na
+[1:22:17] WytherOK: no, still EU
+[1:22:54] Ioldoink: fort 15, in theory you should be able to kill him in 1 if the enh didnt do less than you
+[1:23:22] bambooslayer: jb did they buff tak hp and mobs by 49% on beta . whats that abt
+[1:23:27] bambooslayer: 40%
+[1:25:24] fomalhaut_b: !talents
+[1:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[1:26:27] iServeTheFlamingFist: Did mobs get more HP too?
+[1:26:30] Vodrin: thats a massive buff to BrM ?
+[1:26:43] verbal_sparring: heard they nerfed a bunch of consumables in this patch as well
+[1:26:46] dwanex_: That sounds terrible with the 40%
+[1:27:08] Ioldoink: wait what? where did you read that - i dont see anything about that
+[1:27:10] Lawlanator: Feel like the numbers are getting kinda crazy again.
+[1:27:33] Vodrin: well it makes sense if healers were topping people so easily in s1
+[1:27:38] bambooslayer: ye a guy said even mobs got 40% buff
+[1:27:48] Vodrin: did they do it through a buff of stamina scaling ?
+[1:28:14] Vodrin: i should look at wowhead :d
+[1:28:25] Ioldoink: they brought rake stun back holy smokes - hell yes
+[1:30:19] Ioldoink: wait you're using rake as your builder?
+[1:30:24] Haur: @jdotb just replace skill on bar?
+[1:30:30] Ioldoink: is that because of draught / lower energy cost?
+[1:30:34] Taslack: @jdotb shred should be doing more damage than rake on prepatch?
+[1:30:40] xxEmz: jeeez ur dmg dude, ty for the key LUL
+[1:30:56] Taslack: even with adaptive swarm and draught
+[1:31:01] Ioldoink: interesting
+[1:31:03] Ioldoink: didnt realize that
+[1:31:07] DanStephenGaming: can you show talent please and ty
+[1:31:11] Ioldoink: lmao
+[1:31:12] the_pyke: what would be your choise in a world without druid? :D
+[1:32:01] Taslack: shred is 68% ap, rake is 16% with swarm + draught
+[1:32:23] Taslack: this was correct in live before df
+[1:32:27] Ioldoink: yeah i just tested
+[1:32:31] Ioldoink: looks like shred is more
+[1:32:31] Taslack: but they nerfed rake initial hit by 40%
+[1:32:36] Taslack: they only nerfed the rake initial hit
+[1:32:40] Taslack: because us ferals were gonna use it over shred
+[1:32:56] Ioldoink: for me shred is about 60-80% stronger
+[1:33:00] Joschi174: @jdotb how much of ur dps is prepatch only ?
+[1:33:12] Taslack: yeah but ferals would have so we got them to change it
+[1:33:23] Taslack: saved
+[1:33:33] sseijas: u gonna play also mw on df?
+[1:33:39] Ioldoink: HALO
+[1:33:45] Ioldoink: damn i wish i had halo
+[1:34:03] Ioldoink: the boon of the storm one
+[1:34:05] Ioldoink: or whatever
+[1:34:25] DanStephenGaming: !
+[1:34:25] Haur: tbh, melee abilities do so little overall
+[1:34:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[1:34:37] DanStephenGaming: @jdotb can you show talent please and ty
+[1:34:45] verbal_sparring: yeah.  im guessing they will do a pass on trinkets and smoosh all the damage off them at some point.
+[1:34:59] zooyep: healthy
+[1:35:05] majestictaco0: I think they nerfed teh dathea trinket yesterday, is it still busted?
+[1:35:24] DanStephenGaming: @jdotb tyvm sir
+[1:35:47] Ioldoink: ive been running kick with natures Vigil in the 26/27s ive been running last few days - have you tried that build yet?
+[1:36:03] charistas: Legendary will also go away, are you using the one that boosts ST dots perhaps?
+[1:36:08] jimmy_gusta: What up man…you think Moonfire damage will stay strong?
+[1:36:17] Ioldoink: NO PotP, No Halo - still doing between 8k-10k overall in keys
+[1:36:33] Ioldoink: LMAO
+[1:36:47] zooyep: good.. druid nerf inc  :)
+[1:36:59] RielynTV: !talents
+[1:37:19] Ioldoink: draught + potp stack is prob juicin ya quite a bit
+[1:37:31] nixar1: mikanikos haste :)
+[1:37:36] RielynTV: can you link the talents?
+[1:37:58] jdotb: BkGAGX1kx6Mci9Zl2t+S+sRoPCSSrVSkkgWSAC0SLJAAAAAAAAAAAAAkQIJgAIBEsgQJRQCAAAAAgIA
+[1:38:10] RielynTV: ty
+[1:38:25] Ioldoink: ooh i like to see your movespeed / primal fury track - instead of the bark/thick hide route
+[1:38:29] RielynTV: why both cat and chicken?
+[1:38:33] Ioldoink: they have that for Destiny 2
+[1:39:25] Forvitni: I am still madge about all the times I go to press wild charge and do nothing
+[1:39:30] Snakeyesz: is feral convoke no good?
+[1:40:48] Bosjo1: !talents
+[1:40:49] Ioldoink: yo, heres my take - you use convoke in half cat - half human for healing
+[1:41:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[1:50:56] fomalhaut_b: more items drop per key if you go high tho
+[1:51:05] Crunchyb0b: sup jb
+[1:51:10] paul1008_: I watched a 4:30 Anduin kill
+[1:51:23] Serg_187: Is there a link to your build?
+[1:51:27] MasterMacaroni: !talents
+[1:51:28] paul1008_: 1 minute kills for almost every early boss
+[1:51:32] jdotb: BkGAGX1kx6Mci9Zl2t+S+sRoPCSSrVSkkgWSAC0SLJAAAAAAAAAAAAAkQIJgAIBEsgQJRQCAAAAAgIA
+[1:51:41] Crunchyb0b: we still spreading resto propaganda
+[1:51:41] Serg_187: thank you
+[1:51:46] paul1008_: Probably saves like a minute over 2 affix
+[1:53:18] pookycool: is boomie always better then catweaving?
+[1:54:28] pookycool: this instance looks fun
+[1:54:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[1:54:38] pookycool: nice big pulls
+[1:55:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[1:55:03] ValinEndac: Why +2?
+[1:55:11] princesstoni01: what's looking like the best m+ healer going into df?
+[1:55:11] speedmoroj: hey man what addone u useing for name plate ?
+[1:56:11] RAiDX0r: How important are those group buffs?  What are you comparing them to?
+[1:56:16] GentleYame: i think cat is still better  but in many situation i cnat go in  do dmg with cat so i dont know^^
+[1:56:32] Himanchu: and shaman
+[1:56:37] anaya909: don't worry we'll have enhance for lust
+[1:56:39] anaya909: oh wait..
+[1:56:50] iServeTheFlamingFist: What about Disc?
+[1:56:51] ballgeoff: Do you have everything on a mouseover macro?
+[1:57:40] Ioldoink: lmao
+[1:57:43] RAiDX0r: @jdotb wouldn't Devotion Aura be considered a group buff?
+[1:57:47] hittnrun: jdotb  what ur favorite healer in df sofar?
+[1:57:59] Ioldoink: @hittnrun bro he literally just answered this 30 seconds ago
+[1:58:10] Ioldoink: lmao
+[1:58:13] hittnrun: @Ioldoink just joined :)
+[1:58:25] GentleYame: so why dont u tell him
+[1:58:30] suppstantial: Have you decided what you’re going to level first come the 28th
+[1:58:32] pookycool: was moonfire buffed?
+[1:58:47] ballgeoff: Im between holy paladin and resto druid, which one seems better for mythic+/pvp, I dont plan on raiding.
+[1:58:51] Loganstray: Druids get 3% vers buff and Devo isn’t good anymore. Got it
+[1:58:56] daddygamer40: a +2? has age got to you that bad ;)
+[1:59:12] 420noscopemlgkilla: hows shaman?
+[1:59:15] Crunchyb0b: i wish resto had the double moonfire
+[1:59:44] harver: disc better than rshaman?!??
+[1:59:52] Joschi174: *sad shaman noises*
+[1:59:56] Himanchu: so theres only room for improvement 👍
+[2:00:57] suppstantial: I’m torn between starting with Priest, Druid, Monk, Evoker
+[2:01:28] Ioldoink: play whatever you're most comfortable with or most skill at imo
+[2:01:38] Ioldoink: skilled at*
+[2:01:56] Ioldoink: LMAO 3 PEOPLE ON THE SAME RELIC
+[2:02:03] Ioldoink: +2 gaming
+[2:02:33] Shari1985: can you show your talents pls
+[2:02:39] daddygamer40: have they fixes the unity bug yet?
+[2:02:46] daddygamer40: fixed
+[2:03:02] Ioldoink: wait, i would take that helm right now on live @301 ilvl basically full bis
+[2:03:07] Ioldoink: why you dont like it?
+[2:03:08] TyHeals: What do you need the valor for currently?
+[2:03:10] Deva_22: !talents
+[2:03:33] Ioldoink: but masteryyyy
+[2:04:06] Ioldoink: i gotchu
+[2:05:33] tommy_the_troll: Are you enjoying the new Druid ? :)
+[2:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:07:06] Poefan316: Poefan316 subscribed with Prime. 
+[2:08:07] WatchImpact: Sup jdotb, with no borrowed power systems implemented for dragonflight, does that mean that we won't have to login everyday like we usually need to do so we dont miss out on stuff?
+[2:08:47] cloakofmoon: only proff related stuff i think
+[2:08:55] WytherOK: just sell boosts
+[2:09:00] WytherOK: jdotbBrain
+[2:09:13] Lankyvern: hey jdot, what do you think the heal meta is going to be like for mythic raiding
+[2:09:16] ValinEndac: If gear drops were the same between Mythic + and Mythic Raid, would you only play Mythic + going forward?
+[2:09:19] anaya909: if they don't nerf the gold from SL callings, i seriously might do them once in a while in DF
+[2:09:29] WatchImpact: ah yes let me just git gud and sell boosts
+[2:09:58] Ioldoink: people are so fired up about $8, but perfectly fine with playing like $100 /mo on streaming platforms
+[2:10:05] Ioldoink: paying*
+[2:10:14] Lothland: They aren't going to pay anyone anything, they need to pay a billion in debt a year from the buyout
+[2:10:17] hittnrun: didn't he want to get away form advertisment  aswell
+[2:10:20] toludin: $ for some of those fire tweets of yours, not bad
+[2:10:24] WytherOK: $8 a month of pure tax deductible goodness
+[2:10:33] anaya909: @Lothland read my mind
+[2:11:11] Ioldoink: Netflix is like $17.99 /mo lmao
+[2:11:20] WytherOK: I'm about to yeet netflix
+[2:11:29] WytherOK: all their shit is garbage
+[2:11:43] GentleYame: why is says +11
+[2:11:44] darcinyx: drops!
+[2:11:58] Ioldoink: i like the nature docs and stuff on netflix, some of the netflix originals are good - but a lot of it is trash
+[2:11:59] WatchImpact: @ValinEndac curious about this aswell @jdotb
+[2:12:14] w1ldfrog: hello there! any good idea on a safe pick for tanks m+ atm?
+[2:12:26] Accalon_: @Ioldoink Have you considered that one of those is useless despite being cheaper
+[2:12:29] WytherOK: w1ldfrog anything other than guardian
+[2:12:53] w1ldfrog: SeemsGood
+[2:13:01] Ioldoink: same
+[2:13:16] anaya909: with the way they did enhancement, i'm afraid they could obliterate any other spec at any moment
+[2:13:39] Ioldoink: coordinating 20 peoples schedules and having to change your life for raid nights feels bad man
+[2:13:47] standerd21: wait I haven't watched the stream this week. Is boomkin convoking the way now?!
+[2:13:49] WytherOK: I have many points
+[2:14:24] ValinEndac: Legitimately, I loved Titanforging because of always having a chance at upgrade no matter how many keys you did that season.
+[2:14:28] ballgeoff: Is reso better than holy paladin?
+[2:14:30] WytherOK: You should get a weakaura that counts the number of active swarms you have at any given time
+[2:14:30] YayFiber: Your UI is very nice
+[2:14:31] ballgeoff: resto
+[2:14:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[2:14:34] Crunchyb0b: i once thought dratnos had a tattoo but it was chest hair
+[2:14:34] anaya909: 337k and this is my second account
+[2:14:59] Ghost5392: This is a spicy +11
+[2:15:00] standerd21: !talents
+[2:15:45] anaya909: watch this stream every morning during my workout.  combining the irl and virtual gains
+[2:17:17] bechcity: pepeD
+[2:17:46] blunteffectss: +11 gaming
+[2:18:06] PerryThePug: Out damaging the surv hunter wut
+[2:18:20] Muzse4: What is that timing addon? not gottagofast is it?
+[2:19:08] LessThanFreshPrinceOfBA: Hey JayBae would you mind explaining your "priority" if you would? So like "trash packs I do boomy abilities prio outside of convoke" and "boss I do feral abiilities outside of convoke" etc
+[2:19:21] ballgeoff: @jdotb do you have a healer tier list anywhere
+[2:19:46] Ioldoink: https://www.twitch.tv/jdotb/clip/DistinctHeadstrongAsteriskOhMyDog-4NJJZR1aLRuJIDUo
+[2:19:49] CryJK: @Muzse4 it's mythicplustimer i belive
+[2:20:07] Muzse4: @CryJK hell ya! looks clean. thanks!
+[2:20:21] CryJK: yw :)
+[2:20:23] TyHeals: Is holy a more fun play style now that Flash Concentration is gone?
+[2:21:34] TyHeals: Yeah that is fine, I just hated having to keep that stupid ass buff up
+[2:21:59] bechcity: This music is POGGERS  JB
+[2:22:36] bechcity: Heyhey
+[2:22:53] bechcity: Shanna is just wrong
+[2:23:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[2:23:14] Vodrin: yep her opinion is without any substance on this
+[2:23:18] anaya909: she needs some left right left right left right in her life
+[2:23:18] toludin: "sweetie, i love you, but you could not be more wrong right now"
+[2:23:26] hysteerian: what about verdant infusion and lifebloom build big single target healing ofc with nature vigil
+[2:23:32] darthruneis: I just love that there's a dragon with a pirate hat now
+[2:23:48] Vodrin: the music makes it such a chill tab stream
+[2:24:02] toludin: when are we getting a timecap'n skin for our dragonriding mount
+[2:24:23] Vodrin: the visage form though
+[2:24:23] Ioldoink: timewalking mount is close
+[2:24:50] krispix_: druid damage outweigh PI from priest?
+[2:24:55] the_pyke: what profession you going with?
+[2:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:26:36] siller777: !talents
+[2:26:43] siller777: !build
+[2:26:44] managust123: +11?
+[2:28:35] siller777: are there the talents available?
+[2:28:45] gorbkw: Why are you farming valor?
+[2:28:46] daddygamer40: what leggo u running now
+[2:28:57] daddygamer40: still draught
+[2:31:09] bechcity: Hi mom
+[2:31:10] RielynTV: farming valor?
+[2:31:14] bechcity: thanks for firing me today
+[2:31:42] bechcity: pepeD
+[2:32:32] onlytanking: 2nd in dmg as healer
+[2:32:34] onlytanking: pog
+[2:33:37] siller777: can you show talents?
+[2:34:04] lapendinha: Did u tested disc priest?
+[2:34:25] TonyJhee: JB, you checked out any of the dungeon trinkets yet?
+[2:34:25] Ioldoink: you been doin situps?
+[2:34:29] cptsafari: remember to stretch ur weiner
+[2:34:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[2:34:37] RielynTV: gave myslef a hernia last time i did that, scared to stretch it again lol
+[2:34:47] Dalarus: theres new ones on beta
+[2:34:48] nauticat8: no swipe?
+[2:35:33] toludin: yea all the dungeon trinkets are on a vendor now
+[2:35:47] Dalarus: everyone is getting it lol
+[2:35:47] Accalon_: hit ok
+[2:35:47] the_pyke: Monk is more fun druid is better
+[2:35:50] TonyJhee: Just click okay
+[2:35:50] Accalon_: its fine
+[2:35:52] YdenTV: there was a blue post. it's fine
+[2:35:52] gorbkw: directx12
+[2:35:53] TonyJhee: they made a bluepost about it
+[2:35:55] gorbkw: no biggie
+[2:35:55] lapendinha: Did u tried secret class already?
+[2:35:57] toludin: it means hit ok and it launches anyway
+[2:35:59] toludin: known issue
+[2:36:02] toludin: they posted about it
+[2:36:49] TonyJhee: just go check the vendor JB
+[2:36:54] TonyJhee: there is a trinketaur
+[2:37:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[2:37:02] MrJohnx: How  does resto feel in the beta?
+[2:37:09] toludin: trinkettaur
+[2:37:12] toludin: next to him
+[2:38:08] laokung: !ui
+[2:38:08] StreamElements: Addons: https://pastebin.com/RBJ3FxXP WeakAuras: https://wago.io/p/jdotb Use !elvui for elvui imports
+[2:38:34] plebss: hey, i wanted to ask you what is ur resonant reservoir wa i dont find anything  for it
+[2:38:49] ThePantsParty01: kinky
+[2:38:54] NoeticVice: Huh
+[2:38:58] toludin: WutFace
+[2:39:03] QwakGoesDuck: hot
+[2:39:06] nai5g: LUL
+[2:39:11] toast042: possibly
+[2:39:14] Vodrin: its a +230k heal absorb
+[2:39:26] Vodrin: but staggered
+[2:39:27] bollplankk: just admit you like what you're reading
+[2:39:30] toludin: someone had a good time writing that tooltip
+[2:39:32] NoeticVice: Whatever you're into
+[2:39:40] Vodrin: could be nice for brm but still no dmg
+[2:39:46] big___jim: humorism trinket
+[2:39:51] toludin: it's agi/str only sadly
+[2:39:55] TonyJhee: It's a tank trinket
+[2:40:02] WatchImpact: this makes me think of another banger, look up 'my humps joshwa lee foss' @jdotb
+[2:40:06] ThePantsParty01: 2nd boss hov
+[2:40:10] TonyJhee: You know that, I dont know why I even said that
+[2:40:13] TonyJhee: you're not stupid
+[2:40:16] Vodrin: lol
+[2:40:35] ballgeoff: !addon
+[2:41:01] Vodrin: thats more interesting than the ooze atleast
+[2:41:15] Vodrin: mistweaver ?
+[2:41:24] Accalon_: Ive been liking that but they nuked the hell out of it since i got it
+[2:41:27] bechcity: This song is a banger
+[2:41:30] Haur: so you will be jbhood
+[2:41:37] FinchieGG: is omnicd broken on retail?
+[2:42:26] Vodrin: surely the 50% absorb shield would be taken before that one though
+[2:42:54] YdenTV: I hope these bosses are tuned like 2nd and 3rd boss CoS, or last boss of Seat, legion-style for healing
+[2:43:08] DonCuzu: DK
+[2:43:10] DonCuzu: unholy
+[2:43:14] TonyJhee: It's agi though
+[2:43:17] Vodrin: assassination ?
+[2:43:19] Accalon_: agi, they made it specifically anti druid lol
+[2:43:22] TonyJhee: Feral?
+[2:43:23] bollplankk: the enh shammy
+[2:43:24] beta5: unholy dk
+[2:43:33] bollplankk: wf enh shammy
+[2:43:34] Vodrin: carnage is 90s so lines up with that
+[2:43:35] Accalon_: Irideus might be good for druid
+[2:44:14] bechcity: Halloween effect
+[2:44:14] officerdoody: LUL
+[2:45:12] TonyJhee: Arcane mage trinket?
+[2:45:24] Accalon_: It doesnt lose stacks that fast
+[2:45:35] Accalon_: But also it loses them even when you arent hitting anything lol
+[2:45:36] zydeatv: each ability
+[2:45:38] Accalon_: Last time i used it anyway
+[2:45:42] BGoodGaming: BGoodGaming subscribed at Tier 1. They've subscribed for 35 months! 
+[2:45:49] Accalon_: It was just roughly losing one stack a sec
+[2:46:01] zydeatv: bc when you use convoke in venthyr ramp, it gives you stacks as if you were casting
+[2:46:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[2:46:04] zydeatv: @jdotb
+[2:46:55] TonyJhee: Could be good for disc
+[2:47:13] toludin: yea you do
+[2:47:14] toludin: you get a buff
+[2:47:22] toludin: and it cycles every like 3-4 casts
+[2:48:25] Accalon_: Try it out of cat
+[2:48:53] goochydrood64: That shit looks creepy
+[2:48:59] Accalon_: Wait is that doing a lot of dmg...
+[2:49:11] bollplankk: is that what shanna calls it as well? baby tentacle?
+[2:49:20] Accalon_: it was like 7k hits?
+[2:49:37] NoeticVice: is that what shanna calls it as well?
+[2:49:41] NoeticVice: >:)
+[2:49:49] Accalon_: Ok i thought the uptime was going to be high, thats ok
+[2:49:52] bollplankk: lmao
+[2:49:59] Ghost5392: lol
+[2:50:02] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[2:50:05] NoeticVice: it's aight, i'll just text her
+[2:50:12] darthruneis: If it is flaming, you should go to the doctor.
+[2:50:21] bollplankk: man, I hope it's random spawn over the character model. That way it'll be some funny moments
+[2:50:36] Keasby_The_Rascal: The refusal implies she does
+[2:51:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[2:51:57] hog_x: Stare looking handsome today
+[2:51:59] Unfeasible: @jdotb what about your flourish ramp in raid?
+[2:52:09] manwe_infi: is your intellect 5700?
+[2:53:52] Icycutes: mote of sanc is a literal group lay on hands on 90s cd right now
+[2:54:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[2:55:13] Icycutes: it can crit aswell
+[2:56:19] Accalon_: yes cause that on use is so nad
+[2:56:59] Vodrin: Yes
+[2:57:03] greywolffa52: I'm guessing Broodkeeper's promise is a given and your looking at the second slot?
+[2:57:15] Vodrin: 30% before i believe
+[2:57:17] engenheiro_reverso: can you show your talentos rq pls? @jdotb
+[2:57:19] Vodrin: the old legion one
+[2:57:31] manwe_infi: 50=1% movementspeed
+[2:57:33] Accalon_: Thats not very much im prety sure
+[2:57:34] Lothland: It was super useful for leveling before they nerfed the old one
+[2:57:54] Accalon_: In DF you have cloaks that give you like 750 tertiary
+[2:57:54] engenheiro_reverso: ty
+[2:58:22] Accalon_: cloak enchants*
+[2:58:56] Vodrin: so its nice with convoke
+[2:59:30] manwe_infi: with nourish?
+[2:59:35] Accalon_: Might also be able to use that with vigil as balance...
+[2:59:35] manwe_infi: boom
+[2:59:39] OrganicJKW: Was that 10% crit increase?
+[3:00:21] OrganicJKW: 2600, yeah.
+[3:00:46] OrganicJKW: And there's a base of 5% without any gear?
+[3:00:53] WatchImpact: Joshwa & Lee Foss - My Humps, something tells me you're gonna love this banger
+[3:01:07] HealsAndThat: Ah the  gta taxi song, how I have missed you.
+[3:01:35] manwe_infi: Arms druid
+[3:01:47] big___jim: would be nice if arcway returned and to be able to use terrorbound nexus again, was a cool one iirc
+[3:01:52] Accalon_: You missed it lol
+[3:01:54] menzlo: it happened
+[3:01:58] big___jim: miss that one and the glaive trinket from tos
+[3:02:01] Ioldoink: it procced when youi looked at chat lmao
+[3:02:07] Accalon_: It was small
+[3:02:12] menzlo: lil tornado
+[3:02:26] Ioldoink: mail tornado
+[3:03:17] Vnvqt_: When are we sending keys JB? Miss the feeling of safety :<
+[3:03:31] andyl0l: Is your UI available somewhere?
+[3:03:43] nai5g: would you be able to say what your top 3 healing specs are atm?
+[3:04:20] jdotb: !elvui
+[3:04:20] StreamElements: Find all my ElvUI imports here https://github.com/grunz74/ElvUI-Profile/tree/main You will also need to download https://www.curseforge.com/wow/addons/sharedmedia for your textures and fonts to match mine. MAKE SURE TO REMOVE ALL SPACES FROM THE END OF THE STRING.
+[3:04:25] jdotb: !wa
+[3:04:25] StreamElements: all my weakauras https://wago.io/p/jdotb
+[3:04:42] andyl0l: Thanks :)
+[3:04:50] GoIden_: is my boomy dream dead? xD
+[3:05:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[3:05:13] toludin: o snap surely now i wont suck
+[3:05:15] CryJK: wow that's pog
+[3:05:32] menzlo: Boomie third best druid spec
+[3:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[3:07:48] FinchieGG: !talent
+[3:07:51] FinchieGG: !talents
+[3:07:55] mackoida: what are we checking out today?
+[3:08:25] mackoida: oh, the dungeon ones?
+[3:08:43] Fiend_PDEs: Fiend_PDEs subscribed with Prime. They've subscribed for 7 months! EZ
+[3:12:32] marval_hs: Pretty sure it was evoker
+[3:17:05] faelpriest: @jdotb Please send help to Disc priests sir
+[3:17:52] slow_trash: @jdotb how are you feeling about a raid build for rdruid? not sure what capstones are gonna fit
+[3:18:01] not_vern: Is bear Druid looking pretty wild? I was setting up my talents the other day and the moonfire build seems like so much damage
+[3:18:41] zx10rx: @jdotb how prot pally to heal... still squishy?
+[3:19:43] zx10rx: ok thats good to hear.
+[3:20:11] Ghost5392: Bears are sad right now Sadge
+[3:20:21] hiccyl: what healer will u mean next season @jdotb
+[3:20:26] UltraRareSHOOBER: they literally just nerfed moonfire KEKW
+[3:20:27] RAiDX0r: I think they just nerfed Guardian damage.  Guardian Damage was OP in the Pre-patch.
+[3:20:45] zx10rx: blizzard did a fix for bear druid that made it worse.. process that sentence lol
+[3:20:59] not_vern: Ohh ok I missed the nerf. Dang last week I was having a good time
+[3:21:09] not_vern: But a lot can change between now and 70!
+[3:21:41] CryJK: what addon are you using for friend list?
+[3:21:55] CryJK: i feel so blind without friend groups
+[3:22:21] Basic_3: Fantasy drugs
+[3:22:23] zx10rx: lowkey Meth Sickness
+[3:22:23] Allerion_SE: Addicted to meth Sadge
+[3:22:25] WytherOK: druid be missing that meth
+[3:22:57] slow_trash: BibleThump not the methfire BibleThump
+[3:23:00] Lythiea: maybe undead players are just meth addicts
+[3:23:21] Lythiea: hit by moonfire one too many times
+[3:24:00] toludin: oh now it's going off
+[3:25:35] Tellas: clock change? :D
+[3:25:39] Allerion_SE: Winter time
+[3:25:45] BossBuzz: its 18 yea
+[3:25:46] Voltrey: yep winter time
+[3:25:47] BossBuzz: atm in eu
+[3:25:48] Allerion_SE: Swapped on Sunday
+[3:26:02] toludin: you'll get back on schedule next week right?
+[3:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[3:26:03] WytherOK: get time zoned idiot
+[3:26:26] toludin: we fall back this coming weekend
+[3:26:26] Etherios_Prime: Isnt DST no more after this year?
+[3:26:27] umphries: what are the best healers for keys going into DF?
+[3:26:30] WytherOK: can we cancel daylight savings time already?
+[3:27:38] RedxZone13: When i used that trinket without a target, he did healing and damage
+[3:28:11] toludin: that's a lazy whelpling
+[3:29:30] big___jim: prosit!
+[3:29:39] SolarNexis: on use?
+[3:30:07] sLaay: Whelping has the whole time already spawning issues.
+[3:30:09] RedxZone13: Hes suppose to lob a fire ball lol
+[3:30:13] RedxZone13: and a flame breath
+[3:31:12] UltraRareSHOOBER: catJAM
+[3:31:15] andyl0l: This song is a banger tbh
+[3:31:46] RedxZone13: Wowhead just released a post titled "Blizzard on Changes to Player Health/Creature Damage in Dragonflight Content - Healers Too Powerful" uh-oh
+[3:31:58] Basic_3: Bluepost about healing. They're adding 40% stam to players, and same damage to mobs
+[3:32:44] Vodrin: tod buff
+[3:32:55] Morkiius: Hey did u test eye of skovald?
+[3:33:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[3:33:18] Basic_3: So we're going to have like 300k hp?
+[3:33:55] UltraRareSHOOBER: hoyl shit 40%
+[3:33:58] Vodrin: yep 340k
+[3:34:06] sLaay: U already got thte 40% or not?
+[3:34:06] not_vern: What healers are looking strong? Hpal felt so clunky when I did some keys on it last night
+[3:34:08] Basic_3: Yeah, I thought we had 200k. I think I was basing it on leveling greens
+[3:34:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[3:35:15] Ghost5392: How does VDH feel from a healer perspective?
+[3:35:34] FunfaceVEVO: hey j.b hey gamers!
+[3:35:51] FunfaceVEVO: oh ya know just vibin doin my thing
+[3:35:55] Avatarblade: yo
+[3:35:57] FunfaceVEVO: day off so im stoked
+[3:36:02] Laiikhuna: "We are increasing player stamina and creature damage by 40% at level 70"
+[3:36:03] Avatarblade: so , saw latest blue post?
+[3:37:20] RedxZone13: just put on stormeater's boon and call it a day lol :P
+[3:39:39] RedxZone13: the shield ring wasnt proccing for me
+[3:40:58] mackoida: The web trinket felt waay too strong as a dps
+[3:42:43] toast042: it doesn't work on some abilities at the moment
+[3:43:02] sseijas: u think st of druid gonna get nerf?
+[3:43:04] toast042: i tried it on evoker yesterday and it didn't work with living flame? I guess it's a little bugged
+[3:43:13] Emily_says: Good morning
+[3:43:16] RedxZone13: that ring gonna be DH bis ring i bet lol
+[3:43:17] BossBuzz: just become an engineer and throw bombs, that has to be fire damage right? :)
+[3:43:20] andyl0l: Sunfire not being fire damage is wild to me
+[3:43:21] toast042: oh :0 odd
+[3:44:12] Emily_says: Are you noticing the 40% increase to player health and creature damage on beta yet? @jdotb
+[3:44:13] RedxZone13: Yea i was sad to see that holy fire was not fire damage, just holy damage lol
+[3:44:46] Vodrin: 180k
+[3:44:49] RedxZone13: My priest as around 190k
+[3:44:58] RedxZone13: had*
+[3:45:13] Vodrin: so it looks like its already in
+[3:45:18] athemick: i have 273k baseline with Evoker in 295 ilvl :D so yeah you cna notice it
+[3:45:26] hiccyl: what healer will u main in DF @jdotb
+[3:45:26] athemick: *395
+[3:46:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[3:46:36] astreamsobad: @jdotb earlier you spoke about the amount of overhealing that was happening on beta and now there is a blue post, do you have secret inside info? :)
+[3:47:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[3:47:43] Wiseved: Hello, are we checking dungeon trinkets? and why is the furious ragefeather the best one atm
+[3:49:25] danksly: can u still heal while in ele form
+[3:49:33] manwe_infi: maybe that web trinket is good for firemage
+[3:49:43] RedxZone13: Saw a ret pally do 450k with storm eaters boon lol
+[3:50:02] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[3:50:36] Zirikh: are MW bad??, i have seen like 2 of them in pre patch so wondering
+[3:50:47] Morkiius: If u need help for any test tell me im here
+[3:51:21] GIimmerGG: true
+[3:51:57] flowmotion_x: ive been playing MW a bunch, tanks definitely need to play around faeline, but its hard at higher keys
+[3:52:00] Zulbukh: have you seen the 40% stam buff for everyone + 40% damage nerf  for all mobs?
+[3:52:02] Wiseved: Did u check out the mote btw? it was trash in legion but it seems to be doing some healing now
+[3:52:07] Zulbukh: i like it but wtf
+[3:52:24] Zulbukh: might shift the heal meta away from dps
+[3:52:46] menzlo: blue post
+[3:52:49] Zulbukh: they officialized it
+[3:53:57] Vodrin: makes tanks less super self-efficient too
+[3:54:00] danksly: going in to millions legion vibes
+[3:54:06] Lyrathos: wasnt there an addon where lua error got popped in, so no error popups anymore?
+[3:54:10] Voltrey: they saved the big numbers which is all we really want
+[3:54:28] Zulbukh: but yeah I like it, game has been feeling too oneshotty
+[3:54:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[3:54:36] Vodrin: @Lyrathos you can use the script if you're never going to report the errors
+[3:54:47] Zulbukh: yes
+[3:55:02] toast042: good change
+[3:55:14] Lyrathos: @Lyrathos nah, i wanna track and read them, but the pop up is anoying in some situations
+[3:55:17] iServeTheFlamingFist: This is a pretty huge change to make now though. Like for tanks some have flat value self-healing and some have percentage-based. So huge buff for percentage-based self-healing.
+[3:55:27] Scikey: are they any healers struggling a bit with m+ already, making it harder for them?
+[3:55:28] Vodrin: @Lyrathos then i think the addon is called 'bugsacker'
+[3:55:29] danksly: rez bot meta isnt fun
+[3:55:33] Lyrathos: ty
+[3:55:40] not_vern: I just want instant fast wild growth back
+[3:55:43] manwe_infi: that is Holy priest job quick 0 to 100
+[3:55:47] Voltrey: what they said in the bluepost is very good understanding and reasoning and a good change to fix it. Rare Blizzard W
+[3:55:50] Zulbukh: better now than in the middle of DF S2 lol
+[3:55:55] illidansr2: @jdotb  hello is resto druid meta class in df?
+[3:56:14] Wiseved: My hpriest has 400k hp with DP now YEP
+[3:56:21] UltraRareSHOOBER: healing will be fine COPIUM
+[3:56:29] zebracak35: i give the developers a break since th epeople who chose the release date dont even talk to the people balancing the game let alone being teh same people
+[3:56:32] menzlo: it seemed like healing was kinda hard in a 15 on beta before this change
+[3:56:59] danksly: feels nice as a tank to gain chonk pepeL
+[3:57:05] flowmotion_x: time to bring the rest of the healing classes down to the floor, AKA Mistweaver
+[3:57:23] TonyJhee: Yeah, much rather have people's healthbars move much slower and have to constantly heal
+[3:57:30] TonyJhee: also makes for hype fights where people are low for longer
+[3:57:33] TonyJhee: adds tension
+[3:57:41] iServeTheFlamingFist: Oh yeah, as a healer main I totally like this change. Just seems to reset a lot of the balance changes they've made when there's a lot of % based heals in the game.
+[3:57:48] Morkiius: Maybe cen ward will proc on me now after change 🤣
+[3:58:16] menzlo: if feral or balance are not meta it'll help rdruid
+[3:58:16] Morkiius: Nah we just dont play shield talents anymore
+[3:58:29] manwe_infi: JB is nature's vigil feels strong in dps?
+[3:58:32] Zulbukh: its trash leggo but as a talent
+[3:58:49] danksly: earthwarden is one of if not best tank passive in the game
+[3:59:01] manwe_infi: oh
+[3:59:02] Zulbukh: oh yeah the 40% thing is  huge buff to NV lol
+[3:59:04] danksly: hold up does it still exist KEKW
+[3:59:31] Vodrin: ye buts its nerfed
+[3:59:40] Zulbukh: wait it procced from overhealing?
+[3:59:44] Zulbukh: i thought it didnt
+[4:00:02] manwe_infi: that sounds broken
+[4:00:11] Zulbukh: yea, but protector doesnt
+[4:00:38] Vodrin: yes
+[4:00:47] menzlo: @Lisa_Lava_Lake hes been talking about it
+[4:01:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[4:01:19] Zulbukh: you just macro it to flourish right?
+[4:01:28] flowmotion_x: @jdotb not sure if you've played MW enough, but Im noticing it this week, MW feels exceptionally awful on grevious, like non of their class mechanics for healing tend to pull off stacks except directly vivifying, am I dumb/doing something wrong? ancient teachings def doesnt seem to do anything
+[4:01:55] Holyryze: we donig kitty weaving or boom weaving for dungeons you think in df?
+[4:02:04] menzlo: @Lisa_Lava_Lake yes
+[4:02:33] oakeri: rem should remove a stack too
+[4:02:46] big___jim: vivify cleave removes stacks iirc? or did they fix that
+[4:03:12] flowmotion_x: I don't think my vivify cleaves were removing stacks, but I'd have to pay a little closer attention to it
+[4:03:21] Tellas: Have you read the blue post on healing being too powerful in DF?
+[4:03:32] flowmotion_x: might be opting to go rising mists this week over faeline then to extend out my mists
+[4:03:57] danksly: oh no puzzle druid NotLikeThis
+[4:04:18] ninah_wtf: @danksly LUL LUL  puzzle druid lul
+[4:04:19] WytherOK: can we call it catorkin weaving?
+[4:05:09] Tellas: At least it's not just me then, when I was doing a few beta keys I was always confused why I was overhealing so much
+[4:05:19] mikanikos5407: can u plz show dmg jb
+[4:05:38] Vodrin: for season 1 yeah its a bit crazy
+[4:05:42] athemick: It's true this will also nerf tank selfsustain :) so they may need some healing now
+[4:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[4:06:06] mikanikos5407: do u thrash in aoe
+[4:06:25] paul1008_: When you're playing evoker what are your priorities when you need to do healing? Been struggling alot in ST on beta myself
+[4:06:35] danksly: there hasnt been a time ive tested on any of the tanks where i didnt feel fine
+[4:06:37] RudolphTV: How do u think the new beta patch about the healing too powerful?
+[4:07:08] danksly: everything felt undertuned but people were dying to stuff
+[4:07:24] manwe_infi: that is actual deathstrike right?
+[4:07:33] menzlo: @tinyrudy rewind his vod 10 mins
+[4:07:42] puddypounce: yes it's a mini deathstrike
+[4:07:43] paul1008_: ohhh I didn't know it copied golden hour that's kinda big'
+[4:08:00] RudolphTV: ty
+[4:08:23] denloth: I wish some of the overheal could turn into a shield. it could be better but this time it would be too strong
+[4:08:35] manwe_infi: stasis feels good i think
+[4:08:45] not_vern: !build
+[4:08:47] graham_xd: thoughts on the 40% health changes?
+[4:08:52] not_vern: !talents
+[4:09:23] paul1008_: Thank you for answering jb :)
+[4:09:43] proNappelz: Takes on Disc Evang change?
+[4:09:59] toast042: ooh
+[4:10:00] Meltmind: will this change affect the current healer rankings or is it going to stay the same?
+[4:10:08] puddypounce: pretty sure it's just a tooltip change
+[4:10:12] danksly: its soo good but in a terrible spot imo
+[4:10:56] xblameworthy: no capstones on evoker?  that's wild
+[4:11:11] danksly: didnt hear that nobody heard anything
+[4:11:13] puddypounce: delete the vod
+[4:11:30] Avatarblade: so will that change screw over all their m+ tuning done so far?
+[4:11:33] Vandarian: Damage up by 40% means 40% more for Rewind to undo too
+[4:12:17] iServeTheFlamingFist: Barrier buff. Disc is saved.
+[4:12:25] iServeTheFlamingFist: Lenience #1 OP.
+[4:12:48] proNappelz: Disc is just straight up gone now...
+[4:13:10] proNappelz: No idea what their intentions are with that change. Still waiting on a dev note there
+[4:13:13] laokung: hey jb for people who haven't done keys on beta, how do we mentally prepare to heal as evoker?
+[4:13:15] HankeTheGreat: @proNappelz it's not. Only the degenerate gameplay that disc has been since legion.
+[4:13:17] laokung: xD
+[4:13:58] HankeTheGreat: should ask how all the other healers that have been benched in prog. feel about the disc. nerfs.
+[4:14:03] proNappelz: @proNappelz ngl I enjoy it way more than I did Cata/WoD Disc
+[4:14:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[4:14:56] TonyJhee: Astral Communion more value now too
+[4:15:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[4:15:19] HankeTheGreat: played disc. since vanilla. Not STOKED on the nerfs to disc., but I'm happy to see it go in a different direction that's actually closer to its original roots.
+[4:15:44] TonyJhee: oh and astral bonus hp feeds back into living flame too
+[4:15:47] RedxZone13: Theres a dracthyr only weapon on the tier vendor if you didnt know @jdotb
+[4:16:03] manwe_infi: what do you think about anormaly
+[4:16:23] proNappelz: @HankeTheGreat I'm just missing an explanation why they decided on changing it this much this late in the dev cycle...
+[4:16:30] iServeTheFlamingFist: Definitely seems Evoker got the best out of it of the healers.
+[4:16:58] hippyfighter101: Hey guys 3 weeks until the expansion, you healers are too good at healing so we are making everything hit harder by 40% and everyone has 40% more hp
+[4:16:59] Deejeh: They'll nerf it from 30% of your max health to 20% and people will lose their mind soon enough
+[4:17:00] HankeTheGreat: @HankeTheGreat to buff Dracthyr, TBH. I really don't agree with that part.
+[4:17:28] TheLennee: Hello
+[4:17:40] proNappelz: we're 4 weeks before release and suddenly the core of waht the class was for 6-7 years now @HankeTheGreat
+[4:18:34] HankeTheGreat: @proNappelz not saying I agree with the devs decisions. The combo of last minute nerfs with buffs to HP and damage intake really just spell out a poor approach to making Dractyhr healers more relevant.
+[4:18:42] dhands: @hippyfighter101 game is definitely ready for release Kappa
+[4:19:00] zebracak35: pvp changes some things
+[4:19:03] mordekhuul: It's a great change - particularly for throughput healers like resto druid and MW
+[4:19:26] iServeTheFlamingFist: "Just happens that the newest class benefits the most"
+[4:19:43] hippyfighter101: Changes tanks quite abit tho
+[4:19:47] HankeTheGreat: @mordekhuul I think I could see it IF discipline didn't require noticeably more work to play well. Other healers literally have a single button for their throughput.
+[4:19:54] hippyfighter101: All non % self heals on tanks got shat on
+[4:20:02] StreamElements: R1 tweets confirmed by RaiderIO CarlSmile www.twitter.com/jdotb
+[4:20:03] vioO_cs: is the overheal for every healer that extreme?
+[4:20:12] manwe_infi: what is best stasis 3 spell might be... hmm
+[4:20:21] fabricio_cs2: fabricio_cs2 subscribed with Prime. They've subscribed for 4 months! hi JB
+[4:20:37] Vodrin: mistweaver have that 2% heal on damage taken too
+[4:20:47] mordekhuul: @mordekhuul To be fair - Disc playstyle just got murdered, so maybe not worth considering them until/if Blizz revives them somehow :P
+[4:20:48] jaydeheals: during mythic raidtesting as a tank my HP bar didnt move
+[4:21:03] Wiseved: Tank healing feels the complete opposite of SL S1 atm
+[4:21:07] Morkiius: @jaydeheals sounds like warrior problem :)
+[4:21:11] mush80: @iServeTheFlamingFist Well Evoker is prob mid tier in DPS and Heal. I predict that the will be fever Evokers than it was DKs and DHs at release. And even fewer after 1. season.
+[4:21:13] proNappelz: Now its time to wait for Cat to get castrated and Prot Pally to get fixed
+[4:21:15] Neanthi: yes disc are dead :(
+[4:21:25] Snypl3: Isn't it weird they went with this approach rather than "reduce all healing done by 40%", instead of opening hundreds of avenues which now require tuning from raid-pvp-dungeons-open world creatures, etc.
+[4:21:41] sawako07: i was watching dorki a few days ago and this guy was living by himself to the biggest pulls you can imagine and the healer didnt do anything to contribute to his survival @jdotb
+[4:21:44] dhands: Prot War, VDH, and BDK have felt great, but Brew has has not. Getting hard carried by that tank trinket right now.
+[4:21:46] manwe_infi: lol
+[4:21:46] HankeTheGreat: @Snypl3 if your goal is to buff % based abilities, it makes sense.
+[4:21:50] Wiseved: which one
+[4:21:50] ESL_Awaiting: jdotbThinking
+[4:21:53] blunteffectss: so all of its healing lmaooo
+[4:21:53] jace7z: FeelsStrongMan lets go little dragon
+[4:22:16] Wiseved: oh i thought those were bugged
+[4:22:31] toast042: powerful lad
+[4:22:38] manwe_infi: You should TRAIN him
+[4:22:40] Jaxcee: Didn’t they say they are gonna look at % based heals??
+[4:22:43] Pilha390: little dragon is shy i guess?
+[4:22:59] Vodrin: "heals fully healthy allies within 20 yards"
+[4:23:05] qinlae: thoughts on holy priest in df?
+[4:24:14] Snakeyesz: what gear do you still need on your druid?
+[4:24:41] laokung: hey jb is your elvui profile still on wago? can't find it
+[4:25:04] blunteffectss: how important is gear before expac release
+[4:25:16] Snakeyesz: wont that stuff be obsolete in a few weeks. or are you trying to push in prepatch?
+[4:25:25] sawako07: jb do you use the blizzard mouseover thing for your mouseover healing? it seems to be working for me - what do you use tho?
+[4:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[4:26:24] laokung: are you actually gonna go for realm first 20
+[4:26:30] sawako07: i was watching dorki a few days ago and this guy was living by himself to the biggest pulls you can imagine and the healer didnt do anything to contribute to his survival @jdotb
+[4:26:31] Snakeyesz: any specific reason you use that over vuhdo?
+[4:27:30] fabricio_cs2: @jdotb   Four months with you JB, thanks for the always interesting content.
+[4:27:49] laokung: and that's a good thing, say it for the people in the tank, we need STRONG tanks
+[4:27:55] laokung: *back
+[4:28:18] menzlo: have you seen some druids are playing single old kyrian leggo instead of draught?
+[4:28:31] driggz15: driggz15 subscribed with Prime. They've subscribed for 2 months! 
+[4:28:35] Ancient_zx: whats the reason ppl are saying guardian is currently the worst tank in DF?
+[4:28:48] Vodrin: if anything it is good... dorki was pulling some packs of like 20-30 already
+[4:28:56] sawako07: on the highest level its kinda rng if you live or not, especially on unethical pulls
+[4:29:02] StreamElements: TheIlluminati What are this week's affixes? What are next week's affixes? https://mythicpl.us/
+[4:29:29] Vodrin: malakas
+[4:29:35] taurino85: taurino85 subscribed with Prime. They've subscribed for 8 months, currently on a 1 month streak! 
+[4:29:35] nintendyoh: !talents
+[4:29:47] nintendyoh: @jdotb Do you have a recommended talent selection for M+ resto druid?
+[4:29:56] heyshanna: I taught you more cmon
+[4:30:04] heyshanna: say thank you
+[4:30:14] nintendyoh: nintendyoh is gifting 1 Tier 1 Subs to jdotb's community! They've gifted a total of 1 in the channel! 
+[4:30:15] nintendyoh: nintendyoh gifted a Tier 1 sub to scottydoof! 
+[4:30:17] menzlo: :)
+[4:30:41] heyshanna: jdotbGot
+[4:31:06] sawako07: is shak playing in df? @jdotb
+[4:31:16] nintendyoh: That's for raid right?
+[4:31:48] littlednz: hmmm, do you have increased xp now until DF?
+[4:31:51] nintendyoh: What's for M+?
+[4:32:14] Zulbukh: cult in raid? just for the rejuv duration?
+[4:32:14] sawako07: in what world would verdancy be a pick for raiding?
+[4:32:19] dranzergx: hello Mr. dot how is dragonflight so far
+[4:32:19] sasp_seso: As rDruid, most preferred tank(s) to heal on beta at the moment?  Either raid or m+
+[4:32:34] nintendyoh: Thank you
+[4:33:44] nintendyoh: Carrying that heals
+[4:34:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[4:34:41] Faulseit: @jdotb  Hello buddy! what talents are you using for m+? :)
+[4:34:46] anaya909: https://clips.twitch.tv/EnticingBlueYogurtTriHard-lj-0HVtR7pBCjBDl
+[4:35:04] Faulseit: @anaya909  Thanks bud! :)
+[4:35:26] anaya909: lol np, he just did that like 60sec ago, so that's about as recent as we're gonna get
+[4:43:08] Jthrust: @jdotb what dps classes are looking like strong picks for M+/raids in dragonflight so far?
+[4:43:47] RedxZone13: boomie
+[4:44:00] Malexand6742: we prob need more gear and stuff to really see how casters will do
+[4:44:09] Jthrust: rip mage main XD
+[4:44:36] Malexand6742: SInce I am for sure not ditching warlock so we'll see how xpac shakes out
+[4:45:14] RedxZone13: aff is really good, but their damn darkglare pulls everything
+[4:45:32] thehighercactus: We go vigil in raid?
+[4:45:36] danksly: gachiBOPPER
+[4:46:02] Malexand6742: Ya I will prob be swapping between affi/demo unless they buff destro
+[4:46:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[4:46:33] VinMDz: Can you show talents again as my screen was blury
+[4:47:08] thehighercactus: For sure figured the 2% haste would be the move
+[4:50:13] bollplankk: do you think the 40% buff to hp is good or bad for the game?
+[4:50:40] bollplankk: I  like it a lot, making healing matter a bit more over dmg
+[4:51:06] Vaynor22: they're going to adjust % health healing values
+[4:51:26] internetgoon: it says right in the blue post that going to adjust %based healing and shielding
+[4:51:38] bollplankk: probably yeah, and currently it's only pallys losing on it as theirs is AP based right?
+[4:52:11] Vaynor22: right but having checked it out on beta, changing stuff like that is 100% necessary
+[4:52:22] Vaynor22: frenzied regen heals for 280k right now on beta @400 ilvl
+[4:53:14] Vaynor22: blood adjustments will be different from % based stuff, but i can't imagine it staying the same
+[4:53:27] MGN7: DON'T GET, YELL BETTER
+[4:54:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[4:58:26] kazzlik_: I came to take a look at the movie star yliLust
+[5:02:53] Bhuti: Is Frenzied Regeneration not worth taking for resto?
+[5:02:55] Rypick: Do you have a ui profile for classic by chance?
+[5:03:17] yrwenlol: yrwenlol subscribed with Prime. They've subscribed for 2 months, currently on a 2 month streak! 
+[5:04:05] supdoggos: how to pad rdruid heals? LB 100%, rejuv blanket, SM > SOTF > WG on CD > proc tree convoke + flourish?
+[5:05:54] supdoggos: mini (reforestation) tree convoke is big but requires other healers (lookin at you hpriests) not to cuck it.
+[5:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[5:06:13] supdoggos: i know its not a pad game ultimately :D
+[5:06:16] yrwenlol: Oh god, is ezgg playing dk.. that dude cant play DK
+[5:06:42] yrwenlol: ïv done keys with that DK.. its a scarry thing
+[5:09:44] dbgzx: what is the m+ lego for rdruid now?
+[5:11:42] UltraRareSHOOBER: is the 40% change already live on beta
+[5:11:49] Vaynor22: yeah
+[5:11:56] Dieterling: have you raided druid before this tier? or just started with prepatch
+[5:12:09] UltraRareSHOOBER: okay i thought so bc i tried a dungeon and it was very noticeable
+[5:12:24] Dieterling: yea this tier
+[5:14:32] StreamElements: StinkyCheese Hate seeing ads? StinkyCheese Ads support streamers. Sub today for Pog ad-free viewing Pog and exclusive channel emotes. SeemsGood
+[5:19:24] Kryous: Jdotb looking cute.
+[5:20:32] holyahl: hey JB, how ya doin' man, could you be kind enough to share your thoughts on Holy Priest going forward into DF, do you think we will be nerfed again?
+[5:22:47] error44040: LUL LUL  take a deep breath
+[5:24:33] holyahl: ty for your thoughts, appreciated
+[5:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[5:26:05] Wasting_IP: do you think hpriest will be top tier in dragonflight or if its just prepatch things for m+
+[5:27:28] hadoukyun: how are unholy DKs?
+[5:27:39] Galois_rg: now time for rsham buffs
+[5:28:07] Reaper101505: Reaper_101505 subscribed with Prime. 
+[5:28:09] Deydreanna: !tierlist
+[5:28:13] Deydreanna: !main
+[5:28:13] StreamElements: Druid
+[5:34:10] qinlae: !talents
+[5:34:15] mccrackasaur: Oof 1%..
+[5:34:46] hadoukyun: what are your thoughts on unholy DK? Cant really finding anyone streaming as one so curious how they are doing
+[5:37:02] kazzlik_: vaeny keeps saying its good
+[5:37:07] kazzlik_: so i would guess its good
+[5:37:44] zebajin: if its not a WW feral enahnce or rogue u dont realy se melee on the Beta
+[5:38:07] zebajin: FOTM player u  knows
+[5:40:11] Ketchumer: @zebajin well dont worry Enhance prob not gonna be FotM after that 25% nerf
+[5:41:11] Xizan: !talents
+[5:41:14] Xizan: D:
+[5:46:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[5:46:07] NathalieDaPanda: pohU
+[5:46:10] NathalieDaPanda: pogU*
+[5:46:56] NathalieDaPanda: long time, how keys been going?
+[5:50:22] Wolf_wow: !ui
+[5:50:22] StreamElements: Addons: https://pastebin.com/RBJ3FxXP WeakAuras: https://wago.io/p/jdotb Use !elvui for elvui imports
+[5:51:36] Wolf_wow: !elvui
+[5:51:36] StreamElements: Find all my ElvUI imports here https://github.com/grunz74/ElvUI-Profile/tree/main You will also need to download https://www.curseforge.com/wow/addons/sharedmedia for your textures and fonts to match mine. MAKE SURE TO REMOVE ALL SPACES FROM THE END OF THE STRING.
+[6:01:28] Undeadingz: is dat Fragonflight ?
+[6:01:43] Undeadingz: og. nope
+[6:01:47] Undeadingz: Shadowcrap .)
+[6:05:32] Kryous: Boomkins talking. rooMadSlam
+[6:05:57] FunfaceVEVO: hey gamers - with certain balance talents on retail my incarn is 2 min CD, other times 3 min... anyone know why?! super weird
+[6:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[6:07:20] unsteddy: The Lead Dev in Dragonflight must be a Druid main ^^
+[6:14:27] Trootsmate: trootsmate subscribed with Prime. 
+[6:14:29] alexts73: yo guys
+[6:18:10] hveden: That blood dk hps ResidentSleeper
+[6:22:24] iVukan: COPIUM
+[6:24:17] photonz_: !wa
+[6:24:17] StreamElements: all my weakauras https://wago.io/p/jdotb
+[6:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[6:34:58] dingleberrybong: what healer seems stronk for DF so far?
+[6:59:02] g3noano: hahahaaha
+[7:00:18] Alfaro001: !addons
+[7:00:18] StreamElements: most of my relevant addons https://pastebin.com/esyKbHNV
+[7:03:05] AnomalyTV: Okay @jdotb that’s three times I have left the room and when I come back your dead 💀
+[7:03:40] AnomalyTV: Lol I knew it was my fault
+[7:05:30] AnomalyTV: Don’t die I’m taking my dogs for a walk
+[7:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[7:08:04] TheunGaming: buff shaman, almost getting beat by a tank......
+[7:08:20] TheunGaming: LOL
+[7:12:28] nilsvalorant: nilsvalorant subscribed with Prime. They've subscribed for 3 months, currently on a 1 month streak! 
+[7:13:06] nilsvalorant: dafuk is that
+[7:13:58] nilsvalorant: Ill try to remember using that more often
+[7:14:02] nilsvalorant: cya next month jb
+[7:14:58] Draxstaaline: you think druid is at the top in ever category of play right now for DF?
+[7:18:18] zebracak35: theres not gonna be any hair remaining after todays raid
+[7:19:48] Blindguardx: !talents
+[7:26:10] Lolemos: what talents did you use sir?
+[7:27:17] WytherOK: I've been trying too hard to get rid of elvui, fuck it going back
+[7:30:36] herraze_45: hello
+[7:41:30] Sheerkhan: bless u
+[7:52:51] AnomalyTV: Back from walking the dogs glad you’re not on the ground inspecting the grout
+[7:54:48] Reveran: how the shadow priest... got a 4k healing???!!!
+[7:55:50] Mightbeworth: are rdruids back at the top of the tier lists for pve?
+[7:55:51] Reveran: nice things
+[8:02:15] FluffyTeddyFTW: !talents
+[8:02:19] FluffyTeddyFTW: !talent
+[8:06:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[8:07:45] sLaay: 30s convoke WutFace
+[8:07:50] sLaay: wtf xD
+[8:08:18] PaulxD: unity and the talent stack
+[8:18:32] sLaay: Floor PoV Sadge
+[8:19:12] paul1008_: real gigabrain shit here jeb now you don't have to do P2
+[8:19:20] sLaay: Jb dont be angry - Its a nice time to go get a drink or using the bath quick :D
+[8:24:23] brotan123: p1 sylvanas wipes weeks before the next expansion 💀
+[8:25:29] redbeardy94: hello
+[8:26:02] StreamElements: TwitchLit Use your Amazon Prime account for a FREE sub to JB, unlocking  exclusive channel emotes! Terms and info here:  https://twitch.amazon.com/prime TwitchLit
+[8:37:00] MGN7: PogChamp
+[8:37:12] Dushku1: do you have a string for you m+ resto talents?
+[8:37:48] jdotb: BkGAGX1kx6Mci9Zl2t+S+sRoPCSSrVSkkgWSAC0SLJAAAAAAAAAAAAAkQIJgAIBEsgQJRQCAAAAAgIA
+[8:37:59] Dushku1: thank you
+[8:38:28] cbaprod: cbaprod subscribed at Tier 2. They've subscribed for 29 months! Night JB
+[8:38:35] caedx: have a good one jb, catch you later
+[8:38:37] driggz15: See ya dude
